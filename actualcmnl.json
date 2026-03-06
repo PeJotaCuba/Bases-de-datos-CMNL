@@ -4,7 +4,7 @@
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
       "mobile": "54413935",
-      "password": "RadioCiudad0026",
+      "password": "RCMM26",
       "role": "admin",
       "classification": "Administrador"
     },
@@ -137,12 +137,12 @@
       "classification": "Usuario"
     },
     {
-      "name": "Rosana Fernández Verdecia",
+      "name": "Rosana María Fernández Verdecia",
       "username": "rosana",
       "mobile": "53535793",
-      "password": "RadioCiudad2026",
+      "password": "RadioCiudad1826",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Usuario"
     }
   ],
   "historyContent": "En 1998 surgió, desde Radio Bayamo, una programación destinada al municipio cabecera de la provincia Granma, la cual salió al aire a través del transmisor de AM de Radio Enciclopedia. En el año 2006 al contar con un transmisor propio se consideró pertinente otorgar la categoría de Emisora a esta transmisión originada y dirigida al municipio Bayamo. Quedó definido además que la Emisora transmitiría diariamente en el horario de 7.00 am a1.00 pm en la frecuencia de 95.3 MHZ en FM, queda así oficializada como Radio Cuidad Monumento el 1ro de febrero del 2006. La emisora de la segunda villa fundada en Cuba.",
@@ -15796,6 +15796,537 @@
         "content": "\r\nPrograma: BUENOS DÍAS, BAYAMO\r\nFecha: VIERNES,  4  DE FEBRERO DE 2022\r\nEscritor: JORGE LUIS ROSALES SANCHEZ\r\nAsesor: LISSEL FONTELO DANTA\r\nTema: A PROPOSITO DE LA CELEBRACION DEL DIA DEL\r\n"
       }
     ],
+    "guionbd_data_musica.json": [
+      {
+        "id": "17720176171360.5206617502620378",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              :",
+        "dateAdded": "SÁBADO 13 DE JULIO DE 2024.",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "Programa: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 13 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
+      },
+      {
+        "id": "17720176171360.4451839135400314",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 27 DE JULIO DE 2024",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 27 DE JULIO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171360.706231835814533",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              : Daylèn Zalazar Maceo",
+        "dateAdded": "SÁBADO 20 DE JULIO DE 2024.",
+        "themes": [
+          "DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 20 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : Daylèn Zalazar Maceo\r\nTema: DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA\r\n"
+      },
+      {
+        "id": "17720176171360.9368037791000129",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              :",
+        "dateAdded": "SÁBADO 07 DE JULIO DE 2024.",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
+      },
+      {
+        "id": "17720176171360.20730953234044502",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 10 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.8638142673091019",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 31 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17720176171360.7373765106237902",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 03 DE AGOSTO DE 2024",
+        "themes": [
+          "“MUNDITO GONZÁLEZ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 03 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: “MUNDITO GONZÁLEZ”\r\n"
+      },
+      {
+        "id": "17720176171360.7293918457112885",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 17 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17720176171360.766735344433765",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 07 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17720176171360.2910804820802111",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 14 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.25043465495965167",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 21 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.7679905365576392",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 28 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.20881903260629608",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 19 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17720176171360.7680689560664146",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 26 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 26 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17720176171360.07308595704093812",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 5 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 5 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.6032354413159507",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 16 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 16 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17720176171360.6495484101457815",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 23 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 23 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17720176171360.8699524698307499",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 09DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 09DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17720176171360.9216703334738814",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILEN SALAZAR",
+        "dateAdded": "SÁBADO 28 DE DICIEMBRE DE 2024",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILEN SALAZAR\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171360.8463188980726339",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILÉN",
+        "dateAdded": "SÁBADO 14 DE DICIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
+      },
+      {
+        "id": "17720176171360.9023618002436936",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILÉN",
+        "dateAdded": "SÁBADO 21 DE DICIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
+      },
+      {
+        "id": "17720176171360.48388105997861885",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 2 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 2 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17720176171360.37196395453221087",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "FECHA                  :\tSÁBADO 11 DE ENERO DE 2025",
+        "dateAdded": "SÁBADO 11 DE ENERO DE 2025",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 11 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 11 DE ENERO DE 2025\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171360.05802333016360728",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "FECHA                  :\tSÁBADO 18 DE ENERO DE 2024",
+        "dateAdded": "SÁBADO 18 DE ENERO DE 2024",
+        "themes": [
+          "“EL AMOR”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 18 DE ENERO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 18 DE ENERO DE 2024\r\nTema: “EL AMOR”\r\n"
+      },
+      {
+        "id": "17720176171360.6461869784192874",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 25 DE ENERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 25 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.6424028723831127",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 04 DE ENERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 04 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN "
+      },
+      {
+        "id": "17720176171360.3647621858630252",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 15 DE FEBRERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 15 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171360.05396041463473755",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 22 DE FEBRERO DE 2025",
+        "themes": [
+          "“ ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: “ ”\r\n"
+      },
+      {
+        "id": "17720176171360.1967933570547371",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 8 DEFEBRERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 8 DEFEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17720176171370.0026997018560513952",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 1 DE MARZO DE 2025.",
+        "themes": [
+          "“EN NOMBRE DE LA MUJER",
+          "CANTEMOS AL AMOR”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 1 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “EN NOMBRE DE LA MUJER, CANTEMOS AL AMOR”\r\n"
+      },
+      {
+        "id": "17720176171360.3645117326520835",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 15 DE MARZO DE 2025.",
+        "themes": [
+          "“MUJERES EN LA MÚSICA”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 15 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MUJERES EN LA MÚSICA”\r\n"
+      },
+      {
+        "id": "17720176171360.08854395088061195",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 22 DE MARZO DE 2025.",
+        "themes": [
+          "“MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”\r\n"
+      },
+      {
+        "id": "17720176171370.3603400654504888",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 26 DE ABRIL DE 2025",
+        "themes": [
+          "Autores bayameses."
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 26 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: Autores bayameses.\r\n"
+      },
+      {
+        "id": "17720176171370.7138750987612859",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 05 DE ABRIL DE 2025.",
+        "themes": [
+          "“ABRIL EN LA MÚSICA BAYAMESA”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 05 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ABRIL EN LA MÚSICA BAYAMESA”\r\n"
+      },
+      {
+        "id": "17720176171370.840069467459764",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 12 DE ABRIL DE 2025.",
+        "themes": [
+          "“YAKARÉ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 12 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “YAKARÉ”\r\n"
+      },
+      {
+        "id": "17720176171370.48174367244388805",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 19 DE ABRIL DE 2025",
+        "themes": [
+          "“SON DIAMANTES”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SON DIAMANTES”\r\n"
+      },
+      {
+        "id": "17720176171370.3728421011208227",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 31 DE MAYO DE 2025",
+        "themes": [
+          "“SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”\r\n"
+      },
+      {
+        "id": "17720176171370.712167463355387",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 3 DE MAYO DE 2025",
+        "themes": [
+          "\"Bayamo y sus festivales y concursos\""
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 3 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: \"Bayamo y sus festivales y concursos\"\r\n"
+      },
+      {
+        "id": "17720176171370.11693588320781712",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 10 DE MAYO DE 2025",
+        "themes": [
+          "“ELLAS SON MADRES\""
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ELLAS SON MADRES\"\r\n"
+      },
+      {
+        "id": "17720176171370.11441749687114244",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 17 DE MAYO DE 2025",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171370.5673908491184125",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 14 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171370.138260028818734",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 21 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171370.11806636866275588",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 07 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17720176171370.9129120044527194",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 28 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      }
+    ],
     "guionbd_data_complices.json": [
       {
         "id": "17720176171270.8896901171313363",
@@ -16640,537 +17171,6 @@
         ],
         "genre": "CÓMPLICES",
         "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 8 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La ciencia ficción en la literatura infantil (SECCIÓN FAMILIAS FELICES)\r\n"
-      }
-    ],
-    "guionbd_data_musica.json": [
-      {
-        "id": "17720176171360.5206617502620378",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "A              :",
-        "dateAdded": "SÁBADO 13 DE JULIO DE 2024.",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "Programa: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 13 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
-      },
-      {
-        "id": "17720176171360.4451839135400314",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN ZALAZAR MACEO",
-        "dateAdded": "SÁBADO 27 DE JULIO DE 2024",
-        "themes": [
-          "DE PROGRAMA  / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 27 DE JULIO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: DE PROGRAMA  / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171360.706231835814533",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "A              : Daylèn Zalazar Maceo",
-        "dateAdded": "SÁBADO 20 DE JULIO DE 2024.",
-        "themes": [
-          "DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 20 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : Daylèn Zalazar Maceo\r\nTema: DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA\r\n"
-      },
-      {
-        "id": "17720176171360.9368037791000129",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "A              :",
-        "dateAdded": "SÁBADO 07 DE JULIO DE 2024.",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
-      },
-      {
-        "id": "17720176171360.20730953234044502",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 10 DE AGOSTO DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.8638142673091019",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
-        "dateAdded": "SÁBADO 31 DE AGOSTO DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
-      },
-      {
-        "id": "17720176171360.7373765106237902",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN ZALAZAR MACEO",
-        "dateAdded": "SÁBADO 03 DE AGOSTO DE 2024",
-        "themes": [
-          "“MUNDITO GONZÁLEZ”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 03 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: “MUNDITO GONZÁLEZ”\r\n"
-      },
-      {
-        "id": "17720176171360.7293918457112885",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
-        "dateAdded": "SÁBADO 17 DE AGOSTO DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
-      },
-      {
-        "id": "17720176171360.766735344433765",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
-        "dateAdded": "SÁBADO 07 DE SEPTIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
-      },
-      {
-        "id": "17720176171360.2910804820802111",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 14 DE SEPTIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.25043465495965167",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 21 DE SEPTIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.7679905365576392",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 28 DE SEPTIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.20881903260629608",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN ZALAZAR",
-        "dateAdded": "SÁBADO 19 DE OCTUBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
-      },
-      {
-        "id": "17720176171360.7680689560664146",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN ZALAZAR",
-        "dateAdded": "SÁBADO 26 DE OCTUBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 26 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
-      },
-      {
-        "id": "17720176171360.07308595704093812",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 5 DE OCTUBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 5 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.6032354413159507",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN SALAZAR",
-        "dateAdded": "SÁBADO 16 DE NOVIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 16 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
-      },
-      {
-        "id": "17720176171360.6495484101457815",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN SALAZAR",
-        "dateAdded": "SÁBADO 23 DE NOVIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 23 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
-      },
-      {
-        "id": "17720176171360.8699524698307499",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN SALAZAR",
-        "dateAdded": "SÁBADO 09DE NOVIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 09DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
-      },
-      {
-        "id": "17720176171360.9216703334738814",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAILEN SALAZAR",
-        "dateAdded": "SÁBADO 28 DE DICIEMBRE DE 2024",
-        "themes": [
-          "DE PROGRAMA  / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILEN SALAZAR\r\nTema: DE PROGRAMA  / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171360.8463188980726339",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAILÉN",
-        "dateAdded": "SÁBADO 14 DE DICIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
-      },
-      {
-        "id": "17720176171360.9023618002436936",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAILÉN",
-        "dateAdded": "SÁBADO 21 DE DICIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
-      },
-      {
-        "id": "17720176171360.48388105997861885",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN ZALAZAR",
-        "dateAdded": "SÁBADO 2 DE NOVIEMBRE DE 2024",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 2 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
-      },
-      {
-        "id": "17720176171360.37196395453221087",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "FECHA                  :\tSÁBADO 11 DE ENERO DE 2025",
-        "dateAdded": "SÁBADO 11 DE ENERO DE 2025",
-        "themes": [
-          "DE PROGRAMA  / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 11 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 11 DE ENERO DE 2025\r\nTema: DE PROGRAMA  / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171360.05802333016360728",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "FECHA                  :\tSÁBADO 18 DE ENERO DE 2024",
-        "dateAdded": "SÁBADO 18 DE ENERO DE 2024",
-        "themes": [
-          "“EL AMOR”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 18 DE ENERO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 18 DE ENERO DE 2024\r\nTema: “EL AMOR”\r\n"
-      },
-      {
-        "id": "17720176171360.6461869784192874",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 25 DE ENERO DE 2025",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 25 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.6424028723831127",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 04 DE ENERO DE 2025",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 04 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN "
-      },
-      {
-        "id": "17720176171360.3647621858630252",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 15 DE FEBRERO DE 2025",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 15 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171360.05396041463473755",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLÉN ZALAZAR MACEO",
-        "dateAdded": "SÁBADO 22 DE FEBRERO DE 2025",
-        "themes": [
-          "“ ”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: “ ”\r\n"
-      },
-      {
-        "id": "17720176171360.1967933570547371",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "DAYLEN",
-        "dateAdded": "SÁBADO 8 DEFEBRERO DE 2025",
-        "themes": [
-          "General"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 8 DEFEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
-      },
-      {
-        "id": "17720176171370.0026997018560513952",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SABADO 1 DE MARZO DE 2025.",
-        "themes": [
-          "“EN NOMBRE DE LA MUJER",
-          "CANTEMOS AL AMOR”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 1 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “EN NOMBRE DE LA MUJER, CANTEMOS AL AMOR”\r\n"
-      },
-      {
-        "id": "17720176171360.3645117326520835",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SABADO 15 DE MARZO DE 2025.",
-        "themes": [
-          "“MUJERES EN LA MÚSICA”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 15 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MUJERES EN LA MÚSICA”\r\n"
-      },
-      {
-        "id": "17720176171360.08854395088061195",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 22 DE MARZO DE 2025.",
-        "themes": [
-          "“MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”\r\n"
-      },
-      {
-        "id": "17720176171370.3603400654504888",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SABADO 26 DE ABRIL DE 2025",
-        "themes": [
-          "Autores bayameses."
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 26 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: Autores bayameses.\r\n"
-      },
-      {
-        "id": "17720176171370.7138750987612859",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 05 DE ABRIL DE 2025.",
-        "themes": [
-          "“ABRIL EN LA MÚSICA BAYAMESA”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 05 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ABRIL EN LA MÚSICA BAYAMESA”\r\n"
-      },
-      {
-        "id": "17720176171370.840069467459764",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 12 DE ABRIL DE 2025.",
-        "themes": [
-          "“YAKARÉ”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 12 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “YAKARÉ”\r\n"
-      },
-      {
-        "id": "17720176171370.48174367244388805",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 19 DE ABRIL DE 2025",
-        "themes": [
-          "“SON DIAMANTES”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SON DIAMANTES”\r\n"
-      },
-      {
-        "id": "17720176171370.3728421011208227",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 31 DE MAYO DE 2025",
-        "themes": [
-          "“SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”\r\n"
-      },
-      {
-        "id": "17720176171370.712167463355387",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SABADO 3 DE MAYO DE 2025",
-        "themes": [
-          "\"Bayamo y sus festivales y concursos\""
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 3 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: \"Bayamo y sus festivales y concursos\"\r\n"
-      },
-      {
-        "id": "17720176171370.11693588320781712",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 10 DE MAYO DE 2025",
-        "themes": [
-          "“ELLAS SON MADRES\""
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ELLAS SON MADRES\"\r\n"
-      },
-      {
-        "id": "17720176171370.11441749687114244",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 17 DE MAYO DE 2025",
-        "themes": [
-          "DE PROGRAMA  / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA  / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171370.5673908491184125",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 14 DE JUNIO DE 2025",
-        "themes": [
-          "DE PROGRAMA / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171370.138260028818734",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 21 DE JUNIO DE 2025",
-        "themes": [
-          "DE PROGRAMA / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171370.11806636866275588",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 07 DE JUNIO DE 2025",
-        "themes": [
-          "DE PROGRAMA / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
-      },
-      {
-        "id": "17720176171370.9129120044527194",
-        "title": "Sin título",
-        "writer": "CARIDAD AGUILAR ROSABAL",
-        "advisor": "PEDRO JOSÉ REYES ACUÑA",
-        "dateAdded": "SÁBADO 28 DE JUNIO DE 2025",
-        "themes": [
-          "DE PROGRAMA / BAJA //"
-        ],
-        "genre": "MÚSICA DESDE MI CIUDAD",
-        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
       }
     ],
     "guionbd_data_estacion.json": [
@@ -24444,6 +24444,326 @@
         "content": "\r\nPrograma: PARADA JOVEN\r\nFecha: VIERNES, 20 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cómo contagiar la felicidad a los demás.\r\n"
       }
     ],
+    "guionbd_data_son.json": [
+      {
+        "id": "17720176171120.2018226601320442",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "05 DE JULIO DE 2025",
+        "themes": [
+          "EL COMPLEJO GENÉRICO DEL SON"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "Programa: AL SON DE LA RADIO\r\nFecha: 05 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL COMPLEJO GENÉRICO DEL SON\r\n"
+      },
+      {
+        "id": "17720176171120.5535578264755748",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "12 DE JULIO DE 2025",
+        "themes": [
+          "SEXTETOS Y SEPTETOS EN LA MÚSICA CUBANA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 12 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: SEXTETOS Y SEPTETOS EN LA MÚSICA CUBANA\r\n"
+      },
+      {
+        "id": "17720176171120.7357378384143876",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "19 DE JULIO DE 2025",
+        "themes": [
+          "CONVERSANDO CON IDANIS ORTIZ"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 19 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CONVERSANDO CON IDANIS ORTIZ\r\n"
+      },
+      {
+        "id": "17720176171120.5205161723469868",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "26 DE JULIO DE 2025",
+        "themes": [
+          "EL SON EN EL CINE CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 26 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SON EN EL CINE CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.17246002110732617",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "02 DE AGOSTO DE 2025",
+        "themes": [
+          "LOS VAN VAN"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 02 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LOS VAN VAN\r\n"
+      },
+      {
+        "id": "17720176171120.37065922097343995",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "09 DE AGOSTO DE 2025",
+        "themes": [
+          "SON CUBANO PARA EL CARNAVAL"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 09 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: SON CUBANO PARA EL CARNAVAL\r\n"
+      },
+      {
+        "id": "17720176171120.4808298011713006",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "16 DE AGOSTO DE 2025",
+        "themes": [
+          "LA TIMBA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 16 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA TIMBA\r\n"
+      },
+      {
+        "id": "17720176171120.6804173095219035",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "23 DE AGOSTO DE 2025",
+        "themes": [
+          "UNA MUJER ILUSTRE EN EL SON GRANMENSE: IDANIS ORTIZ"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 23 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: UNA MUJER ILUSTRE EN EL SON GRANMENSE: IDANIS ORTIZ\r\n"
+      },
+      {
+        "id": "17720176171120.9699253734052166",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "30 DE AGOSTO DE 2025",
+        "themes": [
+          "LA MUJER EN EL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 30 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA MUJER EN EL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.08439436764161734",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "06 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "JOSEÍTO FERNÁNDEZ",
+          "MÁS ALLÁ DE LA GUANTANAMERA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 06 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: JOSEÍTO FERNÁNDEZ, MÁS ALLÁ DE LA GUANTANAMERA\r\n"
+      },
+      {
+        "id": "17720176171120.42895124130617934",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "20 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "CARLOS PUEBLA",
+          "CANTOR DE LA REVOLUCIÓN"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 20 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CARLOS PUEBLA, CANTOR DE LA REVOLUCIÓN\r\n"
+      },
+      {
+        "id": "17720176171120.7031245662743417",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "28 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "CÉSAR PUPY PEDROSO",
+          "DEL SONGO A LA TIMBA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 28 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CÉSAR PUPY PEDROSO, DEL SONGO A LA TIMBA\r\n"
+      },
+      {
+        "id": "17720176171120.09294263198674191",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "04 DE OCTUBRE DE 2025",
+        "themes": [
+          "LOS INSTRUMENTOS MUSICALES QUE PROTAGONIZAN EL SON"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 04 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LOS INSTRUMENTOS MUSICALES QUE PROTAGONIZAN EL SON\r\n"
+      },
+      {
+        "id": "17720176171120.7218899340357129",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "11 DE OCTUBRE DE 2025",
+        "themes": [
+          "EL FORMATO CHARANGA Y EL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 11 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL FORMATO CHARANGA Y EL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.9078414367289878",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "18 DE OCTUBRE DE 2025",
+        "themes": [
+          "YARIMA BLANCO",
+          "EN BAYAMO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 18 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: YARIMA BLANCO,  EN BAYAMO\r\n"
+      },
+      {
+        "id": "17720176171120.35383007065456185",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "25 DE OCTUBRE DE 2025",
+        "themes": [
+          "BUENA VISTA SOCIAL CLUB: EL RENACER DEL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 25 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: BUENA VISTA SOCIAL CLUB: EL RENACER DEL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.17989497347723038",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "28 DE NOVIEMBRE DE 2025",
+        "themes": [
+          "LA FUSIÓN DE GÉNEROS EN EL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 28 DE NOVIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA FUSIÓN DE GÉNEROS EN EL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.7326060347350472",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "29 DE NOVIEMBRE DE 2025",
+        "themes": [
+          "LA FUSIÓN DE GÉNEROS EN EL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 29 DE NOVIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA FUSIÓN DE GÉNEROS EN EL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.3032161887373399",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
+        "advisor": "ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
+        "dateAdded": "6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
+        "themes": [
+          "ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\u000bEMISIÓN: 19\u000bESCRIBE: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nFecha: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nAsesor: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nTema: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\n"
+      },
+      {
+        "id": "17720176171120.17493875175136642",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "13 DE DICIEMBRE DE 2025",
+        "themes": [
+          "EL SON",
+          "PATRIMONIO DE LA HUMANIDAD"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 13 DE DICIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SON, PATRIMONIO DE LA HUMANIDAD\r\n"
+      },
+      {
+        "id": "17720176171120.7731631504343505",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
+        "advisor": "ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
+        "dateAdded": "20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
+        "themes": [
+          "KARMEN MURADAS",
+          "\"LA NENA DE LA SALSA\""
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\u000bEMISIÓN: 21\u000bESCRIBE: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nFecha: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nAsesor: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nTema: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\n"
+      },
+      {
+        "id": "17720176171240.030852911907524594",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "10 DE ENERO DE 2026",
+        "themes": [
+          "EL SEPTETO SANTIAGUERO: GUARDIÁN Y RENOVADOR DEL SON"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 10 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SEPTETO SANTIAGUERO: GUARDIÁN Y RENOVADOR DEL SON\r\n"
+      },
+      {
+        "id": "17720176171120.13022889929436365",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "27 DE DICIEMBRE DE 2025",
+        "themes": [
+          "LA EXPANSIÓN GLOBAL DEL SON CUBANO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 27 DE DICIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA EXPANSIÓN GLOBAL DEL SON CUBANO\r\n"
+      },
+      {
+        "id": "17720176171120.45003797841041815",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "24 DE ENERO DE 2026",
+        "themes": [
+          "LAS INFLUENCIAS DEL SON CUBANO EN EL JAZZ"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 24 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LAS INFLUENCIAS DEL SON CUBANO EN EL JAZZ\r\n"
+      },
+      {
+        "id": "17720176171120.8310117140022572",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "3 DE ENERO DE 2026",
+        "themes": [
+          "RESUMEN MUSICAL DE dos mil 25: UN AÑO SONERO EN RETROSPECTIVA"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 3 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: RESUMEN MUSICAL DE dos mil 25: UN AÑO SONERO EN RETROSPECTIVA\r\n"
+      },
+      {
+        "id": "17720176171120.548819122385161",
+        "title": "Sin título",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "7 DE FEBRERO DE 2026",
+        "themes": [
+          "FUSIONES DEL SON Y LA SALSA CON EL BOLERO"
+        ],
+        "genre": "AL SON DE LA RADIO",
+        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 7 DE FEBRERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: FUSIONES DEL SON Y LA SALSA CON EL BOLERO\r\n"
+      }
+    ],
     "guionbd_data_domingo.json": [
       {
         "id": "17720176603150.6141935815979367",
@@ -25417,326 +25737,6 @@
         ],
         "genre": "PALCO DE DOMINGO",
         "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 01 DE FEBRERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: JORNADA VILLANUEVA 2026 EN BAYAMO\r\n"
-      }
-    ],
-    "guionbd_data_son.json": [
-      {
-        "id": "17720176171120.2018226601320442",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "05 DE JULIO DE 2025",
-        "themes": [
-          "EL COMPLEJO GENÉRICO DEL SON"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "Programa: AL SON DE LA RADIO\r\nFecha: 05 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL COMPLEJO GENÉRICO DEL SON\r\n"
-      },
-      {
-        "id": "17720176171120.5535578264755748",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "12 DE JULIO DE 2025",
-        "themes": [
-          "SEXTETOS Y SEPTETOS EN LA MÚSICA CUBANA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 12 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: SEXTETOS Y SEPTETOS EN LA MÚSICA CUBANA\r\n"
-      },
-      {
-        "id": "17720176171120.7357378384143876",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "19 DE JULIO DE 2025",
-        "themes": [
-          "CONVERSANDO CON IDANIS ORTIZ"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 19 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CONVERSANDO CON IDANIS ORTIZ\r\n"
-      },
-      {
-        "id": "17720176171120.5205161723469868",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "26 DE JULIO DE 2025",
-        "themes": [
-          "EL SON EN EL CINE CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 26 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SON EN EL CINE CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.17246002110732617",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "02 DE AGOSTO DE 2025",
-        "themes": [
-          "LOS VAN VAN"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 02 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LOS VAN VAN\r\n"
-      },
-      {
-        "id": "17720176171120.37065922097343995",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "09 DE AGOSTO DE 2025",
-        "themes": [
-          "SON CUBANO PARA EL CARNAVAL"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 09 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: SON CUBANO PARA EL CARNAVAL\r\n"
-      },
-      {
-        "id": "17720176171120.4808298011713006",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "16 DE AGOSTO DE 2025",
-        "themes": [
-          "LA TIMBA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 16 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA TIMBA\r\n"
-      },
-      {
-        "id": "17720176171120.6804173095219035",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "23 DE AGOSTO DE 2025",
-        "themes": [
-          "UNA MUJER ILUSTRE EN EL SON GRANMENSE: IDANIS ORTIZ"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 23 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: UNA MUJER ILUSTRE EN EL SON GRANMENSE: IDANIS ORTIZ\r\n"
-      },
-      {
-        "id": "17720176171120.9699253734052166",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "30 DE AGOSTO DE 2025",
-        "themes": [
-          "LA MUJER EN EL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 30 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA MUJER EN EL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.08439436764161734",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "06 DE SEPTIEMBRE DE 2025",
-        "themes": [
-          "JOSEÍTO FERNÁNDEZ",
-          "MÁS ALLÁ DE LA GUANTANAMERA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 06 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: JOSEÍTO FERNÁNDEZ, MÁS ALLÁ DE LA GUANTANAMERA\r\n"
-      },
-      {
-        "id": "17720176171120.42895124130617934",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "20 DE SEPTIEMBRE DE 2025",
-        "themes": [
-          "CARLOS PUEBLA",
-          "CANTOR DE LA REVOLUCIÓN"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 20 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CARLOS PUEBLA, CANTOR DE LA REVOLUCIÓN\r\n"
-      },
-      {
-        "id": "17720176171120.7031245662743417",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "28 DE SEPTIEMBRE DE 2025",
-        "themes": [
-          "CÉSAR PUPY PEDROSO",
-          "DEL SONGO A LA TIMBA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 28 DE SEPTIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CÉSAR PUPY PEDROSO, DEL SONGO A LA TIMBA\r\n"
-      },
-      {
-        "id": "17720176171120.09294263198674191",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "04 DE OCTUBRE DE 2025",
-        "themes": [
-          "LOS INSTRUMENTOS MUSICALES QUE PROTAGONIZAN EL SON"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 04 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LOS INSTRUMENTOS MUSICALES QUE PROTAGONIZAN EL SON\r\n"
-      },
-      {
-        "id": "17720176171120.7218899340357129",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "11 DE OCTUBRE DE 2025",
-        "themes": [
-          "EL FORMATO CHARANGA Y EL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 11 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL FORMATO CHARANGA Y EL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.9078414367289878",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "18 DE OCTUBRE DE 2025",
-        "themes": [
-          "YARIMA BLANCO",
-          "EN BAYAMO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 18 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: YARIMA BLANCO,  EN BAYAMO\r\n"
-      },
-      {
-        "id": "17720176171120.35383007065456185",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "25 DE OCTUBRE DE 2025",
-        "themes": [
-          "BUENA VISTA SOCIAL CLUB: EL RENACER DEL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 25 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: BUENA VISTA SOCIAL CLUB: EL RENACER DEL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.17989497347723038",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "28 DE NOVIEMBRE DE 2025",
-        "themes": [
-          "LA FUSIÓN DE GÉNEROS EN EL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 28 DE NOVIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA FUSIÓN DE GÉNEROS EN EL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.7326060347350472",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "29 DE NOVIEMBRE DE 2025",
-        "themes": [
-          "LA FUSIÓN DE GÉNEROS EN EL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 29 DE NOVIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA FUSIÓN DE GÉNEROS EN EL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.3032161887373399",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
-        "advisor": "ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
-        "dateAdded": "6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA",
-        "themes": [
-          "ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\u000bEMISIÓN: 19\u000bESCRIBE: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nFecha: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nAsesor: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 6 DE DICIEMBRE DE 2025\u000bTEMA: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\nTema: ENRIQUE ÁLVAREZ Y SU CHARANGA LATINA\r\n"
-      },
-      {
-        "id": "17720176171120.17493875175136642",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "13 DE DICIEMBRE DE 2025",
-        "themes": [
-          "EL SON",
-          "PATRIMONIO DE LA HUMANIDAD"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 13 DE DICIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SON, PATRIMONIO DE LA HUMANIDAD\r\n"
-      },
-      {
-        "id": "17720176171120.7731631504343505",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
-        "advisor": "ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
-        "dateAdded": "20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"",
-        "themes": [
-          "KARMEN MURADAS",
-          "\"LA NENA DE LA SALSA\""
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\u000bEMISIÓN: 21\u000bESCRIBE: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nFecha: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\u000bASESOR: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nAsesor: ABEL GUERRERO CASTRO\u000bDIRECTORA: LISSELL FONTELO DANTA\u000bREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\u000bLOCUTORA: LUDMILA IGARZA GARCÍA\u000bFECHA: 20 DE DICIEMBRE DE 2025\u000bTEMA: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\nTema: KARMEN MURADAS, \"LA NENA DE LA SALSA\"\r\n"
-      },
-      {
-        "id": "17720176171240.030852911907524594",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "10 DE ENERO DE 2026",
-        "themes": [
-          "EL SEPTETO SANTIAGUERO: GUARDIÁN Y RENOVADOR DEL SON"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 10 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SEPTETO SANTIAGUERO: GUARDIÁN Y RENOVADOR DEL SON\r\n"
-      },
-      {
-        "id": "17720176171120.13022889929436365",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "27 DE DICIEMBRE DE 2025",
-        "themes": [
-          "LA EXPANSIÓN GLOBAL DEL SON CUBANO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 27 DE DICIEMBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA EXPANSIÓN GLOBAL DEL SON CUBANO\r\n"
-      },
-      {
-        "id": "17720176171120.45003797841041815",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "24 DE ENERO DE 2026",
-        "themes": [
-          "LAS INFLUENCIAS DEL SON CUBANO EN EL JAZZ"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 24 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LAS INFLUENCIAS DEL SON CUBANO EN EL JAZZ\r\n"
-      },
-      {
-        "id": "17720176171120.8310117140022572",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "3 DE ENERO DE 2026",
-        "themes": [
-          "RESUMEN MUSICAL DE dos mil 25: UN AÑO SONERO EN RETROSPECTIVA"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 3 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: RESUMEN MUSICAL DE dos mil 25: UN AÑO SONERO EN RETROSPECTIVA\r\n"
-      },
-      {
-        "id": "17720176171120.548819122385161",
-        "title": "Sin título",
-        "writer": "PEDRO JOSÉ REYES ACUÑA",
-        "advisor": "ABEL GUERRERO CASTRO",
-        "dateAdded": "7 DE FEBRERO DE 2026",
-        "themes": [
-          "FUSIONES DEL SON Y LA SALSA CON EL BOLERO"
-        ],
-        "genre": "AL SON DE LA RADIO",
-        "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 7 DE FEBRERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: FUSIONES DEL SON Y LA SALSA CON EL BOLERO\r\n"
       }
     ],
     "guionbd_data_ritmo.json": [
