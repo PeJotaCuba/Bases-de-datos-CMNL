@@ -4220,6 +4220,9 @@
   ],
   "worklogs": [],
   "consolidated": [],
+  "interruptions": [],
+  "consolidatedMonths": [],
+  "transmissionConfig": {},
   "paymentConfigs": {
     "rcm_payment_config_admin": {
       "roles": [
@@ -42087,6 +42090,46 @@
         "Febrero-semana-5-Sábado": {
           "theme": "Enfermedades raras en Cuba: diagnóstico, atención y apoyo a las familias en Bayamo.",
           "ideas": "Programa de sensibilización. Un especialista del Hospital Provincial explica qué son las enfermedades raras, cuáles tienen mayor incidencia en la región y cómo se diagnostican. Testimonio anónimo de una familia que convive con una de ellas. Un representante de MINSAP informa sobre los protocolos de atención y los medicamentos disponibles. Tono humano y esperanzador, destacando la labor del sistema de salud para garantizar atención a todos, sin exclusión."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Celina González: la reina de la música campesina cubana y su legado en la cultura popular.",
+          "ideas": "Programa biográfico y musical en el natalicio de Celina. Reproducir fragmentos de sus canciones más emblemáticas (\"A Santa Bárbara\", \"Yo soy el punto cubano\"). Un musicólogo o historiador local analiza su trayectoria, su estilo, su defensa de la tradición campesina y su papel como mujer en un género dominado por hombres. Testimonio de un seguidor o familiar. Conectar con la preservación de la identidad cultural. Cierre con su música.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "Vicente García: el León de Santa Rita y su legado en la lucha independentista.",
+          "ideas": "Perfil del Mayor General Vicente García, natural de Las Tunas pero con estrechos vínculos con la región oriental. Un historiador narra su trayectoria, su papel en la Protesta de Baraguá, su elección como jefe del Ejército Libertador el 17 de marzo de 1878. Destacar su firmeza anti-anexionista y su lealtad a la independencia. Lectura de documentos. Música patriótica. Cierre con su ejemplo de dignidad.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "La Protesta de los Trece: un hito en la lucha contra la corrupción y por la dignidad nacional.",
+          "ideas": "Programa histórico sobre el 18 de marzo de 1923, cuando un grupo de intelectuales liderados por Rubén Martínez Villena protestó contra la corrupción del gobierno de Zayas. Un historiador analiza el contexto, los protagonistas y las consecuencias. Conectar con la actualidad: la lucha contra la corrupción como línea prioritaria del Programa de Gobierno (Objetivo 8). Lectura de fragmentos del acta de protesta. Música de la época. Cierre: la vigencia del reclamo ético.\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "Pintores de la independencia: cronistas visuales de la nación.",
+          "ideas": "Recorrido por la obra de pintores cubanos que plasmaron las gestas independentistas: Armando Menocal, Esteban Valderrama, grabados de la época. Un historiador del arte analiza cómo representaron batallas, héroes y escenas de la guerra. Su contribución a la construcción de la memoria visual de la nación. Artistas bayameses que abordaron la temática. Describir obras icónicas. Música patriótica de fondo. Conectar arte e identidad nacional.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "Cuba contra el imperio: luchas populares antes de 1959.",
+          "ideas": "Recorrido histórico por las principales movilizaciones populares contra el dominio estadounidense y los gobiernos sumisos antes de 1959: la huelga general de 1930 contra Machado, la lucha contra los monopolios, el movimiento obrero y estudiantil. Un historiador analiza el sentimiento antiimperialista que culminó en la Revolución. Lectura de proclamas. Música de la época. Conectar con la actualidad: la defensa de la soberanía y la lucha contra flagelos como las drogas, que también amenazan desde fuera.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "Producción de granos en Bayamo: resultados de la campaña de frío y su impacto en la alimentación familiar.",
+          "ideas": "Reportaje desde una cooperativa productora de frijol y maíz en el municipio. Entrevista a productores sobre rendimientos, comercialización y dificultades (sequía, plagas, insumos). Un nutricionista explica el valor proteico de los granos y su importancia en la dieta diaria. Consejos para incluirlos en comidas variadas. Datos de acopio municipal. Vincular con el Objetivo 3 del Programa de Gobierno. Tono realista, destacando esfuerzos y beneficios para la mesa familiar.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "ICAIC: 67 años de cine al servicio de la Revolución y la identidad cubana.",
+          "ideas": "Programa histórico y cultural sobre la fundación del Instituto Cubano del Arte e Industria Cinematográficos el 24 de marzo de 1959. Un historiador y un crítico de cine repasan su trayectoria, su papel en la formación de una cultura revolucionaria, sus principales realizadores y obras emblemáticas. Conectar con el legado de Fidel, impulsor del cine como arma. Fragmentos sonoros de películas. Invitar a un cineasta local. Música de bandas sonoras del cine cubano.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "Mujeres en la historia de Cuba: luchadoras, intelectuales y patriotas.",
+          "ideas": "Recorrido por figuras femeninas destacadas de la historia cubana, con énfasis en aquellas vinculadas a Bayamo o a la región oriental: Ana Betancourt, Mariana Grajales, las bayamesas que participaron en la guerra. Un historiador y una investigadora del Museo Provincial analizan sus aportes. Lectura de fragmentos de cartas y documentos. Incluir a mujeres de la época de Mella que lucharon junto a los estudiantes. Música de fondo con canciones de la trova femenina. Tono reivindicativo y de orgullo local.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "La Seguridad del Estado: 67 años defendiendo la Revolución.",
+          "ideas": "Programa histórico sobre la fundación de los órganos de la Seguridad del Estado el 26 de marzo de 1959. Un historiador y un oficial retirado explican su origen, su misión en la defensa de la soberanía y su evolución. Destacar el papel de Fidel en su creación y la importancia de la lucha contra el delito y las ilegalidades, en línea con el Objetivo 8 del Programa de Gobierno. Testimonio de un fundador o familiar. Música patriótica. Cierre: la seguridad como pilar de la estabilidad nacional.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Día Mundial del Teatro: la escena como espejo de la sociedad y herramienta de transformación.",
+          "ideas": "Programa cultural dedicado al teatro. Un crítico y un director teatral analizan la importancia del arte escénico en la formación de conciencia y valores. Recorrido por la historia del teatro en Bayamo: grupos emblemáticos, obras, figuras. Invitar a un actor o actriz local a compartir experiencias. Fragmentos sonoros de obras. Conectar con la lucha contra las drogas: el teatro como alternativa de recreación sana y expresión juvenil. Tono celebratorio y reflexivo.\n"
         }
       }
     },
@@ -42266,6 +42309,46 @@
         "Febrero-semana-5-Viernes": {
           "theme": "Decoración del hogar con plantas de interior: especies fáciles de cuidar.",
           "ideas": "Guía práctica para embellecer el hogar. Un especialista en jardinería recomienda plantas resistentes como la cuna de moisés, el helecho, la sansevieria. Explica cuidados básicos: riego, luz, abono. Cómo propagarlas por esquejes. Beneficios: purifican el aire, aportan vida y color. Testimonios de amas de casa. Sonidos suaves y música instrumental. Tono relajado y creativo, invitando a conectar con la naturaleza dentro de casa."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Cómo elaborar un plan de ahorro familiar y cumplirlo sin frustraciones.",
+          "ideas": "Guía práctica de economía doméstica. Un especialista en finanzas familiares explica métodos para establecer metas de ahorro realistas, llevar un registro de gastos, identificar fugas de dinero y celebrar pequeños logros. Consejos para involucrar a niños y adolescentes. Testimonios de familias ahorradoras. Sonidos de alcancía y monedas. Tono motivador, enfatizando que el ahorro es un hábito que se construye paso a paso.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "Prevención de caídas en el hogar para adultos mayores.",
+          "ideas": "Guía práctica de seguridad doméstica. Un geriatra o terapeuta ocupacional explica los riesgos más comunes: alfombras sueltas, mala iluminación, objetos en el paso, baños resbaladizos. Recomienda adaptaciones sencillas: pasamanos, barras de apoyo, calzado adecuado. Testimonios de familias. Sonidos de instalación. Tono preventivo y tranquilizador. Mensaje: un hogar seguro es calidad de vida para los mayores.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "Técnicas de limpieza ecológica para el hogar con productos naturales.",
+          "ideas": "Taller práctico de limpieza sostenible. Una especialista muestra cómo usar vinagre, bicarbonato, limón y jabón neutro para limpiar superficies, desinfectar y eliminar olores. Beneficios: ahorro económico, menos químicos tóxicos, cuidado del medio ambiente. Recetas caseras. Testimonios. Sonidos de limpieza. Tono didáctico y entusiasta, promoviendo un hogar más sano y ecológico.\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "Recetas cubanas con boniato: platos económicos y nutritivos.",
+          "ideas": "Taller culinario dedicado al boniato, producto local de temporada. Una cocinera experta muestra preparaciones: boniato asado, puré, frituras, dulce en almíbar, inclusiones en guisos. Valor nutricional, versatilidad y bajo costo. Consejos de conservación. Testimonios. Sonidos de cocina. Tono cálido y creativo, revalorizando un cultivo tradicional.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "Cómo detectar señales de adicción a pantallas en niños y adolescentes.",
+          "ideas": "Programa de prevención y orientación familiar. Un psicólogo infantil explica síntomas de uso problemático de dispositivos: irritabilidad, aislamiento, bajo rendimiento escolar, alteraciones del sueño. Recomienda establecer límites, fomentar actividades al aire libre, dar ejemplo como adultos. Testimonios de padres. Sonidos de notificaciones. Tono alerta pero constructivo, ofreciendo herramientas para un uso saludable de la tecnología.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "Conservas caseras de vegetales: técnicas para aprovechar las cosechas.",
+          "ideas": "Taller práctico de conservación. Una especialista enseña métodos sencillos: encurtidos de pepino y zanahoria, conserva de tomate, deshidratado de ají y hierbas. Explicar esterilización de frascos, almacenamiento y duración. Beneficios: ahorro, disponibilidad fuera de temporada, alimentos sin aditivos. Testimonios de amas de casa. Sonidos de cocina. Tono didáctico y motivador, promoviendo la autonomía alimentaria en el hogar.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "Cómo organizar un cine club familiar en casa.",
+          "ideas": "Programa lúdico y cultural para el hogar. Un promotor cultural ofrece ideas para crear un cine club familiar: seleccionar películas (cubanas, infantiles, clásicas), preparar un espacio, hacer palomitas, debatir después. Beneficios: unión familiar, formación de valores, acceso a la cultura. Recomendar películas cubanas disponibles. Testimonios de familias. Sonidos de proyector. Tono divertido y propositivo.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "Recetas económicas con frijoles: platos nutritivos para toda la semana.",
+          "ideas": "Taller culinario dedicado a los frijoles, alimento básico y nutritivo. Una cocinera experta muestra preparaciones: frijoles negros dormidos, potaje, ensalada de frijoles, croquetas, hamburguesas vegetales. Consejos para ahorrar tiempo (cocinar en cantidad y congelar). Valor nutricional. Testimonios. Sonidos de cocina. Tono práctico y creativo, revalorizando la cocina tradicional.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "Técnicas de respiración y relajación para manejar el estrés diario.",
+          "ideas": "Programa de bienestar emocional. Un instructor de yoga o psicólogo enseña ejercicios prácticos de respiración diafragmática, relajación muscular progresiva y mindfulness. Beneficios para reducir ansiedad, mejorar sueño y concentración. Práctica guiada en vivo. Testimonios. Música relajante. Mensaje: dedicar 10 minutos al día a respirar conscientemente mejora la calidad de vida.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Juegos teatrales para hacer en familia: desarrollando la creatividad en casa.",
+          "ideas": "Taller lúdico y creativo. Un instructor de teatro propone juegos sencillos para hacer en familia: imitaciones, títeres con calcetines, pequeñas dramatizaciones de cuentos, creación de personajes. Beneficios: desarrollo de la expresión, imaginación, trabajo en equipo, diversión. Ejemplos prácticos. Testimonios. Sonidos de risas. Tono alegre y participativo, acercando el teatro al hogar.\n"
         }
       }
     },
@@ -42481,6 +42564,46 @@
         "Febrero-semana-5-Sábado": {
           "theme": "Actividades por el Día Mundial de las Enfermedades Raras en Bayamo.",
           "ideas": "Cobertura de las jornadas de información y sensibilización organizadas en policlínicos y la universidad. Entrevista a médicos, investigadores y familiares. Reportaje sobre la labor de la Asociación Cubana de Personas con Enfermedades Poco Frecuentes. Datos sobre el registro nacional de pacientes. Tono informativo y solidario, visibilizando una realidad poco conocida y promoviendo la empatía y el apoyo comunitario."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Balance de la zafra azucarera en Granma: avances y desafíos.",
+          "ideas": "Reportaje desde un central azucarero de la provincia. Entrevista a directivos y trabajadores sobre el desarrollo de la zafra, rendimientos, fuerza laboral y dificultades (combustible, piezas de repuesto). Datos estadísticos comparativos con años anteriores. Vincular con el Objetivo 3 del Programa de Gobierno (incrementar producción nacional, con énfasis en alimentos). Tono objetivo, reconociendo esfuerzos y retos.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "Homenajes en Granma a las gestas independentistas de marzo.",
+          "ideas": "Cobertura de actividades conmemorativas en municipios de la provincia vinculados a la guerra del 95. Entrevistas a historiadores, estudiantes y autoridades sobre el significado de fechas como la Protesta de Baraguá (15 de marzo) y la jefatura de Vicente García. Reportaje desde sitios históricos. Tono solemne y patriótico, destacando la continuidad de la memoria histórica.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "Resultados de la lucha contra la corrupción y las ilegalidades en Granma.",
+          "ideas": "Reportaje de balance con datos de la Fiscalía y la Contraloría en la provincia. Entrevista a autoridades sobre acciones implementadas, casos investigados, recuperación de recursos y medidas de prevención. Vincular con el Objetivo 8 del Programa de Gobierno. Incluir opiniones ciudadanas sobre la percepción de estos delitos. Tono serio, mostrando avances sin triunfalismo, enfatizando la necesidad de la participación social en el control.\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "Producción de viandas en Bayamo: resultados y proyecciones.",
+          "ideas": "Reportaje desde una cooperativa productora de viandas (boniato, malanga, plátano, yuca). Entrevista a productores sobre rendimientos, comercialización, dificultades (sequía, plagas, insumos). Datos del acopio municipal. Vincular con el Objetivo 3 del Programa de Gobierno (incrementar producción de alimentos). Incluir opiniones de consumidores sobre precios y disponibilidad. Tono realista, mostrando esfuerzos y desafíos.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "Programas de prevención de adicciones en comunidades de Bayamo.",
+          "ideas": "Reportaje sobre el trabajo de los equipos de salud mental y los CDR en barrios y consejos populares. Entrevista a psicólogos, trabajadores sociales y líderes comunitarios sobre charlas, pesquisas y acompañamiento a familias. Testimonios de personas en rehabilitación. Vincular con el Objetivo 8 del Programa de Gobierno (reducir delito e ilegalidades, incluyendo adicciones). Tono constructivo, destacando el papel de la comunidad en la prevención.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "Balance de la producción de granos en Granma: logros y desafíos.",
+          "ideas": "Reportaje desde la Empresa de Acopio provincial. Entrevista a directivos sobre resultados de la campaña de frío, comparativa con años anteriores, planes para la campaña de primavera. Incluir declaraciones de productores destacados y especialistas en suelos. Datos de comercialización en mercados locales. Vincular con el Objetivo 3 del Programa de Gobierno. Tono informativo, reconociendo avances y obstáculos.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "Balance del ICAIC en Granma: producciones, formación y exhibición.",
+          "ideas": "Reportaje sobre la labor del ICAIC en la provincia. Entrevista a su representante sobre producciones locales, apoyo a realizadores, salas de cine en funcionamiento, programación, proyectos de educación audiovisual en escuelas. Datos de espectadores. Incluir opiniones de cinéfilos. Tono informativo y de reconocimiento, destacando el papel del cine en la cultura local.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "Homenajes en Bayamo por el natalicio de Julio Antonio Mella.",
+          "ideas": "Cobertura de actividades organizadas por la FEU y la UJC en la Universidad de Granma y otros centros educativos. Actos, charlas, exposiciones sobre la vida y obra de Mella. Entrevistas a estudiantes y profesores sobre su significado actual. Reportaje sobre el legado de Mella en la juventud cubana. Tono juvenil y patriótico, destacando la continuidad del ideario mellista.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "Balance de la labor de la Seguridad del Estado en Granma: prevención y enfrentamiento.",
+          "ideas": "Reportaje sobre el trabajo del Ministerio del Interior en la provincia, con énfasis en la prevención del delito y la protección de la ciudadanía. Entrevista a un jefe de la Seguridad del Estado (sin revelar identidad) sobre resultados y desafíos. Datos de operativos y campañas educativas. Vincular con el Objetivo 8 del Programa de Gobierno. Tono serio y de reconocimiento, destacando el profesionalismo y la entrega.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Celebración del Día Mundial del Teatro en Bayamo: cartelera y homenajes.",
+          "ideas": "Cobertura de las actividades programadas: funciones especiales en salas teatrales, lecturas dramatizadas, talleres abiertos, reconocimientos a personalidades del teatro local. Entrevistas a organizadores, artistas y público. Agenda teatral del fin de semana. Tono festivo y cultural, promoviendo la asistencia al teatro como opción de recreación sana.\n"
         }
       }
     },
@@ -42660,6 +42783,46 @@
         "Febrero-semana-5-Viernes": {
           "theme": "La figura de Céspedes en el teatro y la literatura cubana.",
           "ideas": "Viernes es de artes escénicas. Recorrido por obras teatrales y literarias que han abordado la vida de Céspedes. Un crítico analiza representaciones del prócer en diferentes épocas. Lectura dramatizada de un monólogo sobre Céspedes, a cargo de un actor local. Comentar cómo el arte ha contribuido a construir la imagen del Padre de la Patria. Ambiente solemne, con música de fondo teatral."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Celina González en el audiovisual: documentales y programas dedicados a la reina del punto cubano.",
+          "ideas": "Lunes es de audiovisuales. Recorrido por materiales audiovisuales que retratan la vida y obra de Celina: documentales del ICAIC, programas de la televisión cubana, entrevistas de archivo. Un crítico analiza su imagen mediática y su contribución a la difusión de la música campesina. Invitar a un realizador local. Reproducir fragmentos. Música de fondo de Celina. Reflexionar sobre el audiovisual como memoria cultural.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "El paisaje en la pintura cubana: representaciones de campos y montañas.",
+          "ideas": "Martes es de artes plásticas. Recorrido por obras de pintores cubanos que han retratado el paisaje rural y montañoso (Esteban Chartrand, Domingo Ramos, artistas contemporáneos). Un crítico analiza la evolución de la mirada sobre la naturaleza cubana. Artistas bayameses que pintan el entorno. Describir obras icónicas. Música campesina de fondo. Conectar paisaje e identidad nacional.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "Literatura de denuncia social en la Cuba republicana.",
+          "ideas": "Miércoles es de literatura. Seleccionar textos de autores que denunciaron la corrupción, la injusticia y la desigualdad en las primeras décadas del siglo XX: Rubén Martínez Villena, Pablo de la Torriente Brau, Luis Felipe Rodríguez. Un poeta local lee fragmentos. Un crítico analiza el contexto y la vigencia de esas denuncias. Música de fondo con sones de la época. Reflexión sobre la literatura como arma de transformación social.\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "La música en tiempos de guerra: himnos, canciones y marchas patrióticas.",
+          "ideas": "Jueves es de música. Recorrido por composiciones musicales vinculadas a las guerras de independencia: himnos, canciones de campaña, danzones patrióticos. Un musicólogo analiza su función social y emocional. Reproducir fragmentos de \"La Bayamesa\", himnos y piezas de la época. Invitar a un músico local. Conectar con la obra de Menocal: música y pintura al servicio de la patria.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "Teatro foro: herramienta escénica para la prevención social.",
+          "ideas": "Viernes es de artes escénicas. Invitar a un grupo de teatro comunitario que trabaje la técnica del teatro foro. Explicar en qué consiste: representación de situaciones problemáticas (adicciones, violencia) donde el público interviene para cambiar el desenlace. Representar una escena breve en vivo. Analizar su efectividad como herramienta de concientización. Tono participativo y reflexivo. Música de fondo teatral.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "El cine de espionaje y thriller político en Cuba.",
+          "ideas": "Lunes es de audiovisuales. Recorrido por películas cubanas que abordan temas de seguridad, espionaje y lucha contra el enemigo: \"El hombre de Maisinicú\", \"La segunda hora\", \"Lista de espera\" (con connotaciones). Un crítico analiza cómo el cine ha representado esta temática. Fragmentos sonoros. Invitar a un especialista. Música de bandas sonoras de suspenso. Reflexionar sobre el séptimo arte como reflejo de la realidad.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "Carteles del cine cubano: una escuela de diseño gráfico.",
+          "ideas": "Martes es de artes plásticas. Recorrido por la historia del cartel de cine cubano, reconocido mundialmente. Un diseñador gráfico y un crítico analizan la obra de creadores como Saúl Stein, René Azcuy, Eduardo Muñoz Bachs. Describir carteles icónicos. Su influencia en el diseño cubano. Exposiciones en Bayamo. Música de fondo. Reflexionar sobre el cartel como síntesis artística y comunicacional.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "El Manifiesto de Montecristi: documento fundacional en la literatura política cubana.",
+          "ideas": "Miércoles es de literatura. Análisis del Manifiesto de Montecristi, firmado por Martí y Máximo Gómez el 25 de marzo de 1895. Un historiador y un crítico literario analizan su contenido, su estilo, su visión de la guerra necesaria y la república futura. Lectura de fragmentos. Su valor como texto político y literario. Conectar con el ideario martiano y su vigencia. Música patriótica de fondo.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "Compositores cubanos y su vínculo con la defensa de la patria.",
+          "ideas": "Jueves es de música. Recorrido por la obra de compositores cubanos que dedicaron parte de su repertorio a temas patrióticos y de defensa nacional: de Manuel Saumell a Harold Gramatges, pasando por canciones de la Nueva Trova con contenido revolucionario. Un musicólogo analiza cómo la música refleja el espíritu de resistencia y soberanía. Reproducir fragmentos de piezas emblemáticas. Invitar a un investigador local. Conectar música, identidad y legado de Fidel.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Grandes obras del teatro cubano: análisis de textos clásicos.",
+          "ideas": "Viernes es de artes escénicas. Selección de fragmentos de obras emblemáticas del teatro cubano: \"Contigo pan y cebolla\" de Héctor Quintero, \"Electra Garrigó\" de Virgilio Piñera, \"El médico de la familia\" de José Milián. Un crítico teatral analiza su contexto, sus personajes, su vigencia. Lectura dramatizada por actores locales. Música de fondo. Reflexionar sobre el teatro como espejo de la cubanía.\n"
         }
       }
     },
@@ -42839,6 +43002,46 @@
         "Febrero-semana-5-Viernes": {
           "theme": "Carlos Manuel de Céspedes: su joven generación en Bayamo.",
           "ideas": "Explorar la figura de Céspedes desde su juventud y la de quienes lo rodearon. Un historiador habla de sus hijos (Carlos Manuel, Oscar) y los jóvenes que se unieron a él en La Demajagua. Lectura de cartas juveniles de la época. Conectar con la juventud actual: ¿qué valores de aquella generación (audacia, compromiso, sacrificio) deberían tener los jóvenes de hoy? Invitar a estudiantes a reflexionar. Música patriótica de fondo. Tono intergeneracional, rescatando el legado joven del Padre de la Patria."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Jóvenes en la música campesina: nuevas voces que mantienen viva la tradición.",
+          "ideas": "Encuentro con jóvenes músicos bayameses que cultivan el punto cubano, la guajira o la décima. Entrevista sobre sus motivaciones, formación, experiencias y desafíos en un género tradicional. Un representante de la AHS comenta espacios de promoción. Reproducir fragmentos de sus interpretaciones. Segmento interactivo con preguntas. Tono orgulloso y revitalizador, mostrando que la tradición tiene relevo generacional.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "Voluntariado juvenil en proyectos de desarrollo local.",
+          "ideas": "Presentar experiencias de jóvenes que participan en iniciativas comunitarias: rehabilitación de espacios públicos, apoyo a escuelas, brigadas agrícolas. Entrevista a organizadores y voluntarios. Un representante del Gobierno municipal explica cómo sumarse a estos proyectos. Beneficios: aprendizaje, sentido de pertenencia, transformación del entorno. Segmento interactivo. Tono participativo y esperanzador.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "Ética juvenil: ¿cómo enfrentar la corrupción desde nuestras acciones cotidianas?",
+          "ideas": "Debate abierto con estudiantes y jóvenes trabajadores. Preguntas guía: ¿Qué entendemos por corrupción? ¿La vemos en nuestro entorno (escuela, barrio, trabajo)? ¿Cómo actuar ante una situación de ilegalidad? ¿Qué valores debemos fortalecer? Moderador facilita el diálogo. Segmento de mensajes. Tono reflexivo, promoviendo una cultura de cero tolerancia a la corrupción desde edades tempranas.\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "Carreras técnicas en la agricultura: oportunidades para jóvenes en el campo.",
+          "ideas": "Orientación vocacional para jóvenes interesados en el sector agropecuario. Entrevista a estudiantes y profesores de carreras afines en la Universidad de Granma. Salidas profesionales: ingeniería agrónoma, veterinaria, mecanización. Testimonios de jóvenes que trabajan en cooperativas. Un directivo del MINAG explica programas de estímulo. Segmento de preguntas. Tono práctico, mostrando el campo como opción de futuro.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "Jóvenes y activismo social: canalizando la rebeldía positivamente.",
+          "ideas": "Conversatorio con jóvenes involucrados en proyectos comunitarios, voluntariado, activismo cultural o medioambiental. Analizar cómo la energía y el espíritu de lucha de generaciones pasadas (como en la huelga del 30) pueden canalizarse hoy en causas positivas. ¿Qué problemas de su entorno les movilizan? ¿Cómo organizarse? Ejemplos locales. Segmento de preguntas. Tono motivador, mostrando que el activismo juvenil transforma realidades.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "Jóvenes en la agricultura: experiencias y oportunidades en el campo bayamés.",
+          "ideas": "Encuentro con jóvenes productores, estudiantes de agronomía y trabajadores de cooperativas. Conversar sobre motivaciones, condiciones de vida, acceso a tecnología, rentabilidad. Un representante del MINAG explica programas de estímulo a jóvenes agricultores. Testimonios de quienes han encontrado en el campo un proyecto de vida. Segmento interactivo. Tono realista y esperanzador, mostrando el campo como opción de futuro digno y soberano.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "Jóvenes realizadores audiovisuales en Bayamo: sueños, proyectos y realidades.",
+          "ideas": "Encuentro con jóvenes cineastas, videastas y youtubers bayameses. Entrevista sobre sus motivaciones, formación autodidacta o académica, equipos, temáticas que abordan, dificultades para producir y difundir. Un representante del ICAIC o la AHS comenta convocatorias y apoyos. Proyección de fragmentos de sus obras. Segmento interactivo. Tono creativo y esperanzador, visibilizando el talento audiovisual local.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "Liderazgo estudiantil: valores del ejemplo de Mella para la FEU de hoy.",
+          "ideas": "Conversatorio con dirigentes de la FEU en la Universidad de Granma y la enseñanza media. Analizar las cualidades de Mella: audacia, compromiso, pensamiento crítico, internacionalismo. ¿Cómo aplicarlas hoy en el movimiento estudiantil? ¿Cuáles son los principales desafíos de la FEU en el contexto actual? Dinámicas participativas. Segmento de mensajes. Tono reflexivo y propositivo, revitalizando el legado de Mella.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "Ética ciudadana y responsabilidad social: el papel de los jóvenes en la seguridad comunitaria.",
+          "ideas": "Debate abierto con estudiantes y jóvenes trabajadores sobre cómo contribuir a la seguridad y el orden en sus barrios. ¿Qué acciones pueden realizar? La denuncia responsable, el cuidado del entorno, la prevención de ilegalidades. Un oficial de la PNR joven dialoga con ellos. Segmento de mensajes. Tono participativo, promoviendo una cultura de legalidad y compromiso social.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Jóvenes en las tablas: grupos de teatro juveniles en Bayamo.",
+          "ideas": "Presentar colectivos teatrales juveniles de la ciudad (grupos de la AHS, de escuelas, comunitarios). Entrevista a sus integrantes sobre motivaciones, formación, repertorio, experiencias. Reproducir fragmentos de sus obras. Un director de la Casa de la Cultura comenta talleres y convocatorias. Segmento interactivo. Tono entusiasta, mostrando el teatro como opción de desarrollo personal y artístico para la juventud.\n"
         }
       }
     },
@@ -43018,6 +43221,46 @@
         "Febrero-semana-5-Viernes": {
           "theme": "Mujeres campesinas: su rol en la producción de alimentos y la preservación de tradiciones.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Visita sonora a una finca de una campesina en las afueras de Bayamo. Entrevista sobre su trabajo diario, la organización de la Cooperativa, la transmisión de saberes (recetas, cultivos) a hijas y nietas. Desafíos que enfrenta como mujer en el campo. Su visión sobre el futuro. Incluir sonidos de animales, campo y cocina. Tono de admiración y reconocimiento a estas guardianas de la soberanía alimentaria y la cultura rural."
+        },
+        "Marzo-semana-4-Lunes": {
+          "theme": "Salud sexual en la adolescencia: mitos, riesgos y educación preventiva.",
+          "ideas": "Lunes es de sexualidad. Un psicólogo y un ginecólogo abordan temas clave para adolescentes: cambios físicos y emocionales, primera vez, uso correcto del condón, ITS, embarazo no planificado, derecho al consentimiento. Desmontar mitos comunes. Importancia del diálogo familiar. Informar sobre servicios de consejería en Bayamo. Tono claro, respetuoso y sin tabúes, adaptado al público juvenil y a sus padres.\n"
+        },
+        "Marzo-semana-4-Martes": {
+          "theme": "Derechos y deberes de los arrendatarios de viviendas en Cuba.",
+          "ideas": "Martes es día jurídico. Un abogado especializado en derecho civil y de vivienda explica el marco legal de los arrendamientos: tipos de contrato, derechos del inquilino, obligaciones del propietario, resolución de conflictos, trámites en la vivienda. Responder preguntas frecuentes. Dónde acudir en Bayamo para asesoramiento. Tono claro y orientador, ayudando a regularizar situaciones y evitar problemas legales.\n"
+        },
+        "Marzo-semana-4-Miércoles": {
+          "theme": "Importancia de la Educación financiera.",
+          "ideas": "Miércoles es día variado. Un especialista de la ANEC (Asociación Nacional de Economistas y Contadores de Cuba) explica conceptos básicos de educación financiera: elaboración de presupuesto familiar, ahorro, manejo de deudas, uso responsable del crédito, planificación para metas a corto y largo plazo. Por qué es importante en el contexto económico actual. Dónde buscar asesoramiento en Bayamo. Tono práctico y motivador, ayudando a las familias a tomar mejores decisiones económicas. Vincular con el Objetivo 1 del Programa de Gobierno (estabilización macroeconómica desde el hogar).\n"
+        },
+        "Marzo-semana-4-Jueves": {
+          "theme": "Estrategias para la gestión del tiempo en familias con múltiples responsabilidades.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad (enfoque social). Una psicóloga y una madre trabajadora ofrecen consejos para organizar el tiempo familiar: priorizar tareas, repartir responsabilidades, establecer rutinas, decir \"no\" a compromisos excesivos, reservar tiempo de calidad. Cómo involucrar a los hijos en las tareas. Testimonios. Tono práctico y solidario, ayudando a reducir el estrés familiar.\n"
+        },
+        "Marzo-semana-4-Viernes": {
+          "theme": "El Divorcio emocional: Separados pero juntos.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga aborda el fenómeno del divorcio emocional, cuando la pareja sigue atada afectivamente aunque haya separación legal. Causas (dependencia emocional, miedo a la soledad, hijos), síntomas, consecuencias para la salud mental. Estrategias para transitar el duelo y construir autonomía afectiva. Testimonios anónimos. Dónde buscar ayuda en Bayamo. Tono empático y sanador, ofreciendo luz al final del túnel.\n"
+        },
+        "Marzo-semana-5-Lunes": {
+          "theme": "Salud sexual en la adultez: cambios, cuidados y prevención.",
+          "ideas": "Lunes es de sexualidad. Un ginecólogo y un urólogo abordan temas de salud sexual en la mediana edad: cambios hormonales, menopausia, andropausia, prevención de ITS, importancia de los chequeos periódicos, sexualidad y calidad de vida. Desmontar mitos. Consejos para mantener una vida sexual plena. Informar sobre servicios en Bayamo. Tono profesional y cercano, sin tabúes.\n"
+        },
+        "Marzo-semana-5-Martes": {
+          "theme": "Derechos de los consumidores: reclamaciones y protección legal.",
+          "ideas": "Martes es día jurídico. Un abogado especializado en derecho del consumidor explica los derechos básicos al comprar productos o contratar servicios. Cómo reclamar ante productos defectuosos, incumplimientos, mala calidad. Instituciones que protegen al consumidor en Bayamo (Oficina del Consumidor, vía administrativa). Responder preguntas frecuentes. Tono claro y orientador, empoderando a la población para hacer valer sus derechos.\n"
+        },
+        "Marzo-semana-5-Miércoles": {
+          "theme": "Gastronomía Bayamesa, tradición y contemporaneidad.",
+          "ideas": "Miércoles es día variado. Entrevista a un chef o especialista de la Culinaria (CUZA) y a un cocinero tradicional. Recorrido por platos típicos de Bayamo: sus orígenes, ingredientes, técnicas. Cómo se están reinterpretando hoy con influencias contemporáneas, sin perder la esencia. Desafíos para mantener la tradición: disponibilidad de ingredientes, transmisión de saberes. Degustación sonora. Invitar a oyentes a compartir recetas familiares. Tono de orgullo local y creatividad culinaria.\n"
+        },
+        "Marzo-semana-5-Jueves": {
+          "theme": "Alternativas para la generación de ingresos familiares en el contexto actual.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Un economista de la ANEC y un emprendedor exitoso analizan opciones para complementar el ingreso familiar: emprendimientos (formales e informales), trabajo por cuenta propia, cooperativas, asociaciones con el sector estatal. Trámites, requisitos, riesgos. Experiencias locales. Vincular con los Objetivos 2 y 4 del Programa de Gobierno (generación de divisas y fortalecimiento de actores económicos). Tono práctico y realista.\n"
+        },
+        "Marzo-semana-5-Viernes": {
+          "theme": "Influencia de la cultura coreana en los bayameses.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga y un sociólogo joven analizan el fenómeno del Hallyu (ola coreana) en la juventud bayamesa: K-pop, doramas, moda, idioma, gastronomía. ¿Por qué atrae? ¿Qué valores transmite? ¿Cómo se combina con la identidad cubana? Entrevista a jóvenes fans locales. Testimonios. Reflexión sobre la globalización cultural y la apropiación juvenil. Tono abierto y curioso, sin prejuicios, buscando entender el fenómeno desde la psicología social.\n"
         }
       }
     },
@@ -43029,7 +43272,16 @@
       ],
       "time": "07:00",
       "active": true,
-      "dailyData": {}
+      "dailyData": {
+        "Marzo-semana-4-Sábado": {
+          "theme": "Dora Alonso: adiós a una gigante de la literatura infantil cubana.",
+          "ideas": "Programa de homenaje en el aniversario de su fallecimiento. Una especialista en literatura infantil repasa su vida y obra: Pelusín del Monte, \"El valle de la Pájara Pinta\", \"Aventuras de Guille\". Su contribución a la radio, la televisión y el teatro de títeres. Lectura de fragmentos de sus cuentos. Reproducir canciones de sus obras. Invitar a una narradora oral. Tono nostálgico y agradecido, recordando su legado a las infancias cubanas.\n"
+        },
+        "Marzo-semana-5-Sábado": {
+          "theme": "Reforestación y cuidado de cuencas: acciones de la Tarea Vida en Granma.",
+          "ideas": "Entrevista a un especialista del CITMA Granma sobre los programas de reforestación en cuencas hidrográficas y áreas costeras de la provincia. Resultados de la campaña de plantación de especies autóctonas. Participación comunitaria en el cuidado de manglares y bosques. Beneficios para la protección de suelos y fuentes de agua. Incluir testimonios de campesinos y brigadistas. Vincular con los objetivos de la Tarea Vida y el Programa de Gobierno. Tono informativo y propositivo.\n"
+        }
+      }
     },
     {
       "id": "s2",
@@ -43039,7 +43291,16 @@
       ],
       "time": "11:00",
       "active": true,
-      "dailyData": {}
+      "dailyData": {
+        "Marzo-semana-4-Sábado": {
+          "theme": "Día Mundial de la Poesía: lecturas y homenajes en Bayamo.",
+          "ideas": "Cobertura de actividades organizadas por la UNEAC, la AHS y la Biblioteca Provincial. Lecturas de poemas en espacios públicos, talleres de creación poética, reconocimientos a poetas locales. Entrevistas a escritores y participantes. Reproducir fragmentos de poemas. Tono cultural y festivo, celebrando la palabra poética como expresión del alma popular.\n"
+        },
+        "Marzo-semana-5-Sábado": {
+          "theme": "Jornadas comunitarias de reforestación en Bayamo y la provincia.",
+          "ideas": "Cobertura de actividades ambientales del fin de semana: siembra de árboles en márgenes de ríos, limpieza de costas, talleres de educación ambiental en comunidades. Entrevistas a organizadores (CITMA, CDR, jóvenes) y participantes. Datos de áreas recuperadas. Tono participativo, promoviendo la implicación ciudadana en el cuidado del entorno y la implementación de la Tarea Vida.\n"
+        }
+      }
     },
     {
       "id": "s3",
@@ -43085,6 +43346,14 @@
         "Febrero-semana-5-Sábado": {
           "theme": "Autoestima y aceptación personal: claves para adolescentes.",
           "ideas": "Abordar la construcción de una imagen positiva de uno mismo. Una psicóloga adolescente explica qué es la autoestima, cómo se forma y su impacto en la salud mental. Ofrece ejercicios prácticos: diario de logros, reconocer cualidades propias, aceptar imperfecciones. Incluye testimonios de jóvenes. Segmento interactivo con preguntas. Música moderna y relajante. Mensaje central: quererse a uno mismo es el primer paso para relacionarse sanamente con los demás."
+        },
+        "Marzo-semana-4-Sábado": {
+          "theme": "Presión social del grupo de amigos: cómo decir que no sin perder amigos.",
+          "ideas": "Programa de apoyo psicológico para adolescentes. Un psicólogo aborda el tema de la presión de grupo: por qué ocurre, cómo identificar situaciones de riesgo (consumo de alcohol/drogas, conductas violentas), técnicas para resistir asertivamente sin dañar relaciones. Role-playing de situaciones cotidianas. Testimonios de jóvenes que aprendieron a poner límites. Segmento de preguntas. Música moderna. Mensaje: la verdadera amistad respeta tus decisiones.\n"
+        },
+        "Marzo-semana-5-Sábado": {
+          "theme": "El impacto de las redes sociales en la autoestima de los adolescentes.",
+          "ideas": "Programa de apoyo psicológico. Un psicólogo analiza cómo el uso de redes sociales afecta la autoestima juvenil: comparación constante, búsqueda de validación, ciberacoso, idealización de vidas ajenas. Ofrece herramientas para un uso crítico y saludable: gestionar el tiempo, seguir perfiles positivos, diferenciar realidad y ficción, fortalecer la identidad fuera de la pantalla. Testimonios de jóvenes. Segmento de preguntas. Música moderna. Tono reflexivo y constructivo.\n"
         }
       }
     },
@@ -43132,6 +43401,14 @@
         "Febrero-semana-5-Sábado": {
           "theme": "El son en la trova tradicional: canciones que hablan del amor y el desamor.",
           "ideas": "Programa musical especializado. Selección de sones clásicos de la trova (Sindo Garay, María Teresa Vera, Ñico Saquito) que abordan el amor, la nostalgia y el desengaño. Un musicólogo comenta letras y contextos. Invitar a un trovador local para interpretar una pieza en vivo. Ambiente íntimo y romántico, ideal para la noche del sábado. Reproducir fragmentos de alta calidad sonora. Cerrar con un tema emblemático que invite a soñar."
+        },
+        "Marzo-semana-4-Sábado": {
+          "theme": "El son y la poesía: cuando la música se hace verso.",
+          "ideas": "Programa musical especializado. Selección de sones cuyas letras tienen alto valor poético: de Sindo Garay, Miguel Matamoros, Ñico Saquito. Un musicólogo y un poeta analizan la calidad lírica de estas composiciones. Reproducir fragmentos. Invitar a un trovador local a interpretar una pieza. Reflexionar sobre el son como poesía popular cantada, en el Día Mundial de la Poesía.\n"
+        },
+        "Marzo-semana-5-Sábado": {
+          "theme": "El Quinteto Rebelde: música y compromiso en los años 60.",
+          "ideas": "Programa musical especializado en el Quinteto Rebelde, agrupación creada en 1961 para llevar la música revolucionaria a barrios y campos. Un musicólogo repasa su historia, sus integrantes, su repertorio de canciones patrióticas y de denuncia. Reproducir fragmentos de \"Canción del hombre nuevo\", \"Qué bonito es mi comandante\". Invitar a un especialista o testimonio de algún familiar. Ambiente nostálgico y combativo, rescatando una pieza clave de la cultura musical de la Revolución.\n"
         }
       }
     },
@@ -43202,6 +43479,14 @@
         "Febrero-semana-5-Domingo": {
           "theme": "Juegos de mesa en familia: beneficios y opciones para compartir en casa.",
           "ideas": "Programa lúdico y educativo. Un pedagogo explica los beneficios cognitivos y sociales de los juegos de mesa (ajedrez, dominó, parchís, naipes). Recomendar juegos según edades. Invitar a una familia que tenga tradición de jugar junta. Proponer un torneo familiar dominical. Incluir sonidos de fichas, cartas y risas. Tono divertido y cálido, destacando que jugar une y enseña. Música alegre de fondo."
+        },
+        "Marzo-semana-4-Domingo": {
+          "theme": "Tradiciones familiares vinculadas al agua: pozos, ríos y leyendas.",
+          "ideas": "Programa emotivo y costumbrista. Invitar a abuelos y padres a compartir recuerdos de su infancia relacionados con el agua: baños en el río Bayamo, lavaderos comunitarios, pozos de barrio, leyendas de lluvias y sequías. Cómo ha cambiado la relación con el agua. Importancia de transmitir el respeto por este recurso a las nuevas generaciones. Sonidos de agua. Música suave. Tono nostálgico y reflexivo.\n"
+        },
+        "Marzo-semana-5-Domingo": {
+          "theme": "Valores familiares: el respeto a los mayores y la transmisión de historias.",
+          "ideas": "Programa emotivo e intergeneracional. Invitar a abuelos y nietos a conversar sobre la importancia de escuchar y valorar las historias de los mayores. Anécdotas familiares, enseñanzas, tradiciones. Cómo fortalecer el vínculo entre generaciones. Incluir canciones que hablen del respeto a los ancianos. Tono cálido y reflexivo. Música suave. Mensaje: la familia es el puente entre pasado y futuro.\n"
         }
       }
     },
@@ -43245,6 +43530,14 @@
         "Febrero-semana-5-Domingo": {
           "theme": "Canciones para despedir febrero y recibir marzo con alegría.",
           "ideas": "Selección musical infantil con temas sobre el cambio de mes, la llegada de la primavera (en el hemisferio norte) y el inicio de nuevas actividades. Incluir canciones cubanas y latinoamericanas. Un narrador cuenta un cuento breve sobre el ciclo de las estaciones. Actividad: que los niños dibujen cómo imaginan marzo. Música alegre, participativa, con invitación a cantar y bailar."
+        },
+        "Marzo-semana-4-Domingo": {
+          "theme": "Canciones y cuentos sobre el agua para los más pequeños.",
+          "ideas": "Selección de canciones infantiles que hablan del agua, la lluvia, los ríos y el mar. Un narrador cuenta un cuento sobre una gotita de agua viajera. Actividad: que los niños dibujen cómo cuidan el agua en casa. Mensaje: el agua es vida y debemos protegerla. Música alegre y participativa. En el Día Mundial del Agua, sembrar conciencia desde la infancia.\n"
+        },
+        "Marzo-semana-5-Domingo": {
+          "theme": "Canciones para jugar: rondas y juegos tradicionales cubanos.",
+          "ideas": "Selección de rondas y canciones infantiles tradicionales: \"Arroz con leche\", \"La pájara pinta\", \"El patio de mi casa\". Un narrador explica el origen de estos juegos y cómo se cantaban. Actividad: que los niños jueguen y canten en casa con sus familias. Música alegre y participativa. Rescatar la tradición lúdica infantil cubana.\n"
         }
       }
     },
@@ -43292,6 +43585,14 @@
         "Febrero-semana-5-Domingo": {
           "theme": "La caída en combate de Carlos Manuel de Céspedes.",
           "ideas": "Reconstrucción histórica de los últimos momentos del Padre de la Patria en San Lorenzo, el 27 de febrero de 1874. Un historiador narra el contexto, la delación, el enfrentamiento y su muerte. Lectura de partes de guerra españoles y cartas de sus compañeros. Significado de su pérdida para la causa independentista. Visita sonora al sitio histórico en la Sierra Maestra. Música fúnebre y patriótica. Reflexión sobre el precio de la libertad y la vigencia de su ejemplo de entrega total."
+        },
+        "Marzo-semana-4-Domingo": {
+          "theme": "El río Bayamo en la historia de la ciudad.",
+          "ideas": "Recorrido histórico por el río Bayamo y su relación con la fundación y desarrollo de la ciudad. Un historiador local narra su papel en la economía, la vida cotidiana y las leyendas. Cómo fue utilizado en la colonia, su declive, su estado actual. Proyectos de recuperación y saneamiento. Lectura de crónicas antiguas. Música de fondo con sonidos de río. Conectar con el Día Mundial del Agua y la necesidad de proteger este patrimonio natural.\n"
+        },
+        "Marzo-semana-5-Domingo": {
+          "theme": "Bayamo y la conspiración independentista: la ciudad como cuna de la libertad.",
+          "ideas": "Recorrido por el papel de Bayamo en las conspiraciones y alzamientos independentistas del siglo XIX. Un historiador local narra cómo la ciudad fue foco de rebeldía desde 1868, la toma de la ciudad, la quema heroica. Figuras clave bayamesas en la gesta. Lectura de documentos de la época. Visita sonora a sitios históricos. Música patriótica. Tono de profundo orgullo local, reafirmando a Bayamo como cuna de la nacionalidad cubana.\n"
         }
       }
     },
@@ -43339,6 +43640,14 @@
         "Febrero-semana-5-Domingo": {
           "theme": "Grandes éxitos de la música cubana para comenzar marzo.",
           "ideas": "Programa musical de apertura de mes. Selección de temas clásicos y contemporáneos que inviten a la alegría y el optimismo: Benny Moré, Celia Cruz, Los Van Van, Buena Fe. El conductor presenta cada tema con una breve anécdota. Ambiente festivo, ideal para la mañana del domingo. Sonido de alta calidad. Invitar a los oyentes a pedir canciones para la semana."
+        },
+        "Marzo-semana-4-Domingo": {
+          "theme": "Música inspirada en el agua: ríos, lluvias y mares en canciones cubanas.",
+          "ideas": "Programa musical temático. Selección de canciones cubanas que evocan el agua: \"El río\" de Silvio Rodríguez, \"Y que llueva\" de Eduardo Sosa, \"La comparsa\" de Lecuona, \"Mar tranquilo\" de Pablo Milanés, sones que mencionan el mar. El conductor presenta cada tema con breves comentarios. Ambiente relajado, ideal para la mañana del domingo, celebrando el elemento vital a través de la música.\n"
+        },
+        "Marzo-semana-5-Domingo": {
+          "theme": "Música para un domingo en familia: de la trova al son, de la guajira a la salsa.",
+          "ideas": "Programa musical variado con lo mejor de la música cubana para disfrutar en familia. Selección de temas que abarquen géneros y épocas: trovadores, soneros, danzonetes, boleros, timba. El conductor presenta cada tema con datos curiosos. Invitar a los oyentes a pedir canciones. Ambiente relajado y festivo, celebrando la riqueza musical cubana.\n"
         }
       }
     },
@@ -43386,6 +43695,14 @@
         "Febrero-semana-5-Domingo": {
           "theme": "Cartelera cultural de marzo en Bayamo: exposiciones, conciertos y eventos destacados.",
           "ideas": "Primer domingo de mes, por tanto, cartelera cultural mensual. El director municipal de Cultura presenta los principales eventos de marzo: exposiciones en la Galería de Arte, conciertos en la Casa de la Trova, estrenos teatrales, festivales, fechas conmemorativas (8M, Día de la Prensa). Incluir fechas, horarios, lugares y costos. Recomendaciones para el disfrute familiar. Tono promocional y animado, invitando a planificar un mes lleno de cultura en Bayamo.\n\n"
+        },
+        "Marzo-semana-4-Domingo": {
+          "theme": "Arte y naturaleza: exposiciones y proyectos culturales sobre el medio ambiente en Bayamo.",
+          "ideas": "Recorrido por iniciativas artísticas locales vinculadas al cuidado del entorno. Exposición de pintura \"Naturaleza viva\" en la Galería de Arte, proyectos de arte comunitario en espacios públicos, talleres de creación con materiales reciclados. Entrevista a un artista que trabaje la temática ambiental. Agenda cultural de la semana. Tono promocional, conectando cultura y conciencia ecológica."
+        },
+        "Marzo-semana-5-Domingo": {
+          "theme": "Patrimonio cultural inmaterial de Bayamo: tradiciones orales, festividades y saberes.",
+          "ideas": "Recorrido por el patrimonio inmaterial de la ciudad: leyendas, coplas, tradiciones orales, festividades religiosas y populares, oficios tradicionales, saberes culinarios. Entrevista a un especialista de la Oficina del Historiador o un investigador local. Importancia de preservar estas tradiciones. Proyectos de salvaguarda. Invitar a portadores de tradiciones (repentistas, narradores, artesanos). Tono de orgullo local, visibilizando la riqueza cultural viva de Bayamo."
         }
       }
     }
@@ -46590,7 +46907,21 @@
     "Febrero-semana-5-Jueves": "Soberanía Alimentaria – Aniversario de la primera campaña de vacunación antipolio (1962).",
     "Febrero-semana-5-Viernes": "Adelanto de las Mujeres – Aniversario de la caída en combate de Carlos Manuel de Céspedes (1874).",
     "Febrero-semana-5-Sábado": "Ciencia y Salud – Día Mundial de las Enfermedades Raras.",
-    "Febrero-semana-5-Domingo": "Cultura y Tradición"
+    "Febrero-semana-5-Domingo": "Cultura y Tradición",
+    "Marzo-semana-4-Lunes": "Adelanto de las Mujeres – Natalicio de Celina González (1929), Reina de la Música Campesina.",
+    "Marzo-semana-4-Martes": "Historia Militar Revolucionaria – Aniversario de la asunción de Vicente García como jefe del Ejército Libertador (1878).",
+    "Marzo-semana-4-Miércoles": "Programa de Gobierno – Lucha contra el Delito, la Corrupción y las Ilegalidades (Objetivo 8).",
+    "Marzo-semana-4-Jueves": "Soberanía Alimentaria – Natalicio de Armando Menocal (1863), patriota y pintor.",
+    "Marzo-semana-4-Viernes": "Lucha contra las Drogas – Aniversario de la primera huelga general contra Machado (1930).",
+    "Marzo-semana-4-Sábado": "Cultura y Memoria – Fallecimiento de Dora Alonso (2001).",
+    "Marzo-semana-4-Domingo": "Tarea Vida (Medio Ambiente) – Día Mundial del Agua.",
+    "Marzo-semana-5-Lunes": "Soberanía Alimentaria – Producción local y nutrición familiar.",
+    "Marzo-semana-5-Martes": "Cultura y Memoria – Aniversario de la fundación del ICAIC (1959).",
+    "Marzo-semana-5-Miércoles": "Adelanto de las Mujeres – En el contexto del natalicio de Julio Antonio Mella, destacando el papel de la mujer en su época y en la historia.",
+    "Marzo-semana-5-Jueves": "Legado de Fidel Castro – Aniversario de la creación de los órganos de la Seguridad del Estado (1959).",
+    "Marzo-semana-5-Viernes": "Lucha contra las Drogas – Día Mundial del Teatro.",
+    "Marzo-semana-5-Sábado": "Tarea Vida (Medio Ambiente) – Implementación de políticas ambientales en el territorio.",
+    "Marzo-semana-5-Domingo": "Historia y Tradición Local – Natalicio de Manuel de Quesada y Loynaz (1833), general mambí."
   },
   "agendaUsers": [
     {
