@@ -2579,426 +2579,6 @@
       ]
     },
     {
-      "name": "Sigue a tu ritmo",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.15",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "64.08"
-            },
-            {
-              "level": "II",
-              "amount": "58.04"
-            },
-            {
-              "level": "III",
-              "amount": "53.22"
-            },
-            {
-              "level": "SR",
-              "amount": "48.39"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "26.55"
-            },
-            {
-              "level": "II",
-              "amount": "24.05"
-            },
-            {
-              "level": "III",
-              "amount": "22.05"
-            },
-            {
-              "level": "SR",
-              "amount": "20.05"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.15 (del programa)",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4610"
-            },
-            {
-              "level": "II",
-              "amount": "4410"
-            },
-            {
-              "level": "III",
-              "amount": "4010"
-            },
-            {
-              "level": "SR",
-              "amount": "3610"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "55.63"
-            },
-            {
-              "level": "II",
-              "amount": "53.22"
-            },
-            {
-              "level": "III",
-              "amount": "48.39"
-            },
-            {
-              "level": "SR",
-              "amount": "43.56"
-            }
-          ]
-        },
-        {
-          "role": "Locutor",
-          "percentage": "0.15",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4410"
-            },
-            {
-              "level": "II",
-              "amount": "3810"
-            },
-            {
-              "level": "III",
-              "amount": "3410"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "53.22"
-            },
-            {
-              "level": "II",
-              "amount": "45.97"
-            },
-            {
-              "level": "III",
-              "amount": "41.15"
-            },
-            {
-              "level": "SR",
-              "amount": "37.53"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.25",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4010"
-            },
-            {
-              "level": "II",
-              "amount": "3610"
-            },
-            {
-              "level": "III",
-              "amount": "3260"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "52.60"
-            },
-            {
-              "level": "II",
-              "amount": "47.35"
-            },
-            {
-              "level": "III",
-              "amount": "42.76"
-            },
-            {
-              "level": "SR",
-              "amount": "40.79"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Al son de la radio",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "117.01"
-            },
-            {
-              "level": "II",
-              "amount": "105.99"
-            },
-            {
-              "level": "III",
-              "amount": "97.18"
-            },
-            {
-              "level": "SR",
-              "amount": "88.36"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "26.55"
-            },
-            {
-              "level": "II",
-              "amount": "24.05"
-            },
-            {
-              "level": "III",
-              "amount": "22.05"
-            },
-            {
-              "level": "SR",
-              "amount": "20.05"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4610"
-            },
-            {
-              "level": "II",
-              "amount": "4410"
-            },
-            {
-              "level": "III",
-              "amount": "4010"
-            },
-            {
-              "level": "SR",
-              "amount": "3610"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "101.59"
-            },
-            {
-              "level": "II",
-              "amount": "97.18"
-            },
-            {
-              "level": "III",
-              "amount": "88.36"
-            },
-            {
-              "level": "SR",
-              "amount": "79.55"
-            }
-          ]
-        },
-        {
-          "role": "Locutor",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4410"
-            },
-            {
-              "level": "II",
-              "amount": "3810"
-            },
-            {
-              "level": "III",
-              "amount": "3410"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "97.18"
-            },
-            {
-              "level": "II",
-              "amount": "83.95"
-            },
-            {
-              "level": "III",
-              "amount": "75.14"
-            },
-            {
-              "level": "SR",
-              "amount": "68.53"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4010"
-            },
-            {
-              "level": "II",
-              "amount": "3610"
-            },
-            {
-              "level": "III",
-              "amount": "3260"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "88.36"
-            },
-            {
-              "level": "II",
-              "amount": "79.55"
-            },
-            {
-              "level": "III",
-              "amount": "71.84"
-            },
-            {
-              "level": "SR",
-              "amount": "68.53"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Palco del Domingo",
       "roles": [
         {
@@ -3798,7 +3378,7 @@
       ]
     },
     {
-      "name": "Coloreando Melodías con Niños",
+      "name": "Coloreando Melodías",
       "roles": [
         {
           "role": "Director",
@@ -4008,12 +3588,12 @@
       ]
     },
     {
-      "name": "Coloreando Melodías",
+      "name": "Sigue a tu ritmo",
       "roles": [
         {
           "role": "Director",
-          "percentage": "0.4",
-          "tr": "1.5",
+          "percentage": "0.25",
+          "tr": "4",
           "salaries": [
             {
               "level": "I",
@@ -4035,19 +3615,229 @@
           "rates": [
             {
               "level": "I",
-              "amount": "58.50"
+              "amount": "139.30"
             },
             {
               "level": "II",
-              "amount": "53.00"
+              "amount": "126.18"
             },
             {
               "level": "III",
-              "amount": "48.59"
+              "amount": "115.69"
             },
             {
               "level": "SR",
-              "amount": "44.18"
+              "amount": "105.19"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "5310"
+            },
+            {
+              "level": "II",
+              "amount": "4810"
+            },
+            {
+              "level": "III",
+              "amount": "4410"
+            },
+            {
+              "level": "SR",
+              "amount": "4010"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "26.55"
+            },
+            {
+              "level": "II",
+              "amount": "24.05"
+            },
+            {
+              "level": "III",
+              "amount": "22.05"
+            },
+            {
+              "level": "SR",
+              "amount": "20.05"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.25",
+          "tr": "4",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "4610"
+            },
+            {
+              "level": "II",
+              "amount": "4410"
+            },
+            {
+              "level": "III",
+              "amount": "4010"
+            },
+            {
+              "level": "SR",
+              "amount": "3610"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "120.93"
+            },
+            {
+              "level": "II",
+              "amount": "115.69"
+            },
+            {
+              "level": "III",
+              "amount": "105.19"
+            },
+            {
+              "level": "SR",
+              "amount": "94.70"
+            }
+          ]
+        },
+        {
+          "role": "Locutor",
+          "percentage": "0.25",
+          "tr": "4",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "4410"
+            },
+            {
+              "level": "II",
+              "amount": "3810"
+            },
+            {
+              "level": "III",
+              "amount": "3410"
+            },
+            {
+              "level": "SR",
+              "amount": "3110"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "115.69"
+            },
+            {
+              "level": "II",
+              "amount": "99.95"
+            },
+            {
+              "level": "III",
+              "amount": "89.46"
+            },
+            {
+              "level": "SR",
+              "amount": "81.59"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.25",
+          "tr": "4",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "4010"
+            },
+            {
+              "level": "II",
+              "amount": "3610"
+            },
+            {
+              "level": "III",
+              "amount": "3260"
+            },
+            {
+              "level": "SR",
+              "amount": "3110"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "105.19"
+            },
+            {
+              "level": "II",
+              "amount": "94.70"
+            },
+            {
+              "level": "III",
+              "amount": "85.52"
+            },
+            {
+              "level": "SR",
+              "amount": "81.59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al son de la Radio",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "5310"
+            },
+            {
+              "level": "II",
+              "amount": "4810"
+            },
+            {
+              "level": "III",
+              "amount": "4410"
+            },
+            {
+              "level": "SR",
+              "amount": "4010"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "117.01"
+            },
+            {
+              "level": "II",
+              "amount": "105.99"
+            },
+            {
+              "level": "III",
+              "amount": "97.18"
+            },
+            {
+              "level": "SR",
+              "amount": "88.36"
             }
           ]
         },
@@ -4095,7 +3885,7 @@
         {
           "role": "Asesor",
           "percentage": "0.4",
-          "tr": "1.5",
+          "tr": "3",
           "salaries": [
             {
               "level": "I",
@@ -4117,26 +3907,26 @@
           "rates": [
             {
               "level": "I",
-              "amount": "50.79"
+              "amount": "101.58"
             },
             {
               "level": "II",
-              "amount": "48.59"
+              "amount": "97.18"
             },
             {
               "level": "III",
-              "amount": "44.18"
+              "amount": "88.36"
             },
             {
               "level": "SR",
-              "amount": "39.77"
+              "amount": "79.55"
             }
           ]
         },
         {
           "role": "Locutor",
           "percentage": "0.4",
-          "tr": "1.5",
+          "tr": "3",
           "salaries": [
             {
               "level": "I",
@@ -4158,26 +3948,26 @@
           "rates": [
             {
               "level": "I",
-              "amount": "48.59"
+              "amount": "97.18"
             },
             {
               "level": "II",
-              "amount": "41.98"
+              "amount": "83.96"
             },
             {
               "level": "III",
-              "amount": "37.57"
+              "amount": "75.15"
             },
             {
               "level": "SR",
-              "amount": "34.27"
+              "amount": "68.54"
             }
           ]
         },
         {
           "role": "Realizador (RGETSR)",
           "percentage": "0.4",
-          "tr": "1.5",
+          "tr": "3",
           "salaries": [
             {
               "level": "I",
@@ -4199,19 +3989,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "44.18"
+              "amount": "88.36"
             },
             {
               "level": "II",
-              "amount": "39.77"
+              "amount": "79.55"
             },
             {
               "level": "III",
-              "amount": "35.92"
+              "amount": "71.84"
             },
             {
               "level": "SR",
-              "amount": "34.27"
+              "amount": "68.54"
             }
           ]
         }
