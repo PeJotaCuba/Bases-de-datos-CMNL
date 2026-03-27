@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T01:51:40.837Z",
+  "timestamp": "2026-03-27T02:33:53.980Z",
   "users": [
     {
       "name": "Pedro José Reyes Acuña",
@@ -3756,216 +3756,6 @@
             {
               "level": "SR",
               "amount": "30.60"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Coloreando Melodías con Niños",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "58.50"
-            },
-            {
-              "level": "II",
-              "amount": "53.00"
-            },
-            {
-              "level": "III",
-              "amount": "48.59"
-            },
-            {
-              "level": "SR",
-              "amount": "44.18"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "5310"
-            },
-            {
-              "level": "II",
-              "amount": "4810"
-            },
-            {
-              "level": "III",
-              "amount": "4410"
-            },
-            {
-              "level": "SR",
-              "amount": "4010"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "26.55"
-            },
-            {
-              "level": "II",
-              "amount": "24.05"
-            },
-            {
-              "level": "III",
-              "amount": "22.05"
-            },
-            {
-              "level": "SR",
-              "amount": "20.05"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4610"
-            },
-            {
-              "level": "II",
-              "amount": "4410"
-            },
-            {
-              "level": "III",
-              "amount": "4010"
-            },
-            {
-              "level": "SR",
-              "amount": "3610"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "50.79"
-            },
-            {
-              "level": "II",
-              "amount": "48.59"
-            },
-            {
-              "level": "III",
-              "amount": "44.18"
-            },
-            {
-              "level": "SR",
-              "amount": "39.77"
-            }
-          ]
-        },
-        {
-          "role": "Locutor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4410"
-            },
-            {
-              "level": "II",
-              "amount": "3810"
-            },
-            {
-              "level": "III",
-              "amount": "3410"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "48.59"
-            },
-            {
-              "level": "II",
-              "amount": "41.98"
-            },
-            {
-              "level": "III",
-              "amount": "37.57"
-            },
-            {
-              "level": "SR",
-              "amount": "34.27"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "4010"
-            },
-            {
-              "level": "II",
-              "amount": "3610"
-            },
-            {
-              "level": "III",
-              "amount": "3260"
-            },
-            {
-              "level": "SR",
-              "amount": "3110"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "44.18"
-            },
-            {
-              "level": "II",
-              "amount": "39.77"
-            },
-            {
-              "level": "III",
-              "amount": "35.92"
-            },
-            {
-              "level": "SR",
-              "amount": "34.27"
             }
           ]
         }
@@ -9595,12 +9385,22 @@
   },
   "agendaUsers": [
     {
+      "id": "admin",
+      "name": "Pedro José Reyes Acuña",
+      "username": "admin",
+      "pin": "RC0026",
+      "role": "admin",
+      "phone": "54413935",
+      "photo": ""
+    },
+    {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "pin": "RadioCiudad0026"
     },
     {
       "id": "jose",
@@ -9609,7 +9409,8 @@
       "mobile": "54205626",
       "password": "RadioCiudad1726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1726"
     },
     {
       "id": "lissell",
@@ -9618,7 +9419,8 @@
       "mobile": "58841705",
       "password": "RadioCiudad0226",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0226"
     },
     {
       "id": "maylen",
@@ -9627,7 +9429,8 @@
       "mobile": "58702380",
       "password": "RadioCiudad1026",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1026"
     },
     {
       "id": "rosa",
@@ -9636,7 +9439,8 @@
       "mobile": "54275723",
       "password": "RadioCiudad0826",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0826"
     },
     {
       "id": "abel",
@@ -9645,7 +9449,8 @@
       "mobile": "59195045",
       "password": "RadioCiudad0926",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0926"
     },
     {
       "id": "caridad",
@@ -9654,7 +9459,8 @@
       "mobile": "56350265",
       "password": "RadioCiudad1626",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1626"
     },
     {
       "id": "rafael",
@@ -9663,7 +9469,8 @@
       "mobile": "52143905",
       "password": "RadioCiudad1526",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1526"
     },
     {
       "id": "ernesto",
@@ -9672,7 +9479,8 @@
       "mobile": "52137105",
       "password": "RadioCiudad0326",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0326"
     },
     {
       "id": "leipzig",
@@ -9681,7 +9489,8 @@
       "mobile": "58401306",
       "password": "RadioCiudad1426",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1426"
     },
     {
       "id": "beatrizgonzalez",
@@ -9690,7 +9499,8 @@
       "mobile": "58390181",
       "password": "RadioCiudad1226",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1226"
     },
     {
       "id": "daylen",
@@ -9699,7 +9509,8 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1126"
     }
   ],
   "agendaPropaganda": {
@@ -9864,7 +9675,6 @@
   ],
   "dynamicData": {
     "user_lissell_rcm_consolidated_months": [],
-    "user_ernesto_rcm_interruptions": [],
     "guionbd_data_bdias.json": [
       {
         "id": "17720176171170.5769171327897428",
@@ -25967,8 +25777,6 @@
         "content": "\r\nPrograma: PARADA JOVEN\r\nFecha: VIERNES, 20 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cómo contagiar la felicidad a los demás.\r\n"
       }
     ],
-    "user_ernesto_rcm_data_consolidated": [],
-    "user_ernesto_habitual_exclusions": [],
     "user_admin_rcm_data_worklogs": [],
     "guionbd_data_domingo.json": [
       {
@@ -27266,25 +27074,9 @@
       }
     ],
     "user_maylen_rcm_consolidated_months": [],
+    "user_maylen_habitual_exclusions": [],
     "user_lissell_rcm_interruptions": [],
-    "user_lissell_rcm_data_worklogs": [
-      {
-        "id": "17744590096300.24077317718495062",
-        "userId": "lissell",
-        "role": "Asesor",
-        "programName": "Buenos Días Bayamo",
-        "date": "2026-03-25",
-        "amount": 135.45
-      },
-      {
-        "id": "17744590170470.9140780844615214",
-        "userId": "lissell",
-        "role": "Asesor",
-        "programName": "Buenos Días Bayamo",
-        "date": "2026-03-24",
-        "amount": 135.45
-      }
-    ],
+    "user_lissell_rcm_data_worklogs": [],
     "rcm_payment_config_admin": {
       "roles": [
         {
@@ -33115,8 +32907,7 @@
     "user_lissell_rcm_data_consolidated": [],
     "user_admin_rcm_interruptions": [],
     "user_maylen_rcm_data_consolidated": [],
-    "user_ernesto_rcm_consolidated_months": [],
-    "user_ernesto_habitual_mode": false,
+    "user_maylen_habitual_mode": false,
     "guionbd_data_ritmo.json": [
       {
         "id": "17720176171270.6785271041610175",
@@ -33458,7 +33249,6 @@
         "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 7 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo desarrollar la creatividad y el pensamiento innovador desde la adolescencia.\r\n"
       }
     ],
-    "user_ernesto_rcm_data_worklogs": [],
     "user_maylen_rcm_interruptions": [],
     "guionbd_data_casa.json": [
       {
