@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T11:34:20.769Z",
+  "timestamp": "2026-03-28T21:34:31.510Z",
   "users": [
     {
       "name": "Pedro José Reyes Acuña",
@@ -87,8 +87,8 @@
       "name": "Leipzig del Carmen Vázquez García",
       "mobile": "58401306",
       "password": "RadioCiudad1426",
-      "role": "worker",
-      "classification": "Usuario"
+      "role": "coordinator",
+      "classification": "Coordinador"
     },
     {
       "id": "beatrizgonzalez",
@@ -213,7 +213,7 @@
       "name": "La Cumbancha (Lunes a Viernes)",
       "schedule": "9:00 AM - 9:58 AM",
       "duration": "58 min",
-      "frequency": "Lunes a Sábado",
+      "frequency": "Lunes a Viernes",
       "func": "Recreativa",
       "music_cuban": "85 %",
       "music_foreign": "15 %",
@@ -238,7 +238,7 @@
       "name": "La Cumbancha Sábado",
       "schedule": "9:00 AM - 10:58 AM",
       "duration": "118 min",
-      "frequency": "Lunes a Sábado",
+      "frequency": "Sábado",
       "func": "Recreativa",
       "music_cuban": "85 %",
       "music_foreign": "15 %",
@@ -412,7 +412,7 @@
       "name": "Parada Joven",
       "schedule": "12:30 PM - 12:58 PM",
       "duration": "28 min",
-      "frequency": "Lunes a Sábado",
+      "frequency": "Lunes a Viernes",
       "func": "Orientación",
       "music_cuban": "85 %",
       "music_foreign": "15 %",
@@ -4409,6 +4409,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Día Mundial del Teatro: la escena como espejo de la sociedad y herramienta de transformación.",
           "ideas": "Programa cultural dedicado al teatro. Un crítico y un director teatral analizan la importancia del arte escénico en la formación de conciencia y valores. Recorrido por la historia del teatro en Bayamo: grupos emblemáticos, obras, figuras. Invitar a un actor o actriz local a compartir experiencias. Fragmentos sonoros de obras. Conectar con la lucha contra las drogas: el teatro como alternativa de recreación sana y expresión juvenil. Tono celebratorio y reflexivo.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "Alejandro Robaina: el patriarca del tabaco cubano y su legado de trabajo y tradición.",
+          "ideas": "Perfil de Alejandro Robaina en su natalicio. Un historiador y un tabacalero local repasan su vida, su dedicación al cultivo del tabaco, su reconocimiento internacional y su modestia. Testimonio de un productor bayamés. Conectar con la soberanía alimentaria: el trabajo en el campo como pilar de identidad y desarrollo. Música campesina de fondo. Cierre: el ejemplo de Robaina como emblema del campesino cubano.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "Félix B. Caignet: el padre de la radionovela cubana y su huella en la cultura popular.",
+          "ideas": "Perfil de Félix B. Caignet en su natalicio. Un historiador de la cultura y un especialista en radio repasan su trayectoria como escritor, compositor y creador del género de la radionovela en Cuba. Obras emblemáticas: \"El derecho de nacer\". Reproducir fragmentos de radionovelas de archivo. Invitar a un actor de radio local. Conectar con el Día del Libro Cubano: Caignet como hacedor de historias que marcaron generaciones.\n"
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "Alejandro Robaina: el patriarca del tabaco cubano y su legado de trabajo y tradición.",
+          "ideas": "Perfil de Alejandro Robaina en su natalicio. Un historiador y un tabacalero local repasan su vida, su dedicación al cultivo del tabaco, su reconocimiento internacional y su modestia. Testimonio de un productor bayamés. Conectar con la soberanía alimentaria: el trabajo en el campo como pilar de identidad y desarrollo. Música campesina de fondo. Cierre: el ejemplo de Robaina como emblema del campesino cubano.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "Félix B. Caignet: el padre de la radionovela cubana y su huella en la cultura popular.",
+          "ideas": "Perfil de Félix B. Caignet en su natalicio. Un historiador de la cultura y un especialista en radio repasan su trayectoria como escritor, compositor y creador del género de la radionovela en Cuba. Obras emblemáticas: \"El derecho de nacer\". Reproducir fragmentos de radionovelas de archivo. Invitar a un actor de radio local. Conectar con el Día del Libro Cubano: Caignet como hacedor de historias que marcaron generaciones.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "Fidel y el deporte: la pelota como derecho del pueblo.",
+          "ideas": "Programa histórico y deportivo en el aniversario del 1 de abril de 1959, cuando Fidel lanzó la primera bola en la inauguración del béisbol amateur. Un historiador deportivo analiza el significado de aquel gesto: la democratización del deporte, la masificación, la creación del INDER. Testimonio de un ex pelotero amateur. Conectar con el Objetivo 7 del Programa de Gobierno (políticas sociales). Música de estadio. Cierre: el deporte como escuela de valores y salud.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "Autismo en Cuba: diagnóstico, inclusión y apoyo a las familias en Granma.",
+          "ideas": "Programa de sensibilización en el Día Mundial del Autismo. Un especialista en psicología infantil y una madre de un niño con autismo explican qué es el Trastorno del Espectro Autista, los servicios de diagnóstico y atención en la provincia (Centro de Diagnóstico y Orientación), y la importancia de la inclusión social. Testimonio de una familia bayamesa. Vincular con el Objetivo 7 del Programa de Gobierno (políticas sociales). Tono humano y esperanzador.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "Acompañamiento familiar en la preparación para exámenes finales y pruebas de ingreso.",
+          "ideas": "Programa de orientación práctica para padres y estudiantes. Un pedagogo y un psicólogo ofrecen consejos sobre cómo apoyar sin presión: establecer rutinas de estudio, fomentar hábitos saludables, manejar la ansiedad, comunicarse con los adolescentes. Testimonios de jóvenes que enfrentaron con éxito estas pruebas. Tono cálido y tranquilizador, ayudando a las familias a transitar esta etapa con equilibrio y confianza.\n"
         }
       }
     },
@@ -4628,6 +4656,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Juegos teatrales para hacer en familia: desarrollando la creatividad en casa.",
           "ideas": "Taller lúdico y creativo. Un instructor de teatro propone juegos sencillos para hacer en familia: imitaciones, títeres con calcetines, pequeñas dramatizaciones de cuentos, creación de personajes. Beneficios: desarrollo de la expresión, imaginación, trabajo en equipo, diversión. Ejemplos prácticos. Testimonios. Sonidos de risas. Tono alegre y participativo, acercando el teatro al hogar.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "Preparación de postres tradicionales cubanos con frutas de temporada.",
+          "ideas": "Taller culinario dedicado a los dulces caseros. Una cocinera experta muestra recetas: cascos de guayaba, dulce de leche, pudín de pan con frutas, natilla. Consejos para aprovechar frutas en su punto. Valor cultural de estos postres en la tradición familiar. Testimonios de abuelas. Sonidos de cocina y música tradicional. Tono cálido y nostálgico, recuperando sabores de la infancia.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "Cómo organizar una biblioteca familiar y fomentar la lectura en el hogar.",
+          "ideas": "Guía práctica para crear espacios de lectura en casa. Un promotor cultural y una maestra ofrecen consejos: clasificar libros por edades, crear un rincón acogedor, establecer rutinas de lectura familiar, intercambiar libros con vecinos. Beneficios para niños y adultos. Testimonios de familias lectoras. Sonidos de hojas al pasar. Tono motivador, celebrando el Día del Libro Cubano con acciones concretas.\n"
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "Preparación de postres tradicionales cubanos con frutas de temporada.",
+          "ideas": "Taller culinario dedicado a los dulces caseros. Una cocinera experta muestra recetas: cascos de guayaba, dulce de leche, pudín de pan con frutas, natilla. Consejos para aprovechar frutas en su punto. Valor cultural de estos postres en la tradición familiar. Testimonios de abuelas. Sonidos de cocina y música tradicional. Tono cálido y nostálgico, recuperando sabores de la infancia.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "Cómo organizar una biblioteca familiar y fomentar la lectura en el hogar.",
+          "ideas": "Guía práctica para crear espacios de lectura en casa. Un promotor cultural y una maestra ofrecen consejos: clasificar libros por edades, crear un rincón acogedor, establecer rutinas de lectura familiar, intercambiar libros con vecinos. Beneficios para niños y adultos. Testimonios de familias lectoras. Sonidos de hojas al pasar. Tono motivador, celebrando el Día del Libro Cubano con acciones concretas.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "Actividades deportivas para hacer en familia durante el fin de semana.",
+          "ideas": "Guía práctica de recreación familiar. Un profesor de Educación Física propone juegos y ejercicios para realizar en espacios abiertos o en casa: carreras de obstáculos, juegos de pelota, circuitos de ejercicios. Beneficios para la salud física y emocional. Testimonios de familias activas. Sonidos de risas y movimiento. Tono alegre y motivador, promoviendo la actividad física compartida.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "Estrategias para fomentar la inclusión de niños con autismo en el hogar y la comunidad.",
+          "ideas": "Guía práctica para familias y vecinos. Una especialista en educación especial ofrece consejos para crear entornos acogedores: rutinas predecibles, comunicación clara, respeto a las diferencias sensoriales. Cómo pueden ayudar familiares, amigos y vecinos. Testimonios de experiencias inclusivas en Bayamo. Tono práctico y solidario, promoviendo una comunidad más comprensiva y unida.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "Educación financiera para niños: cómo enseñar a ahorrar desde pequeños.",
+          "ideas": "Taller práctico para familias. Un pedagogo y un economista ofrecen consejos para enseñar a niños y adolescentes conceptos de ahorro, gasto responsable y valor del dinero: alcancías, pequeñas asignaciones, diferenciar necesidades de deseos. Testimonios de padres que han aplicado estas estrategias. Sonidos de monedas. Tono lúdico y formativo, preparando a las nuevas generaciones para la gestión económica.\n"
         }
       }
     },
@@ -4883,6 +4939,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Celebración del Día Mundial del Teatro en Bayamo: cartelera y homenajes.",
           "ideas": "Cobertura de las actividades programadas: funciones especiales en salas teatrales, lecturas dramatizadas, talleres abiertos, reconocimientos a personalidades del teatro local. Entrevistas a organizadores, artistas y público. Agenda teatral del fin de semana. Tono festivo y cultural, promoviendo la asistencia al teatro como opción de recreación sana.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "Balance del cultivo del tabaco en Granma: tradición y perspectivas.",
+          "ideas": "Reportaje desde una vegas tabacaleras de la provincia. Entrevista a productores sobre la campaña de recolección, calidad de la hoja, comercialización y dificultades. Datos de producción. Vincular con el Objetivo 3 del Programa de Gobierno (incrementar producción nacional). Incluir opiniones de torcedores locales. Tono realista, destacando el legado de Robaina y los desafíos actuales del sector.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "Día del Libro Cubano: actividades y reconocimientos en Bayamo.",
+          "ideas": "Cobertura de las jornadas por el Día del Libro Cubano en la Biblioteca Provincial y otras instituciones. Presentaciones de libros de autores locales, talleres literarios, lecturas en espacios públicos, homenajes a escritores bayameses. Entrevistas a escritores, editores y lectores. Agenda de actividades. Tono festivo y cultural, promoviendo la lectura como hábito y la literatura como patrimonio.\n"
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "Balance del cultivo del tabaco en Granma: tradición y perspectivas.",
+          "ideas": "Reportaje desde una vega tabacalera de la provincia. Entrevista a productores sobre la campaña de recolección, calidad de la hoja, comercialización y dificultades. Datos de producción. Vincular con el Objetivo 3 del Programa de Gobierno (incrementar producción nacional). Incluir opiniones de torcedores locales. Tono realista, destacando el legado de Robaina y los desafíos actuales del sector.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "Día del Libro Cubano: actividades y reconocimientos en Bayamo.",
+          "ideas": "Cobertura de las jornadas por el Día del Libro Cubano en la Biblioteca Provincial y otras instituciones. Presentaciones de libros de autores locales, talleres literarios, lecturas en espacios públicos, homenajes a escritores bayameses. Entrevistas a escritores, editores y lectores. Agenda de actividades. Tono festivo y cultural, promoviendo la lectura como hábito y la literatura como patrimonio.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "Balance de la práctica deportiva en Bayamo: instalaciones, programas y participación.",
+          "ideas": "Reportaje desde el estadio de béisbol o una instalación deportiva local. Entrevista al director municipal de Deportes sobre programas de masificación, escuelas de iniciación, estado de las instalaciones, participación de niños y jóvenes. Datos de atletas destacados. Vincular con el Objetivo 7 del Programa de Gobierno. Tono informativo, mostrando logros y desafíos en el acceso al deporte.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "Servicios de atención al autismo en Granma: logros y necesidades.",
+          "ideas": "Reportaje desde el Centro de Diagnóstico y Orientación de Bayamo. Entrevista a psicólogos, logopedas y terapeutas sobre los servicios que ofrecen, cantidad de niños atendidos, programas de intervención temprana. Incluir testimonios de madres. Datos sobre formación de especialistas. Vincular con el Objetivo 7 del Programa de Gobierno. Tono informativo, visibilizando una necesidad y destacando los esfuerzos del sistema de salud.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "Estrategias municipales para el desarrollo económico local en Bayamo.",
+          "ideas": "Reportaje sobre proyectos económicos impulsados por el gobierno municipal en línea con el Objetivo 5 del Programa de Gobierno (perfeccionar la gestión del desarrollo territorial). Entrevista al intendente o un especialista en desarrollo local. Proyectos priorizados, fuentes de financiamiento, participación de actores económicos. Incluir opiniones de emprendedores. Tono propositivo, mostrando cómo se construye la soberanía desde lo local.\n"
         }
       }
     },
@@ -5102,6 +5186,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Grandes obras del teatro cubano: análisis de textos clásicos.",
           "ideas": "Viernes es de artes escénicas. Selección de fragmentos de obras emblemáticas del teatro cubano: \"Contigo pan y cebolla\" de Héctor Quintero, \"Electra Garrigó\" de Virgilio Piñera, \"El médico de la familia\" de José Milián. Un crítico teatral analiza su contexto, sus personajes, su vigencia. Lectura dramatizada por actores locales. Música de fondo. Reflexionar sobre el teatro como espejo de la cubanía.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "La figura del campesino en el cine cubano: de la guajira al tabacalero.",
+          "ideas": "Lunes es de audiovisuales. Recorrido por películas cubanas que retratan la vida en el campo: \"El Mégano\", \"La primera carga al machete\", documentales sobre el tabaco. Un crítico analiza cómo el cine ha representado al campesino como símbolo de identidad y resistencia. Invitar a un realizador local. Fragmentos sonoros. Música de fondo con puntos cubanos. Reflexionar sobre la importancia de preservar la memoria audiovisual rural.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "Ilustración y grabado en los libros cubanos: arte plástico al servicio de la palabra.",
+          "ideas": "Martes es de artes plásticas. Recorrido por la historia de la ilustración y el grabado en la edición cubana, desde los primeros libros hasta las producciones contemporáneas. Un artista plástico y un diseñador analizan técnicas y estilos, destacando a figuras como Servando Cabrera, René Portocarrero y grabadores actuales. Exposición de libros ilustrados. Describir obras. Música de fondo. Reflexionar sobre el diálogo entre literatura y artes visuales en el Día del Libro Cubano.\n"
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "La figura del campesino en el cine cubano: de la guajira al tabacalero.",
+          "ideas": "Lunes es de audiovisuales. Recorrido por películas cubanas que retratan la vida en el campo: \"El Mégano\", \"La primera carga al machete\", documentales sobre el tabaco. Un crítico analiza cómo el cine ha representado al campesino como símbolo de identidad y resistencia. Invitar a un realizador local. Fragmentos sonoros. Música de fondo con puntos cubanos. Reflexionar sobre la importancia de preservar la memoria audiovisual rural.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "Ilustración y grabado en los libros cubanos: arte plástico al servicio de la palabra.",
+          "ideas": "Martes es de artes plásticas. Recorrido por la historia de la ilustración y el grabado en la edición cubana, desde los primeros libros hasta las producciones contemporáneas. Un artista plástico y un diseñador analizan técnicas y estilos, destacando a figuras como Servando Cabrera, René Portocarrero y grabadores actuales. Exposición de libros ilustrados. Describir obras. Música de fondo. Reflexionar sobre el diálogo entre literatura y artes visuales en el Día del Libro Cubano.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "El béisbol en la literatura cubana: crónicas, poesía y narrativa.",
+          "ideas": "Miércoles es de literatura. Recorrido por textos literarios cubanos dedicados al béisbol: crónicas de la revista \"Lunes de Revolución\", poemas de Nicolás Guillén, cuentos de Senel Paz. Un crítico analiza cómo el deporte nacional ha inspirado la creación literaria. Lectura de fragmentos. Invitar a un escritor local. Música de fondo con temas deportivos. Reflexionar sobre la literatura como crónica de las pasiones populares.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "La música como herramienta terapéutica para niños con autismo.",
+          "ideas": "Jueves es de música. Una musicoterapeuta explica cómo la música puede ayudar a niños con autismo en la comunicación, la expresión emocional y la regulación sensorial. Reproducir fragmentos de piezas utilizadas en terapia. Testimonios de padres. Invitar a un músico que trabaje con esta población. Reflexionar sobre el arte como puente hacia la inclusión. Música suave y armónica. Tono sensible y esperanzador.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "Obras teatrales escritas por José Martí: el dramaturgo olvidado.",
+          "ideas": "Viernes es de artes escénicas. Un crítico teatral y un actor analizan las piezas dramáticas de José Martí, como \"Adúltera\" y \"Amor con amor se paga\". Lectura dramatizada de fragmentos. Contexto de estas obras en su producción literaria. Invitar a un director de teatro local a comentar la vigencia escénica de estos textos. Música de fondo con temas de la época. Reflexionar sobre la versatilidad del Apóstol como creador escénico.\n"
         }
       }
     },
@@ -5321,6 +5433,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Jóvenes en las tablas: grupos de teatro juveniles en Bayamo.",
           "ideas": "Presentar colectivos teatrales juveniles de la ciudad (grupos de la AHS, de escuelas, comunitarios). Entrevista a sus integrantes sobre motivaciones, formación, repertorio, experiencias. Reproducir fragmentos de sus obras. Un director de la Casa de la Cultura comenta talleres y convocatorias. Segmento interactivo. Tono entusiasta, mostrando el teatro como opción de desarrollo personal y artístico para la juventud.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "Jóvenes en el campo: motivaciones, desafíos y proyectos de vida en la agricultura.",
+          "ideas": "Encuentro con jóvenes agricultores de Bayamo, incluyendo tabacaleros, productores de viandas y frutales. Conversar sobre por qué eligieron el campo, condiciones de trabajo, acceso a tecnología, rentabilidad. Un representante del MINAG explica programas de estímulo. Testimonios de quienes ven futuro en la tierra. Segmento interactivo. Tono realista y motivador, mostrando el campo como opción de vida digna.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "Jóvenes escritores bayameses: nuevas voces y proyectos editoriales.",
+          "ideas": "Encuentro con jóvenes autores de Bayamo (cuento, poesía, novela) que han publicado recientemente. Entrevista sobre sus influencias, temáticas, procesos creativos, dificultades para publicar y difundir. Un editor de la AHS o del Centro Provincial del Libro comenta convocatorias y apoyos. Lectura de fragmentos. Segmento interactivo. Tono inspirador, celebrando la creación literaria local en su día.\n"
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "Jóvenes en el campo: motivaciones, desafíos y proyectos de vida en la agricultura.",
+          "ideas": "Encuentro con jóvenes agricultores de Bayamo, incluyendo tabacaleros, productores de viandas y frutales. Conversar sobre por qué eligieron el campo, condiciones de trabajo, acceso a tecnología, rentabilidad. Un representante del MINAG explica programas de estímulo. Testimonios de quienes ven futuro en la tierra. Segmento interactivo. Tono realista y motivador, mostrando el campo como opción de vida digna.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "Jóvenes escritores bayameses: nuevas voces y proyectos editoriales.",
+          "ideas": "Encuentro con jóvenes autores de Bayamo (cuento, poesía, novela) que han publicado recientemente. Entrevista sobre sus influencias, temáticas, procesos creativos, dificultades para publicar y difundir. Un editor de la AHS o del Centro Provincial del Libro comenta convocatorias y apoyos. Lectura de fragmentos. Segmento interactivo. Tono inspirador, celebrando la creación literaria local en su día.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "Deportes urbanos: skate, parkour y nuevas formas de movimiento juvenil.",
+          "ideas": "Programa dinámico sobre prácticas deportivas alternativas entre los jóvenes bayameses. Entrevista a practicantes de skate, parkour o breaking. Cómo surgen estos deportes, dónde entrenan, qué significan para ellos. Un psicólogo comenta los beneficios de estas disciplinas para la autoestima y la disciplina. Segmento interactivo con videos descritos. Música urbana. Tono fresco y conectado con las tendencias juveniles.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "Fandoms, series y pasiones juveniles: ¿cómo influyen en la identidad?",
+          "ideas": "Debate ameno con jóvenes seguidores de series, anime, K-pop, videojuegos, etc. Analizar qué buscan en estos universos, cómo se relacionan con otros fans, qué valores rescatan y cómo combinan sus aficiones con la vida cotidiana. Un psicólogo comenta el rol de estas comunidades en la construcción de identidad y el sentido de pertenencia. Segmento interactivo con recomendaciones. Tono fresco, sin juicios, conectado con sus intereses reales.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "Conflictos de pareja en la adolescencia: comunicación y límites saludables.",
+          "ideas": "Programa de psicología para jóvenes. Un psicólogo aborda temas comunes en las primeras relaciones de pareja: celos, desacuerdos, presión para tener relaciones sexuales, manejo de las redes sociales. Ofrece herramientas para una comunicación asertiva, reconocer señales de toxicidad y construir relaciones basadas en el respeto mutuo. Testimonios anónimos. Segmento de preguntas. Música moderna. Tono cercano y desprejuiciado.\n"
         }
       }
     },
@@ -5540,6 +5680,34 @@
         "Marzo-semana-5-Viernes": {
           "theme": "Influencia de la cultura coreana en los bayameses.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga y un sociólogo joven analizan el fenómeno del Hallyu (ola coreana) en la juventud bayamesa: K-pop, doramas, moda, idioma, gastronomía. ¿Por qué atrae? ¿Qué valores transmite? ¿Cómo se combina con la identidad cubana? Entrevista a jóvenes fans locales. Testimonios. Reflexión sobre la globalización cultural y la apropiación juvenil. Tono abierto y curioso, sin prejuicios, buscando entender el fenómeno desde la psicología social.\n"
+        },
+        "Marzo-semana-6-Lunes": {
+          "theme": "Salud sexual en la adolescencia: comunicación entre padres e hijos.",
+          "ideas": "Lunes es de sexualidad. Un psicólogo y un pediatra ofrecen pautas para que los padres aborden temas de sexualidad con sus hijos adolescentes: cuándo y cómo hablar, desmontar mitos, fomentar la confianza, responder preguntas incómodas. Importancia de una comunicación abierta para prevenir embarazos no planificados e ITS. Testimonios de padres e hijos. Tono cálido y práctico, ayudando a familias a construir puentes.\n"
+        },
+        "Marzo-semana-6-Martes": {
+          "theme": "El régimen de visitas y cuidado personal de los hijos después del divorcio.",
+          "ideas": "Martes es día jurídico. Un abogado especialista en derecho de familia explica cómo se regula el régimen de visitas, la patria potestad compartida y la determinación del cuidado personal de los hijos tras la separación de los padres. Derechos y deberes de ambos progenitores, pautas para acuerdos extrajudiciales y vía judicial. Responder preguntas frecuentes. Dónde acudir en Bayamo para asesoramiento. Tono claro y orientador, ayudando a familias a transitar estos procesos con enfoque en el interés superior del niño."
+        },
+        "Abril-semana-1-Lunes": {
+          "theme": "Salud sexual en la adolescencia: comunicación entre padres e hijos.",
+          "ideas": "Lunes es de sexualidad. Un psicólogo y un pediatra ofrecen pautas para que los padres aborden temas de sexualidad con sus hijos adolescentes: cuándo y cómo hablar, desmontar mitos, fomentar la confianza, responder preguntas incómodas. Importancia de una comunicación abierta para prevenir embarazos no planificados e ITS. Testimonios de padres e hijos. Tono cálido y práctico, ayudando a familias a construir puentes.\n"
+        },
+        "Abril-semana-1-Martes": {
+          "theme": "El régimen de visitas y cuidado personal de los hijos después del divorcio.",
+          "ideas": "Martes es día jurídico. Un abogado especialista en derecho de familia explica cómo se regula el régimen de visitas, la patria potestad compartida y la determinación del cuidado personal de los hijos tras la separación de los padres. Derechos y deberes de ambos progenitores, pautas para acuerdos extrajudiciales y vía judicial. Responder preguntas frecuentes. Dónde acudir en Bayamo para asesoramiento. Tono claro y orientador, ayudando a familias a transitar estos procesos con enfoque en el interés superior del niño.\n"
+        },
+        "Abril-semana-1-Miércoles": {
+          "theme": "El duelo en la infancia: cómo acompañar a los niños ante la pérdida de un ser querido.",
+          "ideas": "Miércoles es día variado. Una psicóloga infantil aborda un tema sensible: cómo explicar la muerte a los niños según su edad, cómo reconocer señales de duelo complicado, qué hacer y qué evitar. Consejos para acompañar desde el amor y la honestidad. Testimonios de padres que atravesaron esta experiencia. Recursos de apoyo en Bayamo. Tono empático y tranquilizador, ayudando a familias a transitar estos momentos difíciles.\n"
+        },
+        "Abril-semana-1-Jueves": {
+          "theme": "Derechos de las personas con discapacidad: inclusión laboral y educativa.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Un abogado y un representante de la ACLIFIM explican los derechos de las personas con discapacidad en Cuba: acceso a la educación, empleo protegido, pensiones, eliminación de barreras arquitectónicas. Cómo hacer valer estos derechos. Experiencias locales de inclusión laboral. Vincular con el Objetivo 7 del Programa de Gobierno. Tono claro y empoderador.\n"
+        },
+        "Abril-semana-1-Viernes": {
+          "theme": "La independencia económica en el hogar: estrategias para diversificar ingresos.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Un economista y un emprendedor exitoso ofrecen ideas prácticas para diversificar las fuentes de ingresos familiares: emprendimientos desde casa, venta de servicios, aprovechamiento de habilidades, trabajo colaborativo. Riesgos y oportunidades. Testimonios de familias que han mejorado su situación. Vincular con el espíritu de soberanía económica que defendió Martí. Tono práctico, alentador y realista.\n"
         }
       }
     },
@@ -5559,6 +5727,10 @@
         "Marzo-semana-5-Sábado": {
           "theme": "Reforestación y cuidado de cuencas: acciones de la Tarea Vida en Granma.",
           "ideas": "Entrevista a un especialista del CITMA Granma sobre los programas de reforestación en cuencas hidrográficas y áreas costeras de la provincia. Resultados de la campaña de plantación de especies autóctonas. Participación comunitaria en el cuidado de manglares y bosques. Beneficios para la protección de suelos y fuentes de agua. Incluir testimonios de campesinos y brigadistas. Vincular con los objetivos de la Tarea Vida y el Programa de Gobierno. Tono informativo y propositivo.\n"
+        },
+        "Abril-semana-1-Sábado": {
+          "theme": "OPJM y UJC: 65 años formando a las nuevas generaciones en los valores de la Revolución.",
+          "ideas": "Programa histórico y juvenil en el aniversario de la fundación de la OPJM y la UJC el 4 de abril de 1961. Un historiador y dirigentes de ambas organizaciones repasan su origen, su papel en la formación de niños y jóvenes, sus principales programas. Testimonio de un pionero y un joven de la UJC. Conectar con el legado de Vilma Espín, fundadora de los círculos infantiles. Música pioneril. Cierre: la continuidad de la obra revolucionaria.\n"
         }
       }
     },
@@ -5578,6 +5750,10 @@
         "Marzo-semana-5-Sábado": {
           "theme": "Jornadas comunitarias de reforestación en Bayamo y la provincia.",
           "ideas": "Cobertura de actividades ambientales del fin de semana: siembra de árboles en márgenes de ríos, limpieza de costas, talleres de educación ambiental en comunidades. Entrevistas a organizadores (CITMA, CDR, jóvenes) y participantes. Datos de áreas recuperadas. Tono participativo, promoviendo la implicación ciudadana en el cuidado del entorno y la implementación de la Tarea Vida.\n"
+        },
+        "Abril-semana-1-Sábado": {
+          "theme": "Actividades por el aniversario de la OPJM y la UJC en Bayamo.",
+          "ideas": "Cobertura de las celebraciones en escuelas y comunidades: matutinos especiales, actividades de pioneros, juramentaciones, reconocimientos a dirigentes destacados. Entrevistas a niños, jóvenes y educadores. Agenda de actividades. Tono festivo y patriótico, destacando el papel de estas organizaciones en la formación de valores y la continuidad de la Revolución.\n"
         }
       }
     },
@@ -5633,6 +5809,10 @@
         "Marzo-semana-5-Sábado": {
           "theme": "El impacto de las redes sociales en la autoestima de los adolescentes.",
           "ideas": "Programa de apoyo psicológico. Un psicólogo analiza cómo el uso de redes sociales afecta la autoestima juvenil: comparación constante, búsqueda de validación, ciberacoso, idealización de vidas ajenas. Ofrece herramientas para un uso crítico y saludable: gestionar el tiempo, seguir perfiles positivos, diferenciar realidad y ficción, fortalecer la identidad fuera de la pantalla. Testimonios de jóvenes. Segmento de preguntas. Música moderna. Tono reflexivo y constructivo.\n"
+        },
+        "Abril-semana-1-Sábado": {
+          "theme": "Referentes femeninos para adolescentes: heroínas, científicas, artistas.",
+          "ideas": "Programa motivador dedicado a mujeres que han dejado huella en la historia, la ciencia, la cultura y la vida cotidiana. Un psicólogo y una psicóloga hablan sobre la importancia de tener modelos diversos. Perfiles breves de figuras como Vilma Espín, Haydée Santamaría, las científicas bayamesas, artistas jóvenes. Segmento interactivo donde las oyentes comparten sus referentes. Música inspiradora. Tono empoderador, mostrando caminos posibles.\n"
         }
       }
     },
@@ -5688,6 +5868,10 @@
         "Marzo-semana-5-Sábado": {
           "theme": "El Quinteto Rebelde: música y compromiso en los años 60.",
           "ideas": "Programa musical especializado en el Quinteto Rebelde, agrupación creada en 1961 para llevar la música revolucionaria a barrios y campos. Un musicólogo repasa su historia, sus integrantes, su repertorio de canciones patrióticas y de denuncia. Reproducir fragmentos de \"Canción del hombre nuevo\", \"Qué bonito es mi comandante\". Invitar a un especialista o testimonio de algún familiar. Ambiente nostálgico y combativo, rescatando una pieza clave de la cultura musical de la Revolución.\n"
+        },
+        "Abril-semana-1-Sábado": {
+          "theme": "El son en la música pioneril: canciones que marcaron la infancia cubana.",
+          "ideas": "Programa musical especializado. Selección de canciones infantiles con ritmo de son y música cubana que formaron parte del repertorio de generaciones de pioneros. Un musicólogo y una educadora comentan su contexto y significado. Reproducir fragmentos de temas emblemáticos. Invitar a un músico que trabaje con niños. Ambiente nostálgico y alegre, celebrando la música que ha acompañado a las infancias cubanas.\n"
         }
       }
     },
@@ -5766,6 +5950,10 @@
         "Marzo-semana-5-Domingo": {
           "theme": "Valores familiares: el respeto a los mayores y la transmisión de historias.",
           "ideas": "Programa emotivo e intergeneracional. Invitar a abuelos y nietos a conversar sobre la importancia de escuchar y valorar las historias de los mayores. Anécdotas familiares, enseñanzas, tradiciones. Cómo fortalecer el vínculo entre generaciones. Incluir canciones que hablen del respeto a los ancianos. Tono cálido y reflexivo. Música suave. Mensaje: la familia es el puente entre pasado y futuro.\n"
+        },
+        "Abril-semana-1-Domingo": {
+          "theme": "Tradiciones familiares en torno al 4 de abril: anécdotas de pioneros y jóvenes.",
+          "ideas": "Programa emotivo e intergeneracional. Invitar a abuelos que fueron pioneros en la década del 60, padres que lo fueron en los 80 y nietos que lo son hoy. Compartir anécdotas, canciones, uniformes, actividades que recuerdan. Cómo ha cambiado y qué permanece. Incluir música pioneril. Tono cálido y nostálgico, celebrando la continuidad de la educación revolucionaria en las familias cubanas.\n"
         }
       }
     },
@@ -5817,6 +6005,10 @@
         "Marzo-semana-5-Domingo": {
           "theme": "Canciones para jugar: rondas y juegos tradicionales cubanos.",
           "ideas": "Selección de rondas y canciones infantiles tradicionales: \"Arroz con leche\", \"La pájara pinta\", \"El patio de mi casa\". Un narrador explica el origen de estos juegos y cómo se cantaban. Actividad: que los niños jueguen y canten en casa con sus familias. Música alegre y participativa. Rescatar la tradición lúdica infantil cubana.\n"
+        },
+        "Abril-semana-1-Domingo": {
+          "theme": "Canciones para los pioneros: himnos y rondas infantiles cubanas.",
+          "ideas": "Selección musical dedicada al aniversario de la OPJM. Incluir el Himno de los Pioneros, canciones tradicionales de las matutinos, rondas infantiles. Un narrador cuenta breves historias sobre el origen de estas canciones. Actividad: que los niños canten y bailen. Música alegre y participativa, celebrando la alegría de ser pionero y el legado de Vilma Espín.\n"
         }
       }
     },
@@ -5872,6 +6064,10 @@
         "Marzo-semana-5-Domingo": {
           "theme": "Bayamo y la conspiración independentista: la ciudad como cuna de la libertad.",
           "ideas": "Recorrido por el papel de Bayamo en las conspiraciones y alzamientos independentistas del siglo XIX. Un historiador local narra cómo la ciudad fue foco de rebeldía desde 1868, la toma de la ciudad, la quema heroica. Figuras clave bayamesas en la gesta. Lectura de documentos de la época. Visita sonora a sitios históricos. Música patriótica. Tono de profundo orgullo local, reafirmando a Bayamo como cuna de la nacionalidad cubana.\n"
+        },
+        "Abril-semana-1-Domingo": {
+          "theme": "Natalicios de patriotas bayameses en abril.",
+          "ideas": "Recorrido por figuras históricas de Bayamo nacidas en abril: Carlos Manuel de Céspedes (18 de abril), Luis Victoriano Betancourt (23 de marzo, pero también en abril otros). Un historiador local destaca a estos próceres, su contribución a la independencia y su legado en la identidad de la ciudad. Lectura de fragmentos de cartas y documentos. Música patriótica de fondo. Tono de orgullo local, reafirmando la cuna de la nacionalidad.\n"
         }
       }
     },
@@ -5926,6 +6122,10 @@
         },
         "Marzo-semana-5-Domingo": {
           "theme": "Música para un domingo en familia: de la trova al son, de la guajira a la salsa.",
+          "ideas": "Programa musical variado con lo mejor de la música cubana para disfrutar en familia. Selección de temas que abarquen géneros y épocas: trovadores, soneros, danzonetes, boleros, timba. El conductor presenta cada tema con datos curiosos. Invitar a los oyentes a pedir canciones. Ambiente relajado y festivo, celebrando la riqueza musical cubana.\n"
+        },
+        "Abril-semana-1-Domingo": {
+          "theme": "Música para un domingo en familia: grandes éxitos de la música cubana.",
           "ideas": "Programa musical variado con lo mejor de la música cubana para disfrutar en familia. Selección de temas que abarquen géneros y épocas: trovadores, soneros, danzonetes, boleros, timba. El conductor presenta cada tema con datos curiosos. Invitar a los oyentes a pedir canciones. Ambiente relajado y festivo, celebrando la riqueza musical cubana.\n"
         }
       }
@@ -5982,6 +6182,10 @@
         "Marzo-semana-5-Domingo": {
           "theme": "Patrimonio cultural inmaterial de Bayamo: tradiciones orales, festividades y saberes.",
           "ideas": "Recorrido por el patrimonio inmaterial de la ciudad: leyendas, coplas, tradiciones orales, festividades religiosas y populares, oficios tradicionales, saberes culinarios. Entrevista a un especialista de la Oficina del Historiador o un investigador local. Importancia de preservar estas tradiciones. Proyectos de salvaguarda. Invitar a portadores de tradiciones (repentistas, narradores, artesanos). Tono de orgullo local, visibilizando la riqueza cultural viva de Bayamo."
+        },
+        "Abril-semana-1-Domingo": {
+          "theme": "La cultura en Bayamo: espacios, instituciones y tradiciones.",
+          "ideas": "Recorrido por la vida cultural de la ciudad: la Casa de la Trova, la Galería de Arte, la Biblioteca Provincial, el Teatro Principal, los grupos artísticos locales, las tradiciones orales y festivas. Entrevista a un especialista de la Dirección Municipal de Cultura o a un gestor cultural. Importancia de la cultura como pilar de la identidad y la cohesión social. Tono informativo y de orgullo, invitando a la población a valorar y disfrutar los espacios culturales de la ciudad."
         }
       }
     }
@@ -8654,6 +8858,558 @@
         "event": "1959",
         "description": "Creación de la Imprenta Nacional de Cuba."
       }
+    ],
+    "Abril": [
+      {
+        "day": 1,
+        "event": "1895",
+        "description": "Desembarco de Antonio Maceo y otros patriotas por la playa Duaba, Baracoa."
+      },
+      {
+        "day": 1,
+        "event": "1923",
+        "description": "Celebración del Primer Congreso de la Federación de Asociaciones Femeninas de Cuba."
+      },
+      {
+        "day": 1,
+        "event": "1959",
+        "description": "Fidel Castro lanza la primera bola en la inauguración del Campeonato Nacional de Béisbol Amateur."
+      },
+      {
+        "day": 1,
+        "event": "1980",
+        "description": "Un grupo de elementos antisociales penetra por la fuerza en la Embajada del Perú en La Habana, asesinando al combatiente Pedro Ortiz Cabrera."
+      },
+      {
+        "day": 1,
+        "event": "1809",
+        "description": "Nace el escritor Nikolái Gógol."
+      },
+      {
+        "day": 1,
+        "event": "1939",
+        "description": "Finaliza la Guerra Civil Española."
+      },
+      {
+        "day": 2,
+        "event": "1923",
+        "description": "Se produce el Manifiesto de la Junta Cubana de Renovación Nacional."
+      },
+      {
+        "day": 2,
+        "event": "1805",
+        "description": "Nace el escritor danés Hans Christian Andersen."
+      },
+      {
+        "day": 2,
+        "event": "1982",
+        "description": "Las fuerzas argentinas invaden las Islas Malvinas, dando inicio a la guerra contra el Reino Unido."
+      },
+      {
+        "day": 3,
+        "event": "1891",
+        "description": "Intervención de José Martí en la Conferencia Monetaria Internacional Americana."
+      },
+      {
+        "day": 3,
+        "event": "1987",
+        "description": "Fallece la revolucionaria cubana María Antonia González Rodríguez."
+      },
+      {
+        "day": 3,
+        "event": "1493",
+        "description": "Los Reyes Católicos reciben con honores a Cristóbal Colón en Barcelona."
+      },
+      {
+        "day": 3,
+        "event": "1924",
+        "description": "Nace el actor estadounidense Marlon Brando."
+      },
+      {
+        "day": 4,
+        "event": "1871",
+        "description": "Fusilamiento de Leopoldo Díaz de Villegas, independentista cubano."
+      },
+      {
+        "day": 4,
+        "event": "1961",
+        "description": "Constitución de la Unión de Pioneros de Cuba (UPC), hoy Organización de Pioneros José Martí (OPJM)."
+      },
+      {
+        "day": 4,
+        "event": "1961",
+        "description": "Fundación del Ejército Central."
+      },
+      {
+        "day": 4,
+        "event": "1962",
+        "description": "Constitución de la Unión de Jóvenes Comunistas (UJC) en Cuba."
+      },
+      {
+        "day": 4,
+        "event": "1949",
+        "description": "En Washington D.C. doce países se unen para crear la OTAN."
+      },
+      {
+        "day": 5,
+        "event": "1895",
+        "description": "Fallece Guillermón Moncada, Mayor General del Ejército Libertador."
+      },
+      {
+        "day": 5,
+        "event": "1722",
+        "description": "Se descubre la Isla de Pascua."
+      },
+      {
+        "day": 5,
+        "event": "1969",
+        "description": "Fallece el escritor y político venezolano Rómulo Gallegos."
+      },
+      {
+        "day": 6,
+        "event": "1835",
+        "description": "Muere José Agustín Caballero, filósofo y patriota cubano."
+      },
+      {
+        "day": 6,
+        "event": "1483",
+        "description": "Nace el pintor y arquitecto italiano Rafael Sanzio."
+      },
+      {
+        "day": 6,
+        "event": "1992",
+        "description": "Fallece el escritor y bioquímico soviético Isaac Asimov."
+      },
+      {
+        "day": 7,
+        "event": "1930",
+        "description": "Nace en Santiago de Cuba la heroína de la Sierra y el Llano Vilma Espín Guillois."
+      },
+      {
+        "day": 7,
+        "event": "1985",
+        "description": "Fallece René Portocarrero, reconocido pintor cubano."
+      },
+      {
+        "day": 7,
+        "event": "1772",
+        "description": "Nace Carlos Fourier, filósofo y sociólogo francés."
+      },
+      {
+        "day": 8,
+        "event": "1968",
+        "description": "Fallece en La Habana la destacada pintora cubana Amelia Peláez."
+      },
+      {
+        "day": 8,
+        "event": "1455",
+        "description": "Alfonso de Borja es elegido Papa como Calixto III."
+      },
+      {
+        "day": 8,
+        "event": "1973",
+        "description": "Fallece el pintor y escultor español Pablo Picasso."
+      },
+      {
+        "day": 9,
+        "event": "1875",
+        "description": "Nace Miguel de Carrión, médico, pedagogo y narrador cubano."
+      },
+      {
+        "day": 9,
+        "event": "1958",
+        "description": "Se realiza la Huelga Revolucionaria del 9 de abril contra el régimen de Batista."
+      },
+      {
+        "day": 9,
+        "event": "1958",
+        "description": "Asesinato del revolucionario Marcelo Salado."
+      },
+      {
+        "day": 9,
+        "event": "1958",
+        "description": "Se produce el asalto a la armería, acción revolucionaria en La Habana Vieja."
+      },
+      {
+        "day": 9,
+        "event": "1821",
+        "description": "Nace el poeta francés Charles Baudelaire."
+      },
+      {
+        "day": 10,
+        "event": "1869",
+        "description": "Asamblea de Guáimaro; se crea la República de Cuba en Armas y se aprueba su primera Constitución."
+      },
+      {
+        "day": 10,
+        "event": "1892",
+        "description": "José Martí funda el Partido Revolucionario Cubano."
+      },
+      {
+        "day": 10,
+        "event": "1895",
+        "description": "Muere en combate el militar independentista cubano Flor Crombet."
+      },
+      {
+        "day": 10,
+        "event": "1961",
+        "description": "Fundación de los círculos infantiles por Vilma Espín Guillois."
+      },
+      {
+        "day": 10,
+        "event": "1919",
+        "description": "El revolucionario mexicano Emiliano Zapata es asesinado."
+      },
+      {
+        "day": 11,
+        "event": "1895",
+        "description": "Desembarco de Máximo Gómez y José Martí por Playita de Cajobabo."
+      },
+      {
+        "day": 11,
+        "event": "1911",
+        "description": "Fallece en París Enrique Piñeyro, educador, periodista y abogado cubano."
+      },
+      {
+        "day": 11,
+        "event": "1963",
+        "description": "Nace en La Habana el músico cubano Carlos Varela."
+      },
+      {
+        "day": 11,
+        "event": "1899",
+        "description": "España cede Puerto Rico a los Estados Unidos."
+      },
+      {
+        "day": 12,
+        "event": "1867",
+        "description": "Nace en Santiago de Cuba el compositor y cantante Sindo Garay."
+      },
+      {
+        "day": 12,
+        "event": "1869",
+        "description": "Toma de posesión de Carlos Manuel de Céspedes como primer Presidente de la República de Cuba en Armas."
+      },
+      {
+        "day": 12,
+        "event": "1961",
+        "description": "Yuri Gagarin se convierte en el primer ser humano en viajar al espacio."
+      },
+      {
+        "day": 13,
+        "event": "1849",
+        "description": "Nace el poeta y filósofo cubano Enrique José Varona, considerado el primer psicólogo de la isla."
+      },
+      {
+        "day": 13,
+        "event": "1961",
+        "description": "Sabotaje terrorista de la CIA a la tienda El Encanto; muere la trabajadora Fe del Valle."
+      },
+      {
+        "day": 13,
+        "event": "1939",
+        "description": "Nace Seamus Heaney, Premio Nobel de Literatura."
+      },
+      {
+        "day": 14,
+        "event": "1958",
+        "description": "Primera intervención de Fidel Castro en la emisora Radio Rebelde."
+      },
+      {
+        "day": 14,
+        "event": "1912",
+        "description": "Naufragio del buque Titanic en el Océano Atlántico."
+      },
+      {
+        "day": 14,
+        "event": "1931",
+        "description": "Se proclama la Segunda República Española."
+      },
+      {
+        "day": 15,
+        "event": "1895",
+        "description": "José Martí es ascendido al grado de Mayor General del Ejército Libertador."
+      },
+      {
+        "day": 15,
+        "event": "1961",
+        "description": "Bombardeo a los aeropuertos de San Antonio de los Baños, Ciudad Libertad y Santiago de Cuba como preludio de la invasión mercenaria."
+      },
+      {
+        "day": 15,
+        "event": "1971",
+        "description": "Muere en Santiago de Cuba el destacado músico Miguel Matamoros."
+      },
+      {
+        "day": 15,
+        "event": "1452",
+        "description": "Nace Leonardo da Vinci."
+      },
+      {
+        "day": 16,
+        "event": "1887",
+        "description": "José Martí es nombrado cónsul de Uruguay en Nueva York."
+      },
+      {
+        "day": 16,
+        "event": "1926",
+        "description": "Nace Arístides Viera González en Marianao."
+      },
+      {
+        "day": 16,
+        "event": "1961",
+        "description": "Fidel Castro proclama el carácter socialista de la Revolución Cubana en el entierro de las víctimas de los bombardeos."
+      },
+      {
+        "day": 16,
+        "event": "1889",
+        "description": "Nace el actor y director inglés Charles Chaplin."
+      },
+      {
+        "day": 17,
+        "event": "1958",
+        "description": "Fallece en La Habana la cantautora cubana Rita Montaner."
+      },
+      {
+        "day": 17,
+        "event": "1961",
+        "description": "Inicio de la invasión mercenaria por Playa Girón."
+      },
+      {
+        "day": 17,
+        "event": "1492",
+        "description": "Se firman las Capitulaciones de Santa Fe entre los Reyes Católicos y Colón."
+      },
+      {
+        "day": 18,
+        "event": "1819",
+        "description": "Nace Carlos Manuel de Céspedes, el Padre de la Patria."
+      },
+      {
+        "day": 18,
+        "event": "1917",
+        "description": "Nace en Cuba Raúl Roa García, el Canciller de la Dignidad."
+      },
+      {
+        "day": 18,
+        "event": "1961",
+        "description": "Se instaura en Cuba el Día del Tanquista."
+      },
+      {
+        "day": 18,
+        "event": "1965",
+        "description": "Fallece el revolucionario cubano César Escalante."
+      },
+      {
+        "day": 18,
+        "event": "1955",
+        "description": "Fallece en Estados Unidos el físico Albert Einstein."
+      },
+      {
+        "day": 19,
+        "event": "1871",
+        "description": "Fallece Miguel Jerónimo Gutiérrez, intelectual e independentista cubano."
+      },
+      {
+        "day": 19,
+        "event": "1961",
+        "description": "Victoria de Playa Girón; derrota de las fuerzas mercenarias en menos de 72 horas."
+      },
+      {
+        "day": 19,
+        "event": "1980",
+        "description": "Se realiza la primera Marcha del Pueblo Combatiente en La Habana."
+      },
+      {
+        "day": 19,
+        "event": "2007",
+        "description": "Presentación oficial del sitio web del Instituto de Hematología e Inmunología (IHI)."
+      },
+      {
+        "day": 19,
+        "event": "1824",
+        "description": "Fallece el poeta inglés Lord Byron."
+      },
+      {
+        "day": 19,
+        "event": "2005",
+        "description": "El cardenal Joseph Ratzinger es elegido Papa."
+      },
+      {
+        "day": 20,
+        "event": "1873",
+        "description": "Creación de la logia patriótica cubana Orden de los Caballeros de la Luz."
+      },
+      {
+        "day": 20,
+        "event": "1957",
+        "description": "Asesinato de los revolucionarios Fructuoso Rodríguez, Juan Pedro Carbó, José Machado y Joe Westbrook en Humboldt 7."
+      },
+      {
+        "day": 20,
+        "event": "2004",
+        "description": "La NASA lanza el satélite Gravity Probe B para comprobar predicciones de Einstein."
+      },
+      {
+        "day": 21,
+        "event": "1898",
+        "description": "Comienza oficialmente la intervención norteamericana en la guerra hispano-cubana."
+      },
+      {
+        "day": 21,
+        "event": "1731",
+        "description": "Fallece Daniel Defoe, autor de Robinson Crusoe."
+      },
+      {
+        "day": 21,
+        "event": "1926",
+        "description": "Nace Isabel II, soberana del Reino Unido."
+      },
+      {
+        "day": 22,
+        "event": "1870",
+        "description": "Nace en Rusia Vladimir Ilich Lenin, guía del proletariado mundial (conmemorado ampliamente en Cuba)."
+      },
+      {
+        "day": 22,
+        "event": "1500",
+        "description": "El navegante Pedro Álvares Cabral descubre Brasil."
+      },
+      {
+        "day": 22,
+        "event": "1970",
+        "description": "Primera celebración del Día de la Tierra."
+      },
+      {
+        "day": 23,
+        "event": "1898",
+        "description": "Cae en combate Juan Delgado, Coronel del Ejército Libertador cubano."
+      },
+      {
+        "day": 23,
+        "event": "1616",
+        "description": "Fallece el Inca Garcilaso de la Vega y es enterrado Miguel de Cervantes."
+      },
+      {
+        "day": 23,
+        "event": "1995",
+        "description": "La Unesco declara este día como Día Internacional del Libro."
+      },
+      {
+        "day": 24,
+        "event": "1961",
+        "description": "John F. Kennedy y el gobierno norteamericano admiten su responsabilidad en la invasión de Playa Girón."
+      },
+      {
+        "day": 24,
+        "event": "1980",
+        "description": "Fallece en París el novelista cubano Alejo Carpentier."
+      },
+      {
+        "day": 24,
+        "event": "1898",
+        "description": "España le declara la guerra a los Estados Unidos."
+      },
+      {
+        "day": 25,
+        "event": "1961",
+        "description": "Se hace efectivo el embargo total de mercancías destinadas a Cuba desde EE. UU."
+      },
+      {
+        "day": 25,
+        "event": "1967",
+        "description": "Cae en combate el revolucionario cubano Eliseo Reyes (Capitán San Luis) en Bolivia."
+      },
+      {
+        "day": 25,
+        "event": "1987",
+        "description": "Fallece Blas Roca Calderío, destacado dirigente comunista cubano."
+      },
+      {
+        "day": 25,
+        "event": "1974",
+        "description": "Revolución de los Claveles en Portugal."
+      },
+      {
+        "day": 26,
+        "event": "1966",
+        "description": "Fallece Roberto Faz, figura relevante de la música popular cubana."
+      },
+      {
+        "day": 26,
+        "event": "1937",
+        "description": "Destrucción de la ciudad de Guernica tras ser bombardeada por la Legión Cóndor."
+      },
+      {
+        "day": 27,
+        "event": "1997",
+        "description": "Fallece la escritora cubana Dulce María Loynaz."
+      },
+      {
+        "day": 27,
+        "event": "1791",
+        "description": "Nace el inventor Samuel Morse."
+      },
+      {
+        "day": 27,
+        "event": "1965",
+        "description": "Tropas yanquis invaden República Dominicana para sofocar el levantamiento popular de Francisco Caamaño."
+      },
+      {
+        "day": 28,
+        "event": "1878",
+        "description": "Nace Arturo Montori, pedagogo y crítico literario cubano."
+      },
+      {
+        "day": 28,
+        "event": "1923",
+        "description": "Nace en La Habana la escritora Fina García Marruz."
+      },
+      {
+        "day": 28,
+        "event": "1932",
+        "description": "Nace el Comandante de la Revolución Ramiro Valdés Menéndez."
+      },
+      {
+        "day": 28,
+        "event": "1959",
+        "description": "Se funda en La Habana la institución cultural Casa de las Américas."
+      },
+      {
+        "day": 28,
+        "event": "1941",
+        "description": "Nace el químico estadounidense Karl Barry Sharpless, Premio Nobel."
+      },
+      {
+        "day": 29,
+        "event": "1803",
+        "description": "Nace el intelectual cubano Gaspar Betancourt Cisneros."
+      },
+      {
+        "day": 29,
+        "event": "1956",
+        "description": "Asalto al Cuartel Goicuría por revolucionarios cubanos."
+      },
+      {
+        "day": 29,
+        "event": "1975",
+        "description": "Comienza el repliegue de tropas estadounidenses en la Operación Frequent Wind tras la derrota en Vietnam."
+      },
+      {
+        "day": 30,
+        "event": "1928",
+        "description": "Nace Oscar Lucero Moya, revolucionario cubano."
+      },
+      {
+        "day": 30,
+        "event": "1789",
+        "description": "George Washington jura como primer presidente de los EE. UU."
+      },
+      {
+        "day": 30,
+        "event": "1945",
+        "description": "Suicidio de Adolf Hitler y Eva Braun."
+      }
     ]
   },
   "agendaConmemoraciones": {
@@ -9124,6 +9880,158 @@
         "national": "Día del Libro Cubano.",
         "international": "No se registran conmemoraciones internacionales para esta fecha."
       }
+    ],
+    "Abril": [
+      {
+        "day": 1,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de las Bromas de Abril."
+      },
+      {
+        "day": 2,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de Concienciación sobre el Autismo y Día Internacional del Libro Infantil."
+      },
+      {
+        "day": 3,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Arcoíris."
+      },
+      {
+        "day": 4,
+        "national": "Aniversario de la fundación de la Organización de Pioneros José Martí (OPJM) y de la Unión de Jóvenes Comunistas (UJC).",
+        "international": "Día Internacional de Información sobre el Peligro de las Minas."
+      },
+      {
+        "day": 5,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Conciencia."
+      },
+      {
+        "day": 6,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Deporte para el Desarrollo y la Paz."
+      },
+      {
+        "day": 7,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Salud y Día Internacional de Reflexión sobre el Genocidio cometido en Ruanda."
+      },
+      {
+        "day": 8,
+        "national": "Día del Trabajador de la Industria Pesquera.",
+        "international": "Día Mundial del Síndrome de Cushing, Día Internacional del Pueblo Gitano y Día Internacional de Oposición a los Alimentos Transgénicos."
+      },
+      {
+        "day": 9,
+        "national": "Conmemoración de la Huelga Revolucionaria de 1958 contra la tiranía de Batista.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 10,
+        "national": "Aniversario de la Asamblea de Guáimaro (1869) y de la fundación del Partido Revolucionario Cubano por José Martí (1892).",
+        "international": "Día Internacional de la Homeopatía y Día Mundial del Síndrome de West."
+      },
+      {
+        "day": 11,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Parkinson y Día Mundial de las Tiendas de Discos."
+      },
+      {
+        "day": 12,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de los Vuelos Espaciales Tripulados, Día Internacional de los Niños de la Calle y Día Internacional de las Personas con Extremidades Diferentes."
+      },
+      {
+        "day": 13,
+        "national": "Día Nacional de la Psicología en Cuba.",
+        "international": "Día Internacional del Beso y Día de Concienciación de la Sarcoidosis."
+      },
+      {
+        "day": 14,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Enfermedad de Chagas, Día Mundial de la Cuántica y Día de las Américas."
+      },
+      {
+        "day": 15,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Arte y Día Internacional de la Enfermedad de Pompe."
+      },
+      {
+        "day": 16,
+        "national": "Día del Miliciano.",
+        "international": "Día Mundial de la Voz, Día Internacional contra la Esclavitud Infantil y Día Mundial del Emprendimiento."
+      },
+      {
+        "day": 17,
+        "national": "Día de la Defensa Antiaérea y Fuerza Aérea Revolucionaria (DAAFAR).",
+        "international": "Día Mundial de la Hemofilia, Día Mundial de la Lucha Campesina y Día Mundial del Circo."
+      },
+      {
+        "day": 18,
+        "national": "Día del Tanquista.",
+        "international": "Día Internacional de los Monumentos y Sitios, Día Europeo de los Derechos de los Pacientes y Día Mundial del Radioaficionado."
+      },
+      {
+        "day": 19,
+        "national": "Aniversario de la victoria en Playa Girón (1961).",
+        "international": "Día Mundial de Los Simpson y Día de los Padrinos y las Madrinas."
+      },
+      {
+        "day": 20,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día de la Lengua China y Día Mundial de la Marihuana."
+      },
+      {
+        "day": 21,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Creatividad y la Innovación."
+      },
+      {
+        "day": 22,
+        "national": "Día del Jiquanicero Ausente.",
+        "international": "Día Internacional de la Madre Tierra."
+      },
+      {
+        "day": 23,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Libro y de los Derechos de Autor, Día Internacional de las Niñas en las TIC y Día del Idioma Español."
+      },
+      {
+        "day": 24,
+        "national": "Día del Sello Cubano.",
+        "international": "Día Internacional del Multilateralismo y la Diplomacia para la Paz, Día Internacional del Animal de Laboratorio y Día Mundial del Veterinario."
+      },
+      {
+        "day": 25,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Astronomía, Día Mundial del Paludismo y Día Mundial de los Pingüinos."
+      },
+      {
+        "day": 26,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional en Recuerdo del Desastre de Chernóbyl, Día Mundial de la Propiedad Intelectual y Día Mundial del Matrimonio."
+      },
+      {
+        "day": 27,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Diseño (Diseño Gráfico), Día del Código Morse y Día Mundial del Tapir."
+      },
+      {
+        "day": 28,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Seguridad y la Salud en el Trabajo, Día Internacional para la Conservación de los Anfibios y Día Internacional de Concienciación sobre el Ruido."
+      },
+      {
+        "day": 29,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Danza, Día Internacional de la Inmunología y Día Internacional en memoria de las víctimas de terremotos."
+      },
+      {
+        "day": 30,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Jazz."
+      }
     ]
   },
   "agendaDayThemes": {
@@ -9200,7 +10108,16 @@
     "Marzo-semana-5-Jueves": "Legado de Fidel Castro – Aniversario de la creación de los órganos de la Seguridad del Estado (1959).",
     "Marzo-semana-5-Viernes": "Lucha contra las Drogas – Día Mundial del Teatro.",
     "Marzo-semana-5-Sábado": "Tarea Vida (Medio Ambiente) – Implementación de políticas ambientales en el territorio.",
-    "Marzo-semana-5-Domingo": "Historia y Tradición Local – Natalicio de Manuel de Quesada y Loynaz (1833), general mambí."
+    "Marzo-semana-5-Domingo": "Historia y Tradición Local – Natalicio de Manuel de Quesada y Loynaz (1833), general mambí.",
+    "Marzo-semana-6-Lunes": "Soberanía Alimentaria – Natalicio de Alejandro Robaina (1919), guardián de la tradición tabacalera cubana.",
+    "Marzo-semana-6-Martes": "Cultura y Memoria – Día del Libro Cubano y natalicio de Félix B. Caignet (1892), creador de radionovelas.",
+    "Abril-semana-1-Lunes": "Soberanía Alimentaria – Natalicio de Alejandro Robaina (1919), guardián de la tradición tabacalera cubana.",
+    "Abril-semana-1-Martes": "Cultura y Memoria – Día del Libro Cubano y natalicio de Félix B. Caignet (1892), creador de radionovelas.",
+    "Abril-semana-1-Miércoles": "Legado de Fidel Castro – Aniversario de la inauguración del Campeonato Nacional de Béisbol Amateur con Fidel lanzando la primera bola (1959), símbolo de la masificación del deporte.",
+    "Abril-semana-1-Jueves": "Adelanto de las Mujeres – Día Mundial de Concienciación sobre el Autismo, con enfoque en el rol de la familia y la comunidad.",
+    "Abril-semana-1-Viernes": "Historia y Cultura – Intervención de José Martí en la Conferencia Monetaria Internacional Americana (1891), símbolo de la defensa de la soberanía económica.",
+    "Abril-semana-1-Sábado": "Adelanto de las Mujeres – Aniversario de la fundación de la Organización de Pioneros José Martí (OPJM) y la Unión de Jóvenes Comunistas (UJC).",
+    "Abril-semana-1-Domingo": "Historia y Soberanía – Fallecimiento de Guillermón Moncada (1895), Mayor General del Ejército Libertador."
   },
   "agendaUsers": [
     {
@@ -9289,8 +10206,8 @@
       "name": "Leipzig del Carmen Vázquez García",
       "mobile": "58401306",
       "password": "RadioCiudad1426",
-      "role": "worker",
-      "classification": "Usuario"
+      "role": "coordinator",
+      "classification": "Coordinador"
     },
     {
       "id": "beatrizgonzalez",
@@ -9472,11 +10389,40 @@
     }
   ],
   "dynamicData": {
-    "user_admin_rcm_data_worklogs": [],
+    "user_lissell_rcm_consolidated_months": [],
     "user_admin_rcm_data_consolidated": [],
-    "user_admin_rcm_consolidated_months": [],
+    "user_lissell_habitual_mode": false,
+    "user_beatrizgonzalez_habitual_mode": false,
+    "user_lissell_habitual_exclusions": [],
     "user_admin_habitual_mode": false,
+    "user_admin_rcm_consolidated_months": [],
+    "user_lissell_rcm_data_consolidated": [],
     "user_admin_rcm_interruptions": [],
-    "user_admin_habitual_exclusions": []
+    "user_beatrizgonzalez_rcm_data_consolidated": [],
+    "user_admin_habitual_exclusions": [],
+    "user_beatrizgonzalez_habitual_exclusions": [],
+    "user_beatrizgonzalez_rcm_interruptions": [],
+    "user_admin_rcm_data_worklogs": [],
+    "user_lissell_rcm_interruptions": [],
+    "user_lissell_rcm_data_worklogs": [
+      {
+        "id": "17744590096300.24077317718495062",
+        "userId": "lissell",
+        "role": "Asesor",
+        "programName": "Buenos Días Bayamo",
+        "date": "2026-03-25",
+        "amount": 135.45
+      },
+      {
+        "id": "17744590170470.9140780844615214",
+        "userId": "lissell",
+        "role": "Asesor",
+        "programName": "Buenos Días Bayamo",
+        "date": "2026-03-24",
+        "amount": 135.45
+      }
+    ],
+    "user_beatrizgonzalez_rcm_consolidated_months": [],
+    "user_beatrizgonzalez_rcm_data_worklogs": []
   }
 }
