@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T21:34:31.510Z",
+  "timestamp": "2026-03-28T23:51:30.026Z",
   "users": [
     {
       "name": "Pedro José Reyes Acuña",
@@ -10121,12 +10121,22 @@
   },
   "agendaUsers": [
     {
+      "id": "admin",
+      "name": "Pedro José Reyes Acuña",
+      "username": "admin",
+      "pin": "RC0026",
+      "role": "admin",
+      "phone": "54413935",
+      "photo": ""
+    },
+    {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "pin": "RadioCiudad0026"
     },
     {
       "id": "jose",
@@ -10135,7 +10145,8 @@
       "mobile": "54205626",
       "password": "RadioCiudad1726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1726"
     },
     {
       "id": "lissell",
@@ -10144,7 +10155,8 @@
       "mobile": "58841705",
       "password": "RadioCiudad0226",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0226"
     },
     {
       "id": "maylen",
@@ -10153,7 +10165,8 @@
       "mobile": "58702380",
       "password": "RadioCiudad1026",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1026"
     },
     {
       "id": "rosa",
@@ -10162,7 +10175,8 @@
       "mobile": "54275723",
       "password": "RadioCiudad0826",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0826"
     },
     {
       "id": "abel",
@@ -10171,7 +10185,8 @@
       "mobile": "59195045",
       "password": "RadioCiudad0926",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0926"
     },
     {
       "id": "caridad",
@@ -10180,7 +10195,8 @@
       "mobile": "56350265",
       "password": "RadioCiudad1626",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1626"
     },
     {
       "id": "rafael",
@@ -10189,7 +10205,8 @@
       "mobile": "52143905",
       "password": "RadioCiudad1526",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1526"
     },
     {
       "id": "ernesto",
@@ -10198,7 +10215,8 @@
       "mobile": "52137105",
       "password": "RadioCiudad0326",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0326"
     },
     {
       "id": "leipzig",
@@ -10207,7 +10225,8 @@
       "mobile": "58401306",
       "password": "RadioCiudad1426",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1426"
     },
     {
       "id": "beatrizgonzalez",
@@ -10216,7 +10235,8 @@
       "mobile": "58390181",
       "password": "RadioCiudad1226",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1226"
     },
     {
       "id": "daylen",
@@ -10225,7 +10245,8 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1126"
     }
   ],
   "agendaPropaganda": {
