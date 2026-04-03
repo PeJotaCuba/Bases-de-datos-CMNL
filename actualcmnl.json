@@ -4086,29 +4086,203 @@
       ]
     }
   ],
-  "worklogs": [
+  "worklogs": [],
+  "consolidated": [],
+  "interruptions": [
     {
-      "id": "17738422594140.7576341602250987",
-      "userId": "admin",
-      "role": "Director",
-      "programName": "Arte Bayamo",
-      "date": "2026-03-18",
-      "amount": 96.2
+      "id": "1775176970219-Alba y Crisol",
+      "date": "2026-03-08",
+      "programName": "Alba y Crisol",
+      "category": "historicosGrabado",
+      "affectedMinutes": 13,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "10:23"
     },
     {
-      "id": "17738422609180.8682754659300318",
-      "userId": "admin",
-      "role": "Director",
+      "id": "1775176970219-Coloreando Melodías",
+      "date": "2026-03-08",
+      "programName": "Coloreando Melodías",
+      "category": "variadoInfantilGrabado",
+      "affectedMinutes": 13,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "10:23"
+    },
+    {
+      "id": "1775176970219-Cómplices",
+      "date": "2026-03-08",
+      "programName": "Cómplices",
+      "category": "orientacion",
+      "affectedMinutes": 176,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "10:23"
+    },
+    {
+      "id": "1775176985397-Buenos Días Bayamo",
+      "date": "2026-03-06",
       "programName": "Buenos Días Bayamo",
-      "date": "2026-03-18",
-      "amount": 182.56
+      "category": "variados",
+      "affectedMinutes": 116,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "09:38"
+    },
+    {
+      "id": "1775176998336-Cabina 12:00-12:30",
+      "date": "2026-03-17",
+      "programName": "Cabina 12:00-12:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-Cabina 13:00-13:30",
+      "date": "2026-03-17",
+      "programName": "Cabina 13:00-13:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-Buenos Días Bayamo",
+      "date": "2026-03-17",
+      "programName": "Buenos Días Bayamo",
+      "category": "variados",
+      "affectedMinutes": 116,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+      "date": "2026-03-17",
+      "programName": "La Cumbancha (Lunes a Viernes)",
+      "category": "musicales",
+      "affectedMinutes": 58,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-Todos en Casa",
+      "date": "2026-03-17",
+      "programName": "Todos en Casa",
+      "category": "orientacion",
+      "affectedMinutes": 58,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-RCM Noticias",
+      "date": "2026-03-17",
+      "programName": "RCM Noticias",
+      "category": "informativos",
+      "affectedMinutes": 13,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-Arte Bayamo",
+      "date": "2026-03-17",
+      "programName": "Arte Bayamo",
+      "category": "literaturaArte",
+      "affectedMinutes": 43,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775176998336-Parada Joven",
+      "date": "2026-03-17",
+      "programName": "Parada Joven",
+      "category": "orientacion",
+      "affectedMinutes": 28,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177022539-Arte Bayamo",
+      "date": "2026-03-26",
+      "programName": "Arte Bayamo",
+      "category": "literaturaArte",
+      "affectedMinutes": 43,
+      "percentage": 100,
+      "startTime": "11:15",
+      "endTime": "11:58"
+    },
+    {
+      "id": "1775177047827-Cabina 12:00-12:30",
+      "date": "2026-03-22",
+      "programName": "Cabina 12:00-12:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177047827-Cabina 13:00-13:30",
+      "date": "2026-03-22",
+      "programName": "Cabina 13:00-13:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177047827-Alba y Crisol",
+      "date": "2026-03-22",
+      "programName": "Alba y Crisol",
+      "category": "historicosGrabado",
+      "affectedMinutes": 13,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177047827-Coloreando Melodías",
+      "date": "2026-03-22",
+      "programName": "Coloreando Melodías",
+      "category": "variadoInfantilGrabado",
+      "affectedMinutes": 13,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177047827-Cómplices",
+      "date": "2026-03-22",
+      "programName": "Cómplices",
+      "category": "orientacion",
+      "affectedMinutes": 176,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
+    },
+    {
+      "id": "1775177047827-Estación 95.3",
+      "date": "2026-03-22",
+      "programName": "Estación 95.3",
+      "category": "musicales",
+      "affectedMinutes": 178,
+      "percentage": 100,
+      "startTime": "07:00",
+      "endTime": "15:00"
     }
   ],
-  "consolidated": [],
-  "interruptions": [],
   "consolidatedMonths": [
     {
-      "id": "1773842038008",
+      "id": "1774752393714",
       "month": "2026-02",
       "accumulated": {
         "informativos": 1768,
@@ -4134,10 +4308,10 @@
         "variadoInfantilGrabado": 0,
         "literaturaArte": 0,
         "musicales": 0,
-        "total": 240
+        "total": 25
       },
-      "totalRealMinutes": 13228,
-      "dateConsolidated": "2026-03-18T13:53:58.008Z"
+      "totalRealMinutes": 13443,
+      "dateConsolidated": "2026-03-29T02:46:33.714Z"
     }
   ],
   "transmissionConfig": {
