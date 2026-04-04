@@ -202,31 +202,76 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "17715304902560.7050065546070442",
-      "title": "Impulsan en Bayamo métodos biotecnológicos para garantizar seguridad alimentaria",
-      "author": "Ernesto Parra Muñoz",
-      "content": "Bajo el lema \"Sembrando Futuro\", un proyecto de innovación agropecuaria introduce en Bayamo una nueva tecnología para la producción de semillas de ñame. La iniciativa, liderada por la dirección municipal de Educación en conjunto con el sector de la Agricultura, combina métodos biotecnológicos y convencionales, con el objetivo de contribuir a la soberanía alimentaria en comunidades e instituciones educativas.\n\nEl proyecto cuenta con el respaldo del Centro de Estudios de Biotecnología Vegetal de la Universidad de Granma y busca cerrar el ciclo productivo del cultivo para extender su siembra a patios familiares y áreas de la agricultura urbana. En una primera fase, se implementa en once instituciones educativas del municipio, entre ellas la Escuela Especial Ernesto Che Guevara, el Círculo Infantil Pequeños Constructores, así como centros de las zonas de Las Tamaras y El Horno.",
-      "date": "Reciente",
-      "category": "Noticia",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+Tk9USUNJQTwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "id": "news-1775262446088-0",
+      "title": "Anuncia Gobierno cubano decisión de indultar a más de 2 mil sancionados",
+      "author": "Granma - Órgano oficial del PCC",
+      "content": "El Gobierno de Cuba aprobó un indulto para 2,010 sancionados, fundamentado en el artículo 90 de la Constitución y en correspondencia con una trayectoria humanitaria histórica. Para la selección se realizó un análisis del buen comportamiento, el cumplimiento de gran parte de la condena y el estado de salud, beneficiando a jóvenes, mujeres y adultos mayores. Sin embargo, se excluyeron delitos graves como asesinato, drogas, corrupción de menores y reincidencia. Este gesto, el quinto desde el año 2011, ocurre en el contexto de las celebraciones de Semana Santa y busca favorecer la reinserción social bajo principios éticos y soberanos.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El Gobierno de Cuba aprobó un indulto para 2,010 sancionados, fundamentado en el artículo 90 de la Constitución y en correspondencia con una trayectoria humanitaria histórica."
     },
     {
-      "id": "17715304902560.16560207119017645",
-      "title": "Inició segunda semana de acciones en la VI Copa de Fútbol Interbarrios",
-      "author": "Ernesto Parra Muñoz",
-      "content": "La sexta edición de la Copa de Fútbol Interbarrios, que se juega en la cancha del Combinado Deportivo Jesús Menéndez de Bayamo, inició su segunda semana de acciones con el enfrentamiento entre los equipos de Roberto Reyes y Siboney. La competencia, que despierta gran pasión en las comunidades, tendrá continuidad el domingo con una jornada que arrancará desde las nueve de la mañana.\n\nLos desafíos programados incluyen los duelos Manopla contra Ciencias Médicas; por la tarde, a las tres, Juventud Madrid enfrentará a Callejeros; y a las cuatro y 20, La Luz del Mundo se medirá a Gasolina. En esta edición participan 19 equipos, luego de que dos de los inscritos declinaran por problemas con sus jugadores y otro fuera retirado por los organizadores al exceder la cantidad de menores de edad permitida.",
-      "date": "Reciente",
-      "category": "Noticia",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+Tk9USUNJQTwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "id": "news-1775262446104-1",
+      "title": "Rusia enviará un segundo barco con petróleo a Cuba",
+      "author": "Granma - Órgano oficial del PCC",
+      "content": "El ministro de Energía de Rusia, Serguéi Tsiviliv, confirmó que su nación prepara el envío de un segundo buque cargado de petróleo para auxiliar a la isla en medio de su crisis energética. Esta acción surge luego de que el tanquero Anatoli Kolodkin atracara en Matanzas con 100,000 toneladas de crudo, rompiendo el cerco logístico que aisló a Cuba desde principios de enero. El portavoz Dmitri Peskov subrayó que Moscú considera un deber moral apoyar al pueblo cubano ante el bloqueo total impuesto por Washington. Cuba enfrenta este escenario crítico tras declararse una supuesta emergencia nacional por la administración estadounidense actual.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El ministro de Energía de Rusia, Serguéi Tsiviliv, confirmó que su nación prepara el envío de un segundo buque cargado de petróleo para auxiliar a la isla en medio de su crisis energética."
     },
     {
-      "id": "17715304902560.6408373033683021",
-      "title": "Instalados en Granma más de 700 sistemas fotovoltaicos y prevén nuevos para centros vitales",
-      "author": "Ernesto Parra Muñoz",
-      "content": "Trabajadores del sector estatal en Granma son beneficiados como parte del Programa Nacional Energético destinado al personal de la Salud Pública, Educación y Héroes del Trabajo. Especialistas de la Filial Copextel han instalado 714 estaciones de energía solar portátiles, de las 881 asignadas a la provincia, favoreciendo a 300 profesionales de la salud, 210 del Ministerio de Educación Superior y 365 del Ministerio de Educación, así como a seis Héroes del Trabajo.\n\nParalelamente, en los próximos días iniciará el montaje de sistemas fotovoltaicos de dos kilowatts en instituciones de salud, funerarias, sucursales bancarias, oficinas comerciales y de comunicaciones. Según informó Leydi Pompa Otero, especialista principal de Fuentes Renovables de Energía de la Empresa Eléctrica de Granma, esta nueva matriz energética respaldará 185 centros vitales, incluyendo 45 cuerpos de guardia de policlínicos, 14 hogares maternos, ocho hogares de ancianos y 16 casas de abuelos, garantizando iluminación básica, refrigeración de alimentos y el funcionamiento de nebulizadores ante la indisponibilidad de combustible.",
-      "date": "Reciente",
-      "category": "Noticia",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+Tk9USUNJQTwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "id": "news-1775262446104-2",
+      "title": "En medio del fracaso de la aventura iraní realizan purga en el Pentágono",
+      "author": "Cubadebate",
+      "content": "El general Randy George renunció como jefe del Estado Mayor del Ejército de Estados Unidos por solicitud directa de Pete Hegesht, titular del Departamento de Guerra. Esta dimisión inmediata, junto a las de otros generales de alto rango, se vincula estrechamente con el fracaso de la campaña militar contra Irán, que no ha logrado los objetivos esperados por la administración de Donald Trump. Se espera que el general Christopher LaNeve asuma el mando para implementar una visión estratégica alineada con la presidencia actual. La purga refleja tensiones internas profundas en el mando militar estadounidense ante el despliegue de tropas terrestres.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El general Randy George renunció como jefe del Estado Mayor del Ejército de Estados Unidos por solicitud directa de Pete Hegesht, titular del Departamento de Guerra."
+    },
+    {
+      "id": "news-1775262446104-3",
+      "title": "Aduana frustra nuevo intento de extraer tabacos ilícitamente",
+      "author": "Cubadebate",
+      "content": "La Aduana General de la República detectó y decomisó un cargamento ilegal de 1,948 tabacos en el Aeropuerto Internacional José Martí de La Habana. La mercancía intentaba ser extraída del país oculta en el equipaje de cuatro pasajeros que tenían como destino final los Estados Unidos. Este operativo fue informado oficialmente por el vicejefe primero de la institución, William Pérez González, a través de sus redes sociales, resaltando la vigilancia constante en las terminales aéreas nacionales. El incidente ocurre en un contexto de control estricto sobre productos exportables clave para la economía cubana, reforzando la lucha contra el comercio ilícito.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "La Aduana General de la República detectó y decomisó un cargamento ilegal de 1,948 tabacos en el Aeropuerto Internacional José Martí de La Habana."
+    },
+    {
+      "id": "news-1775262446104-4",
+      "title": "México trabaja para reanudar envío de petróleo a Cuba",
+      "author": "CMKX Radio Bayamo",
+      "content": "El gobierno mexicano se encuentra gestionando activamente el restablecimiento del envío sistemático de hidrocarburos hacia Cuba para aliviar la compleja situación energética de la nación antillana. Esta iniciativa responde a la postura soberana de México, cuya presidenta ha reiterado públicamente su rechazo al bloqueo económico y comercial impuesto por Estados Unidos. La cooperación entre ambas naciones se fortalece en un momento donde la isla requiere suministros estables para garantizar servicios básicos y la generación de electricidad. Este respaldo diplomático y técnico subraya la importancia de las relaciones bilaterales para enfrentar las presiones externas que afectan al pueblo cubano.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El gobierno mexicano se encuentra gestionando activamente el restablecimiento del envío sistemático de hidrocarburos hacia Cuba para aliviar la compleja situación energética de la nación antillana."
+    },
+    {
+      "id": "news-1775262446104-5",
+      "title": "Una lectura más allá de una Matanza",
+      "author": "CMKX Radio Bayamo",
+      "content": "El equipo de Matanzas sufrió una derrota histórica en la Liga de Campeones de Béisbol, lo que ha generado un análisis profundo sobre el estado actual del deporte nacional. Especialistas deportivos consideran que el desempeño de los Cocodrilos revela problemas estructurales que van más allá de un simple resultado negativo en el terreno de juego. El debate se centra en la necesidad de modernizar el entrenamiento, mejorar la gestión de patrocinios y adaptarse a los nuevos actores económicos en el panorama deportivo. Esta crisis de resultados obliga a las autoridades del béisbol a replantear estrategias de cara a futuros eventos internacionales.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El equipo de Matanzas sufrió una derrota histórica en la Liga de Campeones de Béisbol, lo que ha generado un análisis profundo sobre el estado actual del deporte nacional."
+    },
+    {
+      "id": "news-1775262446104-6",
+      "title": "Las “Ausencias” de Raylven Friman en 20 años de creación",
+      "author": "La Demajagua",
+      "content": "El artista visual Raylven Friman celebra dos décadas de carrera artística con la exposición titulada “Ausencias”, la cual profundiza en la memoria y la identidad de la provincia de Granma. Sus obras exploran el sentimiento y la conexión espiritual con el entorno local, consolidándose como un referente estético fundamental para la plástica contemporánea en la región. Durante estos veinte años, Friman ha utilizado diversos símbolos para representar la complejidad de la experiencia humana y la cultura cubana. Esta celebración resalta la vigencia del movimiento artístico en Bayamo y el compromiso de sus creadores con la preservación del patrimonio espiritual.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "El artista visual Raylven Friman celebra dos décadas de carrera artística con la exposición titulada “Ausencias”, la cual profundiza en la memoria y la identidad de la provincia de Granma."
+    },
+    {
+      "id": "news-1775262446104-7",
+      "title": "Falleció Ever Fonseca, artista de la visualidad",
+      "author": "La Demajagua",
+      "content": "La cultura nacional lamenta el fallecimiento de Ever Fonseca, prestigioso pintor, escultor y ceramista nacido en Manzanillo en el año 1938. Desde su infancia en la finca La Aurora, Fonseca demostró una sensibilidad única hacia el color y la naturaleza, elementos que definieron su vasta obra artística. Su legado se caracteriza por capturar la esencia del paisaje cubano a través de formas orgánicas y una paleta vibrante que influyó en múltiples generaciones de creadores visuales. Fonseca es recordado como un artista de la visualidad que nunca perdió el vínculo con sus raíces granmenses, dejando un vacío profundo pero un patrimonio invaluable.",
+      "category": "General",
+      "date": "3/4/2026",
+      "excerpt": "La cultura nacional lamenta el fallecimiento de Ever Fonseca, prestigioso pintor, escultor y ceramista nacido en Manzanillo en el año 1938."
     }
   ],
   "fichas": [
@@ -4086,276 +4131,10 @@
       ]
     }
   ],
-  "worklogs": [
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    }
-  ],
+  "worklogs": [],
   "consolidated": [],
   "interruptions": [],
-  "consolidatedMonths": [
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    }
-  ],
+  "consolidatedMonths": [],
   "transmissionConfig": {
     "MONDAY": {
       "informativos": 69,
