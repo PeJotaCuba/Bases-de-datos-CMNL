@@ -68,7 +68,7 @@
       "name": "Rafael Traba Bordón",
       "mobile": "52143905",
       "password": "RadioCiudad1526",
-      "role": "admin",
+      "role": "worker",
       "classification": "Director"
     },
     {
@@ -872,10 +872,72 @@
       ]
     },
     {
-      "name": "Al son de la radio ",
+      "name": "Sigue a tu ritmo",
+      "schedule": "11:15 AM - 12:58 PM",
+      "duration": "103 min",
+      "frequency": "Sábado",
+      "func": "Orientación",
+      "music_cuban": "70 %",
+      "music_foreign": "30 %",
+      "group": "Variados",
+      "form": "Programa de Variedades",
+      "complexity": "Complejo",
+      "theme": "Varios Generales",
+      "target": "Adolescentes",
+      "times": {
+        "music": "40 min",
+        "info": "58 min",
+        "propaganda": "5 min"
+      },
+      "startDate": "5 de julio de 2025",
+      "emissionType": "Vivo",
+      "literarySupport": "Guión: Menos Complejo. Costo desde $120.00 hasta $300.00.\r\n\r\nColaboración: Texto para comparecencia de especialista y/o experto (Psicología). Costo desde $200.00 hasta $2000.00.",
+      "objective": "Contribuir a la creación y reafirmación de un sistema de valores, actitudes y modelos de conducta positivos en los adolescentes bayameses, en consecuencia con los principios de la sociedad.",
+      "profile": "Programa a una voz que presenta y desarrolla el tema principal y sus secciones. Existe la presencia de un sicólogo que responde a las interrogantes hechas por el conductor, así como preguntas y dudas del destinatario, formuladas por medio del teléfono o grupos en las redes sociales. Incluye la transmisión del Noticiero Provincial de Radio en vivo (producción NO propia), lo cual contribuye en la información del destinatario.\r\nCada emisión transcurre a partir de un tema principal, abordado desde las vivencias de los propios adolescentes, relacionado con la etapa de su vida. Se interactúa con la audiencia en diferentes momentos del programa por medio de criterios en Whatsap previamente seleccionados por medio de encuestas y preguntas publicadas en el programa. A lo largo del espacio se hace referencia a escuelas del nivel medio y medio superior de la ciudad y sus resultados en el acontecer estudiantil.\r\nLas secciones del programa abordan diferentes preferencias de los adolescentes, en correspondencia con sus gustos y actitudes, así como sus necesidades de información.",
+      "sections": [
+        {
+          "name": "Lo que se comenta",
+          "description": "(11:16) (1 min) Presenta, por medio de grabaciones a adolescentes, la inquietud acerca del tema a tratar y lo deja con preguntas o dudas al respecto.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Sigue conmigo",
+          "description": "(11:20) (2 min) Ofrece detalles de los temas y secciones del programa para la emisión.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Al ritmo de tus días",
+          "description": "(11:30) (5 min) Brinda información sobre propuestas culturales y deportivas destinadas a los adolescentes, por medio de los comunicadores del INDER y Cultura.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Covers y versiones",
+          "description": "(11:45) (8 min) Presenta dos versiones del mismo musical y autor, pero por diferentes intérpretes, y se ofrece una pequeña nota sobre el musical.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Tanda TV",
+          "description": "(12:35) (2 min) Ofrece las principales propuestas cinematográficas de los canales de televisión nacional destinadas a adolescentes.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Suena en tu Playlist",
+          "description": "(12:48) (7 min) Presenta los musicales que más suenan en los adolescentes a nivel nacional e internacional en una escala del 5 al 1 y radia el musical que ocupa el número 1 completo.",
+          "schedule": "",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "name": "Al son de la radio",
       "schedule": "1:30 PM - 2:58 PM",
       "duration": "88 min",
-      "frequency": "Sábado ",
+      "frequency": "Sábado",
       "func": "Cultural",
       "music_cuban": "85 %",
       "music_foreign": "15 %",
@@ -4569,6 +4631,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "Acompañamiento familiar en la preparación para exámenes finales y pruebas de ingreso.",
           "ideas": "Programa de orientación práctica para padres y estudiantes. Un pedagogo y un psicólogo ofrecen consejos sobre cómo apoyar sin presión: establecer rutinas de estudio, fomentar hábitos saludables, manejar la ansiedad, comunicarse con los adolescentes. Testimonios de jóvenes que enfrentaron con éxito estas pruebas. Tono cálido y tranquilizador, ayudando a las familias a transitar esta etapa con equilibrio y confianza.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Deporte al aire libre: cómo el contacto con la naturaleza potencia la salud física y mental.",
+          "ideas": "Un educador físico y un psicólogo explican los beneficios de practicar deportes en entornos naturales: mejora cardiovascular, reducción del estrés, vitamina D. Sugieren rutas para correr o caminar en Bayamo (malecón, parques, senderos del río). Testimonios de grupos de running locales. Incluir sonidos ambientales y música motivadora. Vincular con la Tarea Vida: cuidar los espacios verdes es también cuidar nuestra salud. Tono activo y entusiasta.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "Vilma Espín: legado de una heroína en la salud, la ciencia y los derechos de la mujer.",
+          "ideas": "Perfil biográfico de Vilma Espín en su natalicio. Un historiador y una dirigente de la FMC repasan su trayectoria como ingeniera química, luchadora clandestina, fundadora de los círculos infantiles y presidenta de la FMC. Su contribución a la salud pública y la educación de las niñas. Testimonio de una mujer que recibió su apoyo. Fragmentos de sus discursos. Música de la época. Conectar con el Día Mundial de la Salud: su visión integral del bienestar femenino.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "La pesca en Granma: tradición, producción y aporte a la soberanía alimentaria.",
+          "ideas": "Reportaje desde la flota pesquera de Manzanillo o Niquero. Entrevista a pescadores sobre sus jornadas, capturas, conservación de especies y desafíos (combustible, equipos). Un especialista del Ministerio de la Industria Alimentaria explica el aporte del pescado a la dieta cubana y las estrategias para incrementar la producción. Testimonios de amas de casa que cocinan pescado. Música marinera. Vincular con el Objetivo 3 del Programa de Gobierno.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "La Huelga del 9 de abril: lecciones de unidad y sacrificio en la lucha contra Batista.",
+          "ideas": "Programa histórico sobre la huelga convocada por el M-26-7 en 1958. Un historiador narra el contexto, los preparativos, el saldo de mártires y las razones de su fracaso relativo, pero también su impacto político. Testimonio de un sobreviviente o familiar de un huelguista. Conectar con el legado de Fidel, quien reconoció los errores pero también la valentía del pueblo. Música de la época. Cierre: la perseverancia como clave de la victoria.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "Los Círculos Infantiles: 65 años protegiendo a la infancia y apoyando a la familia trabajadora.",
+          "ideas": "Programa conmemorativo. Una educadora fundadora y una directora actual de un círculo infantil en Bayamo relatan la historia de estas instituciones creadas por Vilma Espín. Su papel en la primera infancia, en la incorporación de la mujer al trabajo y en la formación de valores. Testimonio de una madre trabajadora. Conectar con la prevención de drogas: la educación temprana como mejor vacuna. Música infantil de fondo. Cierre: celebrar a los niños, protegerlos siempre.\n"
         }
       }
     },
@@ -4816,6 +4898,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "Educación financiera para niños: cómo enseñar a ahorrar desde pequeños.",
           "ideas": "Taller práctico para familias. Un pedagogo y un economista ofrecen consejos para enseñar a niños y adolescentes conceptos de ahorro, gasto responsable y valor del dinero: alcancías, pequeñas asignaciones, diferenciar necesidades de deseos. Testimonios de padres que han aplicado estas estrategias. Sonidos de monedas. Tono lúdico y formativo, preparando a las nuevas generaciones para la gestión económica.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Ejercicios de bajo impacto para adultos mayores en el hogar.",
+          "ideas": "Guía práctica de actividad física adaptada. Un geriatra y un fisioterapeuta muestran rutinas suaves de estiramientos, movilidad articular y fortalecimiento muscular con sillas y paredes. Beneficios: previene caídas, mejora la circulación y el ánimo. Testimonios de adultos mayores activos. Sonidos de respiración y música tranquila. Tono respetuoso y motivador, promoviendo la autonomía y la calidad de vida sin riesgos.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "Cómo prevenir las enfermedades cardiovasculares en la mujer.",
+          "ideas": "En el Día Mundial de la Salud, enfoque en la salud femenina. Una cardióloga explica los factores de riesgo específicos en la mujer (menopausia, estrés, anticonceptivos). Ofrece consejos: dieta baja en sal, control de la presión, ejercicio regular, no fumar. Testimonios de mujeres que cambiaron sus hábitos. Sonidos de consultorio médico. Tono informativo y preventivo, empoderando a las oyentes para cuidar su corazón.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "Recetas económicas con pescado: platos nutritivos y sabrosos.",
+          "ideas": "Taller culinario con un cocinero experto. Muestra cómo preparar pescado frito, en escabeche, en sopa o al horno con vegetales. Consejos para limpiarlo y conservarlo. Valor nutricional (omega 3, proteínas). Testimonios de familias que incorporan pescado semanalmente. Sonidos de sartén y especias. Tono práctico y motivador, revalorizando un alimento accesible en zonas costeras de Granma.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "Cómo manejar el estrés en situaciones de crisis familiar (económicas, de salud).",
+          "ideas": "Programa de bienestar emocional. Un psicólogo ofrece técnicas para afrontar crisis: comunicación abierta, distribución de tareas, buscar apoyo en la red familiar, mantener rutinas. Testimonios de familias que han superado momentos difíciles. Ejercicios de respiración y relajación. Sonidos de conversaciones tranquilas. Tono cálido y práctico, ayudando a las familias a mantenerse unidas y resilientes frente a las adversidades.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "Señales de alerta del consumo de drogas en adolescentes: guía para padres.",
+          "ideas": "Programa de prevención familiar. Un psicólogo y un psiquiatra infantil enumeran cambios de conducta que pueden indicar consumo: aislamiento, cambios de humor, bajo rendimiento, nuevos amigos, mentiras. Recomiendan cómo abordar la sospecha con diálogo y búsqueda de ayuda profesional, no con castigos. Testimonios anónimos. Informar sobre la Línea Confidencial Antidrogas. Tono alerta pero constructivo, empoderando a los padres.\n"
         }
       }
     },
@@ -5099,6 +5201,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "Estrategias municipales para el desarrollo económico local en Bayamo.",
           "ideas": "Reportaje sobre proyectos económicos impulsados por el gobierno municipal en línea con el Objetivo 5 del Programa de Gobierno (perfeccionar la gestión del desarrollo territorial). Entrevista al intendente o un especialista en desarrollo local. Proyectos priorizados, fuentes de financiamiento, participación de actores económicos. Incluir opiniones de emprendedores. Tono propositivo, mostrando cómo se construye la soberanía desde lo local.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Proyectos comunitarios de recuperación de espacios deportivos y áreas verdes en Bayamo.",
+          "ideas": "Reportaje sobre iniciativas vecinales para rehabilitar canchas, parques infantiles y jardines públicos. Entrevista a líderes de CDR, promotores deportivos y jóvenes voluntarios. Resultados, dificultades y planes de mantenimiento. Vincular con la Tarea Vida y el Objetivo 5 del Programa de Gobierno (gestión territorial). Incluir opiniones de usuarios. Tono participativo, destacando el poder de la organización comunitaria.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "Homenajes en Bayamo por el natalicio de Vilma Espín y actividades del Día Mundial de la Salud.",
+          "ideas": "Cobertura de actos y ofrendas florales en sitios emblemáticos. Entrevistas a mujeres destacadas de la FMC, a educadoras de círculos infantiles y a profesionales de la salud. Reportaje sobre las jornadas de promoción de salud en policlínicos (peso, tensión, vacunación). Incluir testimonios de ciudadanos. Tono emotivo y de reconocimiento, destacando la vigencia del legado de Vilma.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "Balance de la industria pesquera en Granma: capturas, comercialización y perspectivas.",
+          "ideas": "Reportaje desde la Empresa Pesquera de Granma. Entrevista a directivos sobre volúmenes de captura, especies, destino de la producción (mercados, turismo, industria). Dificultades: clima, combustible, artes de pesca. Proyectos de acuicultura. Incluir opiniones de consumidores sobre disponibilidad y precios. Vincular con el Objetivo 3 del Programa de Gobierno. Tono realista, destacando el esfuerzo del sector.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "Actividades conmemorativas del 9 de abril en Bayamo.",
+          "ideas": "Cobertura de las jornadas de homenaje a los mártires de la huelga: actos en plazas, ofrendas florales, charlas en escuelas y centros de trabajo. Entrevistas a historiadores, estudiantes y veteranos. Reportaje sobre el rescate de la memoria histórica en la provincia. Incluir imágenes sonoras de discursos. Tono solemne y patriótico, destacando el ejemplo de aquellos que dieron su vida por la libertad.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "Celebración del aniversario de los Círculos Infantiles en Bayamo.",
+          "ideas": "Cobertura de actividades en los círculos: matutinos especiales, festivales de arte infantil, reconocimientos a educadoras destacadas. Entrevistas a fundadoras, trabajadoras y madres. Datos sobre cobertura y planes de ampliación. Vincular con el Objetivo 7 del Programa de Gobierno (políticas sociales). Tono alegre y emotivo, destacando la importancia de la primera infancia y el legado de Vilma.\n"
         }
       }
     },
@@ -5346,6 +5468,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "Obras teatrales escritas por José Martí: el dramaturgo olvidado.",
           "ideas": "Viernes es de artes escénicas. Un crítico teatral y un actor analizan las piezas dramáticas de José Martí, como \"Adúltera\" y \"Amor con amor se paga\". Lectura dramatizada de fragmentos. Contexto de estas obras en su producción literaria. Invitar a un director de teatro local a comentar la vigencia escénica de estos textos. Música de fondo con temas de la época. Reflexionar sobre la versatilidad del Apóstol como creador escénico.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Documentales de naturaleza y deporte extremo en Cuba.",
+          "ideas": "Lunes es de audiovisuales. Recorrido por producciones cubanas que combinan naturaleza y deporte: escalada en Viñales, buceo en Jardines de la Reina, senderismo en la Sierra Maestra. Un crítico y un realizador local analizan cómo se filman estas aventuras y su valor para promover la conservación. Fragmentos sonoros con sonidos de la naturaleza. Invitar a un deportista extremo cubano. Música de fondo épica. Reflexionar sobre el cine como ventana a un mundo por descubrir.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "El rostro de Vilma en la plástica cubana: retratos y murales.",
+          "ideas": "Martes es de artes plásticas. Recorrido por pinturas, esculturas y murales que representan a Vilma Espín en Cuba. Un crítico de arte analiza las diferentes miradas: la guerrillera, la madre, la dirigente. Artistas bayameses que la han retratado. Describir obras icónicas. Música de fondo con canciones de la trova femenina. Reflexionar sobre cómo el arte perpetúa la memoria de las heroínas y acerca su ejemplo a nuevas generaciones.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "El mar en la literatura cubana: poesía y narrativa inspirada en el litoral.",
+          "ideas": "Miércoles es de literatura. Recorrido por textos de autores cubanos que tienen al mar como protagonista: \"El mar\" de Nicolás Guillén, cuentos de Onelio Jorge Cardoso, fragmentos de \"El viejo y el mar\" (traducción cubana). Un crítico y un escritor local analizan la relación simbólica entre el cubano y el mar. Lectura de fragmentos con música de fondo de olas y guitarra. Reflexionar sobre el mar como fuente de vida y cultura.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "Música de protesta y resistencia: canciones que acompañaron la lucha insurreccional.",
+          "ideas": "Jueves es de música. Recorrido por canciones de la época que movilizaron al pueblo contra Batista: himnos del M-26-7, sones de denuncia, la música de Carlos Puebla. Un musicólogo analiza su función social y propagandística. Reproducir fragmentos originales. Invitar a un músico local que interprete algunas de estas piezas. Reflexionar sobre el poder de la canción como arma de lucha y memoria colectiva.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "Teatro para la primera infancia: obras y títeres en los Círculos Infantiles.",
+          "ideas": "Viernes es de artes escénicas. Un titiritero y una educadora explican cómo el teatro de títeres y las dramatizaciones forman parte de la educación en los círculos infantiles. Beneficios: desarrollo del lenguaje, la imaginación y la expresión emocional. Representación de una breve escena con títeres en el estudio. Invitar a un grupo local de teatro infantil. Reflexionar sobre el arte como herramienta pedagógica desde los primeros años.\n"
         }
       }
     },
@@ -5593,6 +5735,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "Conflictos de pareja en la adolescencia: comunicación y límites saludables.",
           "ideas": "Programa de psicología para jóvenes. Un psicólogo aborda temas comunes en las primeras relaciones de pareja: celos, desacuerdos, presión para tener relaciones sexuales, manejo de las redes sociales. Ofrece herramientas para una comunicación asertiva, reconocer señales de toxicidad y construir relaciones basadas en el respeto mutuo. Testimonios anónimos. Segmento de preguntas. Música moderna. Tono cercano y desprejuiciado.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Cómo organizar un torneo de videojuegos entre amigos sin caer en la adicción.",
+          "ideas": "Conversatorio con jóvenes gamers y un psicólogo. Ventajas de los e-sports: trabajo en equipo, reflejos, estrategia. Peligros: sedentarismo, aislamiento, desorden del sueño. Consejos para establecer horarios, alternar con actividad física y usar los torneos como espacio de socialización presencial. Ejemplo de una liga local de FIFA o Free Fire. Tono fresco, con efectos sonoros de videojuegos. Mensaje: jugar en equipo también forma carácter.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "Ser voluntario en salud: experiencias de jóvenes que ayudan en hospitales y comunidades.",
+          "ideas": "Encuentro con jóvenes que participan en brigadas de salud, donación de sangre o acompañamiento a pacientes. Entrevista sobre sus motivaciones, aprendizajes y emociones. Un psicólogo comenta los beneficios de la empatía y el servicio. Cómo sumarse a iniciativas locales. Segmento interactivo. Tono inspirador, mostrando que la juventud también es protagonista del cuidado colectivo. Música emotiva de fondo.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "Música, playa y amigos: cómo organizar una salida sana y responsable.",
+          "ideas": "Programa práctico para el ocio juvenil. Un grupo de jóvenes comparte sus experiencias organizando excursiones a playas cercanas (Marea del Portillo, Las Coloradas). Consejos: transportarse seguro, llevar comida y agua, no dejar basura, evitar excesos de alcohol, respetar las normas. Un psicólogo comenta la importancia de la planificación para evitar riesgos. Tono divertido y responsable, con música caribeña. Mensaje: la naturaleza se disfruta cuidándola.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "La rebeldía juvenil hoy: ¿en qué causas creen los jóvenes de Bayamo?",
+          "ideas": "Debate abierto con estudiantes y jóvenes trabajadores. Preguntas: ¿Qué problemas de su entorno les indignan? ¿Cómo canalizan su rebeldía (arte, voluntariado, redes)? ¿Qué les motiva a luchar? Moderador joven facilita el diálogo. Invitar a un referente comunitario. Segmento de mensajes. Tono honesto, sin paternalismos, buscando comprender el activismo juvenil actual. Música urbana de fondo. Mensaje: la rebeldía bien orientada transforma.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "Celos en la pareja joven: cuándo son normales y cuándo se vuelven tóxicos.",
+          "ideas": "Programa de psicología para jóvenes. Un psicólogo explica la diferencia entre celos leves (inseguridad pasajera) y celos patológicos (control, aislamiento, violencia psicológica). Ofrece herramientas para trabajar la confianza, la comunicación y la autoestima. Testimonios anónimos de jóvenes que superaron relaciones tóxicas. Segmento de preguntas. Música suave. Tono cercano y preventivo, ayudando a construir relaciones sanas.\n"
         }
       }
     },
@@ -5840,6 +6002,26 @@
         "Abril-semana-1-Viernes": {
           "theme": "La independencia económica en el hogar: estrategias para diversificar ingresos.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Un economista y un emprendedor exitoso ofrecen ideas prácticas para diversificar las fuentes de ingresos familiares: emprendimientos desde casa, venta de servicios, aprovechamiento de habilidades, trabajo colaborativo. Riesgos y oportunidades. Testimonios de familias que han mejorado su situación. Vincular con el espíritu de soberanía económica que defendió Martí. Tono práctico, alentador y realista.\n"
+        },
+        "Abril-semana-2-Lunes": {
+          "theme": "Infecciones de transmisión sexual: mitos y realidades sobre el VPH y el herpes.",
+          "ideas": "Lunes es de sexualidad. Un dermatólogo y un ginecólogo explican la prevalencia, síntomas, tratamiento y prevención del VPH y el herpes genital. Desmontan mitos comunes (solo se transmite por contacto sexual, tiene cura, etc.). Importancia del condón y la vacuna contra VPH. Informan sobre servicios de diagnóstico en Bayamo. Tono claro, sin alarmismo, con espacio para preguntas anónimas. Mensaje: con información y prevención se vive mejor.\n"
+        },
+        "Abril-semana-2-Martes": {
+          "theme": "Derechos de las mujeres en el ámbito laboral: igualdad salarial y permisos de maternidad.",
+          "ideas": "Martes es día jurídico. Una abogada laboralista explica la legislación cubana sobre igualdad de oportunidades, prohibición de discriminación por sexo, permisos pre y postnatales, salario por igual trabajo. Cómo denunciar situaciones de desigualdad. Experiencias de mujeres en Bayamo. Vincular con el Programa de Adelanto de las Mujeres. Tono claro y empoderador, ayudando a las trabajadoras a conocer y exigir sus derechos.\n"
+        },
+        "Abril-semana-2-Miércoles": {
+          "theme": "La salud de la piel: prevención del cáncer y cuidados frente al sol.",
+          "ideas": "Miércoles es día variado. Un dermatólogo explica los riesgos de la exposición solar excesiva, especialmente en zonas costeras. Cómo protegerse: usar protector solar, evitar horas pico, usar sombrero y ropa clara. Importancia del autoexamen de lunares y la consulta periódica. Desmentir mitos sobre el bronceado saludable. Testimonios de personas tratadas. Tono preventivo y accesible, promoviendo hábitos seguros en la playa y el campo.\n"
+        },
+        "Abril-semana-2-Jueves": {
+          "theme": "La figura de José Martí en la historia de Bayamo: visitas, cartas y legado.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Un historiador del Museo Provincial narra los vínculos de Martí con Bayamo: sus cartas a figuras locales, su paso por la ciudad, el significado de la Quema de Bayamo en su pensamiento. Lectura de fragmentos de sus escritos. Conectar con la actualidad: el ideario martiano en la defensa de la soberanía. Tono de orgullo local, redescubriendo a un Apóstol más cercano a la tierra bayamesa.\n"
+        },
+        "Abril-semana-2-Viernes": {
+          "theme": "El estrés postraumático en mujeres víctimas de violencia doméstica.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga clínica explica el trastorno de estrés postraumático, sus síntomas (flashbacks, hipervigilancia, insomnio) y cómo afecta a mujeres que han sufrido violencia de género. Ofrece pautas para buscar ayuda: terapia especializada, redes de apoyo, denuncia. Testimonio anónimo (voz modificada). Recursos disponibles en Bayamo (Casa de la Mujer, fiscales). Tono empático, rompiendo el silencio y ofreciendo esperanza.\n"
         }
       }
     },
@@ -5863,6 +6045,10 @@
         "Abril-semana-1-Sábado": {
           "theme": "OPJM y UJC: 65 años formando a las nuevas generaciones en los valores de la Revolución.",
           "ideas": "Programa histórico y juvenil en el aniversario de la fundación de la OPJM y la UJC el 4 de abril de 1961. Un historiador y dirigentes de ambas organizaciones repasan su origen, su papel en la formación de niños y jóvenes, sus principales programas. Testimonio de un pionero y un joven de la UJC. Conectar con el legado de Vilma Espín, fundadora de los círculos infantiles. Música pioneril. Cierre: la continuidad de la obra revolucionaria.\n"
+        },
+        "Abril-semana-2-Sábado": {
+          "theme": "El desembarco de Cajobabo: el regreso de Martí a la patria para la guerra necesaria.",
+          "ideas": "Programa histórico desde la costa de Baracoa, pero con enfoque en el significado para todo Oriente. Un historiador narra los preparativos, la travesía y el encuentro de Martí y Gómez en la playa. Su importancia simbólica: el Apóstol volvía a Cuba para morir por la independencia. Lectura de fragmentos del Diario de Campaña. Conectar con la vigencia del ejemplo: la decisión de luchar por la soberanía cueste lo que cueste. Música patriótica. Cierre emocionado.\n"
         }
       }
     },
@@ -5886,6 +6072,10 @@
         "Abril-semana-1-Sábado": {
           "theme": "Actividades por el aniversario de la OPJM y la UJC en Bayamo.",
           "ideas": "Cobertura de las celebraciones en escuelas y comunidades: matutinos especiales, actividades de pioneros, juramentaciones, reconocimientos a dirigentes destacados. Entrevistas a niños, jóvenes y educadores. Agenda de actividades. Tono festivo y patriótico, destacando el papel de estas organizaciones en la formación de valores y la continuidad de la Revolución.\n"
+        },
+        "Abril-semana-2-Sábado": {
+          "theme": "Actividades por el Día de la Defensa en Granma: ejercicios, preparación y participación popular.",
+          "ideas": "Reportaje sobre las actividades realizadas el viernes 10 en el territorio en el marco del Día Nacional de la Defensa.\n"
         }
       }
     },
@@ -5945,6 +6135,10 @@
         "Abril-semana-1-Sábado": {
           "theme": "Referentes femeninos para adolescentes: heroínas, científicas, artistas.",
           "ideas": "Programa motivador dedicado a mujeres que han dejado huella en la historia, la ciencia, la cultura y la vida cotidiana. Un psicólogo y una psicóloga hablan sobre la importancia de tener modelos diversos. Perfiles breves de figuras como Vilma Espín, Haydée Santamaría, las científicas bayamesas, artistas jóvenes. Segmento interactivo donde las oyentes comparten sus referentes. Música inspiradora. Tono empoderador, mostrando caminos posibles.\n"
+        },
+        "Abril-semana-2-Sábado": {
+          "theme": "Cómo superar el miedo al rechazo en la adolescencia.",
+          "ideas": "Programa de apoyo psicológico. Un psicólogo explica el origen del miedo al rechazo social, sus manifestaciones (ansiedad, evitación, baja autoestima) y ofrece estrategias: trabajar la aceptación personal, exponerse gradualmente a situaciones sociales, aprender de los fracasos. Testimonios de adolescentes que superaron ese miedo. Ejercicios prácticos de autoafirmación. Música relajante. Mensaje: el valor de ser uno mismo es más importante que caer bien a todos.\n"
         }
       }
     },
@@ -6004,6 +6198,10 @@
         "Abril-semana-1-Sábado": {
           "theme": "El son en la música pioneril: canciones que marcaron la infancia cubana.",
           "ideas": "Programa musical especializado. Selección de canciones infantiles con ritmo de son y música cubana que formaron parte del repertorio de generaciones de pioneros. Un musicólogo y una educadora comentan su contexto y significado. Reproducir fragmentos de temas emblemáticos. Invitar a un músico que trabaje con niños. Ambiente nostálgico y alegre, celebrando la música que ha acompañado a las infancias cubanas.\n"
+        },
+        "Abril-semana-2-Sábado": {
+          "theme": "Pupo y su Nuevo Expreso: sonido fresco, letras de barrio y tradición renovada.",
+          "ideas": "Programa musical especializado en la agrupación cubana Pupo y su Nuevo Expreso. Un musicólogo y un periodista especializado repasan la trayectoria de la banda, su estilo único que fusiona el son tradicional con influencias del funk, el reggae y la música popular bailable. Analizar sus principales temas.\n"
         }
       }
     },
@@ -6086,6 +6284,10 @@
         "Abril-semana-1-Domingo": {
           "theme": "Tradiciones familiares en torno al 4 de abril: anécdotas de pioneros y jóvenes.",
           "ideas": "Programa emotivo e intergeneracional. Invitar a abuelos que fueron pioneros en la década del 60, padres que lo fueron en los 80 y nietos que lo son hoy. Compartir anécdotas, canciones, uniformes, actividades que recuerdan. Cómo ha cambiado y qué permanece. Incluir música pioneril. Tono cálido y nostálgico, celebrando la continuidad de la educación revolucionaria en las familias cubanas.\n"
+        },
+        "Abril-semana-2-Domingo": {
+          "theme": "La música de Sindo Garay como legado familiar. Consejos para fabricar instrumentos musicales caseros en familia. Beneficios de la música en la tercera edad: estimulación cognitiva y bienestar emocional.",
+          "ideas": "Programa dedicado al natalicio del gran trovador Sindo Garay. La conductora abre con una pregunta participativa: ¿qué canción de Sindo Garay cantaban tus abuelos? Invita a oyentes a contar anécdotas familiares. Luego, ofrece una guía práctica para construir maracas y claves con materiales reciclados, actividad ideal para realizar en familia. En el segmento para adultos mayores, una psicóloga explica cómo cantar o escuchar música mejora la memoria, el ánimo y la estimulación cognitiva. Incluir testimonios y fragmentos de grabaciones históricas de Sindo Garay. Música de fondo con guitarra. Cierre reflexivo sobre la importancia de transmitir las tradiciones musicales a las nuevas generaciones.\n"
         }
       }
     },
@@ -6141,6 +6343,10 @@
         "Abril-semana-1-Domingo": {
           "theme": "Canciones para los pioneros: himnos y rondas infantiles cubanas.",
           "ideas": "Selección musical dedicada al aniversario de la OPJM. Incluir el Himno de los Pioneros, canciones tradicionales de las matutinos, rondas infantiles. Un narrador cuenta breves historias sobre el origen de estas canciones. Actividad: que los niños canten y bailen. Música alegre y participativa, celebrando la alegría de ser pionero y el legado de Vilma Espín.\n"
+        },
+        "Abril-semana-2-Domingo": {
+          "theme": "Las canciones de Sindo Garay para niños: rondas y nanas tradicionales.",
+          "ideas": "Selección de piezas infantiles compuestas por Sindo Garay o inspiradas en su obra. Un narrador cuenta la historia de este gran trovador santiaguero de forma amena. Actividad: que los niños dibujen lo que imaginan al escuchar sus canciones. Música alegre y participativa. Rescatar la memoria de Sindo como parte del patrimonio musical que también pertenece a los pequeños.\n"
         }
       }
     },
@@ -6200,6 +6406,10 @@
         "Abril-semana-1-Domingo": {
           "theme": "Natalicios de patriotas bayameses en abril.",
           "ideas": "Recorrido por figuras históricas de Bayamo nacidas en abril: Carlos Manuel de Céspedes (18 de abril), Luis Victoriano Betancourt (23 de marzo, pero también en abril otros). Un historiador local destaca a estos próceres, su contribución a la independencia y su legado en la identidad de la ciudad. Lectura de fragmentos de cartas y documentos. Música patriótica de fondo. Tono de orgullo local, reafirmando la cuna de la nacionalidad.\n"
+        },
+        "Abril-semana-2-Domingo": {
+          "theme": "Bayamo en la trova cubana: figuras, canciones y tradición.",
+          "ideas": "Recorrido por la historia de la trova en Bayamo, desde los primeros trovadores anónimos del siglo XIX hasta figuras como Ñico Saquito y los contemporáneos. Un historiador de la música local y un trovador bayamés analizan las composiciones dedicadas a la ciudad, sus paisajes y sus héroes. Reproducir fragmentos de grabaciones históricas. Música de fondo con guitarra. Tono de orgullo local, mostrando a Bayamo como cuna también de la canción cubana.\n"
         }
       }
     },
@@ -6259,6 +6469,10 @@
         "Abril-semana-1-Domingo": {
           "theme": "Música para un domingo en familia: grandes éxitos de la música cubana.",
           "ideas": "Programa musical variado con lo mejor de la música cubana para disfrutar en familia. Selección de temas que abarquen géneros y épocas: trovadores, soneros, danzonetes, boleros, timba. El conductor presenta cada tema con datos curiosos. Invitar a los oyentes a pedir canciones. Ambiente relajado y festivo, celebrando la riqueza musical cubana.\n"
+        },
+        "Abril-semana-2-Domingo": {
+          "theme": "La trova cubana: desde Sindo Garay hasta los nuevos bardos.",
+          "ideas": "Programa musical dedicado a la trova, recorriendo sus exponentes clásicos (Sindo Garay, María Teresa Vera, Ñico Saquito) y contemporáneos (Silvio Rodríguez, Pablo Milanés, Carlos Varela, Karel García). El conductor presenta cada tema con datos biográficos y contextuales. Ambiente íntimo, ideal para el descanso dominical. Invitar a los oyentes a dedicar canciones. Celebración de la poesía hecha canción.\n"
         }
       }
     },
@@ -6318,6 +6532,10 @@
         "Abril-semana-1-Domingo": {
           "theme": "La cultura en Bayamo: espacios, instituciones y tradiciones.",
           "ideas": "Recorrido por la vida cultural de la ciudad: la Casa de la Trova, la Galería de Arte, la Biblioteca Provincial, el Teatro Principal, los grupos artísticos locales, las tradiciones orales y festivas. Entrevista a un especialista de la Dirección Municipal de Cultura o a un gestor cultural. Importancia de la cultura como pilar de la identidad y la cohesión social. Tono informativo y de orgullo, invitando a la población a valorar y disfrutar los espacios culturales de la ciudad."
+        },
+        "Abril-semana-2-Domingo": {
+          "theme": "La escena cultural de Bayamo: espacios, grupos y tradiciones artísticas.",
+          "ideas": "Recorrido por la vida cultural de la ciudad: la Casa de la Trova, el Museo de Cera, la Galería de Arte, el Teatro Principal, los grupos de danza y teatro, las peñas literarias, las artesanías. Entrevista a un gestor cultural o a un artista local. Importancia de preservar y promover estos espacios como alternativa de recreación sana y desarrollo de talentos. Tono informativo, invitando a la población a valorar y disfrutar la riqueza cultural bayamesa."
         }
       }
     }
@@ -10249,16 +10467,33 @@
     "Abril-semana-1-Jueves": "Adelanto de las Mujeres – Día Mundial de Concienciación sobre el Autismo, con enfoque en el rol de la familia y la comunidad.",
     "Abril-semana-1-Viernes": "Historia y Cultura – Intervención de José Martí en la Conferencia Monetaria Internacional Americana (1891), símbolo de la defensa de la soberanía económica.",
     "Abril-semana-1-Sábado": "Adelanto de las Mujeres – Aniversario de la fundación de la Organización de Pioneros José Martí (OPJM) y la Unión de Jóvenes Comunistas (UJC).",
-    "Abril-semana-1-Domingo": "Historia y Soberanía – Fallecimiento de Guillermón Moncada (1895), Mayor General del Ejército Libertador."
+    "Abril-semana-1-Domingo": "Historia y Soberanía – Fallecimiento de Guillermón Moncada (1895), Mayor General del Ejército Libertador.",
+    "Abril-semana-2-Lunes": "Tarea Vida (Medio Ambiente) – Día Internacional del Deporte para el Desarrollo y la Paz, vinculado a la relación entre actividad física, salud y naturaleza.",
+    "Abril-semana-2-Martes": "Adelanto de las Mujeres – Natalicio de Vilma Espín (1930) y Día Mundial de la Salud.",
+    "Abril-semana-2-Miércoles": "Soberanía Alimentaria – Día del Trabajador de la Industria Pesquera.",
+    "Abril-semana-2-Jueves": "Legado de Fidel Castro – 68 aniversario de la Huelga Revolucionaria del 9 de abril (1958).",
+    "Abril-semana-2-Viernes": "Lucha contra las Drogas – Aniversario de la fundación de los Círculos Infantiles por Vilma Espín (1961) y de la Asamblea de Guáimaro (1869).",
+    "Abril-semana-2-Sábado": "Historia y Soberanía – 131 aniversario del desembarco de José Martí y Máximo Gómez por Playita de Cajobabo (1895).",
+    "Abril-semana-2-Domingo": "Cultura e Identidad – Natalicio de Sindo Garay (1867), el más antiguo de los grandes de la trova tradicional cubana."
   },
   "agendaUsers": [
+    {
+      "id": "admin",
+      "name": "Pedro José Reyes Acuña",
+      "username": "admin",
+      "pin": "RC0026",
+      "role": "admin",
+      "phone": "54413935",
+      "photo": ""
+    },
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "pin": "RadioCiudad0026"
     },
     {
       "id": "jose",
@@ -10267,7 +10502,8 @@
       "mobile": "54205626",
       "password": "RadioCiudad1726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1726"
     },
     {
       "id": "lissell",
@@ -10276,7 +10512,8 @@
       "mobile": "58841705",
       "password": "RadioCiudad0226",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0226"
     },
     {
       "id": "maylen",
@@ -10285,7 +10522,8 @@
       "mobile": "58702380",
       "password": "RadioCiudad1026",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1026"
     },
     {
       "id": "rosa",
@@ -10294,7 +10532,8 @@
       "mobile": "54275723",
       "password": "RadioCiudad0826",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0826"
     },
     {
       "id": "abel",
@@ -10303,7 +10542,8 @@
       "mobile": "59195045",
       "password": "RadioCiudad0926",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0926"
     },
     {
       "id": "caridad",
@@ -10312,7 +10552,8 @@
       "mobile": "56350265",
       "password": "RadioCiudad1626",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1626"
     },
     {
       "id": "rafael",
@@ -10321,7 +10562,8 @@
       "mobile": "52143905",
       "password": "RadioCiudad1526",
       "role": "admin",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1526"
     },
     {
       "id": "ernesto",
@@ -10330,7 +10572,8 @@
       "mobile": "52137105",
       "password": "RadioCiudad0326",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0326"
     },
     {
       "id": "leipzig",
@@ -10339,7 +10582,8 @@
       "mobile": "58401306",
       "password": "RadioCiudad1426",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1426"
     },
     {
       "id": "beatrizgonzalez",
@@ -10348,7 +10592,8 @@
       "mobile": "58390181",
       "password": "RadioCiudad1226",
       "role": "worker",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1226"
     },
     {
       "id": "daylen",
@@ -10357,7 +10602,8 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "worker",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1126"
     },
     {
       "id": "jorge",
@@ -10366,7 +10612,8 @@
       "mobile": "55326426",
       "password": "RadioCiudad0426",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0426"
     },
     {
       "id": "susel",
@@ -10375,7 +10622,8 @@
       "mobile": "54778270",
       "password": "RadioCiudad0526",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0526"
     },
     {
       "id": "arnaldo",
@@ -10384,7 +10632,8 @@
       "mobile": "53924841",
       "password": "RadioCiudad0626",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0626"
     },
     {
       "id": "beatriz",
@@ -10393,7 +10642,8 @@
       "mobile": "54777754",
       "password": "RadioCiudad0726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0726"
     },
     {
       "id": "johan",
@@ -10402,7 +10652,8 @@
       "mobile": "59996914",
       "password": "RadioCiudad1326",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1326"
     },
     {
       "id": "yisel",
@@ -10411,7 +10662,8 @@
       "mobile": "52568960",
       "password": "RadioCiudad1826",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1826"
     },
     {
       "id": "lianet",
@@ -10420,7 +10672,8 @@
       "mobile": "55572836",
       "password": "RadioCiudad1926",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1926"
     },
     {
       "id": "surima",
@@ -10429,7 +10682,8 @@
       "mobile": "54681371",
       "password": "RadioCiudad2026",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2026"
     },
     {
       "id": "humberto",
@@ -10438,7 +10692,8 @@
       "mobile": "59996846",
       "password": "RadioCiudad2126",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2126"
     },
     {
       "id": "addalis",
@@ -10447,7 +10702,8 @@
       "mobile": "59996855",
       "password": "RadioCiudad2226",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2226"
     }
   ],
   "agendaPropaganda": {
