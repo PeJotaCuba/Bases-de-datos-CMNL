@@ -4187,6 +4187,26 @@
   "consolidated": [],
   "interruptions": [],
   "consolidatedMonths": [],
+  "habitualExclusions": [
+    {
+      "username": "admin",
+      "exclusions": []
+    },
+    {
+      "username": "jorge",
+      "exclusions": []
+    }
+  ],
+  "habitualModes": [
+    {
+      "username": "admin",
+      "mode": false
+    },
+    {
+      "username": "jorge",
+      "mode": false
+    }
+  ],
   "transmissionConfig": {
     "MONDAY": {
       "informativos": 69,
@@ -49771,6 +49791,585 @@
     ],
     "Martí": [
       "075 Mencion Jose Marti|D:\\MemRosy\\PROP(075) Mencion Jose Marti.mp3"
+    ]
+  },
+  "agendaCulturalOptions": {
+    "Abril": [
+      {
+        "day": 13,
+        "activities": [
+          {
+            "actividad": "Taller del proyecto NO MÁS sobre la prevención de la violencia contra la mujer en Cuba (UNEAC)",
+            "hora": "8:30 AM",
+            "lugar": "Casa de orientación a la mujer y la familia. Jesús Menéndez"
+          },
+          {
+            "actividad": "Muestra circulante Libertad ante todo (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:00 AM",
+            "lugar": "Círculo Infantil Pedro Pompa. Bayamo"
+          },
+          {
+            "actividad": "Proyección de filmes cubanos Conducta, El joven rebelde y El brigadista (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Salas cinematográficas disponibles"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Aviones 2. Equipo al rescate (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cine Céspedes. Bayamo"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Frozen 1 (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Moana en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Hospital Infantil Hermanos Cordové. Manzanillo"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          },
+          {
+            "actividad": "Proyección de la serie Ni una más (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Sala 3D Boulevard Los Capuchinos y Sala Sara Gómez. Multisala Cinema"
+          }
+        ]
+      },
+      {
+        "day": 14,
+        "activities": [
+          {
+            "actividad": "Taller del proyecto NO MÁS sobre la prevención de la violencia contra la mujer en Cuba (UNEAC)",
+            "hora": "8:30 AM",
+            "lugar": "Casa de orientación a la mujer y la familia. Jesús Menéndez"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Balto. La leyenda del perro esquimal (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cines cabeceras y Cine Céspedes"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Moana (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Frozen en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Exposición Ciudad en capas. Patrimonio y cultura (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:00 AM",
+            "lugar": "Centro Cultural Armando Hart"
+          },
+          {
+            "actividad": "Evento Ciudad en capas: Historias y cultura (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:30 AM",
+            "lugar": "Centro Cultural Armando Hart"
+          },
+          {
+            "actividad": "Conferencia Céspedes y el despertar de la nación cubana (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Visita dirigida a la exposición (Centro Provincial de Artes Visuales)",
+            "hora": "10:00 AM",
+            "lugar": "Galería de Artes Visuales"
+          },
+          {
+            "actividad": "Proyección de filmes cubanos Conducta, El joven rebelde y El brigadista (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Salas cinematográficas disponibles"
+          }
+        ]
+      },
+      {
+        "day": 15,
+        "activities": [
+          {
+            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
+            "hora": "9:00 AM a 4:00 PM",
+            "lugar": "Plaza del Himno (Plaza de la Revolución)"
+          },
+          {
+            "actividad": "Cápsula promocional por el aniversario 270 del natalicio de Manuel del Socorro (Oficina del Historiador de la Ciudad de Bayamo)",
+            "hora": "9:00 AM",
+            "lugar": "Redes Sociales"
+          },
+          {
+            "actividad": "Activación de la Guerrilla 50 Aniversario (Centro Provincial de Casas de Cultura)",
+            "hora": "9:00 AM",
+            "lugar": "Reparto Latinoamericano. Bayamo"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme David. Una aventura gigante (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cines cabeceras y Cine Céspedes"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Anastasia (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Enredados en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Conferencia Los monumentos y sitios relacionados con Fidel Castro Ruz (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Parque Museo Ñico López"
+          },
+          {
+            "actividad": "Visita a la sede de Teatro Andante (AHS)",
+            "hora": "10:00 AM",
+            "lugar": "Casa Verde del Teatro"
+          },
+          {
+            "actividad": "Espacio fijo Libro Debate. Desarrollo de los procesos inversionistas en Granma. Logros y cadencias (Casa de la Nacionalidad Cubana)",
+            "hora": "10:00 AM",
+            "lugar": "Casa de la Nacionalidad Cubana"
+          },
+          {
+            "actividad": "Recital de poesías. Anfitrión: Jorge Felipe Santos Véliz (Centro Provincial del Libro)",
+            "hora": "10:00 AM",
+            "lugar": "Parque Infantil. Guisa"
+          },
+          {
+            "actividad": "Inauguración de la feria infantil El Trompo (Fondo Cubano de Bienes Culturales)",
+            "hora": "10:00 AM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Espacio fijo artístico cultural de la especialidad de Danza (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "11:00 AM",
+            "lugar": "Lobby de Danza de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Conversatorio sobre prevención de drogas y género (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "11:00 AM",
+            "lugar": "Lobby de Nivel Medio de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          },
+          {
+            "actividad": "Noche de estreno. Proyección del filme The housemaid (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
+          },
+          {
+            "actividad": "Actividad Comunitaria Integradora. Pintando en mi barrio (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Biblioteca Provincial 1868, Centro Provincial del Libro, Centro Provincial de la Música)",
+            "hora": "5:00 PM",
+            "lugar": "Callejón Hechavarría % Mártires y Milanés. Francisco Vicente Aguilera. Bayamo"
+          }
+        ]
+      },
+      {
+        "day": 16,
+        "activities": [
+          {
+            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
+            "hora": "9:00 AM a 4:00 PM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Premiación del concurso infantil Pintando mis monumentos (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:00 AM",
+            "lugar": "Museo de Arqueología. Bayamo"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Zootopia (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cines cabeceras y Cine Céspedes"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme La novia cadáver (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Grandes héroes en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Proyección del documental Estirpe de libertad (AHS)",
+            "hora": "10:00 AM",
+            "lugar": "Cinema Café"
+          },
+          {
+            "actividad": "Presentación de Teatro de Ilusiones Libre con la obra Riendo con TIL (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Sede La casa de las historias. Siboney. Bayamo"
+          },
+          {
+            "actividad": "Conversatorio Memoria a Girón con el historiador José Antonio Matilla Vázquez (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Teatro Manzanillo"
+          },
+          {
+            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Comunidad La Vuelta. Manzanillo"
+          },
+          {
+            "actividad": "Espacio Diálogos con Hart (Sociedad Cultural José Martí)",
+            "hora": "10:00 AM",
+            "lugar": "Centro Cultural Armando Hart"
+          },
+          {
+            "actividad": "Conferencia sobre el discurso Palabras a los intelectuales a los 65 años de pronunciado (UNEAC)",
+            "hora": "10:00 AM",
+            "lugar": "Galería Dos Columnas. UNEAC"
+          },
+          {
+            "actividad": "Biblioteca del barrio (Biblioteca Provincial 1868)",
+            "hora": "10:00 AM",
+            "lugar": "Carretera de Manzanillo / 2 y 6. Rpto Latinoamericano"
+          },
+          {
+            "actividad": "Proyecto Acento. Anfitriones: Luis Carlos Suárez Reyes, Lucía Esther Muñoz Maceo, Gabriel Suárez Muñoz (Centro Provincial del Libro)",
+            "hora": "4:00 PM",
+            "lugar": "Sede del Proyecto Acento. Camilo Cienfuegos. Bayamo"
+          },
+          {
+            "actividad": "Noche de Cinemateca. Proyección del filme Genio y figura (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
+          },
+          {
+            "actividad": "Espacio Grandes Clásicos (UNEAC)",
+            "hora": "6:00 PM",
+            "lugar": "Galería Dos Columnas. UNEAC"
+          }
+        ]
+      },
+      {
+        "day": 17,
+        "activities": [
+          {
+            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
+            "hora": "9:00 AM a 4:00 PM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Matutino Especial (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "8:00 AM",
+            "lugar": "Plaza de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Zootopia 2 (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cines cabeceras y Cine Céspedes"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme El aprendiz de brujo (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Croods en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Presentación del boletín El Avisador Cespediano (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:00 AM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Presentación del libro Carlos Manuel de Céspedes: Los sentidos de la libertad (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:30 AM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Presentación del expediente como propuesta a Premio Nacional de Conservación del Monumento Nacional Comandancia General de La Plata (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:30 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          },
+          {
+            "actividad": "Actividad Comunitaria Integradora. Entre cuentos y colores (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Biblioteca Provincial 1868, Centro Provincial del Libro, UNEAC, Centro Provincial de la Música)",
+            "hora": "5:00 PM",
+            "lugar": "Calle 19 % 44 y 42. Rosa La Bayamesa. Bayamo"
+          },
+          {
+            "actividad": "Espacio La Mochila para estudiantes de la FEEM (EGREM)",
+            "hora": "6:00 PM a 9:00 PM",
+            "lugar": "Salón del Bayam"
+          }
+        ]
+      },
+      {
+        "day": 18,
+        "activities": [
+          {
+            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
+            "hora": "9:00 AM a 4:00 PM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Ceremonia de las banderas. Colocación de ofrendas florales y acto político cultural (Dirección Municipal de Cultura Bayamo)",
+            "hora": "7:30 AM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Acto de homenaje al Padre de la Patria (Dirección Municipal de Cultura Bayamo)",
+            "hora": "8:00 AM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Ceremonia de Iluminación al Padre de la Patria (Dirección Municipal de Cultura Bayamo)",
+            "hora": "8:30 AM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Develación de la obra del artista de la plástica Amaury Palacios (Dirección Municipal de Cultura Bayamo)",
+            "hora": "8:50 AM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Taller de creación artística con el proyecto teatral infantil Los Andantinos (Consejo Provincial de las Artes Escénicas)",
+            "hora": "9:00 AM",
+            "lugar": "Casa Verde del Teatro"
+          },
+          {
+            "actividad": "Talleres vocacionales de las diferentes especialidades (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "9:00 AM",
+            "lugar": "Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Sábado del libro. Presentación del libro Prosas Alicia (Centro Provincial del Libro)",
+            "hora": "9:00 AM",
+            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
+          },
+          {
+            "actividad": "Sábado del libro. Recital de poesía en saludo a la Victoria de Girón (Centro Provincial del Libro)",
+            "hora": "9:00 AM",
+            "lugar": "Museo José Nemecio Figueredo. Río Cauto"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Aviones 2 (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Cines cabeceras y Cine Céspedes"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Abominable en 3D (Centro Provincial de Cine)",
+            "hora": "9:00 AM",
+            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
+          },
+          {
+            "actividad": "Torneo de cartas Yu Gi Oh (AHS)",
+            "hora": "9:30 AM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Trovatuaje (AHS)",
+            "hora": "10:00 AM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Presentación de ATEGUA con el espectáculo Color esperanza (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Hospital Infantil Hermanos Cordové. Manzanillo"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música)",
+            "hora": "12:00 M",
+            "lugar": "Restaurante La España"
+          },
+          {
+            "actividad": "Conversatorio sobre temas de las Ciencias Sociales en el programa radial Criterios (Casa de la Nacionalidad Cubana)",
+            "hora": "1:30 PM",
+            "lugar": "Radio Bayamo"
+          },
+          {
+            "actividad": "Presentación del proyecto Tarequeando con el espectáculo Todo es una fiesta (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Hotel Sierra Maestra"
+          },
+          {
+            "actividad": "Entrega de la canastilla al primer niño o niña nacido este día (Dirección Municipal de Cultura Bayamo)",
+            "hora": "4:00 PM",
+            "lugar": "Hospital Provincial Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Presentación de Teatro Andante con la obra Los colores del bosque (Consejo Provincial de las Artes Escénicas)",
+            "hora": "5:00 PM",
+            "lugar": "Casa Verde del Teatro"
+          },
+          {
+            "actividad": "Espacio Retreta. Presentación de la Banda Provincial de Conciertos (Centro Provincial de la Música)",
+            "hora": "5:00 PM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Presentación del Cuarteto de Saxofones (Centro Provincial de la Música)",
+            "hora": "6:00 PM",
+            "lugar": "Centro de Interpretación del Patrimonio"
+          },
+          {
+            "actividad": "Presentación de la Compañía Tiempo Arte Contemporáneo con la obra Triada (Consejo Provincial de las Artes Escénicas)",
+            "hora": "7:00 PM",
+            "lugar": "Sala Teatro José Joaquín Palma"
+          },
+          {
+            "actividad": "Concierto con todos (Centro Provincial de la Música)",
+            "hora": "7:00 PM",
+            "lugar": "Sala de Conciertos Mtro. Salvador Alarcón Rodríguez"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Sevillana"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Bayamesa"
+          },
+          {
+            "actividad": "Noche Bayamesa Camino al arte (Dirección Municipal de Cultura Bayamo)",
+            "hora": "7:00 PM",
+            "lugar": "Casa de Cultura 20 de Octubre"
+          },
+          {
+            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:30 PM",
+            "lugar": "Restaurante 1513"
+          },
+          {
+            "actividad": "Tanda Especial. Proyección del filme Un buen ladrón (Centro Provincial de Cine)",
+            "hora": "8:00 PM",
+            "lugar": "Cine Céspedes. Bayamo"
+          },
+          {
+            "actividad": "Espacio Hasta la vista compay (Centro Provincial de Cine)",
+            "hora": "8:00 PM",
+            "lugar": "Palacio de Pioneros Raquel González"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
+            "hora": "8:00 PM",
+            "lugar": "Restaurante El Senado"
+          },
+          {
+            "actividad": "Espacio Voces del alma. Presentación del Conjunto de Música Antigua Exulten (Centro Provincial de la Música)",
+            "hora": "8:00 PM",
+            "lugar": "Sala Principal del Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Espacio Melodía y tradición. Presentación del órgano Caribbean Sol (Centro Provincial de la Música)",
+            "hora": "9:00 PM",
+            "lugar": "Calle Saco esquina General García"
+          },
+          {
+            "actividad": "Espacio de la UNEAC La gloria eres tú (EGREM)",
+            "hora": "9:00 PM a 12:00 AM",
+            "lugar": "Video Bar Sindo Garay"
+          },
+          {
+            "actividad": "Rincón del Recuerdo (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:00 PM",
+            "lugar": "Calle Luz Vázquez esquina General García"
+          },
+          {
+            "actividad": "Noche Bayamesa Camino al arte. Presentación del Ballet Folklórico Granma con la obra Herencias campesinas (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:00 PM",
+            "lugar": "Casa de Cultura 20 de Octubre"
+          },
+          {
+            "actividad": "Espacio Noche de Glamour (EGREM)",
+            "hora": "9:00 PM a 2:00 AM",
+            "lugar": "Salón del Bayam"
+          },
+          {
+            "actividad": "Espacio Punto Neutro (Dirección Municipal de Cultura Bayamo)",
+            "hora": "10:00 PM a 12:00 AM",
+            "lugar": "Calle Saco % General García y Céspedes. Frente a la Academia de Esgrima"
+          }
+        ]
+      },
+      {
+        "day": 19,
+        "activities": [
+          {
+            "actividad": "Presentación del Guiñol Pequeño Príncipe y el payaso Palitroque con el espectáculo Payasadas de Palitroque (Consejo Provincial de las Artes Escénicas)",
+            "hora": "9:00 AM",
+            "lugar": "Boulevard Tropicrema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Aviones 2 (Centro Provincial de Cine)",
+            "hora": "10:00 AM",
+            "lugar": "Cine Céspedes. Bayamo"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
+            "hora": "12:00 M",
+            "lugar": "Restaurante La España"
+          },
+          {
+            "actividad": "Presentación del Colectivo Teatral Granma con la obra El tesoro de los niños (Consejo Provincial de las Artes Escénicas)",
+            "hora": "6:00 PM",
+            "lugar": "Teatrón Infantil Plaza La Luz. Parque de la Sala Teatro José Joaquín Palma"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Sevillana"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Bayamesa"
+          },
+          {
+            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música)",
+            "hora": "7:30 PM",
+            "lugar": "Restaurante 1513"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
+            "hora": "8:00 PM",
+            "lugar": "Restaurante El Senado"
+          }
+        ]
+      },
+      {
+        "day": 20,
+        "activities": [
+          {
+            "actividad": "Panel Playa Girón: Miradas y reflexiones sobre un hecho histórico (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:00 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          }
+        ]
+      }
     ]
   },
   "programsList": [],
