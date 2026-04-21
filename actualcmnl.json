@@ -27,15 +27,6 @@
       "classification": "Director"
     },
     {
-      "id": "maylen",
-      "username": "maylen",
-      "name": "Maylén Leyanis Pérez Chi",
-      "mobile": "58702380",
-      "password": "RadioCiudad1026",
-      "role": "worker",
-      "classification": "Director"
-    },
-    {
       "id": "rosa",
       "username": "rosa",
       "name": "Rosa Aracelis Chi Cedeño",
@@ -185,15 +176,6 @@
       "name": "Humberto Zamora Fajardo",
       "mobile": "59996846",
       "password": "RadioCiudad2126",
-      "role": "worker",
-      "classification": "Usuario"
-    },
-    {
-      "id": "addalis",
-      "username": "addalis",
-      "name": "Addalis Belet García",
-      "mobile": "59996855",
-      "password": "RadioCiudad2226",
       "role": "worker",
       "classification": "Usuario"
     },
@@ -43315,6 +43297,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "El legado de Fidel en la doctrina militar cubana: Guerra de Todo el Pueblo.",
           "ideas": "En \"Un día como hoy\", se recuerda la confesión de Kennedy. El tema central es el legado de Fidel en la defensa nacional. Un historiador militar explica el concepto de Guerra de Todo el Pueblo y su vigencia. La sección infantil narra cómo los pioneros participan en ejercicios de defensa. \"De la Ciencia y la Técnica\" habla de la tecnología militar cubana. La música incluye marchas y canciones patrióticas. La pregunta de participación: ¿Cómo te preparas tú y tu familia para la defensa del país?\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "Dulce María Loynaz: una voz femenina imprescindible en las letras cubanas.",
+          "ideas": "El programa inicia recordando el aniversario 29 de la partida de la poeta y novelista Dulce María Loynaz, Premio Nacional de Literatura y Premio Cervantes. Un especialista en literatura cubana repasa su obra cumbre \"Jardín\" y su estilo intimista. La sección infantil narra un cuento breve de una autora bayamesa inspirada en Loynaz. En \"Sobre el lenguaje\", se analiza la riqueza léxica de su prosa. \"Este mundo nuestro\" aborda el rol de las mujeres en la literatura universal. La música será de compositoras cubanas como Gisela Hernández. La pregunta de participación: ¿Qué escritora cubana admiras y por qué? Se conecta con el Programa de Adelanto de las Mujeres.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "Prevención del consumo de drogas en el ámbito laboral: un tema de salud y seguridad.",
+          "ideas": "A propósito del Día Mundial de la Seguridad y Salud en el Trabajo, el programa enfoca la prevención de adicciones en fábricas y centros de servicio. Un psicólogo laboral explica cómo el estrés o la monotonía pueden ser factores de riesgo, y presenta los programas de la CTC y el MINSAP para la pesquisa activa. La sección infantil enseña a decir \"no\" a las malas influencias con un cuento. \"De la Ciencia y la Técnica\" aborda los efectos neurotóxicos de las sustancias psicoactivas. \"Este mundo nuestro\" compara las políticas de prevención en otros países. Música con mensajes de superación. Pregunta de participación: ¿Qué haces en tu colectivo laboral para promover un ambiente sano?\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "Contaminación sonora: el enemigo invisible que afecta la salud y el entorno.",
+          "ideas": "En el marco del Día Internacional de Concienciación sobre el Ruido, un especialista del CITMA en Bayamo explica qué es la contaminación acústica, cómo se mide y cuáles son sus efectos en la audición, el estrés y el aprendizaje infantil. \"Un día como hoy\" menciona esta conmemoración y otras efemérides. \"Este mundo nuestro\" presenta cómo ciudades del mundo implementan zonas de silencio. \"De la Ciencia y la Técnica\" habla sobre los materiales aislantes y los sonómetros. La música del programa será con volúmenes equilibrados y pausas. Pregunta de participación: ¿Cuál es el ruido más molesto en tu barrio?\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "Del campo a la mesa: la producción local de alimentos en Granma como base de la soberanía.",
+          "ideas": "En vísperas del Día del Trabajador, el programa se centra en el trabajo de los campesinos y agricultores urbanos. Un representante de la Delegación de la Agricultura explica las estrategias del Plan de Soberanía Alimentaria y Educación Nutricional (Plan SAN) en el territorio. \"Un día como hoy\" recuerda la batalla de Cacarajícara de Antonio Maceo, enlazando la defensa de la tierra con la defensa de la producción nacional. \"Este mundo nuestro\" muestra experiencias de agricultura sostenible en otros países. Música campesina. Pregunta: ¿Qué cultivos siembras o quisieras sembrar en tu patio?\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo",
+          "ideas": "Enaltecimiento de la participación de los bayameses en el desfile por el Primero de Mayo. Alegría y celebraciones en la ciudad.\n"
         }
       }
     },
@@ -43622,6 +43624,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "Educación en valores: cómo hablar con los hijos sobre la verdad histórica.",
           "ideas": "\"Y algo más\" conversa con una pedagoga sobre cómo enseñar a los niños hechos complejos (como Girón) sin traumatizar. \"Sin fórmulas mágicas\" ofrece recursos: películas, cuentos, visitas a museos. Testimonio de un padre que llevó a su hijo al Museo Girón. \"Prospecto radial\" habla de la importancia de la memoria histórica para la salud mental colectiva. Tono sereno, reflexivo.\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "Fomentar el hábito de la lectura en las niñas y adolescentes del hogar.",
+          "ideas": "\"Sin fórmulas mágicas\" sugiere meriendas para acompañar una tarde de lectura en familia. \"Y algo más\" entrevista a una bibliotecaria escolar sobre estrategias para motivar a las muchachas a leer, presentando títulos de autoras cubanas como Dulce María Loynaz, Mirta Yáñez o Laidi Fernández de Juan. \"Lo bello también se lleva por fuera\" enseña a elaborar separadores de libros con flores prensadas. \"Prospecto radial\" recomienda evitar el exceso de pantallas antes de dormir y sustituirlo por la lectura. Testimonios de madres sobre cómo han creado un rincón de lectura en casa. Música instrumental suave. Cierre reflexivo sobre la lectura como herramienta de empoderamiento femenino.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "Claves para hablar con los hijos adolescentes sobre los peligros de las drogas.",
+          "ideas": "\"Y algo más\" recibe a una psicóloga infantil que ofrece pautas para abordar el tema sin generar rechazo: escucha activa, información veraz, establecimiento de límites claros. \"Sin fórmulas mágicas\" propone preparar un \"café familiar\" para propiciar el diálogo. \"Prospecto radial\" recuerda la existencia de la Línea Confidencial Antidrogas y los servicios de orientación en el Centro de Salud Mental. Testimonio anónimo de un padre que logró ayudar a su hijo a tiempo. \"Lo bello también se lleva por fuera\" sugiere incentivar hobbies saludables (deporte, música) como factor protector. Tono empático y práctico, alejado del pánico.\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "Consejos prácticos para reducir el ruido en el hogar y mejorar la convivencia.",
+          "ideas": "\"Y algo más\" ofrece recomendaciones de un arquitecto o decorador: uso de alfombras, cortinas gruesas, sellado de ventanas y mantenimiento de equipos ruidosos. \"Sin fórmulas mágicas\" propone recetas para una cena tranquila sin electrodomésticos estridentes. \"Prospecto radial\" alerta sobre el daño auditivo por el uso excesivo de audífonos a alto volumen. \"Lo bello también se lleva por fuera\" muestra cómo crear un rincón de silencio en casa con plantas y textiles. Testimonios de vecinos que lograron acuerdos para bajar el volumen de la música. Tono práctico, promoviendo el respeto y el descanso familiar.\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "Cómo iniciar un huerto casero en espacios pequeños o en canteros.",
+          "ideas": "\"Sin fórmulas mágicas\" invita a un especialista de la agricultura urbana, quien enseña a sembrar lechuga, tomate y especias en macetas o canteros. Explica el uso de compost casero a partir de residuos orgánicos. \"Y algo más\" conversa con una familia que ha logrado autoabastecerse de hortalizas, ahorrando dinero y mejorando su alimentación. \"Prospecto radial\" menciona los beneficios nutricionales de consumir vegetales frescos. \"Lo bello también se lleva por fuera\" enseña a decorar las macetas con materiales reciclados. Música alegre de fondo. Mensaje: cada semilla cuenta para la soberanía familiar.\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo: El valor del trabajo doméstico no remunerado y su reconocimiento en la familia.",
+          "ideas": "En el Día de los Trabajadores, el programa visibiliza el trabajo en el hogar. \"Y algo más\" conversa con una especialista en estudios de género sobre la importancia de reconocer y redistribuir las tareas del cuidado. \"Sin fórmulas mágicas\" propone un menú sencillo para que quien cocina habitualmente descanse. Testimonio de una familia donde todos colaboran por igual. \"Lo bello también se lleva por fuera\" sugiere hacer tarjetas de agradecimiento para las abuelas y madres que sostienen el hogar. \"Prospecto radial\" habla del impacto del estrés doméstico en la salud. Tono de justicia y reconocimiento.\n"
         }
       }
     },
@@ -43965,6 +43987,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "Reflexiones sobre la derrota de Girón a 65 años de la confesión de Kennedy.",
           "ideas": "Nota principal: entrevista a un analista político sobre el significado histórico de la admisión de Kennedy. Segunda nota: reportaje sobre la unidad del pueblo como factor de la victoria. Tercera nota: campaña de denuncia del bloqueo como continuación de la agresión. Cierre con la información sindical sobre preparativos del Primero de Mayo.\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "Avances del Programa de Adelanto de las Mujeres en Granma y actividades por el Día Internacional de la Danza.",
+          "ideas": "Nota principal: balance de la implementación del Programa de Adelanto de las Mujeres en la provincia, con entrevista a una dirigente de la FMC sobre proyectos de capacitación y empoderamiento femenino. Segunda nota: reportaje sobre la participación de mujeres en sectores estratégicos de la economía local. Tercera nota: inicio de las jornadas por el Día Internacional de la Danza con presentaciones de grupos danzarios en espacios públicos de Bayamo. Cierre con información deportiva y el estado del tiempo.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "Barrios debates contra las drogas: experiencias comunitarias en Bayamo.",
+          "ideas": "Reportaje sobre los \"Barrios debates\" organizados por los CDR y Salud Pública en diferentes consejos populares de la ciudad, con testimonios de vecinos, especialistas y jóvenes que participan en estas actividades de prevención. Entrevista a un líder comunitario sobre el impacto de estos espacios de diálogo. Segunda nota: información sobre la Línea Confidencial Antidrogas y cómo acceder a ella. Tercera nota: balance de las acciones de la Aduana en el territorio contra el tráfico de sustancias ilícitas. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "Celebración del Día Internacional de la Danza en Bayamo.",
+          "ideas": "Cobertura de las actividades realizadas en la ciudad por el Día Internacional de la Danza: presentaciones de grupos danzarios en plazas y parques, talleres comunitarios de baile, y reconocimientos a coreógrafos y bailarines locales. Entrevista a una instructora de danza sobre la importancia de esta manifestación artística para la salud física y la identidad cultural. Incluir testimonios de participantes y espectadores. Tono festivo y cultural, con música bailable de fondo. Cierre con la cartelera deportiva y el pronóstico del tiempo.\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "Resultados del programa de autoabastecimiento municipal en Bayamo y celebración del Día del Jazz.",
+          "ideas": "Reportaje sobre la producción de viandas y hortalizas en organopónicos y fincas aledañas a la ciudad. Entrevista a un productor destacado. Segunda nota: homenaje al Día Internacional del Jazz con un conversatorio en la Casa de la Trova sobre la historia del género en Cuba y su influencia en músicos locales. Tercera nota: últimos preparativos para el desfile y las actividades por el Primero de Mayo en la provincia. Cierre con la cartelera deportiva y el pronóstico del tiempo.\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo: Masiva celebración en la plaza de Bayamo.",
+          "ideas": "Cobertura en vivo del ambiente festivo y combativo del desfile y acto central por el Día Internacional de los Trabajadores. Entrevistas a trabajadores de diversos sectores, dirigentes sindicales y jóvenes que participan. Lectura del mensaje de la CTC. Segunda nota: reportaje sobre los trabajadores que cumplen guardia este día en hospitales, centrales eléctricas y otros servicios vitales. Tercera nota: reconocimiento a colectivos laborales destacados en la producción de alimentos y servicios. Cierre con la música de la fiesta obrera.\n"
         }
       }
     },
@@ -44272,6 +44314,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "Adelanto del Día Mundial de la Danza (29 de abril): coreógrafos y compañías cubanas.",
           "ideas": "Viernes de artes escénicas. Se anuncia la cercanía del Día Mundial de la Danza. Un crítico de danza presenta un panorama de coreógrafos cubanos (Alicia Alonso, Eduardo Blanco, entre otros) y compañías representativas. \"En taquilla\" promociona las actividades previstas en Bayamo para el 29 de abril (talleres, funciones). Se reproducen fragmentos descriptivos de obras clásicas (sin inventar títulos). Invitado: un bailarín local. Música de ballet y danza contemporánea.\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "La presencia femenina en las artes visuales cubanas: de la vanguardia a la contemporaneidad.",
+          "ideas": "Lunes de audiovisuales. Un crítico de arte analiza documentales y producciones del ICAIC que retratan la obra de pintoras y escultoras cubanas como Amelia Peláez, Rita Longa o Zilia Sánchez. Se describen fragmentos sonoros de estas producciones. \"En taquilla\" promociona una muestra colectiva de artistas plásticas en la Galería de Bayamo. \"Juego de espejos\" reflexiona sobre cómo el audiovisual ha visibilizado o invisibilizado a las creadoras. Música de bandas sonoras nacionales. \"Página suelta\" convoca a realizadoras locales a compartir sus trabajos.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "El cartel cubano en la lucha contra las drogas: arte y conciencia social.",
+          "ideas": "Martes de artes plásticas. Un especialista en diseño gráfico analiza la evolución de los carteles de prevención de adicciones en Cuba, desde los años 80 hasta la actualidad. Se describen obras icónicas de diseñadores cubanos. \"En taquilla\" anuncia una exposición didáctica sobre este tema en la Galería de Arte de Bayamo. \"Juego de espejos\" reflexiona sobre el poder del arte para influir en la conducta social. Música de fondo con temas electrónicos de factura nacional. \"Página suelta\" convoca a estudiantes de diseño a participar en un concurso de carteles preventivos.\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "Libros físicos vs. digitales: ventajas y desventajas del disfrute literario en ambos formatos.",
+          "ideas": "Miércoles de literatura. Un bibliotecario y un joven lector debaten sobre las virtudes del libro impreso (tacto, olor, subrayado, no requiere batería) frente a las ventajas del formato digital (portabilidad, acceso inmediato, costo, personalización de letra). Se mencionan las plataformas cubanas de libros digitales como la Biblioteca Digital Cubana. \"Juego de espejos\" reflexiona sobre si cambia la experiencia lectora según el soporte. \"En taquilla\" promociona actividades en la Biblioteca Provincial por el Día del Libro (ya pasado, pero con extensión de actividades). \"Página suelta\" invita a los oyentes a compartir qué formato prefieren y por qué. Música de fondo con temas de trova.\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "El jazz en Cuba: de la fusión afrocubana a las nuevas generaciones.",
+          "ideas": "Jueves de música. Un musicólogo e historiador local recorre la historia del jazz en la isla, desde las descargas de Chano Pozo y Bebo Valdés hasta Irakere y los jóvenes jazzistas actuales. Se reproducen fragmentos de temas emblemáticos. \"En taquilla\" promociona una peña de jazz en un centro cultural bayamés. \"Juego de espejos\" analiza el jazz como expresión de libertad y resistencia cultural frente a los bloqueos. Invitado especial: un joven saxofonista de la ciudad que interpreta un solo en vivo. Música de fondo con estándares del jazz cubano.\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo: El teatro y el cine cubanos retratando la vida del trabajador.",
+          "ideas": "Viernes de artes escénicas. Un crítico teatral analiza obras que han llevado a escena la vida de los obreros y campesinos cubanos. Se describen fragmentos sonoros de representaciones. \"En taquilla\" promociona la presentación de una obra de teatro comunitario en un barrio de Bayamo. \"Juego de espejos\" reflexiona sobre cómo el arte refleja las luchas y aspiraciones de la clase trabajadora. Música de fondo con sones y canciones de trabajo. Invitado: un director de teatro local que ha montado piezas de temática social.\n"
         }
       }
     },
@@ -44579,6 +44641,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "Jóvenes y bailes populares: del casino a la timba, del reguetón a la salsa.",
           "ideas": "\"Curiosidades\" muestra la historia del casino y su evolución. Un profesor de baile joven enseña pasos básicos de casino y reguetón. Se debate sobre la influencia de ritmos extranjeros y la identidad cubana. \"Parada Cultural\" anuncia una peña de baile en la Casa de la Cultura. Se invita a los oyentes a enviar videos bailando. Música de timba y salsa actual. Tono divertido, participativo, celebrando la alegría del baile popular.\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "Nuevas voces: jóvenes escritoras de Bayamo que narran su realidad.",
+          "ideas": "\"Parada de película\" recomienda un documental sobre jóvenes poetisas. La conductora entrevista a dos autoras emergentes de la provincia, quienes leen fragmentos de su obra y comentan los desafíos de publicar y de ser mujer en el ámbito literario local. \"Curiosidades\" presenta datos sobre la presencia femenina en los premios literarios cubanos. Se debate sobre las temáticas que abordan: amor, migración, identidad. Segmento interactivo con mensajes de la audiencia. Música de fondo con trova femenina. Tono fresco y de reconocimiento, mostrando que el talento joven mantiene vivo el legado de grandes figuras como Loynaz.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "Ocio saludable vs. adicciones: ¿qué ofrece Bayamo a los jóvenes para divertirse sanamente?",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica cómo el cerebro responde al placer y al riesgo, diferenciando el disfrute sano de la dependencia. La conductora conversa con jóvenes líderes de proyectos culturales comunitarios (peñas, grupos de teatro, equipos deportivos) sobre las opciones de esparcimiento que existen en la ciudad. \"Curiosidades\" presenta estadísticas sobre el uso del tiempo libre en la juventud bayamesa. Segmento interactivo donde los oyentes recomiendan lugares y actividades. Música urbana cubana actual. Tono positivo y propositivo, destacando que divertirse no necesita sustancias.\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "Auriculares a todo volumen: ¿cómo proteger tu audición sin renunciar a la música?",
+          "ideas": "\"Curiosidades\" revela datos alarmantes sobre la pérdida auditiva prematura en jóvenes debido al uso inadecuado de audífonos. Un otorrinolaringólogo invitado explica los niveles seguros de decibeles y la regla del 60/60 (60% de volumen por 60 minutos). \"Parada Cultural\" invita a un DJ local a hablar sobre cómo disfrutar la música electrónica sin dañar el oído. Se comparten aplicaciones móviles que miden el sonido ambiente. Segmento interactivo con preguntas sobre zumbidos en los oídos. Música bien ecualizada. Mensaje final: oír bien es rock and roll.\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "Música moderna y tradición: cómo los jóvenes pueden disfrutar las tendencias actuales sin perder la raíz cubana.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica cómo las fusiones musicales (jazz, funk, reggaetón) se enriquecen al incorporar ritmos tradicionales como el son, el changüí o la rumba. Un joven productor musical bayamés cuenta su experiencia creando beats modernos con samples de música cubana. \"Parada Cultural\" presenta agrupaciones cubanas que logran este equilibrio (Cimafunk, Interactivo, Yissy García). Se debate con oyentes: ¿cómo mantener viva la tradición mientras se está al día con lo que suena en el mundo? Música de fondo con fusiones contemporáneas. Tono fresco y reflexivo.\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo: Ser joven y trabajador hoy en Cuba: derechos, deberes y participación sindical.",
+          "ideas": "\"Parada de Ciencia y Técnica\" aborda la automatización y el futuro del empleo juvenil. La conductora entrevista a jóvenes delegados sindicales y trabajadores de diferentes sectores (estatal y privado). Conversan sobre las condiciones laborales, el salario, la capacitación y cómo los jóvenes pueden hacer valer sus derechos a través del sindicato. Un representante de la UJC explica los programas de inserción laboral juvenil. \"Curiosidades\" muestra datos sobre la ocupación de los jóvenes en Granma. Música con letras de contenido social. Tono realista y alentador, destacando el papel de la juventud en la economía.\n"
         }
       }
     },
@@ -44886,6 +44968,26 @@
         "Abril-semana-4-Viernes": {
           "theme": "Estilos de vida activos para la tercera edad: ejercicio, memoria y socialización.",
           "ideas": "Viernes variado, sobre la vida y sus reflexiones. Juana entrevista a una geriatra y a un instructor de gimnasia para adultos mayores. Se ofrecen consejos sobre ejercicios suaves, actividades de estimulación cognitiva, y la importancia de mantener redes sociales (talleres, grupos de caminata). \"Historias cotidianas\" presenta a un abuelo de 80 años que practica tai-chi. \"De todo un poco\" sugiere juegos de mesa para la memoria. Tono optimista, empoderador, promoviendo un envejecimiento activo y feliz.\n"
+        },
+        "Abril-semana-5-Lunes": {
+          "theme": "Prevención del cáncer cérvico-uterino: mitos y realidades sobre el VPH.",
+          "ideas": "Lunes es de sexualidad. Juana comenta el caso de una vecina que teme hacerse la citología. \"El que sabe, sabe\" presenta a un ginecólogo del policlínico local, quien explica la importancia de la prueba citológica anual, la vacunación contra el Virus del Papiloma Humano (VPH) y desmiente mitos sobre el contagio. \"Historias cotidianas\" recoge el testimonio anónimo de una oyente que superó un cáncer cervicouterino gracias a un diagnóstico temprano. \"¿Y qué tú crees?\" recoge opiniones en la calle sobre las barreras para acudir al médico. \"De todo un poco\" informa sobre los horarios de consulta de ginecología en los policlínicos de Bayamo. Tono claro, preventivo y empoderador.\n"
+        },
+        "Abril-semana-5-Martes": {
+          "theme": "Consecuencias legales del consumo y tráfico de drogas en el Código Penal cubano.",
+          "ideas": "Martes es día jurídico. Juana presenta el caso hipotético de un joven detenido con sustancias ilícitas. \"El que sabe, sabe\" entrevista a un fiscal o abogado penalista, quien explica las sanciones por posesión, consumo y tráfico, diferenciando la responsabilidad penal de la administrativa y las medidas de rehabilitación. \"Versiones encontradas\" debate sobre la efectividad de las penas versus la prevención. \"Polémica en las redes\" muestra comentarios divididos sobre la tolerancia cero. Se responde a preguntas frecuentes de los oyentes sobre el procedimiento legal y los derechos de los detenidos. Tono claro y orientador.\n"
+        },
+        "Abril-semana-5-Miércoles": {
+          "theme": "La danza como terapia para el cuerpo y el alma en todas las edades.",
+          "ideas": "Miércoles es variado, y se celebra el Día Internacional de la Danza. Juana invita a una profesora de bailoterapia y a un psicólogo. Explican los beneficios del baile para la salud cardiovascular, la memoria, la autoestima y la socialización. \"Historias cotidianas\" presenta a una mujer de la tercera edad que encontró en el danzón una nueva juventud. \"¿Y qué tú crees?\" recoge testimonios de personas que bailan en sus casas o en parques. \"De todo un poco\" informa sobre los talleres de baile gratuitos que ofrecen las Casas de Cultura en Bayamo. Música bailable de fondo. Tono alegre y motivador.\n"
+        },
+        "Abril-semana-5-Jueves": {
+          "theme": "Cierre de la campaña de frío y perspectivas de la campaña de primavera en la agricultura bayamesa.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Juana entrevista a un directivo de la Delegación de la Agricultura en el municipio. Se hace balance de la campaña de frío que concluye: siembras de papa, tomate, col y otros cultivos, resultados y dificultades. Se presentan las perspectivas para la campaña de primavera: preparación de tierras, aseguramiento de semillas e insumos, y estrategias para enfrentar la sequía. \"Entérate, vecino\" informa sobre los puntos de venta de productos agrícolas y ferias agropecuarias. \"¿Y qué tú crees?\" recoge opiniones de consumidores. Tono informativo y orientador sobre la producción local de alimentos.\n"
+        },
+        "Abril-semana-5-Viernes": {
+          "theme": "Especial por el Primero de Mayo: Manejo del estrés laboral para no llevarlo al hogar.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga del Centro Comunitario de Salud Mental explica qué es el estrés laboral, sus síntomas y cómo diferenciarlo del cansancio normal. Ofrece estrategias para desconectar al llegar a casa, establecer límites con jefes y compañeros, y practicar la respiración consciente. \"Historias cotidianas\" narra el caso de un trabajador que aprendió a gestionar su ansiedad. \"¿Y qué tú crees?\" recoge opiniones de la calle sobre qué los estresa en el trabajo. \"De todo un poco\" recomienda ejercicios de estiramiento para hacer en la oficina. Música relajante. Tono empático y práctico.\n"
         }
       }
     },
@@ -44921,6 +45023,10 @@
         "Abril-semana-4-Sábado": {
           "theme": "Energía renovable a partir de biomasa y biogás: experiencias internacionales, cubanas y bayamesas.",
           "ideas": "En \"Un día como hoy\", se menciona el aniversario del embargo total de EE.UU., pero el tema central es la biomasa como alternativa energética. Un especialista del CITMA explica qué es el biogás, cómo se produce a partir de residuos orgánicos, y ejemplos exitosos en el mundo, en Cuba (centrales azucareros, plantas de biogás) y en Bayamo (proyectos comunitarios). La sección infantil enseña a hacer un biodigestor de juguete. \"De la Ciencia y la Técnica\" profundiza en la química del proceso. La música es campesina y alegre. La pregunta de participación: ¿Conoces alguna experiencia de biogás en tu comunidad?\n"
+        },
+        "Abril-semana-5-Sábado": {
+          "theme": "Fidel y la clase obrera: el legado de justicia social y unidad revolucionaria.",
+          "ideas": "Como extensión de las celebraciones del Primero de Mayo, el programa retoma el análisis del pensamiento de Fidel Castro sobre el papel de los trabajadores. \"Un día como hoy\" recuerda la fundación de Radio Habana Cuba en 1961 y el discurso de Fidel en la Plaza en 2001. Se reproducen fragmentos de sus alocuciones. Un historiador obrero analiza las conquistas laborales bajo su liderazgo. La sección infantil cuenta cómo los pioneros homenajean a los trabajadores. Música de marchas y canciones obreras. Pregunta: ¿Qué enseñanza de Fidel aplicas en tu centro de trabajo? Cierre con un llamado a mantener la unidad y el esfuerzo productivo.\n"
         }
       }
     },
@@ -44956,6 +45062,10 @@
         "Abril-semana-4-Sábado": {
           "theme": "Avances en la generación de energía a partir de biomasa en Granma.",
           "ideas": "Nota principal: reportaje desde un proyecto de biogás en una cooperativa agropecuaria de Bayamo. Entrevista a los productores y a especialistas de la Empresa Eléctrica. Segunda nota: inversiones en la provincia para la producción de biomasa (uso del marabú, residuos de la caña). Tercera nota: beneficios ambientales y económicos de estas tecnologías. Cierre con el llamado a la población a separar residuos orgánicos.\n"
+        },
+        "Abril-semana-5-Sábado": {
+          "theme": "Actividades culturales del fin de semana y previsiones para la semana entrante.",
+          "ideas": "Nota principal: reseña de las actividades realizadas en Bayamo por el Primero de Mayo y continuación de la fiesta obrera durante el fin de semana. Segunda nota: información sobre las actividades por el Día de las Madres que comienzan a prepararse (próximo domingo). Tercera nota: previsiones de eventos para la semana del 4 al 10 de mayo, incluyendo el aniversario de la creación de los Círculos Infantiles (10 de abril ya pasado, pero se mencionan otras efemérides culturales de mayo). Cierre con la información deportiva y el pronóstico del tiempo.\n"
         }
       }
     },
@@ -45027,6 +45137,10 @@
         "Abril-semana-4-Sábado": {
           "theme": "Adolescentes y migración: cuando los padres emigran y los hijos se quedan con abuelos u otros familiares.",
           "ideas": "\"Lo que se comenta\" presenta grabaciones de adolescentes que viven esta situación. \"Sigue conmigo\" introduce el tema: la ausencia de los padres, los cambios emocionales, la sobrecarga de los abuelos. El psicólogo ofrece herramientas para manejar la ansiedad, la nostalgia y la comunicación a distancia. \"Al ritmo de tus días\" sugiere actividades para fortalecer el vínculo con los cuidadores. Testimonios anónimos de jóvenes que han vivido este proceso. Tono empático, sin juicios, ofreciendo apoyo y normalización.\n"
+        },
+        "Abril-semana-5-Sábado": {
+          "theme": "\"Solo sí es sí\": el concepto de consentimiento en la intimidad para adolescentes.",
+          "ideas": "Programa de orientación psicológica para adolescentes. La psicóloga aborda el tema del consentimiento en las relaciones de pareja, explicando de forma clara y sin tabúes qué significa un \"sí\" y un \"no\", y la importancia de respetar los límites del otro. \"Lo que se comenta\" presenta grabaciones de adolescentes opinando sobre mitos como \"si dice que no es porque se hace la difícil\". Se ofrecen herramientas para comunicar los deseos y para identificar situaciones de presión. \"Sigue conmigo\" guía un ejercicio de reflexión sobre el respeto mutuo. Música suave y respetuosa. Mensaje: tu cuerpo, tu decisión; el respeto es la base.\n"
         }
       }
     },
@@ -45098,6 +45212,10 @@
         "Abril-semana-4-Sábado": {
           "theme": "Willie Colón: el sonido de la salsa y el trombón neoyorquino.",
           "ideas": "\"¿De dónde son?\" explora la trayectoria de Willie Colón, músico puertorriqueño-estadounidense que revolucionó la salsa con su trombón y letras de denuncia social. \"Historias y soneros\" narra anécdotas de su relación con Héctor Lavoe y Rubén Blades. \"Academia del tumbao\" invita a un musicólogo a analizar su estilo único. \"Conexión sonera\" muestra su influencia en la salsa cubana. \"Son para bailadores\" presenta un oyente que elige un tema de Willie. Ambiente festivo, con fragmentos reales de sus canciones.\n"
+        },
+        "Abril-semana-5-Sábado": {
+          "theme": "El son como banda sonora de la clase obrera cubana.",
+          "ideas": "\"Sergito Montuno\" conduce un programa especial que conecta el son con el mundo del trabajo. \"¿De dónde son?\" explora sones que narran la vida de los campesinos, los tabaqueros, los pescadores y los obreros fabriles. \"Historias y soneros\" narra anécdotas de agrupaciones que amenizaban las fiestas de los sindicatos. \"Academia del tumbao\" invita a un musicólogo a analizar letras con contenido social. \"Conexión sonera\" presenta una versión moderna de un son dedicado al trabajador. \"Son para bailadores\" cierra con un clásico pedido por un oyente. Investigación rigurosa basada en repertorio real del Septeto Nacional, el Trío Matamoros y otros.\n"
         }
       }
     },
@@ -45192,6 +45310,10 @@
         "Abril-semana-4-Domingo": {
           "theme": "La propiedad intelectual en la música: derechos de autor y reconocimiento a creadores. Realiza un árbol genealógico de los artistas de tu familia. Escucha una radionovela clásica con tus abuelos.",
           "ideas": "La conductora abre con la pregunta: ¿Conoces a algún familiar que haya compuesto canciones o toque un instrumento? Los oyentes llaman contando anécdotas. Luego, actividad familiar: dibujar un árbol genealógico musical, incluyendo a quienes cantaban o tocaban instrumentos. Para la tercera edad, se sugiere escuchar juntos una radionovela clásica (de Félix B. Caignet o similar), comentando la importancia de proteger la obra de los autores. Música de la época y sonidos de radio antigua.\n"
+        },
+        "Abril-semana-5-Domingo": {
+          "theme": "La educación como pilar de la familia. Crea un árbol genealógico de profesiones en tu familia. Conversa con un maestro jubilado sobre sus vivencias.",
+          "ideas": "La conductora abre con la pregunta participativa: ¿Qué maestro o maestra marcó tu vida? Invita a los oyentes a llamar y contar sus anécdotas. En la segunda parte, propone la actividad familiar de elaborar un árbol genealógico donde cada miembro coloque su oficio o profesión, resaltando la presencia de educadores en la familia. En el segmento dedicado a la tercera edad, se entrevista a un maestro jubilado de Bayamo que rememora los inicios de las campañas educativas de la Revolución y cómo ha cambiado la enseñanza. Se intercalan canciones de la Nueva Trova dedicadas al maestro. Música de fondo suave. Mensaje de agradecimiento al magisterio.\n"
         }
       }
     },
@@ -45259,6 +45381,10 @@
         "Abril-semana-4-Domingo": {
           "theme": "Aprende a dibujar a tu personaje favorito de un libro o canción.",
           "ideas": "La actriz-personaje enseña paso a paso a dibujar un personaje infantil de un cuento cubano conocido. Se habla de la importancia de respetar la creación de otros (derechos de autor). Los niños envían fotos de sus dibujos. Se canta una canción sobre la imaginación. Música infantil cubana. Tono lúdico, formativo, conectando arte y propiedad intelectual de forma amena.\n"
+        },
+        "Abril-semana-5-Domingo": {
+          "theme": "Canciones infantiles dedicadas a los maestros y la escuela cubana.",
+          "ideas": "La actriz-personaje cuenta a los niños la historia de los primeros maestros voluntarios que subieron a las montañas para enseñar a leer y escribir. Se escuchan canciones como \"El maestro rural\" y otras del repertorio infantil cubano. Actividad propuesta: que los niños dibujen a su maestra favorita y escriban una palabra bonita. Música alegre y participativa. Se promueve el respeto y cariño hacia los educadores, destacando que gracias a ellos todos aprendemos. Cierre con un saludo a los maestros.\n"
         }
       }
     },
@@ -45330,6 +45456,10 @@
         "Abril-semana-4-Domingo": {
           "theme": "Los primeros impresos y la propiedad intelectual en Bayamo colonial.",
           "ideas": "Charla sobre la historia de la imprenta en Bayamo, los primeros periódicos y la noción de autoría en el siglo XIX. Un historiador del Museo Provincial explica cómo se protegían (o no) los textos. Relación con la censura colonial y la independencia. Música de época. Tono erudito pero accesible, rescatando la historia local de la propiedad intelectual.\n"
+        },
+        "Abril-semana-5-Domingo": {
+          "theme": "La huella de la Campaña de Alfabetización en Bayamo y la Sierra Maestra.",
+          "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra cómo se organizó la alfabetización en las zonas montañosas de la antigua provincia de Oriente. Testimonios de bayameses que participaron como alfabetizadores o que aprendieron a leer en aquella gesta. Se destaca el papel de las mujeres y los jóvenes. Música de fondo con himnos de la alfabetización. Reflexión sobre el legado de aquel esfuerzo titánico que convirtió a Cuba en territorio libre de analfabetismo y la vigencia de ese espíritu en la educación actual.\n"
         }
       }
     },
@@ -45401,6 +45531,10 @@
         "Abril-semana-4-Domingo": {
           "theme": "Jóvenes creadores y el registro de su obra: entrevista a un músico independiente.",
           "ideas": "\"Dial Sonero\" presenta a un joven cantautor bayamés. \"Mano a Mano\" lo enfrenta a otro artista. En \"De Bayamo para el Mundo\", se entrevista al músico sobre el proceso de registrar sus canciones en la AGDAC. \"La Farándula se mueve\" informa sobre los derechos digitales. \"Mucho Flow\" incluye un tema original. Tono moderno, educativo, empoderando a los nuevos talentos.\n"
+        },
+        "Abril-semana-5-Domingo": {
+          "theme": "Música con mensaje: canciones que educan y forman valores.",
+          "ideas": "El conductor presenta un programa especial dedicado a la Nueva Trova y otros géneros cuyas letras contienen un fuerte mensaje educativo y social. Se reproducen temas de Silvio Rodríguez (\"El maestro\"), Pablo Milanés, Sara González y trovadores bayameses contemporáneos. \"Mano a Mano\" compara una canción clásica de la trova con un tema de rap consciente actual. \"Mucho Flow\" presenta a un joven rapero local que compone sobre la importancia del estudio. \"De Bayamo para el Mundo\" entrevista a un educador musical que utiliza la música como herramienta pedagógica. Ambiente de celebración del conocimiento.\n"
         }
       }
     },
@@ -45472,6 +45606,10 @@
         "Abril-semana-4-Domingo": {
           "theme": "El nuevo Centro Provincial de la Música en Bayamo: espacio para la creación y la difusión.",
           "ideas": "\"Agenda cultural\" anuncia la inauguración o actividades del nuevo Centro Provincial de la Música. \"Arte popular\" entrevista a su director y a músicos locales que ensayan allí. \"Asiento reservado\" participa un especialista en gestión cultural. \"La obra y el artista\" presenta una agrupación residente. \"Legado bayamés\" recuerda a músicos históricos que ahora tendrán un espacio digno. Tono de orgullo local, celebrando un nuevo polo cultural para la ciudad."
+        },
+        "Abril-semana-5-Domingo": {
+          "theme": "Guía de la programación cultural de mayo en Bayamo.",
+          "ideas": "Primer domingo de mes, por lo que el programa se dedica a orientar a la audiencia sobre la agenda cultural de mayo. La conductora y \"Carmita Bravo\" presentan un panorama general de las actividades previstas (sin inventar fechas ni eventos específicos inexistentes): exposiciones de artes plásticas en galerías locales, conciertos por el Día de las Madres, peñas habituales en la Casa de la Trova, funciones de teatro en el Teatro Principal, y las jornadas por el Día Internacional de los Museos (18 de mayo). \"Asiento reservado\" ofrece recomendaciones de un crítico. \"Legado bayamés\" recuerda a figuras de la cultura local nacidas en mayo. Tono promocional, invitando al disfrute del arte en la ciudad."
         }
       }
     }
@@ -48696,6 +48834,543 @@
         "event": "1945",
         "description": "Suicidio de Adolf Hitler y Eva Braun."
       }
+    ],
+    "Mayo": [
+      {
+        "day": 1,
+        "event": "1961",
+        "description": "Es inaugurada oficialmente la emisora Radio Habana Cuba."
+      },
+      {
+        "day": 1,
+        "event": "2000",
+        "description": "Fidel Castro pronuncia su discurso sobre el Concepto de Revolución en la Plaza de la Revolución José Martí."
+      },
+      {
+        "day": 1,
+        "event": "1889",
+        "description": "Se establece el Día Internacional de los Trabajadores."
+      },
+      {
+        "day": 1,
+        "event": "1853",
+        "description": "Queda establecida en Argentina su primera constitución nacional."
+      },
+      {
+        "day": 2,
+        "event": "1829",
+        "description": "Natalicio del destacado médico y científico cubano Federico Gálvez Alfonso."
+      },
+      {
+        "day": 2,
+        "event": "1925",
+        "description": "Fallece en Santiago de Cuba el General del Ejército Libertador José Miró Argenter, cronista de la invasión."
+      },
+      {
+        "day": 2,
+        "event": "1957",
+        "description": "Fallece el reconocido pintor y novelista cubano Carlos Enríquez."
+      },
+      {
+        "day": 2,
+        "event": "1808",
+        "description": "Levantamiento del 2 de mayo en Madrid contra Napoleón Bonaparte."
+      },
+      {
+        "day": 3,
+        "event": "1831",
+        "description": "Se publica el primer número de la Revista Bimestre Cubana."
+      },
+      {
+        "day": 3,
+        "event": "1933",
+        "description": "Natalicio en Villa Clara del revolucionario y combatiente del Directorio Fructuoso Rodríguez."
+      },
+      {
+        "day": 3,
+        "event": "1960",
+        "description": "Llegan a la Sierra Maestra los primeros maestros voluntarios."
+      },
+      {
+        "day": 3,
+        "event": "1930",
+        "description": "Natalicio del poeta y periodista argentino Juan Gelman."
+      },
+      {
+        "day": 4,
+        "event": "1915",
+        "description": "Natalicio del educador y poeta cubano Raúl Ferrer Pérez."
+      },
+      {
+        "day": 4,
+        "event": "1975",
+        "description": "Natalicio del humorista y conductor cubano Rigoberto Ferrera."
+      },
+      {
+        "day": 4,
+        "event": "1988",
+        "description": "Se funda el Centro Iberolatinoamericano de Trasplante y Regeneración Nerviosa."
+      },
+      {
+        "day": 4,
+        "event": "1980",
+        "description": "Fallece el Mariscal Josip Broz Tito, presidente de Yugoslavia."
+      },
+      {
+        "day": 5,
+        "event": "1895",
+        "description": "Histórica reunión en La Mejorana entre José Martí, Máximo Gómez y Antonio Maceo."
+      },
+      {
+        "day": 5,
+        "event": "1959",
+        "description": "Fidel Castro llega a Río de Janeiro durante su visita oficial a Brasil."
+      },
+      {
+        "day": 5,
+        "event": "1818",
+        "description": "Natalicio en Alemania del pensador Karl Marx."
+      },
+      {
+        "day": 5,
+        "event": "1821",
+        "description": "Fallece en la isla de Santa Elena Napoleón Bonaparte."
+      },
+      {
+        "day": 6,
+        "event": "1995",
+        "description": "Fallece el destacado músico y cantante cubano Barbarito Diez."
+      },
+      {
+        "day": 6,
+        "event": "1859",
+        "description": "Fallece en Alemania el científico Alejandro de Humboldt."
+      },
+      {
+        "day": 6,
+        "event": "1758",
+        "description": "Natalicio del revolucionario francés Maximilien Robespierre."
+      },
+      {
+        "day": 7,
+        "event": "1797",
+        "description": "Natalicio del filósofo, profesor e independentista cubano José Antonio Saco."
+      },
+      {
+        "day": 7,
+        "event": "1962",
+        "description": "Se crea el Conjunto Folclórico Nacional de Cuba."
+      },
+      {
+        "day": 7,
+        "event": "1946",
+        "description": "Se funda la compañía japonesa Sony."
+      },
+      {
+        "day": 7,
+        "event": "1711",
+        "description": "Natalicio del filósofo escocés David Hume."
+      },
+      {
+        "day": 8,
+        "event": "1894",
+        "description": "Natalicio del compositor y cantante santiaguero Miguel Matamoros."
+      },
+      {
+        "day": 8,
+        "event": "1935",
+        "description": "Asesinato del líder antiimperialista Antonio Guiteras Holmes y del revolucionario venezolano Carlos Aponte en El Morrillo, Matanzas."
+      },
+      {
+        "day": 8,
+        "event": "1967",
+        "description": "Cae en combate en una playa venezolana el revolucionario cubano Antonio Briones Montoto."
+      },
+      {
+        "day": 8,
+        "event": "1945",
+        "description": "Aniversario de la victoria contra el fascismo y fin de la Segunda Guerra Mundial en Europa."
+      },
+      {
+        "day": 9,
+        "event": "1907",
+        "description": "Fallece el poeta y fundador del Partido Revolucionario Cubano Francisco Sellén."
+      },
+      {
+        "day": 9,
+        "event": "1910",
+        "description": "Es inaugurado oficialmente el servicio telefónico en La Habana."
+      },
+      {
+        "day": 9,
+        "event": "1920",
+        "description": "Natalicio en Media Luna de la heroína de la Sierra y el Llano Celia Sánchez Manduley."
+      },
+      {
+        "day": 9,
+        "event": "1994",
+        "description": "Nelson Mandela toma posesión como el primer presidente negro de Sudáfrica."
+      },
+      {
+        "day": 10,
+        "event": "1908",
+        "description": "Comienza a publicarse en La Habana la revista Bohemia."
+      },
+      {
+        "day": 10,
+        "event": "1917",
+        "description": "Natalicio en La Habana del escultor cubano Eugenio Rodríguez Rodríguez."
+      },
+      {
+        "day": 10,
+        "event": "1899",
+        "description": "Natalicio en Nebraska del actor y bailarín Fred Astaire."
+      },
+      {
+        "day": 11,
+        "event": "1873",
+        "description": "Cae en combate en Jimaguayú el Mayor General Ignacio Agramonte y Loynaz."
+      },
+      {
+        "day": 11,
+        "event": "1902",
+        "description": "Natalicio del novelista y periodista cubano Enrique Labrador Ruiz."
+      },
+      {
+        "day": 11,
+        "event": "1914",
+        "description": "Natalicio en Santa Clara del escritor Onelio Jorge Cardoso."
+      },
+      {
+        "day": 11,
+        "event": "1904",
+        "description": "Natalicio del pintor surrealista español Salvador Dalí."
+      },
+      {
+        "day": 11,
+        "event": "1981",
+        "description": "Fallece el músico jamaicano Bob Marley."
+      },
+      {
+        "day": 12,
+        "event": "1863",
+        "description": "Natalicio del patriota y escritor cubano Domingo Méndez Capote."
+      },
+      {
+        "day": 12,
+        "event": "1932",
+        "description": "Natalicio del combatiente revolucionario René Ramos Latour (Daniel)."
+      },
+      {
+        "day": 12,
+        "event": "1998",
+        "description": "Fallece el eminente historiador y economista cubano Julio Le Riverend Brussone."
+      },
+      {
+        "day": 12,
+        "event": "1820",
+        "description": "Natalicio de Florence Nightingale, precursora de la enfermería moderna."
+      },
+      {
+        "day": 13,
+        "event": "1838",
+        "description": "Natalicio del poeta cubano Antonio Sellén."
+      },
+      {
+        "day": 13,
+        "event": "1846",
+        "description": "Estados Unidos comienza la guerra de intervención contra México."
+      },
+      {
+        "day": 13,
+        "event": "1981",
+        "description": "Atentado contra el Papa Juan Pablo II en la plaza de San Pedro."
+      },
+      {
+        "day": 14,
+        "event": "1869",
+        "description": "Muere en combate el patriota Marcos Maceo, padre de los Maceo."
+      },
+      {
+        "day": 14,
+        "event": "1912",
+        "description": "Natalicio en Holguín del popular compositor y guitarrista Eduardo Saborit."
+      },
+      {
+        "day": 14,
+        "event": "1811",
+        "description": "Paraguay se independiza de la corona española."
+      },
+      {
+        "day": 14,
+        "event": "1948",
+        "description": "Se funda el Estado de Israel tras la retirada británica."
+      },
+      {
+        "day": 15,
+        "event": "1955",
+        "description": "Excarcelación de Fidel Castro y los demás asaltantes al Moncada del Presidio Modelo en Isla de Pinos."
+      },
+      {
+        "day": 15,
+        "event": "1956",
+        "description": "Es asesinado por la tiranía el revolucionario cubano Rubén Aldama."
+      },
+      {
+        "day": 15,
+        "event": "1916",
+        "description": "Tropas estadounidenses invaden la República Dominicana."
+      },
+      {
+        "day": 16,
+        "event": "1906",
+        "description": "Fallece el patriota e independentista cubano José María Gálvez y Alfonso."
+      },
+      {
+        "day": 16,
+        "event": "1938",
+        "description": "Aparece en La Habana el primer número del diario Hoy."
+      },
+      {
+        "day": 16,
+        "event": "1830",
+        "description": "Fallece el matemático y físico francés Jean-Baptiste Joseph Fourier."
+      },
+      {
+        "day": 17,
+        "event": "1946",
+        "description": "Es asesinado el líder campesino Niceto Pérez García por miembros de la Guardia Rural."
+      },
+      {
+        "day": 17,
+        "event": "1959",
+        "description": "Se firma la Primera Ley de Reforma Agraria en la Comandancia de La Plata, Sierra Maestra."
+      },
+      {
+        "day": 17,
+        "event": "1961",
+        "description": "Se constituye la Asociación Nacional de Agricultores Pequeños (ANAP)."
+      },
+      {
+        "day": 17,
+        "event": "1865",
+        "description": "Se firma en París el convenio que establece la Unión Telegráfica Internacional."
+      },
+      {
+        "day": 18,
+        "event": "1895",
+        "description": "José Martí escribe su carta inconclusa a su amigo mexicano Manuel Mercado en el campamento de Dos Ríos."
+      },
+      {
+        "day": 18,
+        "event": "1895",
+        "description": "Natalicio del revolucionario nicaragüense Augusto César Sandino."
+      },
+      {
+        "day": 18,
+        "event": "1781",
+        "description": "Ejecución del dirigente indígena Túpac Amaru en Perú."
+      },
+      {
+        "day": 19,
+        "event": "1850",
+        "description": "Ondea por primera vez la bandera cubana en suelo patrio, en la ciudad de Cárdenas."
+      },
+      {
+        "day": 19,
+        "event": "1895",
+        "description": "Cae en combate el Héroe Nacional José Martí en Dos Ríos."
+      },
+      {
+        "day": 19,
+        "event": "1890",
+        "description": "Natalicio de Ho Chi Minh, líder de la revolución vietnamita."
+      },
+      {
+        "day": 20,
+        "event": "1902",
+        "description": "Queda oficialmente constituida la República de Cuba."
+      },
+      {
+        "day": 20,
+        "event": "1506",
+        "description": "Fallece en Valladolid el navegante Cristóbal Colón."
+      },
+      {
+        "day": 20,
+        "event": "1743",
+        "description": "Natalicio del líder revolucionario haitiano Toussaint Louverture."
+      },
+      {
+        "day": 21,
+        "event": "1888",
+        "description": "Natalicio en La Habana del célebre músico cubano Ignacio Piñeiro."
+      },
+      {
+        "day": 21,
+        "event": "1953",
+        "description": "Es situado un busto de José Martí en el Pico Turquino, Sierra Maestra, por la Generación del Centenario."
+      },
+      {
+        "day": 21,
+        "event": "1471",
+        "description": "Natalicio del pintor alemán Alberto Durero."
+      },
+      {
+        "day": 22,
+        "event": "1765",
+        "description": "Natalicio en La Habana del economista e intelectual Francisco de Arango y Parreño."
+      },
+      {
+        "day": 22,
+        "event": "1859",
+        "description": "Natalicio del novelista británico Sir Arthur Conan Doyle."
+      },
+      {
+        "day": 22,
+        "event": "1994",
+        "description": "Se establece el Día Internacional de la Diversidad Biológica."
+      },
+      {
+        "day": 23,
+        "event": "1963",
+        "description": "El Comandante en Jefe Fidel Castro es declarado Héroe de la Unión Soviética."
+      },
+      {
+        "day": 23,
+        "event": "1627",
+        "description": "Fallece en Córdoba el poeta español Luis de Góngora y Argote."
+      },
+      {
+        "day": 24,
+        "event": "1882",
+        "description": "Natalicio del músico Luis Casas Romero, creador del género de la \"criolla\"."
+      },
+      {
+        "day": 24,
+        "event": "1957",
+        "description": "Desembarco de los expedicionarios del yate Corynthia, liderados por Calixto Sánchez White."
+      },
+      {
+        "day": 24,
+        "event": "1962",
+        "description": "Se crea por ley el Instituto Cubano de Radiodifusión (ICR), hoy ICRT."
+      },
+      {
+        "day": 24,
+        "event": "1822",
+        "description": "Victoria de Antonio José de Sucre en la Batalla de Pichincha."
+      },
+      {
+        "day": 24,
+        "event": "1941",
+        "description": "Natalicio del músico estadounidense Bob Dylan."
+      },
+      {
+        "day": 25,
+        "event": "1864",
+        "description": "Natalicio del profesor y músico cubano Rafael Inciarte Ruiz."
+      },
+      {
+        "day": 25,
+        "event": "1903",
+        "description": "Fallece el General del Ejército Libertador José (Mayía) Rodríguez."
+      },
+      {
+        "day": 25,
+        "event": "1963",
+        "description": "Se crea en Addis Abeba la Organización de la Unidad Africana (OUA)."
+      },
+      {
+        "day": 26,
+        "event": "1799",
+        "description": "Natalicio del sabio naturalista y científico cubano Felipe Poey."
+      },
+      {
+        "day": 26,
+        "event": "1831",
+        "description": "Es ejecutada en España la heroína liberal Mariana Pineda."
+      },
+      {
+        "day": 27,
+        "event": "1899",
+        "description": "Comienza a publicarse en Cuba la revista Correo de la Juventud."
+      },
+      {
+        "day": 27,
+        "event": "1987",
+        "description": "El Cementerio de Colón en La Habana es declarado Monumento Nacional."
+      },
+      {
+        "day": 27,
+        "event": "1910",
+        "description": "Fallece el bacteriólogo alemán Robert Koch, descubridor del bacilo de la tuberculosis."
+      },
+      {
+        "day": 28,
+        "event": "1848",
+        "description": "Natalicio del historiador, escritor y patriota cubano Enrique Collazo."
+      },
+      {
+        "day": 28,
+        "event": "1957",
+        "description": "Victoria militar del Ejército Rebelde en el Combate de El Uvero."
+      },
+      {
+        "day": 28,
+        "event": "1957",
+        "description": "Masacre de los expedicionarios del yate Corynthia en las cercanías de Cabonico."
+      },
+      {
+        "day": 28,
+        "event": "1871",
+        "description": "Cae la Comuna de París tras dos meses de resistencia."
+      },
+      {
+        "day": 29,
+        "event": "1911",
+        "description": "Natalicio del líder obrero y fundador de la CTC Lázaro Peña González."
+      },
+      {
+        "day": 29,
+        "event": "1934",
+        "description": "Firma del tratado que declara la abolición de la Enmienda Platt en Cuba."
+      },
+      {
+        "day": 29,
+        "event": "1958",
+        "description": "Fallece el destacado poeta español Juan Ramón Jiménez."
+      },
+      {
+        "day": 30,
+        "event": "1982",
+        "description": "Es declarada Monumento Nacional la Casa de Abel Santamaría en La Habana."
+      },
+      {
+        "day": 30,
+        "event": "1989",
+        "description": "Fallece la destacada pianista y pedagoga cubana Dulce María Serret."
+      },
+      {
+        "day": 30,
+        "event": "1431",
+        "description": "Juana de Arco es quemada viva en la hoguera en Ruan."
+      },
+      {
+        "day": 30,
+        "event": "1961",
+        "description": "Es ajusticiado en la República Dominicana el dictador Rafael Leónidas Trujillo."
+      },
+      {
+        "day": 31,
+        "event": "1877",
+        "description": "Natalicio en Camagüey del eminente científico y botánico Juan Tomás Roig."
+      },
+      {
+        "day": 31,
+        "event": "1859",
+        "description": "Comienza a funcionar en Londres el reloj de la torre del Parlamento, conocido como Big Ben."
+      }
     ]
   },
   "agendaConmemoraciones": {
@@ -49318,6 +49993,163 @@
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
         "international": "Día Internacional del Jazz."
       }
+    ],
+    "Mayo": [
+      {
+        "day": 1,
+        "national": "Día Internacional de los Trabajadores.",
+        "international": "Día Internacional de los Trabajadores y Día Mundial del Amor."
+      },
+      {
+        "day": 2,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 3,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Libertad de Prensa."
+      },
+      {
+        "day": 4,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 5,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 6,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 7,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 8,
+        "national": "Día del Son Cubano.",
+        "international": "Día Mundial de la Cruz Roja y de la Media Luna Roja."
+      },
+      {
+        "day": 9,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 10,
+        "national": "Segundo domingo de mayo DÍA DE LAS MADRES",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 11,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 12,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Sanidad Vegetal y Día Internacional de la Enfermería."
+      },
+      {
+        "day": 13,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 14,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 15,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de las Familias."
+      },
+      {
+        "day": 16,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 17,
+        "national": "Día del Campesino Cubano.",
+        "international": "Día Mundial de las Telecomunicaciones, Día Mundial del Reciclaje y Día Internacional contra la Homofobia."
+      },
+      {
+        "day": 18,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 19,
+        "national": "Conmemoración de la caída en combate de José Martí.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 20,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de las Abejas y Día Mundial de la Metrología."
+      },
+      {
+        "day": 21,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Diversidad Cultural para el Diálogo y el Desarrollo."
+      },
+      {
+        "day": 22,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Diversidad Biológica."
+      },
+      {
+        "day": 23,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 24,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 25,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 26,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 27,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 28,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 29,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 30,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 31,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial sin Tabaco."
+      }
     ]
   },
   "agendaDayThemes": {
@@ -49424,16 +50256,33 @@
     "Abril-semana-4-Jueves": "Cultura e Identidad – Día Mundial del Libro y del Derecho de Autor, y Día del Idioma.",
     "Abril-semana-4-Viernes": "Legado de Fidel Castro – 65 aniversario de la admisión de responsabilidad de Kennedy en la invasión de Girón.",
     "Abril-semana-4-Sábado": "Soberanía Alimentaria y Energética – Energía renovable generada por biomasa y biogás.",
-    "Abril-semana-4-Domingo": "Cultura e Identidad – Día Internacional de la Propiedad Intelectual."
+    "Abril-semana-4-Domingo": "Cultura e Identidad – Día Internacional de la Propiedad Intelectual.",
+    "Abril-semana-5-Lunes": "Adelanto de las Mujeres – Conmemoración del fallecimiento de la escritora Dulce María Loynaz (1997).",
+    "Abril-semana-5-Martes": "Lucha contra las Drogas – En el contexto del Día Mundial de la Seguridad y la Salud en el Trabajo.",
+    "Abril-semana-5-Miércoles": "Tarea Vida (Medio Ambiente) – Día Internacional de Concienciación sobre el Ruido (último miércoles de abril).",
+    "Abril-semana-5-Jueves": "Soberanía Alimentaria – En el contexto del Día Internacional del Jazz y las celebraciones previas al Primero de Mayo.",
+    "Abril-semana-5-Viernes": "Legado de Fidel Castro – Día Internacional de los Trabajadores.",
+    "Abril-semana-5-Sábado": "Cultura y Memoria – Continuación de las celebraciones por el Primero de Mayo.",
+    "Abril-semana-5-Domingo": "Educación y Revolución – Aniversario de la llegada de los primeros maestros voluntarios a la Sierra Maestra (1960)."
   },
   "agendaUsers": [
+    {
+      "id": "admin",
+      "name": "Pedro José Reyes Acuña",
+      "username": "admin",
+      "pin": "RC0026",
+      "role": "admin",
+      "phone": "54413935",
+      "photo": ""
+    },
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "pin": "RadioCiudad0026"
     },
     {
       "id": "jose",
@@ -49442,7 +50291,8 @@
       "mobile": "54205626",
       "password": "RadioCiudad1726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1726"
     },
     {
       "id": "lissell",
@@ -49451,16 +50301,8 @@
       "mobile": "58841705",
       "password": "RadioCiudad0226",
       "role": "worker",
-      "classification": "Director"
-    },
-    {
-      "id": "maylen",
-      "username": "maylen",
-      "name": "Maylén Leyanis Pérez Chi",
-      "mobile": "58702380",
-      "password": "RadioCiudad1026",
-      "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0226"
     },
     {
       "id": "rosa",
@@ -49469,7 +50311,8 @@
       "mobile": "54275723",
       "password": "RadioCiudad0826",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0826"
     },
     {
       "id": "abel",
@@ -49478,7 +50321,8 @@
       "mobile": "59195045",
       "password": "RadioCiudad0926",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad0926"
     },
     {
       "id": "caridad",
@@ -49487,7 +50331,8 @@
       "mobile": "56350265",
       "password": "RadioCiudad1626",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1626"
     },
     {
       "id": "rafael",
@@ -49496,7 +50341,8 @@
       "mobile": "52143905",
       "password": "RadioCiudad1526",
       "role": "worker",
-      "classification": "Director"
+      "classification": "Director",
+      "pin": "RadioCiudad1526"
     },
     {
       "id": "ernesto",
@@ -49505,7 +50351,8 @@
       "mobile": "52137105",
       "password": "RadioCiudad0326",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0326"
     },
     {
       "id": "leipzig",
@@ -49514,7 +50361,8 @@
       "mobile": "58401306",
       "password": "RadioCiudad1426",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1426"
     },
     {
       "id": "beatrizgonzalez",
@@ -49523,7 +50371,8 @@
       "mobile": "58390181",
       "password": "RadioCiudad1226",
       "role": "admin",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1226"
     },
     {
       "id": "daylen",
@@ -49532,7 +50381,8 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "admin",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "pin": "RadioCiudad1126"
     },
     {
       "id": "jorge",
@@ -49541,7 +50391,8 @@
       "mobile": "55326426",
       "password": "RadioCiudad0426",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0426"
     },
     {
       "id": "susel",
@@ -49550,7 +50401,8 @@
       "mobile": "54778270",
       "password": "RadioCiudad0526",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0526"
     },
     {
       "id": "arnaldo",
@@ -49559,7 +50411,8 @@
       "mobile": "53924841",
       "password": "RadioCiudad0626",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0626"
     },
     {
       "id": "beatriz",
@@ -49568,7 +50421,8 @@
       "mobile": "54777754",
       "password": "RadioCiudad0726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad0726"
     },
     {
       "id": "johan",
@@ -49577,7 +50431,8 @@
       "mobile": "59996914",
       "password": "RadioCiudad1326",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1326"
     },
     {
       "id": "yisel",
@@ -49586,7 +50441,8 @@
       "mobile": "52568960",
       "password": "RadioCiudad1826",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1826"
     },
     {
       "id": "lianet",
@@ -49595,7 +50451,8 @@
       "mobile": "55572836",
       "password": "RadioCiudad1926",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad1926"
     },
     {
       "id": "surima",
@@ -49604,7 +50461,8 @@
       "mobile": "54681371",
       "password": "RadioCiudad2026",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2026"
     },
     {
       "id": "humberto",
@@ -49613,16 +50471,8 @@
       "mobile": "59996846",
       "password": "RadioCiudad2126",
       "role": "worker",
-      "classification": "Usuario"
-    },
-    {
-      "id": "addalis",
-      "username": "addalis",
-      "name": "Addalis Belet García",
-      "mobile": "59996855",
-      "password": "RadioCiudad2226",
-      "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2126"
     },
     {
       "id": "amelia",
@@ -49631,7 +50481,8 @@
       "mobile": "51655888",
       "password": "RadioCiudad2326",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "pin": "RadioCiudad2326"
     }
   ],
   "agendaPropaganda": {
@@ -50338,6 +51189,426 @@
             "lugar": "Sala Teatro 10 de Octubre"
           }
         ]
+      },
+      {
+        "day": 21,
+        "activities": [
+          {
+            "actividad": "Espacio de homenaje a Juan Manuel Reyes Acolea en su 90 cumpleaños. Lectura de su obra y exposición del fondo personal (Casa de la Nacionalidad Cubana)",
+            "hora": "9:00 AM",
+            "lugar": "Casa de la Nacionalidad Cubana"
+          },
+          {
+            "actividad": "Espacio fijo Sabe más quien lee más (Biblioteca Provincial 1868)",
+            "hora": "10:00 AM",
+            "lugar": "Escuela Especial Ernesto Che Guevara. Bayamo"
+          },
+          {
+            "actividad": "Espacio fijo Taller de la Bebeteca (Biblioteca Provincial 1868)",
+            "hora": "10:00 AM",
+            "lugar": "Círculo Infantil Pedro Pompa. Bayamo"
+          },
+          {
+            "actividad": "Noche de Cine Cubano. Proyección del filme Chamacos (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
+          }
+        ]
+      },
+      {
+        "day": 22,
+        "activities": [
+          {
+            "actividad": "Espacio fijo Círculo de lectura (Biblioteca Provincial 1868)",
+            "hora": "10:00 AM",
+            "lugar": "Seminternado 1ro de Enero"
+          },
+          {
+            "actividad": "El arte de la cerámica (AHS)",
+            "hora": "10:00 AM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Presentación de la Compañía Tiempo Arte Contemporáneo con Totó Mi payaso terapéutico (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Escuela Primaria Los Mártires"
+          },
+          {
+            "actividad": "Espacio fijo artístico cultural de Nivel Medio (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "11:00 AM",
+            "lugar": "Lobby de Nivel Medio de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          },
+          {
+            "actividad": "Noche de estreno. Proyección del filme El día del fin del mundo (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
+          },
+          {
+            "actividad": "Presentación del Cine Móvil y el proyecto Tarequeando (Centro Provincial de Cine)",
+            "hora": "6:00 PM",
+            "lugar": "Plazoleta de la comunidad La Pedrera. Bayamo"
+          }
+        ]
+      },
+      {
+        "day": 23,
+        "activities": [
+          {
+            "actividad": "El club de los profetas nuestros. Tema: Día del Idioma. De Cervantes y Shakespeare, el legado (Centro Provincial del Libro, Casa de la Nacionalidad Cubana)",
+            "hora": "10:00 AM",
+            "lugar": "Casa de la Nacionalidad Cubana"
+          },
+          {
+            "actividad": "Taller de aprendizaje La décima en el centro (Sociedad Cultural José Martí)",
+            "hora": "10:00 AM",
+            "lugar": "Centro Cultural Armando Hart"
+          },
+          {
+            "actividad": "Presentación de Teatro de Ilusiones Libre con la obra Riendo con TIL (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Sede La casa de las historias. Siboney. Bayamo"
+          },
+          {
+            "actividad": "Espacio fijo Ciudad de historia en jóvenes memorias. Tema: Entre palabras y páginas: homenaje al idioma español y al libro (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "La UNEAC entre nosotros. Anfitrión: Erwin Caro Infante. Invitada: Idelmis Mary (Centro Provincial del Libro)",
+            "hora": "10:00 AM",
+            "lugar": "Galería Dos Columnas. UNEAC"
+          },
+          {
+            "actividad": "Mi escuela en la comunidad. Brigada Artística y conversatorio sobre Dora Alonso y Pelusín del Monte en su aniversario 70 (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "10:00 AM",
+            "lugar": "Comunidad Aeropuerto Viejo. Bayamo"
+          },
+          {
+            "actividad": "Presentación del Taller Literario Juvenil e Infantil (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "11:00 AM",
+            "lugar": "Biblioteca Escolar de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Proyecto Jardines, huertos y bosques martianos (Sociedad Cultural José Martí)",
+            "hora": "2:20 PM",
+            "lugar": "Escuela Primaria Nguyen Van Troi. Bayamo"
+          },
+          {
+            "actividad": "Raíces y futuro (Oficina del Historiador de la Ciudad de Bayamo)",
+            "hora": "3:00 PM",
+            "lugar": "Centro de Interpretación del Patrimonio. Bayamo"
+          },
+          {
+            "actividad": "Noche de Cinemateca. Proyección del filme Las aventuras de Poseidón (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
+          },
+          {
+            "actividad": "Espacio fijo artístico cultural de la especialidad de Música (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "6:00 PM",
+            "lugar": "UNEAC"
+          }
+        ]
+      },
+      {
+        "day": 24,
+        "activities": [
+          {
+            "actividad": "Espacio Manos (Centro Provincial de Casas de Cultura)",
+            "hora": "9:00 AM",
+            "lugar": "Centro Provincial de Casas de Cultura"
+          },
+          {
+            "actividad": "Espacio fijo Peña Encuentros (Centro Provincial de Patrimonio Cultural)",
+            "hora": "9:00 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Presentación del Cuarteto Metales en concierto (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
+            "hora": "9:00 AM",
+            "lugar": "Centro de Interpretación del Patrimonio"
+          },
+          {
+            "actividad": "Espacio fijo Cubanía e identidad. Tema: El arte rupestre cubano y su vigencia actual (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Museo de Arqueología. Bayamo"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          },
+          {
+            "actividad": "Galeno Fiesta. Espacio dedicado a la FEU de Ciencias Médicas y la Universidad de Granma (EGREM)",
+            "hora": "9:00 PM a 2:00 AM",
+            "lugar": "Salón del Bayam"
+          }
+        ]
+      },
+      {
+        "day": 25,
+        "activities": [
+          {
+            "actividad": "Presentación del proyecto teatral infantil Los Andantinos por el Día del libro (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Casa de la Cultura 20 de Octubre. Bayamo"
+          },
+          {
+            "actividad": "Torneo de cartas Yu Gi Oh (AHS)",
+            "hora": "9:00 AM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Taller de manualidades La muñeca negra (Sociedad Cultural José Martí)",
+            "hora": "9:00 AM",
+            "lugar": "Centro Cultural Armando Hart"
+          },
+          {
+            "actividad": "Talleres vocacionales de las diferentes especialidades (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
+            "hora": "9:00 AM",
+            "lugar": "Escuela Profesional de Arte Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Sábado del libro. Presentación del libro El ojo de Alejo de Graciela Pogolotti (Centro Provincial del Libro)",
+            "hora": "9:00 AM",
+            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
+          },
+          {
+            "actividad": "Sábado del libro (Centro Provincial del Libro)",
+            "hora": "9:00 AM",
+            "lugar": "Casa de la Cultura. Guisa"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Alien v/s monstruos (Centro Provincial de Cine)",
+            "hora": "10:00 AM",
+            "lugar": "Cines cabeceras y otras salas"
+          },
+          {
+            "actividad": "Espacio fijo La hora del cuento (Biblioteca Provincial 1868)",
+            "hora": "10:00 AM",
+            "lugar": "Casa de niños sin amparo parental (-6). Bayamo"
+          },
+          {
+            "actividad": "Presentación de ATEGUA con el espectáculo La familia L (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Antiguo Boulevard. Manzanillo"
+          },
+          {
+            "actividad": "Día Naranja. Proyección del filme Vestida de novia (Centro Provincial de Cine)",
+            "hora": "10:00 AM",
+            "lugar": "Video Club Juvenil y otras salas"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "12:00 M",
+            "lugar": "Restaurante La España"
+          },
+          {
+            "actividad": "Conversatorio sobre temas de las Ciencias Sociales en el programa radial Criterios (Casa de la Nacionalidad Cubana)",
+            "hora": "1:30 PM",
+            "lugar": "Radio Bayamo"
+          },
+          {
+            "actividad": "Presentación del proyecto Tarequeando con el espectáculo Todo es una fiesta (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Hotel Sierra Maestra"
+          },
+          {
+            "actividad": "Tanda para jóvenes. Proyección del capítulo 4 de la serie Dime más mentiras (Centro Provincial de Cine)",
+            "hora": "3:00 PM",
+            "lugar": "Cines cabeceras y otras salas"
+          },
+          {
+            "actividad": "Espacio Entre líneas para ti. Anfitrión: Javier Vega Leyva. Invitado: Erasmo de los Ángeles Rondón Soto (Centro Provincial del Libro)",
+            "hora": "4:00 PM",
+            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
+          },
+          {
+            "actividad": "Tanda para jóvenes. Proyección del capítulo 4 de la serie Dime más mentiras (Centro Provincial de Cine)",
+            "hora": "5:00 PM",
+            "lugar": "Sala Sara Gómez. Multisala Cinema"
+          },
+          {
+            "actividad": "Actividad Comunitaria Integradora. Sueño infantil (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Centro Provincial del Libro)",
+            "hora": "5:00 PM",
+            "lugar": "Calle 13 % 8 y 10. Siboney. Bayamo"
+          },
+          {
+            "actividad": "Presentación de la compañía infantil danzaria Arcoíris en Movimiento con la obra Un cofre mágico (Consejo Provincial de las Artes Escénicas)",
+            "hora": "5:00 PM",
+            "lugar": "Sala Teatro José Joaquín Palma"
+          },
+          {
+            "actividad": "Peña del grupo Son Verdad (Consejo Provincial de las Artes Escénicas)",
+            "hora": "5:00 PM",
+            "lugar": "Teatro Manzanillo"
+          },
+          {
+            "actividad": "Presentación de Teatro Andante con la obra Los colores del bosque (Consejo Provincial de las Artes Escénicas)",
+            "hora": "5:00 PM",
+            "lugar": "Casa Verde del Teatro"
+          },
+          {
+            "actividad": "Espacio Retreta. Presentación de la Banda Provincial de Conciertos (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
+            "hora": "5:00 PM",
+            "lugar": "Plaza de la Revolución"
+          },
+          {
+            "actividad": "Concierto con todos con la guitarrista concertista Miriam Pompa Áreas y sus invitados (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
+            "hora": "7:00 PM",
+            "lugar": "Sala de Conciertos Mtro. Salvador Alarcón Rodríguez"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Sevillana"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Bayamesa"
+          },
+          {
+            "actividad": "Noche Bayamesa Camino al arte (Dirección Municipal de Cultura Bayamo)",
+            "hora": "7:00 PM",
+            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
+          },
+          {
+            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:30 PM",
+            "lugar": "Restaurante 1513"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "8:00 PM",
+            "lugar": "Restaurante El Senado"
+          },
+          {
+            "actividad": "Peña de teatro. Presentación de la Guerrilla de Teatreros con el grupo musical Sabor a Cuba (AHS)",
+            "hora": "8:00 PM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Tanda Especial. Proyección del filme Terror en Silent Hill. Regreso al infierno (Centro Provincial de Cine)",
+            "hora": "8:00 PM",
+            "lugar": "Cine Céspedes. Bayamo"
+          },
+          {
+            "actividad": "Espacio Voces del alma. Presentación del Coro Profesional de Bayamo (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
+            "hora": "8:00 PM",
+            "lugar": "Sala Principal del Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Espacio de la UNEAC La gloria eres tú (EGREM)",
+            "hora": "9:00 PM a 12:00 AM",
+            "lugar": "Video Bar Sindo Garay"
+          },
+          {
+            "actividad": "Rincón del Recuerdo (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:00 PM",
+            "lugar": "Calle Luz Vázquez esquina General García"
+          },
+          {
+            "actividad": "Noche Bayamesa Camino al arte. Concierto de Arinledy Rodríguez (Dirección Municipal de Cultura Bayamo)",
+            "hora": "9:00 PM",
+            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
+          },
+          {
+            "actividad": "Espacio Punto Neutro (Dirección Municipal de Cultura Bayamo)",
+            "hora": "10:00 PM a 12:00 AM",
+            "lugar": "Calle Saco % General García y Céspedes. Frente a la Academia de Esgrima"
+          }
+        ]
+      },
+      {
+        "day": 26,
+        "activities": [
+          {
+            "actividad": "Presentación del Guiñol Pequeño Príncipe y el payaso Palitroque con el espectáculo Payasadas de Palitroque (Consejo Provincial de las Artes Escénicas)",
+            "hora": "9:00 AM",
+            "lugar": "Boulevard Tropicrema"
+          },
+          {
+            "actividad": "Matinée Infantil con la proyección del filme Alien v/s monstruos (Centro Provincial de Cine)",
+            "hora": "10:00 AM",
+            "lugar": "Cine Céspedes. Bayamo"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "12:00 M",
+            "lugar": "Restaurante La España"
+          },
+          {
+            "actividad": "Peña de K-Pop (AHS)",
+            "hora": "4:00 PM",
+            "lugar": "Sede de la AHS. Bayamo"
+          },
+          {
+            "actividad": "Actividad Comunitaria Integradora. Tarde entre amigos (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Centro Provincial del Libro)",
+            "hora": "5:00 PM",
+            "lugar": "Parquecito Racilla. Jesús Menéndez. Bayamo"
+          },
+          {
+            "actividad": "Presentación de la compañía infantil danzaria Arcoíris en Movimiento con la obra Un cofre mágico (Consejo Provincial de las Artes Escénicas)",
+            "hora": "6:00 PM",
+            "lugar": "Teatrón Infantil Plaza La Luz. Parque de la Sala Teatro José Joaquín Palma"
+          },
+          {
+            "actividad": "Presentación del Cine Móvil y el proyecto Tarequeando (Centro Provincial de Cine)",
+            "hora": "6:00 PM",
+            "lugar": "Campo de pelota. Tamayito. Bayamo"
+          },
+          {
+            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Sevillana"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:00 PM",
+            "lugar": "Restaurante La Bayamesa"
+          },
+          {
+            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "7:30 PM",
+            "lugar": "Restaurante 1513"
+          },
+          {
+            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
+            "hora": "8:00 PM",
+            "lugar": "Restaurante El Senado"
+          }
+        ]
+      },
+      {
+        "day": 27,
+        "activities": [
+          {
+            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
+            "hora": "10:00 AM",
+            "lugar": "Comunidad Las Novillas. Manzanillo"
+          },
+          {
+            "actividad": "Proyección del animado Las vasijas (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Escuela Especial Rubén Noguera Castillo"
+          },
+          {
+            "actividad": "Círculo de interés Recorriendo la historia (Centro Provincial de Patrimonio Cultural)",
+            "hora": "10:00 AM",
+            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
+          },
+          {
+            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
+            "hora": "2:00 PM",
+            "lugar": "Sala Teatro 10 de Octubre"
+          }
+        ]
       }
     ]
   },
@@ -50391,23 +51662,6 @@
           "Arte Bayamo",
           "Palco del Domingo",
           "Palco de domingo"
-        ]
-      }
-    },
-    {
-      "id": "maylen",
-      "name": "Maylén Leyanis Pérez Chi",
-      "specialty": "Directora",
-      "level": "Tercer Nivel",
-      "info": "",
-      "photoUrl": "https://picsum.photos/seed/maylen/400/400",
-      "habitualProgramsByRole": {
-        "Directora": [
-          "La Cumbancha Sábado",
-          "La Cumbancha (Lunes a Viernes)",
-          "RCM Noticias",
-          "Coloreando Melodías",
-          "Alba y Crisol"
         ]
       }
     },
@@ -50571,14 +51825,6 @@
       "level": "",
       "info": "",
       "photoUrl": "https://picsum.photos/seed/humberto/400/400"
-    },
-    {
-      "id": "addalis",
-      "name": "Addalis Belet García",
-      "specialty": "Periodista",
-      "level": "",
-      "info": "",
-      "photoUrl": "https://picsum.photos/seed/addalis/400/400"
     },
     {
       "id": "amelia",
