@@ -77,8 +77,12 @@
       "name": "Leipzig del Carmen Vázquez García",
       "mobile": "58401306",
       "password": "RadioCiudad1426",
-      "role": "worker",
-      "classification": "Usuario"
+      "role": "coordinator",
+      "classification": "Coordinador",
+      "coordinatorSections": [
+        "Gestión"
+      ],
+      "tools": []
     },
     {
       "id": "beatrizgonzalez",
@@ -96,7 +100,12 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "coordinatorSections": [
+        "Gestión",
+        "Programación"
+      ],
+      "tools": []
     },
     {
       "id": "jorge",
@@ -211,124 +220,76 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1776781051363-0",
-      "title": "Miguel Díaz-Canel explica en exclusiva a RT cambios estructurales en el Gobierno cubano",
+      "id": "news-1777995747756-0",
+      "title": "Reconocen a la entidad Copexstel Granma con la bandera de Colectivo Vanguardia Nacional",
+      "author": "Radio Bayamo",
+      "content": "La división territorial de Copexstel en Granma recibió el estandarte de Colectivo Vanguardia Nacional en reconocimiento a su destacada labor durante el año 2024. La entidad ha mantenido una trayectoria de excelencia, obteniendo este reconocimiento de manera consecutiva en diversos periodos desde el año 2002. Durante la ceremonia, celebrada en la sede de la institución en Bayamo, se impuso la medalla \"Hazaña Laboral\" a varios trabajadores, entre ellos Ernesto Licea Roselló y Ana María de la Riega Escala, por su contribución en la construcción de parques solares fotovoltaicos. La empresa destaca por su apoyo técnico y creativo en el mantenimiento de electrodomésticos y servicios especializados para programas priorizados en los municipios de Bayamo, Niquero y Río Cauto.\r\n____________________________________________________________",
+      "category": "General",
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "La división territorial de Copexstel en Granma recibió el estandarte de Colectivo Vanguardia Nacional en reconocimiento a su destacada labor durante el año 2024."
+    },
+    {
+      "id": "news-1777995747756-1",
+      "title": "Inicia en Cuba la campaña de declaración jurada y pago de tributos 2026",
+      "author": "Periódico Granma",
+      "content": "El pasado 6 de enero comenzó oficialmente la campaña de declaración jurada y pago de tributos correspondiente al año 2026, bajo lo establecido en la Ley 181 del Presupuesto del Estado. Este proceso, coordinado por la Oficina Nacional de Administración Tributaria (ONAT), convoca a la mayoría de los contribuyentes del país, así como a organismos rectores y autoridades territoriales. El objetivo principal de la campaña es asegurar la recaudación de ingresos necesarios para financiar los servicios públicos y los programas sociales contemplados en el presupuesto estatal. Los tributos gravan los ingresos obtenidos durante el ejercicio fiscal 2025, buscando garantizar la sostenibilidad económica de las actividades gubernamentales y el bienestar colectivo a través de la responsabilidad fiscal de los ciudadanos y entidades involucradas.\r\n____________________________________________________________",
+      "category": "General",
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "El pasado 6 de enero comenzó oficialmente la campaña de declaración jurada y pago de tributos correspondiente al año 2026, bajo lo establecido en la Ley 181 del Presupuesto del Estado."
+    },
+    {
+      "id": "news-1777995747756-2",
+      "title": "Organismos internacionales advierten sobre tensiones en el comercio mundial para 2026",
+      "author": "Prensa Latina",
+      "content": "La Organización Mundial del Comercio (OMC) y el Banco Mundial han publicado evaluaciones que anticipan un escenario complejo para el intercambio de mercancías durante el año 2026. Según los informes, el comercio global enfrenta su mayor prueba de estrés desde la pandemia de la COVID-19, debido a la combinación de una desaceleración estructural y el choque energético derivado de conflictos internacionales actuales. Las previsiones indican un crecimiento magro del intercambio comercial con marcadas asimetrías entre las diferentes regiones del mundo. Estos organismos advierten que la situación actual tiene un impacto directo y negativo sobre la seguridad alimentaria global y los índices de inflación, lo que genera una preocupación creciente sobre la estabilidad de los mercados internacionales y el abastecimiento de productos básicos.\r\n____________________________________________________________",
+      "category": "General",
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "La Organización Mundial del Comercio (OMC) y el Banco Mundial han publicado evaluaciones que anticipan un escenario complejo para el intercambio de mercancías durante el año 2026."
+    },
+    {
+      "id": "news-1777995747756-3",
+      "title": "Árbitro olímpico Juan Ramón Milán Ponce se recupera satisfactoriamente tras afección cerebral",
       "author": "CMKX Radio Bayamo",
-      "content": "El presidente cubano anunció un redimensionamiento del aparato estatal y empresarial para reducir la burocracia antes de mitad de año. Se busca una gestión más dinámica y eficiente mediante estructuras \"más planas\" y la reducción del número de ministerios e instancias intermedias. Díaz-Canel destacó que estas transformaciones pretenden fortalecer el gobierno local y eliminar desigualdades sociales sin crear nuevas brechas. Actualmente, un grupo de expertos evalúa la primera etapa de estas propuestas para simplificar los procedimientos de administración pública y potenciar la autonomía municipal en la solución de problemas cotidianos.\r\n\r\n____________________________________________________________",
+      "content": "El reconocido árbitro internacional de boxeo y presidente del Comité Nacional de Jueces y Árbitros de la Federación Cubana de Boxeo, Juan Ramón Milán Ponce, se encuentra en proceso de rehabilitación satisfactoria tras haber sufrido una afección cerebrovascular el mes pasado. Conocido en el ámbito deportivo como el \"Chino Milán\", el especialista confirmó que el evento no le dejó secuelas graves y que actualmente cumple con los turnos médicos y ejercicios diarios necesarios. Milán Ponce cuenta con una prestigiosa trayectoria que incluye su participación en los Juegos Olímpicos de Beijing 2008, Tokio 2020 y París 2024. Su recuperación es seguida de cerca por la comunidad deportiva, dada su relevancia en la formación y dirección de la justicia imparcial dentro del boxeo nacional e internacional.\r\n____________________________________________________________",
       "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "El presidente cubano anunció un redimensionamiento del aparato estatal y empresarial para reducir la burocracia antes de mitad de año.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "El reconocido árbitro internacional de boxeo y presidente del Comité Nacional de Jueces y Árbitros de la Federación Cubana de Boxeo, Juan Ramón Milán Ponce, se encuentra en proceso de rehabilitación satisfactoria tras haber sufrido una afección cerebrovascular el mes pasado."
     },
     {
-      "id": "news-1776781051363-1",
-      "title": "Rusia condena fuerte presión de Estados Unidos sobre Nicaragua y Cuba",
-      "author": "CMKX Radio Bayamo",
-      "content": "El viceministro de Exteriores ruso, Evgueni Ivánov, denunció el incremento de las presiones estadounidenses contra naciones del hemisferio occidental como Cuba y Nicaragua. Moscú calificó estas acciones de intimidación como un uso injustificado de la fuerza y una violación a la soberanía de los Estados. Paralelamente, se destacó que estas presiones ocurren en un contexto de tensiones globales donde países como Italia y México han manifestado su creciente apoyo a la isla. La condena rusa subraya la resistencia de Cuba ante agresiones multidimensionales y reafirma la importancia de la solidaridad internacional frente a bloqueos externos.\r\n\r\n____________________________________________________________",
+      "id": "news-1777995747756-4",
+      "title": "Definida la final de la Copa de Béisbol Ramón Marrero in memoriam en Bayamo",
+      "author": "RCM Noticias (periodista Javier Figueredo)",
+      "content": "Los equipos representativos de Jesús Menéndez y Ramiro Tamayo se enfrentarán el próximo fin de semana para disputar la final de la Copa de Béisbol \"Ramón Marrero in memoriam\". El certamen, que compite en la categoría de 11 a 12 años, tiene como sede principal el beisbolito Manuel Alarcón Reina en la ciudad de Bayamo. Por otro lado, las selecciones de Mabay y Aeropuerto competirán por el tercer lugar del torneo. Este evento deportivo, que rinde homenaje a una figura destacada del béisbol local, cuenta con la colaboración técnica de especialistas locales y busca fomentar el desarrollo de las jóvenes promesas del deporte nacional en la provincia de Granma, consolidándose como un espacio fundamental para el relevo atlético en la región.\r\n____________________________________________________________",
       "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "El viceministro de Exteriores ruso, Evgueni Ivánov, denunció el incremento de las presiones estadounidenses contra naciones del hemisferio occidental como Cuba y Nicaragua.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "Los equipos representativos de Jesús Menéndez y Ramiro Tamayo se enfrentarán el próximo fin de semana para disputar la final de la Copa de Béisbol \"Ramón Marrero in memoriam\"."
     },
     {
-      "id": "news-1776781051363-2",
-      "title": "Máxima prioridad para la cooperación biofarmacéutica entre Vietnam y Cuba",
-      "author": "CMKX Radio Bayamo",
-      "content": "Ambos países han otorgado carácter estratégico al desarrollo conjunto en el área de la biotecnología y la salud. Esta colaboración busca potenciar la producción de fármacos y vacunas, aprovechando el prestigio del sector científico cubano y las capacidades de intercambio con la nación asiática. El acuerdo refuerza los vínculos históricos de hermandad y se alinea con los planes de desarrollo económico de Cuba para 2026, donde la biotecnología es un sector clave para la exportación y sustitución de importaciones. La alianza pretende garantizar el acceso a medicamentos esenciales y fortalecer la soberanía tecnológica de ambos pueblos.\r\n\r\n____________________________________________________________",
+      "id": "news-1777995747756-5",
+      "title": "Inauguran primera Copa de Fútbol Interbarrios Sub-20 en el combinado Jesús Menéndez",
+      "author": "RCM Noticias (periodista Humberto Zamora Fajardo)",
+      "content": "Este martes se inauguró oficialmente la primera Copa de Fútbol Interbarrios Sub-20 en la cancha del combinado deportivo Jesús Menéndez, en Bayamo. El torneo cuenta con la participación de 18 selecciones divididas en cuatro grupos de competencia, bajo un sistema de todos contra todos a dos vueltas. En el partido inaugural, el equipo Micro 5 Junior se impuso uno por cero ante Atlético Carmencí. Joandrys Jorge Vázquez, organizador principal de la lid, explicó que la competencia permite la inclusión de hasta tres jugadores mayores de edad por equipo, siempre que no hayan participado en ediciones anteriores de la Liga Juvenil. El certamen busca dinamizar la práctica del fútbol en la ciudad, clasificando a los dos mejores de cada grupo para las fases eliminatorias directas hasta llegar a la gran final.\r\n____________________________________________________________",
       "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "Ambos países han otorgado carácter estratégico al desarrollo conjunto en el área de la biotecnología y la salud.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "Este martes se inauguró oficialmente la primera Copa de Fútbol Interbarrios Sub-20 en la cancha del combinado deportivo Jesús Menéndez, en Bayamo."
     },
     {
-      "id": "news-1776781051363-3",
-      "title": "Cuba confirma encuentros con delegación de Estados Unidos en La Habana",
-      "author": "Cubadebate",
-      "content": "Alejandro García del Toro, subdirector general del Minrex, confirmó la realización de intercambios discretos entre funcionarios de ambos países en la capital cubana. Estos encuentros, calificados como asuntos sensibles, abordan temas de interés mutuo en un ambiente de profesionalidad. Aunque no se han revelado detalles específicos sobre los acuerdos, la confirmación oficial sigue a publicaciones de prensa extranjera que especulaban sobre el diálogo bilateral. El gobierno cubano mantiene su postura de discutir cualquier tema bajo principios de respeto mutuo y soberanía, sin aceptar condiciones que comprometan su independencia o su sistema social.\r\n\r\n____________________________________________________________",
+      "id": "news-1777995747756-6",
+      "title": "Pronostican chubascos y tormentas eléctricas para zonas montañosas de Granma",
+      "author": "RCM Noticias (periodista José Ángel Figueredo)",
+      "content": "El Centro Provincial de Meteorología de Granma informó que se mantiene la influencia de las altas presiones sobre el territorio, combinada con una vaguada en la altura y altos valores de humedad. Estos factores, sumados a las condiciones locales, favorecerán la ocurrencia de chubascos y tormentas eléctricas durante las horas de la tarde, principalmente en las zonas montañosas de la provincia. Las temperaturas máximas continuarán siendo cálidas, oscilando entre los 30 y 33 grados Celsius, con valores superiores en algunas localidades del interior. Los vientos se comportarán variables durante toda la jornada, lo que provocará poco oleaje en el litoral sur y condiciones de mar tranquila en el resto de la costa granmense. Se recomienda a la población tomar precauciones ante la posible actividad eléctrica vespertina.\r\n____________________________________________________________",
       "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "Alejandro García del Toro, subdirector general del Minrex, confirmó la realización de intercambios discretos entre funcionarios de ambos países en la capital cubana.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "El Centro Provincial de Meteorología de Granma informó que se mantiene la influencia de las altas presiones sobre el territorio, combinada con una vaguada en la altura y altos valores de humedad."
     },
     {
-      "id": "news-1776781051363-4",
-      "title": "FITCuba 2026 se reinventa en formato híbrido frente a desafíos económicos",
-      "author": "Cubadebate",
-      "content": "La Feria Internacional de Turismo (FITCuba 2026) adoptará una modalidad presencial y virtual para superar limitaciones energéticas y de conectividad aérea. Lessner Gómez, directivo del Ministerio de Turismo, explicó que este cambio busca mantener la visibilidad del destino Cuba y atraer nuevas inversiones a pesar del recrudecimiento del bloqueo. El evento se enfoca en la recuperación del sector, proyectando recibir 2.2 millones de visitantes para el cierre del año. Esta reinvención estratégica es vital para la captación de divisas, permitiendo que actores del mercado mundial interactúen con la oferta turística cubana mediante plataformas digitales avanzadas.\r\n\r\n____________________________________________________________",
+      "id": "news-1777995747756-7",
+      "title": "Estrenan en Bayamo el filme Nora del director Roly Peña",
+      "author": "RCM Noticias (periodista Ernesto Parra Muñoz)",
+      "content": "El cine Céspedes de Bayamo acogió el estreno de la película cubana \"Nora\", dirigida por el realizador Roly Peña. La obra es un thriller con guion de Amílcar Salatti que combina elementos de drama y espionaje, ambientado en la década de los años 90 del siglo pasado. La trama sigue la historia de una joven agente encubierta de la Seguridad del Estado cubano, interpretada por la actriz Ingrid Lobaina, quien tiene la misión de infiltrarse en organizaciones contrarrevolucionarias en el sur de Florida. El filme es una coproducción de Cubavisión, el ICAIC y la productora Patria, y cuenta con un elenco de reconocidas figuras como Aramís Delgado, Héctor Noas y Patricio Wood. La presentación forma parte de un circuito nacional de estrenos que busca promover el cine de factura nacional en todo el país.\r\n____________________________________________________________",
       "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "La Feria Internacional de Turismo (FITCuba 2026) adoptará una modalidad presencial y virtual para superar limitaciones energéticas y de conectividad aérea.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-5",
-      "title": "Situación energética compleja: Unión Eléctrica prevé déficits significativos",
-      "author": "Cubadebate",
-      "content": "La Unión Eléctrica (UNE) informó que se mantienen afectaciones severas en el Sistema Eléctrico Nacional, estimando déficits que superan los 1,000 MW durante el horario pico. Esta situación se debe principalmente a la falta de combustible y a salidas por mantenimiento o averías en unidades de las centrales termoeléctricas (CTE) Carlos Manuel de Céspedes y Mariel. A pesar de los esfuerzos por recuperar capacidades mediante energías renovables y reparaciones urgentes, la disponibilidad sigue siendo insuficiente para cubrir la demanda máxima. El gobierno prioriza el sostenimiento de las plantas térmicas dentro de su plan económico de ajuste para 2026.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "La Unión Eléctrica (UNE) informó que se mantienen afectaciones severas en el Sistema Eléctrico Nacional, estimando déficits que superan los 1,000 MW durante el horario pico.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-6",
-      "title": "Cuba proyecta Plan de Ajuste Económico para 2026 bajo escenario de \"economía de guerra\"",
-      "author": "Granma",
-      "content": "El ministro Joaquín Alonso Vázquez presentó el Plan para 2026, diseñado para movilizar reservas productivas y reducir el déficit presupuestario a niveles manejables. Las inversiones se concentrarán en sectores estratégicos como alimentos, energía, turismo y vivienda, priorizando la sustitución de importaciones y el incremento de ingresos en divisas. Se proyecta exportar bienes por 2,530 millones de dólares y fortalecer el Sistema Eléctrico Nacional mediante fuentes renovables. Aunque es un plan de mínimos condicionado por factores externos e internos, busca garantizar políticas sociales que reduzcan las desigualdades y transformar la empresa estatal mediante encadenamientos productivos.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "El ministro Joaquín Alonso Vázquez presentó el Plan para 2026, diseñado para movilizar reservas productivas y reducir el déficit presupuestario a niveles manejables.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-7",
-      "title": "Movimiento \"Mi firma por la Patria\" reafirma soberanía cubana",
-      "author": "Granma",
-      "content": "A 65 años de la victoria en Playa Girón, el pueblo cubano participa masivamente en la suscripción de un compromiso de lealtad a la Revolución y defensa de la independencia. El presidente Miguel Díaz-Canel inició el proceso de rúbrica, seguido por ciudadanos en todo el país que expresan su rechazo a la injerencia extranjera y al bloqueo estadounidense. El movimiento simboliza la voluntad irrevocable de no rendirse y construir una historia propia sin designios externos. Esta iniciativa refuerza la unidad nacional en un contexto de presiones internacionales, recordando el legado histórico de Girón como la primera gran derrota imperialista.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "A 65 años de la victoria en Playa Girón, el pueblo cubano participa masivamente en la suscripción de un compromiso de lealtad a la Revolución y defensa de la independencia.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-8",
-      "title": "Irán abre el estrecho de Ormuz tras tregua regional",
-      "author": "Granma",
-      "content": "El gobierno de Irán anunció la apertura total de esta vía marítima estratégica, vital para el comercio mundial, tras pactarse un alto el fuego entre Israel y el Líbano. El estrecho de Ormuz facilita el tránsito de aproximadamente el 20% del consumo global de petróleo, y su reapertura provocó un descenso inmediato en los precios del crudo internacional. Sin embargo, Estados Unidos comunicó que mantendrá el bloqueo naval contra la nación persa hasta que los acuerdos se completen totalmente. Cuba, a través de sus medios oficiales, denunció este cerco militar como una guerra injustificada que utiliza la energía como instrumento de castigo colectivo.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "El gobierno de Irán anunció la apertura total de esta vía marítima estratégica, vital para el comercio mundial, tras pactarse un alto el fuego entre Israel y el Líbano.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-9",
-      "title": "Granma diversifica producciones azucareras ante crisis de combustible",
-      "author": "La Demajagua",
-      "content": "Ante la imposibilidad de realizar la zafra completa por el cerco energético y la falta de combustible, los trabajadores del sector se han volcado a la producción de alimentos y otros derivados. Empresas agroindustriales como \"Enidio Díaz Machado\" en Campechuela lideran esfuerzos para garantizar el azúcar de la canasta básica familiar a pesar de las roturas industriales. El sector busca una recuperación gradual integrando la cría de ganado y cultivos varios como estrategia de supervivencia económica. Estas acciones forman parte de un plan de soberanía alimentaria que prioriza el autoabastecimiento de los trabajadores ante las severas restricciones externas.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "Ante la imposibilidad de realizar la zafra completa por el cerco energético y la falta de combustible, los trabajadores del sector se han volcado a la producción de alimentos y otros derivados.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6I0Q5NzcwNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzkyNDAwRTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPHBhdGggZD0iTTEwMCwzMDAgTDIwMCwyMDAgTDMwMCwyNTAgTDUwMCw1MCIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMSkiIHN0cm9rZS13aWR0aD0iMzAiIGZpbGw9Im5vbmUiLz4KICAgICAgPHRleHQgeD0iNTAlIiB5PSI5MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMykiIGZvbnQtd2VpZ2h0PSJib2xkIiBsZXR0ZXItc3BhY2luZz0iNHB4Ij5HRU5FUkFMPC90ZXh0PgogICAgPC9zdmc+CiAg"
-    },
-    {
-      "id": "news-1776781051363-10",
-      "title": "Nuevo Decreto Ley regula asociaciones entre empresas estatales y privadas",
-      "author": "La Demajagua",
-      "content": "El gobierno aprobó normativas para actualizar el modelo económico mediante alianzas entre el sector público y las Mipymes. El Decreto Ley busca dinamizar la producción nacional y aprovechar la flexibilidad de los nuevos actores económicos bajo la guía de la empresa estatal socialista. Expertos señalan que estas asociaciones no significan una privatización, sino una herramienta para integrar reservas productivas y sustituir importaciones. La medida es fundamental en territorios como Granma, donde se fomenta el encadenamiento productivo para elevar la oferta de bienes y servicios a la población en medio de una compleja coyuntura financiera.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "El gobierno aprobó normativas para actualizar el modelo económico mediante alianzas entre el sector público y las Mipymes.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1776781051363-11",
-      "title": "Mexicanos y organizaciones internacionales ratifican apoyo a Cuba",
-      "author": "La Demajagua",
-      "content": "Diversos colectivos y ciudadanos en México reafirmaron su rechazo al bloqueo estadounidense y convocaron a jornadas de solidaridad con la isla. La presidenta de México manifestó su orgullo por apoyar al pueblo cubano, mientras académicos solicitan reanudar el envío de combustibles para paliar la crisis energética. Similares muestras de apoyo se registraron en regiones como Galicia y ciudades como Río de Janeiro, donde manifestaciones multitudinarias exigieron el respeto a la soberanía de Cuba. Este respaldo internacional es visto como un contrapeso necesario ante las amenazas de intervención militar y las presiones diplomáticas que enfrenta el gobierno cubano.\r\n\r\n____________________________________________________________",
-      "category": "General",
-      "date": "Viernes 21 de abril de 2026",
-      "excerpt": "Diversos colectivos y ciudadanos en México reafirmaron su rechazo al bloqueo estadounidense y convocaron a jornadas de solidaridad con la isla.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 29 de abril de 2026",
+      "excerpt": "El cine Céspedes de Bayamo acogió el estreno de la película cubana \"Nora\", dirigida por el realizador Roly Peña."
     }
   ],
   "fichas": [
@@ -4251,40 +4212,28 @@
     }
   ],
   "worklogs": [],
-  "consolidated": [
-    {
-      "id": "bbxwpaox4",
-      "userId": "Rafael Traba Bordón",
-      "month": "2026-04",
-      "amount": 142.7185,
-      "grossAmount": 150.23000000000002,
-      "taxAmount": 7.511500000000002,
-      "reportCount": 1,
-      "dateConsolidated": "2026-04-28T14:14:12.861Z",
-      "calculationMode": "oficial_from_reports"
-    }
-  ],
+  "consolidated": [],
   "interruptions": [],
   "consolidatedMonths": [
     {
-      "id": "1777385311180",
+      "id": "1777913391474",
       "month": "2026-04",
       "accumulated": {
-        "informativos": 1699,
-        "boletines": 381,
-        "publicidad": 484,
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
         "educativos": 0,
-        "orientacion": 3804,
-        "cienciaTecnica": 78,
-        "variados": 2323,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
         "historicosGrabado": 52,
         "variadoInfantilGrabado": 52,
         "dramatizados": 0,
-        "literaturaArte": 1157,
-        "musicales": 2930,
+        "literaturaArte": 1286,
+        "musicales": 3104,
         "deportivos": 0,
         "reposiciones": 0,
-        "total": 12960
+        "total": 14400
       },
       "interruptions": {
         "informativos": 0,
@@ -4294,8 +4243,8 @@
         "orientacion": 0,
         "cienciaTecnica": 0,
         "variados": 0,
-        "variadoInfantilGrabado": 0,
         "historicosGrabado": 0,
+        "variadoInfantilGrabado": 0,
         "dramatizados": 0,
         "literaturaArte": 0,
         "musicales": 0,
@@ -4303,8 +4252,8 @@
         "reposiciones": 0,
         "total": 0
       },
-      "totalRealMinutes": 12960,
-      "dateConsolidated": "2026-04-28T14:08:31.180Z",
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-04T16:49:51.474Z",
       "interruptionDetails": []
     }
   ],
@@ -4312,19 +4261,11 @@
     {
       "username": "admin",
       "exclusions": []
-    },
-    {
-      "username": "lissell",
-      "exclusions": []
     }
   ],
   "habitualModes": [
     {
       "username": "admin",
-      "mode": false
-    },
-    {
-      "username": "lissell",
       "mode": false
     }
   ],
@@ -4481,6 +4422,50 @@
       ]
     }
   },
+  "transmissionInterruptions": [],
+  "transmissionHistorical": [
+    {
+      "id": "1777913391474",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "historicosGrabado": 0,
+        "variadoInfantilGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-04T16:49:51.474Z",
+      "interruptionDetails": []
+    }
+  ],
   "paymentConfigs": {},
   "scripts": {
     "guionbd_data_bdias.json": [
@@ -43457,6 +43442,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo",
           "ideas": "Enaltecimiento de la participación de los bayameses en el desfile por el Primero de Mayo. Alegría y celebraciones en la ciudad.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "Los efectos del bloqueo en la educación cubana: resistencia y creatividad frente a las carencias.",
+          "ideas": "Un directivo del sector educacional en Granma explica cómo las restricciones del bloqueo afectan la adquisición de insumos escolares, piezas de laboratorio y tecnología para las aulas. Se contrasta con los logros del sistema educativo forjado por Fidel, tomando como símbolo a Raúl Ferrer en su natalicio. La sección infantil narra un cuento sobre la solidaridad y el ingenio. \"De la Ciencia y la Técnica\" muestra innovaciones desarrolladas por estudiantes para sustituir importaciones. \"Este mundo nuestro\" presenta sanciones unilaterales contra la educación en otros países. Música de trovadores. Pregunta: ¿Cómo apoyas la educación desde tu comunidad?\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "Las campañas de vacunación en Cuba: un pilar de la salud pública que garantiza el bienestar.",
+          "ideas": "Un epidemiólogo del MINSAP explica la historia, logros y retos actuales del Programa Nacional de Inmunización, destacando las vacunas de producción nacional y cómo el bloqueo afecta la adquisición de insumos. La sección infantil aborda la importancia de vacunarse con un cuento didáctico. \"De la Ciencia y la Técnica\" detalla cómo se desarrollan las vacunas cubanas (Soberana, Abdala). \"Este mundo nuestro\" compara coberturas de vacunación en distintos países. \"Un día como hoy\" recuerda el natalicio de Karl Marx. Música alegre y educativa. Pregunta: ¿Confías en el sistema de vacunación cubano?\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "La transición energética en Cuba ante la instalación de parques solares fotovoltaicos: un entorno más sano para las comunidades.",
+          "ideas": "A propósito de los nuevos parques fotovoltaicos que se instalan en el país, un especialista de la Unión Eléctrica explica cómo la energía solar contribuye a la soberanía energética y reduce la dependencia de combustibles fósiles. La sección infantil dibuja un sol y aprende sobre sus beneficios. \"De la Ciencia y la Técnica\" detalla el funcionamiento de los paneles solares. \"Este mundo nuestro\" presenta experiencias de transición energética en otros países. Un psicólogo comunitario explica cómo un entorno más estable energéticamente reduce el estrés social, factor de riesgo de adicciones. Música luminosa. Pregunta: ¿Cómo ahorras electricidad en casa?\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Biodiversidad en Bayamo: el patrimonio natural que debemos conservar.",
+          "ideas": "Un especialista del CITMA explica la riqueza de flora y fauna de la cuenca del río Bayamo y los ecosistemas cercanos, con énfasis en las especies endémicas y su importancia para el equilibrio ecológico. La sección infantil presenta un cuento sobre un animalito cubano en peligro. \"De la Ciencia y la Técnica\" detalla proyectos locales de conservación. \"Este mundo nuestro\" muestra ejemplos de santuarios naturales en otros países. \"Un día como hoy\" recuerda la creación del Conjunto Folclórico Nacional. Música con sonidos de la naturaleza. Pregunta: ¿Qué haces para proteger la flora y fauna de tu entorno?\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "El son cubano: ritmo de identidad y resistencia.",
+          "ideas": "Programa especial dedicado al Día del Son Cubano. Un musicólogo desmenuza los orígenes del género en el oriente de Cuba, su evolución y su papel en la banda sonora de la cubanía. Se recuerda a Miguel Matamoros en su natalicio (8 de mayo de 1894). La sección infantil enseña a los niños los instrumentos del son (clave, marímbula, bongó). \"Este mundo nuestro\" explora cómo el son ha conquistado las salas de baile del mundo. Música de Matamoros, el Trío y el Septeto Nacional. Pregunta: ¿Cuál es el son que más bailas?\n"
         }
       }
     },
@@ -43784,6 +43789,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo: El valor del trabajo doméstico no remunerado y su reconocimiento en la familia.",
           "ideas": "En el Día de los Trabajadores, el programa visibiliza el trabajo en el hogar. \"Y algo más\" conversa con una especialista en estudios de género sobre la importancia de reconocer y redistribuir las tareas del cuidado. \"Sin fórmulas mágicas\" propone un menú sencillo para que quien cocina habitualmente descanse. Testimonio de una familia donde todos colaboran por igual. \"Lo bello también se lleva por fuera\" sugiere hacer tarjetas de agradecimiento para las abuelas y madres que sostienen el hogar. \"Prospecto radial\" habla del impacto del estrés doméstico en la salud. Tono de justicia y reconocimiento.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "Cómo ayudar a los hijos con los deberes escolares sin desesperar.",
+          "ideas": "\"Y algo más\" recibe a una pedagoga que ofrece consejos prácticos: establecer un horario fijo, crear un espacio de estudio, mantener la calma y elogiar los logros. \"Sin fórmulas mágicas\" sugiere una merienda nutritiva para la hora de estudio. \"Prospecto radial\" habla sobre vitaminas y minerales que favorecen la concentración. \"Lo bello también se lleva por fuera\" enseña a organizar un rincón de estudio atractivo con materiales reciclados. Testimonio de una madre que superó las dificultades. Música instrumental suave. Mensaje final: la educación es una tarea compartida entre la escuela y el hogar.\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "Alimentos de la manigua que hoy podemos incorporar a la dieta familiar.",
+          "ideas": "\"Sin fórmulas mágicas\" invita a una cocinera tradicional, quien enseña a preparar platos que alimentaron a los mambises, adaptándolos a los recursos actuales. \"Prospecto radial\" explica el valor nutricional de la yuca, el boniato y la carne salada. \"Y algo más\" conversa con una familia que ha rescatado estas recetas en su cocina diaria. \"Lo bello también se lleva por fuera\" sugiere presentar estos platos de forma atractiva. Música campesina de fondo. Mensaje: la tradición alimentaria es también soberanía.\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "La música y el arte en familia como herramientas de prevención.",
+          "ideas": "\"Y algo más\" conversa con una psicóloga infantil, quien recomienda actividades artísticas compartidas para fortalecer los vínculos y reducir el riesgo de que los adolescentes busquen evasiones peligrosas. \"Sin fórmulas mágicas\" propone una merienda sencilla para acompañar una tarde de música en familia. \"Prospecto radial\" menciona el efecto positivo de la música en el cerebro. \"Lo bello también se lleva por fuera\" enseña a fabricar instrumentos caseros con materiales reciclados. Testimonios de padres que sembraron el gusto por el arte en sus hijos. Música suave de fondo.\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Hogar sostenible: pequeños cambios para reducir la huella ecológica familiar.",
+          "ideas": "\"Y algo más\" recibe a una especialista en gestión ambiental, quien ofrece consejos prácticos: reducir el consumo de plásticos de un solo uso, ahorrar agua y electricidad, reutilizar envases, compostar residuos orgánicos. \"Sin fórmulas mágicas\" enseña una receta con productos locales de temporada. \"Lo bello también se lleva por fuera\" muestra cómo hacer ecoladrillos y macetas recicladas. \"Prospecto radial\" menciona los beneficios de usar productos de limpieza naturales. Testimonio de una familia que ha adoptado hábitos verdes. Música con sonidos de la naturaleza.\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "Atención y bienestar del adulto mayor en el hogar: cuidados esenciales para una vida plena.",
+          "ideas": "\"Prospecto radial\" repasa los medicamentos básicos para dolencias comunes en la tercera edad bajo supervisión médica. \"Sin fórmulas mágicas\" ofrece recetas de fácil masticación y altas en nutrientes para los abuelos. \"Y algo más\" dialoga con un geriatra sobre la importancia de la estimulación cognitiva, el ejercicio físico suave, la hidratación y el acompañamiento emocional. \"Lo bello también se lleva por fuera\" habla del cuidado de la piel madura con productos naturales como el aloe vera. Testimonio de una cuidadora familiar. Música instrumental suave. Tono respetuoso, práctico y afectuoso.\n"
         }
       }
     },
@@ -44147,6 +44172,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo: Masiva celebración en la plaza de Bayamo.",
           "ideas": "Cobertura en vivo del ambiente festivo y combativo del desfile y acto central por el Día Internacional de los Trabajadores. Entrevistas a trabajadores de diversos sectores, dirigentes sindicales y jóvenes que participan. Lectura del mensaje de la CTC. Segunda nota: reportaje sobre los trabajadores que cumplen guardia este día en hospitales, centrales eléctricas y otros servicios vitales. Tercera nota: reconocimiento a colectivos laborales destacados en la producción de alimentos y servicios. Cierre con la música de la fiesta obrera.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "Resumen de las actividades del fin de semana en Bayamo y previsiones para la semana.",
+          "ideas": "Balance informativo de los principales acontecimientos del sábado 2 y domingo 3 de mayo: actividades por el Día Internacional de los Trabajadores, eventos culturales, deportivos y situación del orden interior. Segunda nota: agenda de actividades previstas para esta semana, incluyendo los preparativos para el Día de las Madres. Tercera nota: reportaje sobre las acciones de prevención del mosquito Aedes aegypti con la llegada de las lluvias primaverales. Cierre con el estado del tiempo.\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "Avances de la campaña de primavera en la agricultura bayamesa y seguimiento a la preparación del Día de las Madres.",
+          "ideas": "Reportaje desde una cooperativa sobre el inicio de las siembras de primavera, con testimonios de campesinos y datos de hectáreas planificadas. Entrevista al delegado de la Agricultura sobre las perspectivas de cosecha. Segunda nota: preparativos en las comunidades para celebrar el Día de las Madres el próximo domingo. Tercera nota: campaña de prevención del dengue con la llegada de las lluvias. Cierre con la información deportiva y el estado del tiempo.\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "Jornadas de prevención de adicciones en comunidades y centros escolares de Bayamo.",
+          "ideas": "Reportaje sobre las actividades del Centro Comunitario de Salud Mental y los CDR en barrios y escuelas, con charlas, pesquisas y acompañamiento a familias. Entrevista a un psicólogo y a un líder comunitario sobre el impacto de estas acciones. Segunda nota: seguimiento a los preparativos para el Día de las Madres en los círculos infantiles. Tercera nota: convocatoria a la feria de emprendimientos femeninos para el fin de semana. Cierre con la cartelera deportiva y el pronóstico del tiempo.\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Acciones de reforestación y saneamiento ambiental en el municipio de Bayamo.",
+          "ideas": "Reportaje sobre la siembra de árboles en áreas degradadas del municipio como parte de las actividades de la Tarea Vida. Entrevista a un especialista del CITMA sobre los proyectos de recuperación de la franja hidrorreguladora del río Bayamo. Segunda nota: campaña de saneamiento en barrios para eliminar microvertederos. Tercera nota: preparativos para la celebración del Día de las Madres, con ferias de artesanías. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "Actos por el Día del Son Cubano en Bayamo y homenaje a Guiteras.",
+          "ideas": "Reportaje sobre la gran descarga sonera en el parque central con la participación de agrupaciones locales. Entrevista al director de la Casa de la Trova sobre la importancia de preservar el son. Segunda nota: crónica del acto en el sitio donde cayó Guiteras, con enlace telefónico. Tercera nota: anuncio de las ofertas especiales para el Día de las Madres en los mercados y ferias. Cierre con la información deportiva y el estado del tiempo.\n"
         }
       }
     },
@@ -44474,6 +44519,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo: El teatro y el cine cubanos retratando la vida del trabajador.",
           "ideas": "Viernes de artes escénicas. Un crítico teatral analiza obras que han llevado a escena la vida de los obreros y campesinos cubanos. Se describen fragmentos sonoros de representaciones. \"En taquilla\" promociona la presentación de una obra de teatro comunitario en un barrio de Bayamo. \"Juego de espejos\" reflexiona sobre cómo el arte refleja las luchas y aspiraciones de la clase trabajadora. Música de fondo con sones y canciones de trabajo. Invitado: un director de teatro local que ha montado piezas de temática social.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "La Campaña de Alfabetización en el cine documental cubano.",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine analiza producciones que registraron la gesta alfabetizadora, como documentales del ICAIC. Se describen fragmentos sonoros de aquellos materiales. \"En taquilla\" promociona la proyección de un documental sobre la educación en zonas rurales. \"Juego de espejos\" reflexiona sobre el valor del audiovisual como memoria pedagógica. Invitado: un realizador local que ha trabajado temas educativos. Música de banda sonora de aquellos documentales. \"Página suelta\" convoca a estudiantes de comunicación a realizar cortos sobre su escuela.\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "El campesino cubano en la pintura: de la manigua al surco.",
+          "ideas": "Martes de artes plásticas. Un crítico analiza cómo pintores como Armando Menocal, Leopoldo Romañach y artistas contemporáneos han representado al campesino, su entorno y su relación con la tierra. Se describen obras emblemáticas. \"En taquilla\" promociona una exposición de arte agrícola en la Galería de Bayamo. \"Juego de espejos\" reflexiona sobre la vigencia de la iconografía campesina. Invitado: un pintor local que se inspira en el paisaje rural. Música de punto cubano.\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "Literatura como refugio: cómo la lectura puede ayudar en la prevención de adicciones.",
+          "ideas": "Miércoles de literatura. Un psicólogo y un escritor local dialogan sobre el poder terapéutico de la lectura, presentando libros de autoayuda y novelas que abordan la superación de adicciones. Se leen fragmentos de obras de autores cubanos que han tocado el tema. \"Juego de espejos\" analiza el papel de la narrativa en la construcción de resiliencia. \"En taquilla\" promociona un taller de escritura creativa para jóvenes en la Biblioteca Provincial. \"Página suelta\" invita a enviar microrrelatos sobre segundas oportunidades. Música de trova introspectiva.\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Teatro cubano: obras emblemáticas que retratan la familia y la identidad.",
+          "ideas": "Jueves es de artes escénicas. Un crítico teatral analiza montajes del repertorio nacional que han abordado las dinámicas familiares, los conflictos generacionales y la identidad cubana. Se describen fragmentos sonoros de representaciones. \"En taquilla\" promociona una obra de un grupo local. \"Juego de espejos\" reflexiona sobre cómo el teatro refleja y transforma la realidad social. Invitado: un director de teatro comunitario que trabaja con jóvenes. Música de fondo con sones cubanos.\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "El complejo genérico del danzón: una mirada al danzón, el cha cha chá, el mambo y el danzonete.",
+          "ideas": "Jueves de música (cambiado al viernes por intercambio). Un musicólogo desglosa las características de cada género que integra esta familia musical, desde el danzón clásico hasta el danzonete. Se reproducen fragmentos emblemáticos de obras como \"Alturas de Simpson\", \"La engañadora\" y \"Rico vacilón\". \"En taquilla\" promociona una peña bailable en la Casa de la Trova. Invitado: un director de orquesta de baile local que interpreta estos géneros. \"Juego de espejos\" analiza la influencia de estos ritmos en la música latina contemporánea.\n"
         }
       }
     },
@@ -44801,6 +44866,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo: Ser joven y trabajador hoy en Cuba: derechos, deberes y participación sindical.",
           "ideas": "\"Parada de Ciencia y Técnica\" aborda la automatización y el futuro del empleo juvenil. La conductora entrevista a jóvenes delegados sindicales y trabajadores de diferentes sectores (estatal y privado). Conversan sobre las condiciones laborales, el salario, la capacitación y cómo los jóvenes pueden hacer valer sus derechos a través del sindicato. Un representante de la UJC explica los programas de inserción laboral juvenil. \"Curiosidades\" muestra datos sobre la ocupación de los jóvenes en Granma. Música con letras de contenido social. Tono realista y alentador, destacando el papel de la juventud en la economía.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "Jóvenes que eligen enseñar: motivaciones y desafíos del magisterio en Granma.",
+          "ideas": "\"Parada de película\" recomienda un filme sobre un maestro rural. La conductora entrevista a dos egresados recientes de la Escuela Pedagógica que trabajan en escuelas de Bayamo. Cuentan por qué eligieron la carrera, cómo es su día a día y qué los motiva a seguir. Un pedagogo comenta los programas de estímulo a los docentes noveles. \"Curiosidades\" muestra datos sobre la matrícula en carreras pedagógicas. Segmento interactivo con mensajes de alumnos. Música de trovadores como Silvio Rodríguez. Tono inspirador.\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "Cuidado y protección de los animales: una responsabilidad creciente entre nuevos propietarios.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica los beneficios emocionales y sociales de tener una mascota. Un veterinario local orienta sobre tenencia responsable: vacunación, desparasitación, alimentación adecuada y esterilización. Un rescatista independiente cuenta su experiencia con animales abandonados y cómo otros pueden sumarse a la protección animal en Bayamo. \"Curiosidades\" presenta la relación histórica del cubano con sus animales domésticos. Segmento interactivo con fotos de mascotas enviadas por los oyentes. Música con sonidos de la naturaleza. Tono empático y formativo.\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "Música, bares y diversión sana: cómo disfrutar la noche sin caer en excesos.",
+          "ideas": "\"Parada Cultural\" presenta la cartelera de música en vivo en Bayamo (peñas, conciertos), destacando espacios que promueven el ocio saludable. Un joven músico local cuenta cómo se divierte sin necesidad de alcohol ni drogas. \"Curiosidades\" ofrece datos sobre el consumo responsable y el concepto de \"abstemio activo\". Un psicólogo explica cómo reconocer cuándo el ambiente de fiesta se vuelve riesgoso. Segmento interactivo donde los oyentes recomiendan sus lugares favoritos. Música de bandas locales. Tono positivo y desprejuiciado.\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Pareja joven y convivencia con los suegros: cómo poner límites sin llegar al conflicto.",
+          "ideas": "Un psicólogo especializado en terapia de pareja ofrece consejos prácticos para negociar espacios, tiempos y roles cuando se convive con la familia extendida, especialmente los suegros, en un contexto de limitaciones de vivienda. \"Curiosidades\" presenta datos sobre las nuevas estructuras familiares en Cuba. Se comparten testimonios anónimos de jóvenes que han logrado una convivencia armónica. \"Parada de película\" recomienda una comedia que aborda el tema. Segmento interactivo con mensajes de los oyentes. Tono cercano, realista y con sentido del humor.\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "Nuevos soneros en Bayamo: una generación que mantiene vivo el género.",
+          "ideas": "\"Parada Cultural\" presenta a músicos jóvenes de Bayamo que integran agrupaciones de son o que fusionan el género con ritmos contemporáneos. Uno de ellos cuenta cómo se enamoró del son a pesar de la avalancha de modas foráneas. Un experimentado sonero local oficia de mentor y habla del relevo generacional. \"Curiosidades\" revela datos sobre la influencia del son en géneros modernos como la salsa y el reggaetón. Segmento interactivo con peticiones de oyentes. Música de son y fusiones. Tono de orgullo y frescura.\n"
         }
       }
     },
@@ -45128,6 +45213,26 @@
         "Abril-semana-5-Viernes": {
           "theme": "Especial por el Primero de Mayo: Manejo del estrés laboral para no llevarlo al hogar.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga del Centro Comunitario de Salud Mental explica qué es el estrés laboral, sus síntomas y cómo diferenciarlo del cansancio normal. Ofrece estrategias para desconectar al llegar a casa, establecer límites con jefes y compañeros, y practicar la respiración consciente. \"Historias cotidianas\" narra el caso de un trabajador que aprendió a gestionar su ansiedad. \"¿Y qué tú crees?\" recoge opiniones de la calle sobre qué los estresa en el trabajo. \"De todo un poco\" recomienda ejercicios de estiramiento para hacer en la oficina. Música relajante. Tono empático y práctico.\n"
+        },
+        "Mayo-semana-1-Lunes": {
+          "theme": "Infecciones de transmisión sexual más frecuentes: clamidia y gonorrea.",
+          "ideas": "Lunes es de sexualidad. Juana comenta el caso de una vecina preocupada por su hija adolescente. \"El que sabe, sabe\" presenta a un infectólogo del policlínico, quien explica los síntomas, formas de contagio, tratamiento y prevención de clamidia y gonorrea. Destaca la importancia del uso del condón y de las pruebas periódicas. \"Historias cotidianas\" recoge el testimonio anónimo de una joven que superó una ITS. \"¿Y qué tú crees?\" recoge mitos callejeros. \"De todo un poco\" informa sobre los servicios de consejería en Bayamo. Tono claro y sin alarmismo.\n"
+        },
+        "Mayo-semana-1-Martes": {
+          "theme": "Derechos y deberes de los usufructuarios de tierras en Cuba.",
+          "ideas": "Martes es día jurídico. Juana presenta el caso de un vecino que tiene dudas sobre su contrato de usufructo. \"El que sabe, sabe\" entrevista a un abogado especializado en derecho agrario, quien explica qué es el usufructo, los tipos de contrato, las obligaciones del productor y los mecanismos para resolver conflictos legales. \"Versiones encontradas\" debate sobre las trabas burocráticas. \"Polémica en las redes\" muestra opiniones encontradas. Se responden preguntas de los oyentes sobre trámites en la Delegación de la Agricultura. Tono claro y orientador.\n"
+        },
+        "Mayo-semana-1-Miércoles": {
+          "theme": "Testimonios de vida: personas que encontraron en el arte una salida a las adicciones.",
+          "ideas": "Miércoles es variado. Juana presenta la historia de un invitado anónimo que superó una adicción gracias a su ingreso a un taller de teatro comunitario. \"Historias cotidianas\" narra su proceso. \"El que sabe, sabe\" entrevista a un arteterapeuta que explica cómo la expresión artística ayuda a canalizar emociones y sanar heridas. \"¿Y qué tú crees?\" recoge opiniones sobre si el arte realmente puede transformar vidas. \"De todo un poco\" informa sobre los talleres culturales gratuitos en las Casas de Cultura de Bayamo. Tono esperanzador y empático.\n"
+        },
+        "Mayo-semana-1-Jueves": {
+          "theme": "Desarrollo local sostenible en Bayamo: proyectos de economía circular y empleo verde.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Juana entrevista a un funcionario del Consejo de la Administración Municipal y a un emprendedor de una mini-industria de reciclaje. Explican cómo encajan estos proyectos en la Estrategia de Desarrollo Municipal, alineada con la Tarea Vida. \"Entérate, vecino\" informa sobre los puntos de acopio de materias primas. \"Versiones encontradas\" debate sobre las dificultades para implementar la economía circular. \"De todo un poco\" orienta sobre cómo la ciudadanía puede contribuir. Tono propositivo.\n"
+        },
+        "Mayo-semana-1-Viernes": {
+          "theme": "Defensa de nuestras tradiciones musicales en los espacios públicos.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana invita a un trovador local y a un promotor cultural. Conversan sobre la importancia de preservar el son, la trova y otros géneros tradicionales cubanos en las peñas, plazas y festividades, frente a tendencias musicales globalizantes. \"Historias cotidianas\" recuerda cuando en los barrios se cantaba en familia. \"¿Y qué tú crees?\" pregunta a los oyentes si prefieren la música tradicional o la moderna en las fiestas populares. \"Polémica en las redes\" debate sobre los espacios que ocupa cada género. Música de son y trova.\n"
         }
       }
     },
@@ -45167,6 +45272,10 @@
         "Abril-semana-5-Sábado": {
           "theme": "Fidel y la clase obrera: el legado de justicia social y unidad revolucionaria.",
           "ideas": "Como extensión de las celebraciones del Primero de Mayo, el programa retoma el análisis del pensamiento de Fidel Castro sobre el papel de los trabajadores. \"Un día como hoy\" recuerda la fundación de Radio Habana Cuba en 1961 y el discurso de Fidel en la Plaza en 2001. Se reproducen fragmentos de sus alocuciones. Un historiador obrero analiza las conquistas laborales bajo su liderazgo. La sección infantil cuenta cómo los pioneros homenajean a los trabajadores. Música de marchas y canciones obreras. Pregunta: ¿Qué enseñanza de Fidel aplicas en tu centro de trabajo? Cierre con un llamado a mantener la unidad y el esfuerzo productivo.\n"
+        },
+        "Mayo-semana-1-Sábado": {
+          "theme": "Celia Sánchez: la heroína de la Sierra y el Llano que impulsó el adelanto de la mujer cubana.",
+          "ideas": "Programa especial en el natalicio 106 de Celia Sánchez. Un historiador y una dirigente de la FMC recorren su vida: su labor clandestina, su papel como organizadora del II Frente Oriental y su trabajo incansable por los círculos infantiles y los derechos de la mujer. Se reproduce un fragmento de una entrevista de archivo (si se conserva). La sección infantil narra un cuento sobre una niña que, como Celia, quiere cambiar el mundo. Música de la época. Pregunta: ¿Qué mujer revolucionaria admiras más?\n"
         }
       }
     },
@@ -45206,6 +45315,10 @@
         "Abril-semana-5-Sábado": {
           "theme": "Actividades culturales del fin de semana y previsiones para la semana entrante.",
           "ideas": "Nota principal: reseña de las actividades realizadas en Bayamo por el Primero de Mayo y continuación de la fiesta obrera durante el fin de semana. Segunda nota: información sobre las actividades por el Día de las Madres que comienzan a prepararse (próximo domingo). Tercera nota: previsiones de eventos para la semana del 4 al 10 de mayo, incluyendo el aniversario de la creación de los Círculos Infantiles (10 de abril ya pasado, pero se mencionan otras efemérides culturales de mayo). Cierre con la información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Mayo-semana-1-Sábado": {
+          "theme": "Acto central en Media Luna por el natalicio de Celia Sánchez y actividades previas al Día de las Madres.",
+          "ideas": "Cobertura del acto de conmemoración en la casa natal de Celia, con entrevista a una combatiente del II Frente. Segunda nota: reconocimiento en Bayamo a trabajadoras destacadas de la salud y la educación. Tercera nota: ambiente en los mercados y centros comerciales por las compras para el Día de las Madres. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n"
         }
       }
     },
@@ -45281,6 +45394,10 @@
         "Abril-semana-5-Sábado": {
           "theme": "\"Solo sí es sí\": el concepto de consentimiento en la intimidad para adolescentes.",
           "ideas": "Programa de orientación psicológica para adolescentes. La psicóloga aborda el tema del consentimiento en las relaciones de pareja, explicando de forma clara y sin tabúes qué significa un \"sí\" y un \"no\", y la importancia de respetar los límites del otro. \"Lo que se comenta\" presenta grabaciones de adolescentes opinando sobre mitos como \"si dice que no es porque se hace la difícil\". Se ofrecen herramientas para comunicar los deseos y para identificar situaciones de presión. \"Sigue conmigo\" guía un ejercicio de reflexión sobre el respeto mutuo. Música suave y respetuosa. Mensaje: tu cuerpo, tu decisión; el respeto es la base.\n"
+        },
+        "Mayo-semana-1-Sábado": {
+          "theme": "Autenticidad y estilo propio: cómo construir una personalidad con originalidad.",
+          "ideas": "\"Lo que se comenta\" recoge voces de adolescentes hablando sobre la presión de seguir modas y tendencias para encajar. La psicóloga explica la diferencia entre inspiración e imitación, y ofrece herramientas para descubrir gustos propios, desde la ropa hasta los hobbies, fortaleciendo la autoestima y la seguridad personal. \"Sigue conmigo\" propone un ejercicio de autoconocimiento. \"Al ritmo de tus días\" presenta a una joven bayamesa con un estilo auténtico (artista, deportista, estudiante) como ejemplo. Música moderna con mensaje de autoaceptación. Tono fresco y positivo.\n"
         }
       }
     },
@@ -45356,6 +45473,10 @@
         "Abril-semana-5-Sábado": {
           "theme": "El son como banda sonora de la clase obrera cubana.",
           "ideas": "\"Sergito Montuno\" conduce un programa especial que conecta el son con el mundo del trabajo. \"¿De dónde son?\" explora sones que narran la vida de los campesinos, los tabaqueros, los pescadores y los obreros fabriles. \"Historias y soneros\" narra anécdotas de agrupaciones que amenizaban las fiestas de los sindicatos. \"Academia del tumbao\" invita a un musicólogo a analizar letras con contenido social. \"Conexión sonera\" presenta una versión moderna de un son dedicado al trabajador. \"Son para bailadores\" cierra con un clásico pedido por un oyente. Investigación rigurosa basada en repertorio real del Septeto Nacional, el Trío Matamoros y otros.\n"
+        },
+        "Mayo-semana-1-Sábado": {
+          "theme": "El son y sus retos futuros: ¿cómo preservar y evolucionar el género?",
+          "ideas": "\"Sergito Montuno\" conversa con un musicólogo y un joven músico sobre los desafíos del son en el siglo XXI. \"¿De dónde son?\" repasa su origen para entender su esencia. \"Historias y soneros\" recuerda adaptaciones exitosas del pasado. \"Academia del tumbao\" analiza los intentos de fusión actuales: ¿se desvirtúa el son o se revitaliza? \"Conexión sonera\" presenta una propuesta experimental de un grupo local que incorpora arreglos modernos. \"Son para bailadores\" cierra con una pieza clásica elegida por un oyente mayor, generando un contraste. Tono reflexivo, sin dogmas.\n"
         }
       }
     },
@@ -45454,6 +45575,10 @@
         "Abril-semana-5-Domingo": {
           "theme": "La educación como pilar de la familia. Crea un árbol genealógico de profesiones en tu familia. Conversa con un maestro jubilado sobre sus vivencias.",
           "ideas": "La conductora abre con la pregunta participativa: ¿Qué maestro o maestra marcó tu vida? Invita a los oyentes a llamar y contar sus anécdotas. En la segunda parte, propone la actividad familiar de elaborar un árbol genealógico donde cada miembro coloque su oficio o profesión, resaltando la presencia de educadores en la familia. En el segmento dedicado a la tercera edad, se entrevista a un maestro jubilado de Bayamo que rememora los inicios de las campañas educativas de la Revolución y cómo ha cambiado la enseñanza. Se intercalan canciones de la Nueva Trova dedicadas al maestro. Música de fondo suave. Mensaje de agradecimiento al magisterio.\n"
+        },
+        "Mayo-semana-1-Domingo": {
+          "theme": "El amor de madre como pilar de la familia. Manualidades para regalar a mamá. Conversación con una madre longeva sobre sus vivencias.",
+          "ideas": "El locutor abre con la pregunta participativa: ¿Qué enseñanza de tu madre aplicas hoy con tus hijos? Invita a los oyentes a compartir anécdotas. Luego, propone una actividad familiar guiada por una artesana local: elaborar una tarjeta personalizada con flores secas y un poema para regalar a mamá. En el segmento de la tercera edad, se entrevista a una madre bayamesa de más de 90 años, quien cuenta cómo crió a sus hijos en tiempos difíciles y qué consejo les da a las madres jóvenes. Se intercalan boleros y canciones dedicadas a las madres. Música de fondo con guitarra. Mensaje de gratitud y ternura.\n"
         }
       }
     },
@@ -45525,6 +45650,10 @@
         "Abril-semana-5-Domingo": {
           "theme": "Canciones infantiles dedicadas a los maestros y la escuela cubana.",
           "ideas": "La actriz-personaje cuenta a los niños la historia de los primeros maestros voluntarios que subieron a las montañas para enseñar a leer y escribir. Se escuchan canciones como \"El maestro rural\" y otras del repertorio infantil cubano. Actividad propuesta: que los niños dibujen a su maestra favorita y escriban una palabra bonita. Música alegre y participativa. Se promueve el respeto y cariño hacia los educadores, destacando que gracias a ellos todos aprendemos. Cierre con un saludo a los maestros.\n"
+        },
+        "Mayo-semana-1-Domingo": {
+          "theme": "Las canciones más lindas para cantarle a mamá en su día.",
+          "ideas": "La actriz-personaje cuenta un cuento sobre una niña que prepara un regalo especial para su mamá. Se escuchan canciones infantiles cubanas dedicadas a las madres, como \"Señora, señora\" y otras de Teresita Fernández y Liuba María Hevia. Actividad: que los niños dibujen a su mamá y digan en voz alta por qué la quieren. Música alegre y tierna. Mensaje: el mejor regalo es el amor y el respeto de los hijos.\n"
         }
       }
     },
@@ -45600,6 +45729,10 @@
         "Abril-semana-5-Domingo": {
           "theme": "La huella de la Campaña de Alfabetización en Bayamo y la Sierra Maestra.",
           "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra cómo se organizó la alfabetización en las zonas montañosas de la antigua provincia de Oriente. Testimonios de bayameses que participaron como alfabetizadores o que aprendieron a leer en aquella gesta. Se destaca el papel de las mujeres y los jóvenes. Música de fondo con himnos de la alfabetización. Reflexión sobre el legado de aquel esfuerzo titánico que convirtió a Cuba en territorio libre de analfabetismo y la vigencia de ese espíritu en la educación actual.\n"
+        },
+        "Mayo-semana-1-Domingo": {
+          "theme": "Madres de la patria: mujeres bayamesas que criaron a los próceres.",
+          "ideas": "Charla histórica con una investigadora del Museo Provincial. Se rescatan las figuras de madres de independentistas como Francisca Borrero (madre de Carlos Manuel de Céspedes) y otras mujeres anónimas que sostuvieron hogares en medio de la guerra. Se leen cartas y documentos que reflejan su amor y sacrificio. Música de fondo con piezas del siglo XIX. Reflexión sobre la maternidad como pilar de la nación y la transmisión de valores patrios en el seno familiar.\n"
         }
       }
     },
@@ -45675,6 +45808,10 @@
         "Abril-semana-5-Domingo": {
           "theme": "Música con mensaje: canciones que educan y forman valores.",
           "ideas": "El conductor presenta un programa especial dedicado a la Nueva Trova y otros géneros cuyas letras contienen un fuerte mensaje educativo y social. Se reproducen temas de Silvio Rodríguez (\"El maestro\"), Pablo Milanés, Sara González y trovadores bayameses contemporáneos. \"Mano a Mano\" compara una canción clásica de la trova con un tema de rap consciente actual. \"Mucho Flow\" presenta a un joven rapero local que compone sobre la importancia del estudio. \"De Bayamo para el Mundo\" entrevista a un educador musical que utiliza la música como herramienta pedagógica. Ambiente de celebración del conocimiento.\n"
+        },
+        "Mayo-semana-1-Domingo": {
+          "theme": "Música para mamá: dedicatorias y canciones que llegan al corazón.",
+          "ideas": "El conductor habilita las líneas para que los oyentes dediquen canciones a sus madres. Suena una selección de boleros, baladas y sones cubanos con letras dedicadas a la madre. \"Dial sonero\" presenta un son tradicional maternal. \"Estación Mundial\" incluye una canción internacional dedicada a las madres. \"Mano a Mano\" enfrenta dos versiones de un mismo tema materno. \"Mucho Flow\" incluye un rap con mensaje de agradecimiento a la figura materna. Ambiente emotivo y familiar, ideal para la mañana del domingo.\n"
         }
       }
     },
@@ -45750,6 +45887,10 @@
         "Abril-semana-5-Domingo": {
           "theme": "Guía de la programación cultural de mayo en Bayamo.",
           "ideas": "Primer domingo de mes, por lo que el programa se dedica a orientar a la audiencia sobre la agenda cultural de mayo. La conductora y \"Carmita Bravo\" presentan un panorama general de las actividades previstas (sin inventar fechas ni eventos específicos inexistentes): exposiciones de artes plásticas en galerías locales, conciertos por el Día de las Madres, peñas habituales en la Casa de la Trova, funciones de teatro en el Teatro Principal, y las jornadas por el Día Internacional de los Museos (18 de mayo). \"Asiento reservado\" ofrece recomendaciones de un crítico. \"Legado bayamés\" recuerda a figuras de la cultura local nacidas en mayo. Tono promocional, invitando al disfrute del arte en la ciudad."
+        },
+        "Mayo-semana-1-Domingo": {
+          "theme": "La maternidad en el arte cubano: pintura, literatura y cine.",
+          "ideas": "La conductora y \"Carmita Bravo\" recorren las representaciones de la madre en la cultura cubana. Se analiza brevemente el poema \"La madre\" de Nicolás Guillén, la imagen materna en la obra de pintores como Servando Cabrera, y fragmentos sonoros de películas como \"Retrato de Teresa\". \"Agenda cultural\" informa sobre las exposiciones y conciertos de la semana entrante. \"Asiento reservado\" ofrece la crítica de una especialista en arte. \"Legado bayamés\" recuerda a una madre ilustre de la ciudad. Tono de homenaje y reconocimiento."
         }
       }
     }
@@ -50403,7 +50544,14 @@
     "Abril-semana-5-Jueves": "Soberanía Alimentaria – En el contexto del Día Internacional del Jazz y las celebraciones previas al Primero de Mayo.",
     "Abril-semana-5-Viernes": "Legado de Fidel Castro – Día Internacional de los Trabajadores.",
     "Abril-semana-5-Sábado": "Cultura y Memoria – Continuación de las celebraciones por el Primero de Mayo.",
-    "Abril-semana-5-Domingo": "Educación y Revolución – Aniversario de la llegada de los primeros maestros voluntarios a la Sierra Maestra (1960)."
+    "Abril-semana-5-Domingo": "Educación y Revolución – Aniversario de la llegada de los primeros maestros voluntarios a la Sierra Maestra (1960).",
+    "Mayo-semana-1-Lunes": "Legado de Fidel Castro – Natalicio del pedagogo y poeta Raúl Ferrer Pérez (1915).",
+    "Mayo-semana-1-Martes": "Soberanía Alimentaria – En el contexto del Día del Campesino Cubano (17 de mayo, se adelantan temas).",
+    "Mayo-semana-1-Miércoles": "Lucha contra las Drogas – La construcción de un entorno social saludable para prevenir las adicciones.",
+    "Mayo-semana-1-Jueves": "Tarea Vida (Medio Ambiente) – En el contexto de la protección de la diversidad biológica.",
+    "Mayo-semana-1-Viernes": "Cultura e Identidad – Día del Son Cubano y aniversario del asesinato de Antonio Guiteras (1935).",
+    "Mayo-semana-1-Sábado": "Adelanto de las Mujeres – Natalicio de Celia Sánchez Manduley (1920).",
+    "Mayo-semana-1-Domingo": "Celebración del Día de las Madres."
   },
   "agendaUsers": [
     {
@@ -50483,8 +50631,12 @@
       "name": "Leipzig del Carmen Vázquez García",
       "mobile": "58401306",
       "password": "RadioCiudad1426",
-      "role": "worker",
-      "classification": "Usuario"
+      "role": "coordinator",
+      "classification": "Coordinador",
+      "coordinatorSections": [
+        "Gestión"
+      ],
+      "tools": []
     },
     {
       "id": "beatrizgonzalez",
@@ -50502,7 +50654,12 @@
       "mobile": "56540207",
       "password": "RadioCiudad1126",
       "role": "coordinator",
-      "classification": "Coordinador"
+      "classification": "Coordinador",
+      "coordinatorSections": [
+        "Gestión",
+        "Programación"
+      ],
+      "tools": []
     },
     {
       "id": "jorge",
@@ -50741,1005 +50898,7 @@
       "075 Mencion Jose Marti|D:\\MemRosy\\PROP(075) Mencion Jose Marti.mp3"
     ]
   },
-  "agendaCulturalOptions": {
-    "Abril": [
-      {
-        "day": 13,
-        "activities": [
-          {
-            "actividad": "Taller del proyecto NO MÁS sobre la prevención de la violencia contra la mujer en Cuba (UNEAC)",
-            "hora": "8:30 AM",
-            "lugar": "Casa de orientación a la mujer y la familia. Jesús Menéndez"
-          },
-          {
-            "actividad": "Muestra circulante Libertad ante todo (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:00 AM",
-            "lugar": "Círculo Infantil Pedro Pompa. Bayamo"
-          },
-          {
-            "actividad": "Proyección de filmes cubanos Conducta, El joven rebelde y El brigadista (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Salas cinematográficas disponibles"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Aviones 2. Equipo al rescate (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cine Céspedes. Bayamo"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Frozen 1 (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Moana en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Hospital Infantil Hermanos Cordové. Manzanillo"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          },
-          {
-            "actividad": "Proyección de la serie Ni una más (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Sala 3D Boulevard Los Capuchinos y Sala Sara Gómez. Multisala Cinema"
-          }
-        ]
-      },
-      {
-        "day": 14,
-        "activities": [
-          {
-            "actividad": "Taller del proyecto NO MÁS sobre la prevención de la violencia contra la mujer en Cuba (UNEAC)",
-            "hora": "8:30 AM",
-            "lugar": "Casa de orientación a la mujer y la familia. Jesús Menéndez"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Balto. La leyenda del perro esquimal (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cines cabeceras y Cine Céspedes"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Moana (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Frozen en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Exposición Ciudad en capas. Patrimonio y cultura (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:00 AM",
-            "lugar": "Centro Cultural Armando Hart"
-          },
-          {
-            "actividad": "Evento Ciudad en capas: Historias y cultura (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:30 AM",
-            "lugar": "Centro Cultural Armando Hart"
-          },
-          {
-            "actividad": "Conferencia Céspedes y el despertar de la nación cubana (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Visita dirigida a la exposición (Centro Provincial de Artes Visuales)",
-            "hora": "10:00 AM",
-            "lugar": "Galería de Artes Visuales"
-          },
-          {
-            "actividad": "Proyección de filmes cubanos Conducta, El joven rebelde y El brigadista (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Salas cinematográficas disponibles"
-          }
-        ]
-      },
-      {
-        "day": 15,
-        "activities": [
-          {
-            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
-            "hora": "9:00 AM a 4:00 PM",
-            "lugar": "Plaza del Himno (Plaza de la Revolución)"
-          },
-          {
-            "actividad": "Cápsula promocional por el aniversario 270 del natalicio de Manuel del Socorro (Oficina del Historiador de la Ciudad de Bayamo)",
-            "hora": "9:00 AM",
-            "lugar": "Redes Sociales"
-          },
-          {
-            "actividad": "Activación de la Guerrilla 50 Aniversario (Centro Provincial de Casas de Cultura)",
-            "hora": "9:00 AM",
-            "lugar": "Reparto Latinoamericano. Bayamo"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme David. Una aventura gigante (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cines cabeceras y Cine Céspedes"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Anastasia (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Enredados en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Conferencia Los monumentos y sitios relacionados con Fidel Castro Ruz (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Parque Museo Ñico López"
-          },
-          {
-            "actividad": "Visita a la sede de Teatro Andante (AHS)",
-            "hora": "10:00 AM",
-            "lugar": "Casa Verde del Teatro"
-          },
-          {
-            "actividad": "Espacio fijo Libro Debate. Desarrollo de los procesos inversionistas en Granma. Logros y cadencias (Casa de la Nacionalidad Cubana)",
-            "hora": "10:00 AM",
-            "lugar": "Casa de la Nacionalidad Cubana"
-          },
-          {
-            "actividad": "Recital de poesías. Anfitrión: Jorge Felipe Santos Véliz (Centro Provincial del Libro)",
-            "hora": "10:00 AM",
-            "lugar": "Parque Infantil. Guisa"
-          },
-          {
-            "actividad": "Inauguración de la feria infantil El Trompo (Fondo Cubano de Bienes Culturales)",
-            "hora": "10:00 AM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Espacio fijo artístico cultural de la especialidad de Danza (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "11:00 AM",
-            "lugar": "Lobby de Danza de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Conversatorio sobre prevención de drogas y género (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "11:00 AM",
-            "lugar": "Lobby de Nivel Medio de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          },
-          {
-            "actividad": "Noche de estreno. Proyección del filme The housemaid (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
-          },
-          {
-            "actividad": "Actividad Comunitaria Integradora. Pintando en mi barrio (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Biblioteca Provincial 1868, Centro Provincial del Libro, Centro Provincial de la Música)",
-            "hora": "5:00 PM",
-            "lugar": "Callejón Hechavarría % Mártires y Milanés. Francisco Vicente Aguilera. Bayamo"
-          }
-        ]
-      },
-      {
-        "day": 16,
-        "activities": [
-          {
-            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
-            "hora": "9:00 AM a 4:00 PM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Premiación del concurso infantil Pintando mis monumentos (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:00 AM",
-            "lugar": "Museo de Arqueología. Bayamo"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Zootopia (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cines cabeceras y Cine Céspedes"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme La novia cadáver (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Grandes héroes en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Proyección del documental Estirpe de libertad (AHS)",
-            "hora": "10:00 AM",
-            "lugar": "Cinema Café"
-          },
-          {
-            "actividad": "Presentación de Teatro de Ilusiones Libre con la obra Riendo con TIL (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Sede La casa de las historias. Siboney. Bayamo"
-          },
-          {
-            "actividad": "Conversatorio Memoria a Girón con el historiador José Antonio Matilla Vázquez (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Teatro Manzanillo"
-          },
-          {
-            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Comunidad La Vuelta. Manzanillo"
-          },
-          {
-            "actividad": "Espacio Diálogos con Hart (Sociedad Cultural José Martí)",
-            "hora": "10:00 AM",
-            "lugar": "Centro Cultural Armando Hart"
-          },
-          {
-            "actividad": "Conferencia sobre el discurso Palabras a los intelectuales a los 65 años de pronunciado (UNEAC)",
-            "hora": "10:00 AM",
-            "lugar": "Galería Dos Columnas. UNEAC"
-          },
-          {
-            "actividad": "Biblioteca del barrio (Biblioteca Provincial 1868)",
-            "hora": "10:00 AM",
-            "lugar": "Carretera de Manzanillo / 2 y 6. Rpto Latinoamericano"
-          },
-          {
-            "actividad": "Proyecto Acento. Anfitriones: Luis Carlos Suárez Reyes, Lucía Esther Muñoz Maceo, Gabriel Suárez Muñoz (Centro Provincial del Libro)",
-            "hora": "4:00 PM",
-            "lugar": "Sede del Proyecto Acento. Camilo Cienfuegos. Bayamo"
-          },
-          {
-            "actividad": "Noche de Cinemateca. Proyección del filme Genio y figura (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
-          },
-          {
-            "actividad": "Espacio Grandes Clásicos (UNEAC)",
-            "hora": "6:00 PM",
-            "lugar": "Galería Dos Columnas. UNEAC"
-          }
-        ]
-      },
-      {
-        "day": 17,
-        "activities": [
-          {
-            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
-            "hora": "9:00 AM a 4:00 PM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Matutino Especial (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "8:00 AM",
-            "lugar": "Plaza de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Zootopia 2 (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cines cabeceras y Cine Céspedes"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme El aprendiz de brujo (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Croods en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Presentación del boletín El Avisador Cespediano (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:00 AM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Presentación del libro Carlos Manuel de Céspedes: Los sentidos de la libertad (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:30 AM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Presentación del expediente como propuesta a Premio Nacional de Conservación del Monumento Nacional Comandancia General de La Plata (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:30 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          },
-          {
-            "actividad": "Actividad Comunitaria Integradora. Entre cuentos y colores (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Biblioteca Provincial 1868, Centro Provincial del Libro, UNEAC, Centro Provincial de la Música)",
-            "hora": "5:00 PM",
-            "lugar": "Calle 19 % 44 y 42. Rosa La Bayamesa. Bayamo"
-          },
-          {
-            "actividad": "Espacio La Mochila para estudiantes de la FEEM (EGREM)",
-            "hora": "6:00 PM a 9:00 PM",
-            "lugar": "Salón del Bayam"
-          }
-        ]
-      },
-      {
-        "day": 18,
-        "activities": [
-          {
-            "actividad": "Feria Infantil El Trompo (Fondo Cubano de Bienes Culturales)",
-            "hora": "9:00 AM a 4:00 PM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Ceremonia de las banderas. Colocación de ofrendas florales y acto político cultural (Dirección Municipal de Cultura Bayamo)",
-            "hora": "7:30 AM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Acto de homenaje al Padre de la Patria (Dirección Municipal de Cultura Bayamo)",
-            "hora": "8:00 AM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Ceremonia de Iluminación al Padre de la Patria (Dirección Municipal de Cultura Bayamo)",
-            "hora": "8:30 AM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Develación de la obra del artista de la plástica Amaury Palacios (Dirección Municipal de Cultura Bayamo)",
-            "hora": "8:50 AM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Taller de creación artística con el proyecto teatral infantil Los Andantinos (Consejo Provincial de las Artes Escénicas)",
-            "hora": "9:00 AM",
-            "lugar": "Casa Verde del Teatro"
-          },
-          {
-            "actividad": "Talleres vocacionales de las diferentes especialidades (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "9:00 AM",
-            "lugar": "Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Sábado del libro. Presentación del libro Prosas Alicia (Centro Provincial del Libro)",
-            "hora": "9:00 AM",
-            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
-          },
-          {
-            "actividad": "Sábado del libro. Recital de poesía en saludo a la Victoria de Girón (Centro Provincial del Libro)",
-            "hora": "9:00 AM",
-            "lugar": "Museo José Nemecio Figueredo. Río Cauto"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Aviones 2 (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Cines cabeceras y Cine Céspedes"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Abominable en 3D (Centro Provincial de Cine)",
-            "hora": "9:00 AM",
-            "lugar": "Sala 3D. Multisala Boulevard Los Capuchinos"
-          },
-          {
-            "actividad": "Torneo de cartas Yu Gi Oh (AHS)",
-            "hora": "9:30 AM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Trovatuaje (AHS)",
-            "hora": "10:00 AM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Presentación de ATEGUA con el espectáculo Color esperanza (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Hospital Infantil Hermanos Cordové. Manzanillo"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música)",
-            "hora": "12:00 M",
-            "lugar": "Restaurante La España"
-          },
-          {
-            "actividad": "Conversatorio sobre temas de las Ciencias Sociales en el programa radial Criterios (Casa de la Nacionalidad Cubana)",
-            "hora": "1:30 PM",
-            "lugar": "Radio Bayamo"
-          },
-          {
-            "actividad": "Presentación del proyecto Tarequeando con el espectáculo Todo es una fiesta (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Hotel Sierra Maestra"
-          },
-          {
-            "actividad": "Entrega de la canastilla al primer niño o niña nacido este día (Dirección Municipal de Cultura Bayamo)",
-            "hora": "4:00 PM",
-            "lugar": "Hospital Provincial Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Presentación de Teatro Andante con la obra Los colores del bosque (Consejo Provincial de las Artes Escénicas)",
-            "hora": "5:00 PM",
-            "lugar": "Casa Verde del Teatro"
-          },
-          {
-            "actividad": "Espacio Retreta. Presentación de la Banda Provincial de Conciertos (Centro Provincial de la Música)",
-            "hora": "5:00 PM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Presentación del Cuarteto de Saxofones (Centro Provincial de la Música)",
-            "hora": "6:00 PM",
-            "lugar": "Centro de Interpretación del Patrimonio"
-          },
-          {
-            "actividad": "Presentación de la Compañía Tiempo Arte Contemporáneo con la obra Triada (Consejo Provincial de las Artes Escénicas)",
-            "hora": "7:00 PM",
-            "lugar": "Sala Teatro José Joaquín Palma"
-          },
-          {
-            "actividad": "Concierto con todos (Centro Provincial de la Música)",
-            "hora": "7:00 PM",
-            "lugar": "Sala de Conciertos Mtro. Salvador Alarcón Rodríguez"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Sevillana"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Bayamesa"
-          },
-          {
-            "actividad": "Noche Bayamesa Camino al arte (Dirección Municipal de Cultura Bayamo)",
-            "hora": "7:00 PM",
-            "lugar": "Casa de Cultura 20 de Octubre"
-          },
-          {
-            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:30 PM",
-            "lugar": "Restaurante 1513"
-          },
-          {
-            "actividad": "Tanda Especial. Proyección del filme Un buen ladrón (Centro Provincial de Cine)",
-            "hora": "8:00 PM",
-            "lugar": "Cine Céspedes. Bayamo"
-          },
-          {
-            "actividad": "Espacio Hasta la vista compay (Centro Provincial de Cine)",
-            "hora": "8:00 PM",
-            "lugar": "Palacio de Pioneros Raquel González"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
-            "hora": "8:00 PM",
-            "lugar": "Restaurante El Senado"
-          },
-          {
-            "actividad": "Espacio Voces del alma. Presentación del Conjunto de Música Antigua Exulten (Centro Provincial de la Música)",
-            "hora": "8:00 PM",
-            "lugar": "Sala Principal del Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Espacio Melodía y tradición. Presentación del órgano Caribbean Sol (Centro Provincial de la Música)",
-            "hora": "9:00 PM",
-            "lugar": "Calle Saco esquina General García"
-          },
-          {
-            "actividad": "Espacio de la UNEAC La gloria eres tú (EGREM)",
-            "hora": "9:00 PM a 12:00 AM",
-            "lugar": "Video Bar Sindo Garay"
-          },
-          {
-            "actividad": "Rincón del Recuerdo (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:00 PM",
-            "lugar": "Calle Luz Vázquez esquina General García"
-          },
-          {
-            "actividad": "Noche Bayamesa Camino al arte. Presentación del Ballet Folklórico Granma con la obra Herencias campesinas (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:00 PM",
-            "lugar": "Casa de Cultura 20 de Octubre"
-          },
-          {
-            "actividad": "Espacio Noche de Glamour (EGREM)",
-            "hora": "9:00 PM a 2:00 AM",
-            "lugar": "Salón del Bayam"
-          },
-          {
-            "actividad": "Espacio Punto Neutro (Dirección Municipal de Cultura Bayamo)",
-            "hora": "10:00 PM a 12:00 AM",
-            "lugar": "Calle Saco % General García y Céspedes. Frente a la Academia de Esgrima"
-          }
-        ]
-      },
-      {
-        "day": 19,
-        "activities": [
-          {
-            "actividad": "Presentación del Guiñol Pequeño Príncipe y el payaso Palitroque con el espectáculo Payasadas de Palitroque (Consejo Provincial de las Artes Escénicas)",
-            "hora": "9:00 AM",
-            "lugar": "Boulevard Tropicrema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Aviones 2 (Centro Provincial de Cine)",
-            "hora": "10:00 AM",
-            "lugar": "Cine Céspedes. Bayamo"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
-            "hora": "12:00 M",
-            "lugar": "Restaurante La España"
-          },
-          {
-            "actividad": "Presentación del Colectivo Teatral Granma con la obra El tesoro de los niños (Consejo Provincial de las Artes Escénicas)",
-            "hora": "6:00 PM",
-            "lugar": "Teatrón Infantil Plaza La Luz. Parque de la Sala Teatro José Joaquín Palma"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Sevillana"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Bayamesa"
-          },
-          {
-            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música)",
-            "hora": "7:30 PM",
-            "lugar": "Restaurante 1513"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías (Empresa Provincial Comercializadora de la Música)",
-            "hora": "8:00 PM",
-            "lugar": "Restaurante El Senado"
-          }
-        ]
-      },
-      {
-        "day": 20,
-        "activities": [
-          {
-            "actividad": "Panel Playa Girón: Miradas y reflexiones sobre un hecho histórico (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:00 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          }
-        ]
-      },
-      {
-        "day": 21,
-        "activities": [
-          {
-            "actividad": "Espacio de homenaje a Juan Manuel Reyes Acolea en su 90 cumpleaños. Lectura de su obra y exposición del fondo personal (Casa de la Nacionalidad Cubana)",
-            "hora": "9:00 AM",
-            "lugar": "Casa de la Nacionalidad Cubana"
-          },
-          {
-            "actividad": "Espacio fijo Sabe más quien lee más (Biblioteca Provincial 1868)",
-            "hora": "10:00 AM",
-            "lugar": "Escuela Especial Ernesto Che Guevara. Bayamo"
-          },
-          {
-            "actividad": "Espacio fijo Taller de la Bebeteca (Biblioteca Provincial 1868)",
-            "hora": "10:00 AM",
-            "lugar": "Círculo Infantil Pedro Pompa. Bayamo"
-          },
-          {
-            "actividad": "Noche de Cine Cubano. Proyección del filme Chamacos (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
-          }
-        ]
-      },
-      {
-        "day": 22,
-        "activities": [
-          {
-            "actividad": "Espacio fijo Círculo de lectura (Biblioteca Provincial 1868)",
-            "hora": "10:00 AM",
-            "lugar": "Seminternado 1ro de Enero"
-          },
-          {
-            "actividad": "El arte de la cerámica (AHS)",
-            "hora": "10:00 AM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Presentación de la Compañía Tiempo Arte Contemporáneo con Totó Mi payaso terapéutico (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Escuela Primaria Los Mártires"
-          },
-          {
-            "actividad": "Espacio fijo artístico cultural de Nivel Medio (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "11:00 AM",
-            "lugar": "Lobby de Nivel Medio de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          },
-          {
-            "actividad": "Noche de estreno. Proyección del filme El día del fin del mundo (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
-          },
-          {
-            "actividad": "Presentación del Cine Móvil y el proyecto Tarequeando (Centro Provincial de Cine)",
-            "hora": "6:00 PM",
-            "lugar": "Plazoleta de la comunidad La Pedrera. Bayamo"
-          }
-        ]
-      },
-      {
-        "day": 23,
-        "activities": [
-          {
-            "actividad": "El club de los profetas nuestros. Tema: Día del Idioma. De Cervantes y Shakespeare, el legado (Centro Provincial del Libro, Casa de la Nacionalidad Cubana)",
-            "hora": "10:00 AM",
-            "lugar": "Casa de la Nacionalidad Cubana"
-          },
-          {
-            "actividad": "Taller de aprendizaje La décima en el centro (Sociedad Cultural José Martí)",
-            "hora": "10:00 AM",
-            "lugar": "Centro Cultural Armando Hart"
-          },
-          {
-            "actividad": "Presentación de Teatro de Ilusiones Libre con la obra Riendo con TIL (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Sede La casa de las historias. Siboney. Bayamo"
-          },
-          {
-            "actividad": "Espacio fijo Ciudad de historia en jóvenes memorias. Tema: Entre palabras y páginas: homenaje al idioma español y al libro (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "La UNEAC entre nosotros. Anfitrión: Erwin Caro Infante. Invitada: Idelmis Mary (Centro Provincial del Libro)",
-            "hora": "10:00 AM",
-            "lugar": "Galería Dos Columnas. UNEAC"
-          },
-          {
-            "actividad": "Mi escuela en la comunidad. Brigada Artística y conversatorio sobre Dora Alonso y Pelusín del Monte en su aniversario 70 (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "10:00 AM",
-            "lugar": "Comunidad Aeropuerto Viejo. Bayamo"
-          },
-          {
-            "actividad": "Presentación del Taller Literario Juvenil e Infantil (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "11:00 AM",
-            "lugar": "Biblioteca Escolar de la Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Proyecto Jardines, huertos y bosques martianos (Sociedad Cultural José Martí)",
-            "hora": "2:20 PM",
-            "lugar": "Escuela Primaria Nguyen Van Troi. Bayamo"
-          },
-          {
-            "actividad": "Raíces y futuro (Oficina del Historiador de la Ciudad de Bayamo)",
-            "hora": "3:00 PM",
-            "lugar": "Centro de Interpretación del Patrimonio. Bayamo"
-          },
-          {
-            "actividad": "Noche de Cinemateca. Proyección del filme Las aventuras de Poseidón (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Cines cabeceras y salas de la primera cadena de estreno"
-          },
-          {
-            "actividad": "Espacio fijo artístico cultural de la especialidad de Música (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "6:00 PM",
-            "lugar": "UNEAC"
-          }
-        ]
-      },
-      {
-        "day": 24,
-        "activities": [
-          {
-            "actividad": "Espacio Manos (Centro Provincial de Casas de Cultura)",
-            "hora": "9:00 AM",
-            "lugar": "Centro Provincial de Casas de Cultura"
-          },
-          {
-            "actividad": "Espacio fijo Peña Encuentros (Centro Provincial de Patrimonio Cultural)",
-            "hora": "9:00 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Presentación del Cuarteto Metales en concierto (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
-            "hora": "9:00 AM",
-            "lugar": "Centro de Interpretación del Patrimonio"
-          },
-          {
-            "actividad": "Espacio fijo Cubanía e identidad. Tema: El arte rupestre cubano y su vigencia actual (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Museo de Arqueología. Bayamo"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          },
-          {
-            "actividad": "Galeno Fiesta. Espacio dedicado a la FEU de Ciencias Médicas y la Universidad de Granma (EGREM)",
-            "hora": "9:00 PM a 2:00 AM",
-            "lugar": "Salón del Bayam"
-          }
-        ]
-      },
-      {
-        "day": 25,
-        "activities": [
-          {
-            "actividad": "Presentación del proyecto teatral infantil Los Andantinos por el Día del libro (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Casa de la Cultura 20 de Octubre. Bayamo"
-          },
-          {
-            "actividad": "Torneo de cartas Yu Gi Oh (AHS)",
-            "hora": "9:00 AM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Taller de manualidades La muñeca negra (Sociedad Cultural José Martí)",
-            "hora": "9:00 AM",
-            "lugar": "Centro Cultural Armando Hart"
-          },
-          {
-            "actividad": "Talleres vocacionales de las diferentes especialidades (Escuela Profesional de Arte Manuel Muñoz Cedeño)",
-            "hora": "9:00 AM",
-            "lugar": "Escuela Profesional de Arte Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Sábado del libro. Presentación del libro El ojo de Alejo de Graciela Pogolotti (Centro Provincial del Libro)",
-            "hora": "9:00 AM",
-            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
-          },
-          {
-            "actividad": "Sábado del libro (Centro Provincial del Libro)",
-            "hora": "9:00 AM",
-            "lugar": "Casa de la Cultura. Guisa"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Alien v/s monstruos (Centro Provincial de Cine)",
-            "hora": "10:00 AM",
-            "lugar": "Cines cabeceras y otras salas"
-          },
-          {
-            "actividad": "Espacio fijo La hora del cuento (Biblioteca Provincial 1868)",
-            "hora": "10:00 AM",
-            "lugar": "Casa de niños sin amparo parental (-6). Bayamo"
-          },
-          {
-            "actividad": "Presentación de ATEGUA con el espectáculo La familia L (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Antiguo Boulevard. Manzanillo"
-          },
-          {
-            "actividad": "Día Naranja. Proyección del filme Vestida de novia (Centro Provincial de Cine)",
-            "hora": "10:00 AM",
-            "lugar": "Video Club Juvenil y otras salas"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "12:00 M",
-            "lugar": "Restaurante La España"
-          },
-          {
-            "actividad": "Conversatorio sobre temas de las Ciencias Sociales en el programa radial Criterios (Casa de la Nacionalidad Cubana)",
-            "hora": "1:30 PM",
-            "lugar": "Radio Bayamo"
-          },
-          {
-            "actividad": "Presentación del proyecto Tarequeando con el espectáculo Todo es una fiesta (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Hotel Sierra Maestra"
-          },
-          {
-            "actividad": "Tanda para jóvenes. Proyección del capítulo 4 de la serie Dime más mentiras (Centro Provincial de Cine)",
-            "hora": "3:00 PM",
-            "lugar": "Cines cabeceras y otras salas"
-          },
-          {
-            "actividad": "Espacio Entre líneas para ti. Anfitrión: Javier Vega Leyva. Invitado: Erasmo de los Ángeles Rondón Soto (Centro Provincial del Libro)",
-            "hora": "4:00 PM",
-            "lugar": "Museo Casa Natal Carlos Manuel de Céspedes"
-          },
-          {
-            "actividad": "Tanda para jóvenes. Proyección del capítulo 4 de la serie Dime más mentiras (Centro Provincial de Cine)",
-            "hora": "5:00 PM",
-            "lugar": "Sala Sara Gómez. Multisala Cinema"
-          },
-          {
-            "actividad": "Actividad Comunitaria Integradora. Sueño infantil (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Centro Provincial del Libro)",
-            "hora": "5:00 PM",
-            "lugar": "Calle 13 % 8 y 10. Siboney. Bayamo"
-          },
-          {
-            "actividad": "Presentación de la compañía infantil danzaria Arcoíris en Movimiento con la obra Un cofre mágico (Consejo Provincial de las Artes Escénicas)",
-            "hora": "5:00 PM",
-            "lugar": "Sala Teatro José Joaquín Palma"
-          },
-          {
-            "actividad": "Peña del grupo Son Verdad (Consejo Provincial de las Artes Escénicas)",
-            "hora": "5:00 PM",
-            "lugar": "Teatro Manzanillo"
-          },
-          {
-            "actividad": "Presentación de Teatro Andante con la obra Los colores del bosque (Consejo Provincial de las Artes Escénicas)",
-            "hora": "5:00 PM",
-            "lugar": "Casa Verde del Teatro"
-          },
-          {
-            "actividad": "Espacio Retreta. Presentación de la Banda Provincial de Conciertos (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
-            "hora": "5:00 PM",
-            "lugar": "Plaza de la Revolución"
-          },
-          {
-            "actividad": "Concierto con todos con la guitarrista concertista Miriam Pompa Áreas y sus invitados (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
-            "hora": "7:00 PM",
-            "lugar": "Sala de Conciertos Mtro. Salvador Alarcón Rodríguez"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Sevillana"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Bayamesa"
-          },
-          {
-            "actividad": "Noche Bayamesa Camino al arte (Dirección Municipal de Cultura Bayamo)",
-            "hora": "7:00 PM",
-            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
-          },
-          {
-            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:30 PM",
-            "lugar": "Restaurante 1513"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "8:00 PM",
-            "lugar": "Restaurante El Senado"
-          },
-          {
-            "actividad": "Peña de teatro. Presentación de la Guerrilla de Teatreros con el grupo musical Sabor a Cuba (AHS)",
-            "hora": "8:00 PM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Tanda Especial. Proyección del filme Terror en Silent Hill. Regreso al infierno (Centro Provincial de Cine)",
-            "hora": "8:00 PM",
-            "lugar": "Cine Céspedes. Bayamo"
-          },
-          {
-            "actividad": "Espacio Voces del alma. Presentación del Coro Profesional de Bayamo (Centro Provincial de la Música Mtro. Carlos Puig Premión)",
-            "hora": "8:00 PM",
-            "lugar": "Sala Principal del Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Espacio de la UNEAC La gloria eres tú (EGREM)",
-            "hora": "9:00 PM a 12:00 AM",
-            "lugar": "Video Bar Sindo Garay"
-          },
-          {
-            "actividad": "Rincón del Recuerdo (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:00 PM",
-            "lugar": "Calle Luz Vázquez esquina General García"
-          },
-          {
-            "actividad": "Noche Bayamesa Camino al arte. Concierto de Arinledy Rodríguez (Dirección Municipal de Cultura Bayamo)",
-            "hora": "9:00 PM",
-            "lugar": "Frente a la Casa de la Cultura 20 de Octubre. Bayamo"
-          },
-          {
-            "actividad": "Espacio Punto Neutro (Dirección Municipal de Cultura Bayamo)",
-            "hora": "10:00 PM a 12:00 AM",
-            "lugar": "Calle Saco % General García y Céspedes. Frente a la Academia de Esgrima"
-          }
-        ]
-      },
-      {
-        "day": 26,
-        "activities": [
-          {
-            "actividad": "Presentación del Guiñol Pequeño Príncipe y el payaso Palitroque con el espectáculo Payasadas de Palitroque (Consejo Provincial de las Artes Escénicas)",
-            "hora": "9:00 AM",
-            "lugar": "Boulevard Tropicrema"
-          },
-          {
-            "actividad": "Matinée Infantil con la proyección del filme Alien v/s monstruos (Centro Provincial de Cine)",
-            "hora": "10:00 AM",
-            "lugar": "Cine Céspedes. Bayamo"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "12:00 M",
-            "lugar": "Restaurante La España"
-          },
-          {
-            "actividad": "Peña de K-Pop (AHS)",
-            "hora": "4:00 PM",
-            "lugar": "Sede de la AHS. Bayamo"
-          },
-          {
-            "actividad": "Actividad Comunitaria Integradora. Tarde entre amigos (Dirección Municipal de Cultura Bayamo, Consejo Provincial de las Artes Escénicas, Centro Provincial del Libro)",
-            "hora": "5:00 PM",
-            "lugar": "Parquecito Racilla. Jesús Menéndez. Bayamo"
-          },
-          {
-            "actividad": "Presentación de la compañía infantil danzaria Arcoíris en Movimiento con la obra Un cofre mágico (Consejo Provincial de las Artes Escénicas)",
-            "hora": "6:00 PM",
-            "lugar": "Teatrón Infantil Plaza La Luz. Parque de la Sala Teatro José Joaquín Palma"
-          },
-          {
-            "actividad": "Presentación del Cine Móvil y el proyecto Tarequeando (Centro Provincial de Cine)",
-            "hora": "6:00 PM",
-            "lugar": "Campo de pelota. Tamayito. Bayamo"
-          },
-          {
-            "actividad": "Presentación del solista Yoel Ferrat y el guitarrista acompañante José Antonio Hernández (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Sevillana"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:00 PM",
-            "lugar": "Restaurante La Bayamesa"
-          },
-          {
-            "actividad": "Presentación del Cuarteto Espacio Vivo (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "7:30 PM",
-            "lugar": "Restaurante 1513"
-          },
-          {
-            "actividad": "Concierto de la solista Mirelis Elías y el guitarrista Geovanis Oliva (Empresa Provincial Comercializadora de la Música y los Espectáculos)",
-            "hora": "8:00 PM",
-            "lugar": "Restaurante El Senado"
-          }
-        ]
-      },
-      {
-        "day": 27,
-        "activities": [
-          {
-            "actividad": "Presentación del Circo Granma con la obra Llegó el circo (Consejo Provincial de las Artes Escénicas)",
-            "hora": "10:00 AM",
-            "lugar": "Comunidad Las Novillas. Manzanillo"
-          },
-          {
-            "actividad": "Proyección del animado Las vasijas (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Escuela Especial Rubén Noguera Castillo"
-          },
-          {
-            "actividad": "Círculo de interés Recorriendo la historia (Centro Provincial de Patrimonio Cultural)",
-            "hora": "10:00 AM",
-            "lugar": "Museo Provincial Manuel Muñoz Cedeño"
-          },
-          {
-            "actividad": "Taller de creación artística danzaria de la compañía infantil Arcoíris en Movimiento (Consejo Provincial de las Artes Escénicas)",
-            "hora": "2:00 PM",
-            "lugar": "Sala Teatro 10 de Octubre"
-          }
-        ]
-      }
-    ]
-  },
+  "agendaCulturalOptions": {},
   "programsList": [],
   "customRoots": [],
   "equipo": [
@@ -51980,5 +51139,7 @@
     }
   ],
   "manualProgramming": [],
+  "managementReports": [],
+  "allConsolidatedPayments": [],
   "userData": {}
 }
