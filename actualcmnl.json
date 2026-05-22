@@ -3,10 +3,20 @@
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
-      "mobile": "54413935",
+      "mobile": "",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "email": "pejotar21@gmail.com",
+      "deviceLimitEnabled": true,
+      "authorizedDevices": [
+        {
+          "token": "DVC-VX23",
+          "name": "Cell",
+          "type": "Móvil",
+          "addedAt": "22/5/2026"
+        }
+      ]
     },
     {
       "id": "jose",
@@ -277,7 +287,7 @@
       "id": "pedro",
       "username": "admin",
       "name": "Pedro José Reyes Acuña",
-      "mobile": "54413935",
+      "mobile": "",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -50933,10 +50943,20 @@
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
-      "mobile": "54413935",
+      "mobile": "",
       "password": "RadioCiudad0026",
       "role": "admin",
-      "classification": "Administrador"
+      "classification": "Administrador",
+      "email": "pejotar21@gmail.com",
+      "deviceLimitEnabled": true,
+      "authorizedDevices": [
+        {
+          "token": "DVC-VX23",
+          "name": "Cell",
+          "type": "Móvil",
+          "addedAt": "22/5/2026"
+        }
+      ]
     },
     {
       "id": "jose",
@@ -51207,7 +51227,7 @@
       "id": "pedro",
       "username": "admin",
       "name": "Pedro José Reyes Acuña",
-      "mobile": "54413935",
+      "mobile": "",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -51999,11 +52019,7 @@
       "photoUrl": "",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
-      "contracts": [
-        "022601",
-        "",
-        ""
-      ]
+      "contracts": []
     },
     {
       "id": "jose",
