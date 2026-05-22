@@ -3,7 +3,7 @@
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
-      "mobile": "",
+      "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -14,6 +14,18 @@
           "token": "DVC-VX23",
           "name": "Cell",
           "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-B25X",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-4A35",
+          "name": "GIAS Lap",
+          "type": "PC",
           "addedAt": "22/5/2026"
         }
       ]
@@ -287,7 +299,7 @@
       "id": "pedro",
       "username": "admin",
       "name": "Pedro José Reyes Acuña",
-      "mobile": "",
+      "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -309,6 +321,18 @@
           "token": "DVC-VX23",
           "name": "Cell",
           "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-B25X",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-4A35",
+          "name": "GIAS Lap",
+          "type": "PC",
           "addedAt": "22/5/2026"
         }
       ]
@@ -4297,10 +4321,838 @@
       ]
     }
   ],
-  "worklogs": [],
+  "worklogs": [
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    }
+  ],
   "consolidated": [],
   "interruptions": [],
-  "consolidatedMonths": [],
+  "consolidatedMonths": [
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
+    }
+  ],
   "habitualExclusions": [
     {
       "username": "admin",
@@ -4308,6 +5160,32 @@
     },
     {
       "username": "lissell",
+      "exclusions": [
+        {
+          "date": "2026-03-21",
+          "programName": "Parada Joven",
+          "role": "Asesor"
+        }
+      ]
+    },
+    {
+      "username": "rafael",
+      "exclusions": []
+    },
+    {
+      "username": "ernesto",
+      "exclusions": []
+    },
+    {
+      "username": "johan",
+      "exclusions": []
+    },
+    {
+      "username": "humberto",
+      "exclusions": []
+    },
+    {
+      "username": "viviana",
       "exclusions": []
     },
     {
@@ -4322,6 +5200,26 @@
     },
     {
       "username": "lissell",
+      "mode": true
+    },
+    {
+      "username": "rafael",
+      "mode": true
+    },
+    {
+      "username": "ernesto",
+      "mode": false
+    },
+    {
+      "username": "johan",
+      "mode": false
+    },
+    {
+      "username": "humberto",
+      "mode": false
+    },
+    {
+      "username": "viviana",
       "mode": false
     },
     {
@@ -43140,7 +44038,34 @@
       }
     ]
   },
-  "programSections": {},
+  "programSections": {
+    "program_sections_HABLANDO CON JUANA": [
+      {
+        "date": "03 de noviembre de 2025 (Solidaridad en tiempos de huracanes)\r",
+        "theme": "",
+        "name": "Entérate Vecino",
+        "content": "Convocatoria a unirse a grupos de recolección de ayuda para damnificados por el huracán Melissa (FMC, CDR, centros laborales) e información sobre la iniciativa \"Ayudas de Buena Voluntad\" (WhatsApp: 59-88-41-68)."
+      },
+      {
+        "date": "03 de noviembre de 2025 (Solidaridad en tiempos de huracanes)\r",
+        "theme": "",
+        "name": "El que sabe, sabe",
+        "content": "Declaraciones del profesor Manuel Calviño sobre la importancia de la autoconfianza para afrontar buenos y malos momentos en la vida."
+      },
+      {
+        "date": "03 de noviembre de 2025 (Solidaridad en tiempos de huracanes)\r",
+        "theme": "",
+        "name": "Polémica en las redes",
+        "content": "Iniciativa solidaria del emprendimiento tunero SxFotos para realizar sesiones fotográficas gratuitas a quinceañeras afectadas por el ciclón en Las Tunas."
+      },
+      {
+        "date": "03 de noviembre de 2025 (Solidaridad en tiempos de huracanes)\r",
+        "theme": "",
+        "name": "De todo un poco",
+        "content": "Recomendación de buscar los reportajes del periodista Lázaro Manuel Alonso en el Noticiero Nacional de Televisión de Canal Caribe sobre la unidad y solidaridad en el oriente de Cuba tras el paso del huracán Melissa."
+      }
+    ]
+  },
   "agendaPrograms": [
     {
       "id": "lv1",
@@ -50943,7 +51868,7 @@
     {
       "name": "Pedro José Reyes Acuña",
       "username": "admin",
-      "mobile": "",
+      "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -50954,6 +51879,18 @@
           "token": "DVC-VX23",
           "name": "Cell",
           "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-B25X",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-4A35",
+          "name": "GIAS Lap",
+          "type": "PC",
           "addedAt": "22/5/2026"
         }
       ]
@@ -51227,7 +52164,7 @@
       "id": "pedro",
       "username": "admin",
       "name": "Pedro José Reyes Acuña",
-      "mobile": "",
+      "mobile": "54413935",
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
@@ -51249,6 +52186,18 @@
           "token": "DVC-VX23",
           "name": "Cell",
           "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-B25X",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-4A35",
+          "name": "GIAS Lap",
+          "type": "PC",
           "addedAt": "22/5/2026"
         }
       ]
