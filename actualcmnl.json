@@ -228,7 +228,36 @@
       "mobile": "54777754",
       "password": "RadioCiudad0726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "email": "",
+      "specialty": "Guionista",
+      "contracts": [],
+      "tools": [
+        "inst-docs",
+        "script-format"
+      ],
+      "habitualProgramsByRole": {
+        "Guionista": [
+          "Hablando con Juana",
+          "Estación 95.3"
+        ]
+      },
+      "habitualProgramsDays": {
+        "Guionista": {
+          "Hablando con Juana": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes"
+          ],
+          "Estación 95.3": [
+            "Domingo"
+          ]
+        }
+      },
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "johan",
@@ -378,58 +407,31 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1779990772277-0",
-      "title": "Asegura secretario de la Comisión de Ingreso Provincial transparencia total en el otorgamiento de carreras",
+      "id": "news-1780234195165-0",
+      "title": "Dialogan altos mandos militares de Cuba y Estados Unidos",
       "author": "Redacción RCM",
-      "content": "El doctor en Ciencias Alexey Rodríguez Benítez, secretario ejecutivo de la Comisión de Ingreso Provincial, aseguró que el proceso de otorgamiento de carreras a la educación superior se hará con total transparencia, aunque este curso no se realizarán los exámenes tradicionales de Matemáticas, Español e Historia. El directivo explicó que el otorgamiento se basará en el índice académico acumulado durante los tres cursos de preuniversitario, respetando el orden de solicitudes. Ratificó que el proceso se mantendrá bajo los principios de rigor y transparencia que lo han caracterizado por más de dos décadas. En Bayamo hay cerca de 300 estudiantes involucrados. El primer otorgamiento está previsto entre el 8 y el 12 de junio, y el segundo del 15 al 19 de junio.",
+      "content": "El Ministerio de las Fuerzas Armadas Revolucionarias (Minfar) de Cuba informó de un encuentro entre el jefe del Comando Sur de Estados Unidos, general Francis L. Donovan, y el viceministro primero general de Cuerpo Ejército Roberto Legrá, ocurrido este viernes «por acuerdo de ambas partes». Ambas delegaciones valoraron positivo el encuentro donde se abordaron temas vinculados con la seguridad en torno al perímetro divisorio del enclave militar, acordando mantener comunicación entre ambos mandos. El canciller Bruno Rodríguez descartó que Cuba sea una amenaza para EE.UU., ratificando la profunda vocación de paz de la isla y que «no es un enemigo para Estados Unidos, ni quiere serlo».",
       "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "El doctor en Ciencias Alexey Rodríguez Benítez, secretario ejecutivo de la Comisión de Ingreso Provincial, aseguró que el proceso de otorgamiento de carreras a la educación superior se hará con total transparencia, aunque este curso no se realizarán los exámenes tradicionales de Matemáticas, Español e Historia."
+      "date": "Sábado 30 de mayo de 2026",
+      "excerpt": "El Ministerio de las Fuerzas Armadas Revolucionarias (Minfar) de Cuba informó de un encuentro entre el jefe del Comando Sur de Estados Unidos, general Francis L."
     },
     {
-      "id": "news-1779990772278-1",
-      "title": "Realizarán en esta ciudad evento Bayamo Creativo",
-      "author": "Redacción RCM",
-      "content": "La cuarta edición de Bayamo Creativo iniciará a las nueve de la mañana de este viernes 29 con una conferencia inaugural a cargo de la doctora en ciencias Leonor de los Dolores Estrada Jiménez, titulada \"Ciudad en capas: Gestión Integral y Sostenibilidad del Patrimonio desde la empresa mercantil cubana\". El evento tendrá lugar en el Centro de Interpretación del Patrimonio San Salvador. Posteriormente habrá un espacio de socialización de proyectos culturales y emprendimientos gastronómicos. La jornada vespertina culminará con la peña del club de fumadores de Habanos, Bayamanaco, en el Restaurante El Manegua. Para el sábado 30 se ha preparado una expoventa de productos gastronómicos tradicionales y presentaciones artísticas.",
+      "id": "news-1780234195165-1",
+      "title": "Cuba valora positivamente liderazgo del Papa León XIV en defensa de la paz",
+      "author": "Prensa Latina",
+      "content": "El gobierno de Cuba valoró de manera muy positiva el liderazgo internacional que mantiene el Papa León XIV en lo relativo a la defensa de la paz, indicó el embajador de esa nación ante la Santa Sede. El jefe de la misión diplomática cubana ante el Vaticano, Leyde Rodríguez, destacó en una nota divulgada en la revista Caritá Política el reconocimiento de su país a los esfuerzos del pontífice a favor de una paz que sea «desarmada y desarmante».",
       "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "La cuarta edición de Bayamo Creativo iniciará a las nueve de la mañana de este viernes 29 con una conferencia inaugural a cargo de la doctora en ciencias Leonor de los Dolores Estrada Jiménez, titulada \"Ciudad en capas: Gestión Integral y Sostenibilidad del Patrimonio desde la empresa mercantil cubana\"."
+      "date": "Sábado 30 de mayo de 2026",
+      "excerpt": "El gobierno de Cuba valoró de manera muy positiva el liderazgo internacional que mantiene el Papa León XIV en lo relativo a la defensa de la paz, indicó el embajador de esa nación ante la Santa Sede."
     },
     {
-      "id": "news-1779990772278-2",
-      "title": "Celebrarán tabacaleros de este territorio su día con mayor compromiso productivo",
-      "author": "Redacción RCM",
-      "content": "Calixto Santiesteban Ávila, jefe de producción de la Fábrica de Tabaco Mario Alarcón en Bayamo, valoró el aporte de este colectivo al desarrollo económico del país, destacando que los obreros merecieron la sede del acto provincial por el Día del Trabajador Tabacalero el 29 de mayo, donde rendirán tributo al líder obrero Lázaro Peña. Afirmó que bajo la premisa de salvaguardar el prestigio internacional de los tabacos cubanos torcidos a mano, celebrarán esta jornada enfrascados en las producciones destinadas a la exportación. Subrayó que la disciplina, la estabilidad laboral y la estrategia sectorial han permitido sostener indicadores productivos de referencia, defendiendo la patria desde el taller.",
-      "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "Calixto Santiesteban Ávila, jefe de producción de la Fábrica de Tabaco Mario Alarcón en Bayamo, valoró el aporte de este colectivo al desarrollo económico del país, destacando que los obreros merecieron la sede del acto provincial por el Día del Trabajador Tabacalero el 29 de mayo, donde rendirán tributo al líder obrero Lázaro Peña."
-    },
-    {
-      "id": "news-1779990772278-3",
-      "title": "Jóvenes campechuelenses participan en acto homenaje a Raúl Castro en Cinco Palmas",
-      "author": "La Demajagua digital",
-      "content": "Más de un centenar de jóvenes campechuelenses participan hoy en el acto homenaje a Raúl Castro en Cinco Palmas, emblemático paraje donde ocurrió el 18 de diciembre de 1956 el reencuentro de Fidel y Raúl tras los acontecimientos de Alegría de Pío y el desembarco del Granma. Yoinel Manuel Vázquez Osorio, primer secretario de la UJC en Campechuela, aseguró que los jóvenes reafirmarán su respaldo a la Revolución y condenarán las falsas acusaciones contra el General de Ejército Raúl Castro Ruz. La marcha juvenil evoca la travesía del Ejército Rebelde y constituye un ejercicio de reafirmación de la memoria colectiva y compromiso con el futuro de la nación.",
-      "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "Más de un centenar de jóvenes campechuelenses participan hoy en el acto homenaje a Raúl Castro en Cinco Palmas, emblemático paraje donde ocurrió el 18 de diciembre de 1956 el reencuentro de Fidel y Raúl tras los acontecimientos de Alegría de Pío y el desembarco del Granma."
-    },
-    {
-      "id": "news-1779990772278-4",
-      "title": "CARICOM expresa preocupación por medidas económicas contra Cuba",
-      "author": "Granma",
-      "content": "El Consejo de Relaciones Exteriores y Comunitarias de la Comunidad del Caribe (CARICOM) expresó este miércoles, mediante una declaración oficial, su profunda preocupación por las medidas económicas, comerciales y financieras impuestas a la República de Cuba en curso e intensificadas. El COFCOR recordó que las crecientes dificultades que enfrenta el pueblo cubano también afectan gravemente a los ciudadanos de la CARICOM que estudian y viven en Cuba, cuyo bienestar sigue siendo una prioridad para la Comunidad.",
-      "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "El Consejo de Relaciones Exteriores y Comunitarias de la Comunidad del Caribe (CARICOM) expresó este miércoles, mediante una declaración oficial, su profunda preocupación por las medidas económicas, comerciales y financieras impuestas a la República de Cuba en curso e intensificadas."
-    },
-    {
-      "id": "news-1779990772278-5",
-      "title": "Trump amenaza con acciones militares contra Omán si se alía con Irán sobre el estrecho de Ormuz",
+      "id": "news-1780234195165-2",
+      "title": "Tribunal boliviano anula órdenes de aprehensión contra líderes sociales",
       "author": "Tele Sur",
-      "content": "El presidente de Estados Unidos, Donald Trump, amenazó este miércoles con emprender acciones militares contra Omán si el sultanato se alía con Irán para ejercer un control conjunto sobre el estrecho de Ormuz, la estratégica vía marítima por la que circula aproximadamente una quinta parte del petróleo mundial. \"Nadie lo va a controlar. Lo vamos a vigilar. Lo vigilaremos, pero nadie lo va a controlar. Eso forma parte de la negociación que tenemos. A ellos les gustaría controlarlo\", afirmó el mandatario durante una reunión de gabinete en la Casa Blanca.",
+      "content": "El Tribunal de Sentencia de La Paz anuló este viernes 29 de mayo las órdenes de aprehensión contra el secretario general de la Central Obrera Boliviana, Mario Argollo, y el ejecutivo de la federación campesina Túpac Katari, Vicente Salazar, en el marco de las intensas protestas que demandan la dimisión del presidente Rodrigo Paz Pereira y el fin de las medidas neoliberales. La anulación de estas órdenes constituía una demanda indispensable de los movimientos sociales para abrir cualquier posibilidad de negociación política tras 29 días de protestas.",
       "category": "General",
-      "date": "Jueves 28 de mayo de 2026",
-      "excerpt": "El presidente de Estados Unidos, Donald Trump, amenazó este miércoles con emprender acciones militares contra Omán si el sultanato se alía con Irán para ejercer un control conjunto sobre el estrecho de Ormuz, la estratégica vía marítima por la que circula aproximadamente una quinta parte del petróleo mundial."
+      "date": "Sábado 30 de mayo de 2026",
+      "excerpt": "El Tribunal de Sentencia de La Paz anuló este viernes 29 de mayo las órdenes de aprehensión contra el secretario general de la Central Obrera Boliviana, Mario Argollo, y el ejecutivo de la federación campesina Túpac Katari, Vicente Salazar, en el marco de las intensas protestas que demandan la dimisión del presidente Rodrigo Paz Pereira y el fin de las medidas neoliberales."
     }
   ],
   "fichas": [
@@ -29631,7 +29633,36 @@
       "mobile": "54777754",
       "password": "RadioCiudad0726",
       "role": "worker",
-      "classification": "Usuario"
+      "classification": "Usuario",
+      "email": "",
+      "specialty": "Guionista",
+      "contracts": [],
+      "tools": [
+        "inst-docs",
+        "script-format"
+      ],
+      "habitualProgramsByRole": {
+        "Guionista": [
+          "Hablando con Juana",
+          "Estación 95.3"
+        ]
+      },
+      "habitualProgramsDays": {
+        "Guionista": {
+          "Hablando con Juana": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes"
+          ],
+          "Estación 95.3": [
+            "Domingo"
+          ]
+        }
+      },
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "johan",
@@ -30537,14 +30568,36 @@
       "name": "Administrador App",
       "specialty": "Soporte, Redacción y Criptografía",
       "level": "Administración Global",
-      "info": "",
-      "email": "pejotar21@gmail.com",
-      "mobile": "54413935",
       "photoUrl": "",
+      "email": "pejotar21@gmail.com",
+      "info": "Cuenta técnica permanente del sistema. Ofrece control completo de programaciones y validación criptográfica de identidades.",
+      "habitualPrograms": [],
+      "mobile": "54413935",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
       "contracts": [],
-      "designatedUserId": "pedro"
+      "designatedUserId": "pedro",
+      "deviceLimitEnabled": true,
+      "authorizedDevices": [
+        {
+          "token": "DVC-VX23",
+          "name": "Cell",
+          "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-4A35",
+          "name": "GIAS Lap",
+          "type": "PC",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-J8BB",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "25/5/2026"
+        }
+      ]
     },
     {
       "id": "jose",
@@ -30745,7 +30798,30 @@
       "specialty": "Guionista",
       "level": "",
       "info": "",
-      "photoUrl": "https://picsum.photos/seed/beatriz/400/400"
+      "email": "",
+      "mobile": "54777754",
+      "photoUrl": "https://picsum.photos/seed/beatriz/400/400",
+      "habitualProgramsByRole": {
+        "Guionista": [
+          "Hablando con Juana",
+          "Estación 95.3"
+        ]
+      },
+      "habitualProgramsDays": {
+        "Guionista": {
+          "Hablando con Juana": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes"
+          ],
+          "Estación 95.3": [
+            "Domingo"
+          ]
+        }
+      },
+      "contracts": []
     },
     {
       "id": "johan",
