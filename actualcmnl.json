@@ -397,7 +397,7 @@
     },
     {
       "id": "pedro",
-      "username": "admin",
+      "username": "pedro",
       "name": "Pedro José Reyes Acuña",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
@@ -405,7 +405,11 @@
       "classification": "Administrador",
       "specialty": "Especialista / Guionista",
       "email": "pejotar21@gmail.com",
-      "contracts": [],
+      "contracts": [
+        "2025-09-01",
+        "2025-10-27",
+        ""
+      ],
       "tools": [
         "digital-signature",
         "data-extraction",
@@ -29876,7 +29880,7 @@
     },
     {
       "id": "pedro",
-      "username": "admin",
+      "username": "pedro",
       "name": "Pedro José Reyes Acuña",
       "mobile": "54413935",
       "password": "RadioCiudad0026",
@@ -29884,7 +29888,11 @@
       "classification": "Administrador",
       "specialty": "Especialista / Guionista",
       "email": "pejotar21@gmail.com",
-      "contracts": [],
+      "contracts": [
+        "2025-09-01",
+        "2025-10-27",
+        ""
+      ],
       "tools": [
         "digital-signature",
         "data-extraction",
@@ -31094,7 +31102,11 @@
       "photoUrl": "https://picsum.photos/seed/pedro/400/400",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
-      "contracts": []
+      "contracts": [
+        "2025-09-01",
+        "2025-10-27",
+        ""
+      ]
     }
   ],
   "manualProgramming": [],
