@@ -438,6 +438,12 @@
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-4TX5",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "4/6/2026"
         }
       ]
     },
@@ -482,49 +488,67 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1780339677642-0",
-      "title": "Comienza hoy ejercicio de control integral a las personas que cumplen sanción en condiciones de libertad",
+      "id": "news-1780586308858-0",
+      "title": "Agradece destacada profesora bayamesa concesión de Premio Nacional por la obra de toda la vida y el aporte reconocido a las Ciencias de la Educación en Cuba",
       "author": "Redacción RCM",
-      "content": "Desde hoy y hasta el 30 de junio se realizará en Bayamo, como en el resto del país, un Ejercicio de Control Integral a las personas que cumplen sanción en condiciones de libertad, según la instrucción 282 de 2023 del Consejo de Gobierno del Tribunal Supremo Popular. En el proceso intervienen el Ministerio del Interior, la Fiscalía, así como organizaciones como los CDR, la FMC, la UJC, la Anap y la CTC, junto a entidades como Cultura, Educación y Trabajo. El control, que se realiza dos veces al año, verifica el comportamiento social y laboral, el cumplimiento de sanciones accesorias y la responsabilidad civil. Los casos que lo ameriten se presentarán a los consejos populares para que el juez actualice la estrategia de control.",
+      "content": "La Doctora en Ciencias Alisa Natividad Delgado Torres agradeció este miércoles a través de Facebook a los miembros de la Asociación de Pedagogos de Cuba por haberle concedido el Premio Nacional Doctor Justo Alberto Chávez Rodríguez. La reconocida profesora bayamesa, que celebra su 80 cumpleaños y 55 años en la enseñanza superior, expresó que recibir este reconocimiento constituye un alto honor profesional y un estímulo para continuar defendiendo los principios de la educación pública, gratuita y de calidad. Nacida en Bayamo el 25 de diciembre de 1946, se graduó de Ciencias Políticas en la Universidad de La Habana en 1971, debutando como docente en la Universidad de Oriente donde se mantuvo hasta 2016. Actualmente continúa involucrada en la enseñanza desde la Universidad de Granma.",
       "category": "General",
-      "date": "Lunes 1 de junio de 2026",
-      "excerpt": "Desde hoy y hasta el 30 de junio se realizará en Bayamo, como en el resto del país, un Ejercicio de Control Integral a las personas que cumplen sanción en condiciones de libertad, según la instrucción 282 de 2023 del Consejo de Gobierno del Tribunal Supremo Popular."
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "La Doctora en Ciencias Alisa Natividad Delgado Torres agradeció este miércoles a través de Facebook a los miembros de la Asociación de Pedagogos de Cuba por haberle concedido el Premio Nacional Doctor Justo Alberto Chávez Rodríguez."
     },
     {
-      "id": "news-1780339677642-1",
-      "title": "Inicia este primero de junio temporada ciclónica del Atlántico y el Caribe",
-      "author": "Prensa Latina",
-      "content": "La temporada ciclónica comenzó hoy y el Instituto de Meteorología de Cuba informó que será menos activa de lo normal, con la formación de 11 eventos tropicales en toda la cuenca del Atlántico norte. De ellos, cinco podrían alcanzar la categoría de huracán y dos adquirir gran intensidad. Ocho se desarrollarán en el Atlántico, dos en el mar Caribe y uno en el golfo de México. El peligro de que Cuba sea afectada por al menos un huracán es moderado (40%), superior al climatológico (35%), mientras que para tormentas tropicales la probabilidad asciende a 75%. Los ciclones de 2026 se nombrarán Arthur, Bertha, Cristobal, Dolly, Edouard, Fay, Gonzalo, Hanna, Isaias, Josephine, Kyle, Leah, Marco, Nana, Omar, Paulette, Rene, Sally, Teddy, Vicky y Wilfred.",
-      "category": "General",
-      "date": "Lunes 1 de junio de 2026",
-      "excerpt": "La temporada ciclónica comenzó hoy y el Instituto de Meteorología de Cuba informó que será menos activa de lo normal, con la formación de 11 eventos tropicales en toda la cuenca del Atlántico norte."
-    },
-    {
-      "id": "news-1780339677642-2",
-      "title": "Realizan actividades culturales en centros educativos bayameses a propósito del Día Internacional de la Infancia",
+      "id": "news-1780586308858-1",
+      "title": "Intercambiaron autoridades granmenses con emprendedores del sector no estatal en Bayamo",
       "author": "Redacción RCM",
-      "content": "Varias actividades culturales fueron previstas para hoy en centros educativos de Bayamo, con motivo del Día Internacional de la Infancia. El cronograma incluyó a las ocho de la mañana un espectáculo variado del proyecto Compayasos en la escuela primaria 21 de Octubre, y la actuación del payaso Totó en el seminternado Cuatro de Abril. A las nueve y media se realizó una lectura de poesías con el escritor Luis Carlos Suárez en el círculo infantil Pedro Pompa, y a las diez de la mañana el espacio Sueños y fantasías en la primaria Ciro Redondo, además de una actividad sociocultural en el Graciela Bustillos. El Día Internacional de la Infancia se celebra en Cuba desde el 1 de junio de 1963, en consonancia con un acuerdo de la Conferencia Internacional de Defensa de la Niñez de Viena de 1952.",
+      "content": "Este miércoles representantes del sector no estatal de la economía en Bayamo sostuvieron un encuentro con las autoridades locales, para dialogar sobre el papel de los emprendedores en el desarrollo económico del territorio. El intercambio forma parte de los esfuerzos del gobierno por fomentar el diálogo con los nuevos actores económicos y promover encadenamientos productivos que contribuyan a la soberanía alimentaria y a la sustitución de importaciones. Los emprendedores expusieron sus experiencias y desafíos en medio del complejo escenario económico, mientras que las autoridades reafirmaron su compromiso de apoyar las iniciativas del sector no estatal que aporten al bienestar de la comunidad.",
       "category": "General",
-      "date": "Lunes 1 de junio de 2026",
-      "excerpt": "Varias actividades culturales fueron previstas para hoy en centros educativos de Bayamo, con motivo del Día Internacional de la Infancia."
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "Este miércoles representantes del sector no estatal de la economía en Bayamo sostuvieron un encuentro con las autoridades locales, para dialogar sobre el papel de los emprendedores en el desarrollo económico del territorio."
     },
     {
-      "id": "news-1780339677642-3",
-      "title": "Pueblo cubano ratifica apoyo a Raúl Castro en tribunas abiertas en todo el país",
-      "author": "Prensa Latina",
-      "content": "El pueblo cubano ratifica hoy su apoyo a Raúl Castro en tribunas abiertas en todo el país, en rechazo a la imputación del Departamento de Justicia de Estados Unidos contra el líder de la Revolución. Las concentraciones, iniciadas el pasado 23 de mayo, se extenderán hasta el 3 de junio, fecha del 95 cumpleaños del general de ejército. Las movilizaciones más recientes tuvieron lugar en Camagüey y Pinar del Río, donde miles de personas expresaron su respaldo unánime al líder de la Revolución.",
+      "id": "news-1780586308858-2",
+      "title": "Graduó hoy a sus estudiantes de duodécimo grado la Escuela de Iniciación Deportiva",
+      "author": "Redacción RCM",
+      "content": "El acto de graduación de los estudiantes de duodécimo grado de la Escuela de Iniciación Deportiva (EIDE) Pedro Batista Fonseca se realizó hoy en el complejo Bayam de Bayamo. Los jóvenes atletas recibieron sus diplomas tras completar su formación deportiva y académica, que los prepara para continuar estudios superiores o integrarse al deporte de alto rendimiento. La ceremonia contó con la presencia de autoridades del sector deportivo, familiares y entrenadores, quienes reconocieron el esfuerzo y la dedicación de los graduados durante su paso por la institución, que forma parte del sistema de enseñanza deportiva en la provincia de Granma.",
       "category": "General",
-      "date": "Lunes 1 de junio de 2026",
-      "excerpt": "El pueblo cubano ratifica hoy su apoyo a Raúl Castro en tribunas abiertas en todo el país, en rechazo a la imputación del Departamento de Justicia de Estados Unidos contra el líder de la Revolución."
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "El acto de graduación de los estudiantes de duodécimo grado de la Escuela de Iniciación Deportiva (EIDE) Pedro Batista Fonseca se realizó hoy en el complejo Bayam de Bayamo."
     },
     {
-      "id": "news-1780339677642-4",
-      "title": "Irán no aceptará ningún acuerdo mientras no se garanticen plenamente los derechos del pueblo iraní",
-      "author": "Prensa Latina",
-      "content": "El presidente del Parlamento y jefe del equipo negociador de Irán, Mohammad Bagher Qalibaf, afirmó este domingo que Teherán no aceptará ningún acuerdo en las negociaciones en curso con Estados Unidos mientras no se garanticen plenamente los derechos del pueblo iraní. Durante una sesión virtual del Parlamento, Qalibaf aseguró que la diplomacia iraní tiene como objetivo consolidar los logros alcanzados por la nación y obtener beneficios concretos para sus ciudadanos, según reportó la agencia oficial IRNA.",
+      "id": "news-1780586308858-3",
+      "title": "Banco extranjero interrumpe relación con FINCIMEX por orden ejecutiva de Trump",
+      "author": "Cubadebate",
+      "content": "Con fecha 2 de junio se ha recibido comunicación de un banco extranjero, procesador de operaciones con tarjetas VISA y MASTERCARD en Cuba, de interrumpir su relación con FINCIMEX S.A. Esta interrupción se relaciona directamente con la Orden Ejecutiva número 14404 del 1 de mayo, emitida por el presidente Donald Trump como parte de su estrategia de asfixia contra Cuba. El banco informó que a partir del 6 de junio se hace ilícito continuar con los acuerdos. Se mantienen como medios de pago en divisas: efectivo, tarjetas prepago nacionales Clásica y Tropical, así como las internacionales Mir y Union Pay.",
       "category": "General",
-      "date": "Lunes 1 de junio de 2026",
-      "excerpt": "El presidente del Parlamento y jefe del equipo negociador de Irán, Mohammad Bagher Qalibaf, afirmó este domingo que Teherán no aceptará ningún acuerdo en las negociaciones en curso con Estados Unidos mientras no se garanticen plenamente los derechos del pueblo iraní."
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "Con fecha 2 de junio se ha recibido comunicación de un banco extranjero, procesador de operaciones con tarjetas VISA y MASTERCARD en Cuba, de interrumpir su relación con FINCIMEX S.A."
+    },
+    {
+      "id": "news-1780586308858-4",
+      "title": "Cámara de Representantes de EE.UU. aprueba resolución que limita poderes de guerra de Trump en Irán",
+      "author": "Prensa Latina",
+      "content": "La Cámara de Representantes de Estados Unidos aprobó este miércoles una resolución que limitará los poderes de guerra del presidente Donald Trump en Irán, un resultado que muestra el rechazo de algunos republicanos a su manejo del conflicto. Los demócratas han forzado repetidamente votaciones para limitar los poderes de guerra. La resolución se aprobó por 215 votos a 208, con el apoyo de cuatro congresistas republicanos que cruzaron líneas partidistas: Thomas Massie, Brian Fitzpatrick, Tom Barrett y Warren Davidson. La votación evidencia que la agenda del presidente ya no tiene respaldo monolítico de sus correligionarios.",
+      "category": "General",
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "La Cámara de Representantes de Estados Unidos aprobó este miércoles una resolución que limitará los poderes de guerra del presidente Donald Trump en Irán, un resultado que muestra el rechazo de algunos republicanos a su manejo del conflicto."
+    },
+    {
+      "id": "news-1780586308858-5",
+      "title": "Clausuran vigésimo séptimo Coloquio de Literatura en Biblioteca Provincial de Bayamo",
+      "author": "Redacción RCM",
+      "content": "El vigésimo séptimo Coloquio de Literatura quedó clausurado en la Biblioteca Provincial 1868 de Bayamo, dedicado al aniversario 45 del Día del Bibliotecario Cubano, fecha que se celebra cada 7 de junio en honor al bibliógrafo Antonio Bachiller y Morales. Varias ponencias se presentaron destacando la importancia de la lectura, sobre todo en la formación de las nuevas generaciones. El cierre del evento, presidido por Ridiel Roblejo Leyva, director provincial de Cultura, contó con la participación especial de los niños del proyecto infantil Los Andantinos.",
+      "category": "General",
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "El vigésimo séptimo Coloquio de Literatura quedó clausurado en la Biblioteca Provincial 1868 de Bayamo, dedicado al aniversario 45 del Día del Bibliotecario Cubano, fecha que se celebra cada 7 de junio en honor al bibliógrafo Antonio Bachiller y Morales."
+    },
+    {
+      "id": "news-1780586308858-6",
+      "title": "Otorgan condición de Distinguido Nacional a varias entidades en Granma",
+      "author": "Radio Bayamo",
+      "content": "El intenso trabajo desarrollado por las administraciones y secciones sindicales, en estrecha unión con los colectivos laborales, ha resultado en el otorgamiento de la condición de Distinguido Nacional de este sector a varias entidades. La entrega del estímulo se realiza en el marco de la jornada para homenajear a Fidel en el Año de su Centenario, al General de Ejército en su 95 cumpleaños y como saludo al 22 Congreso de la CTC. Entre los centros distinguidos se encuentra la Unidad Empresarial de Base Seguro Granma. Manuel Díaz Alcalá, director, señaló que en 2025 pagaron una comisión de 22 millones de pesos, tuvieron 265 millones de ingresos y 365 millones en indemnización a clientes.",
+      "category": "General",
+      "date": "Jueves 4 de junio de 2026",
+      "excerpt": "El intenso trabajo desarrollado por las administraciones y secciones sindicales, en estrecha unión con los colectivos laborales, ha resultado en el otorgamiento de la condición de Distinguido Nacional de este sector a varias entidades."
     }
   ],
   "fichas": [
@@ -29936,6 +29960,12 @@
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-4TX5",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "4/6/2026"
         }
       ]
     },
