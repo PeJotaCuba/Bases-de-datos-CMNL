@@ -438,6 +438,12 @@
           "name": "GAISLap",
           "type": "PC",
           "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-ETN9",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "7/6/2026"
         }
       ]
     },
@@ -4471,17 +4477,907 @@
       ]
     }
   ],
-  "worklogs": [],
+  "worklogs": [
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    }
+  ],
   "consolidated": [],
   "interruptions": [],
-  "consolidatedMonths": [],
+  "consolidatedMonths": [
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
+    }
+  ],
   "habitualExclusions": [
+    {
+      "username": "admin",
+      "exclusions": []
+    },
+    {
+      "username": "lissell",
+      "exclusions": [
+        {
+          "date": "2026-03-21",
+          "programName": "Parada Joven",
+          "role": "Asesor"
+        }
+      ]
+    },
+    {
+      "username": "rafael",
+      "exclusions": []
+    },
+    {
+      "username": "ernesto",
+      "exclusions": []
+    },
+    {
+      "username": "johan",
+      "exclusions": []
+    },
+    {
+      "username": "humberto",
+      "exclusions": []
+    },
+    {
+      "username": "viviana",
+      "exclusions": []
+    },
     {
       "username": "admincmnl",
       "exclusions": []
     }
   ],
   "habitualModes": [
+    {
+      "username": "admin",
+      "mode": false
+    },
+    {
+      "username": "lissell",
+      "mode": true
+    },
+    {
+      "username": "rafael",
+      "mode": true
+    },
+    {
+      "username": "ernesto",
+      "mode": false
+    },
+    {
+      "username": "johan",
+      "mode": false
+    },
+    {
+      "username": "humberto",
+      "mode": false
+    },
+    {
+      "username": "viviana",
+      "mode": false
+    },
     {
       "username": "admincmnl",
       "mode": false
@@ -20416,6 +21312,445 @@
         "content": "\r\nPrograma: HABLANDO CON JUANA\r\nFecha: 17 DE OCTUBRE DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: TRIGÉSIMO PRIMERA EDICIÓN DE LA FIESTA DE LA CUBANÍA\r\n"
       }
     ],
+    "guionbd_data_ritmo.json": [
+      {
+        "id": "17754845279230.9638072971600637",
+        "title": "El significado de la inteligencia emocional y cómo usarla en beneficio de nuestro bienestar.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 27 de diciembre de 2025",
+        "themes": [
+          "El significado de la inteligencia emocional y cómo usarla en beneficio de nuestro bienestar."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 27 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: El significado de la inteligencia emocional y cómo usarla en beneficio de nuestro bienestar.\r\n"
+      },
+      {
+        "id": "17754845279660.1613607728136196",
+        "title": "Racismo entre adolescentes, ¿cómo se manifiesta en la actualidad?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 30 de agosto de 2025",
+        "themes": [
+          "Racismo entre adolescentes",
+          "¿cómo se manifiesta en la actualidad?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 30 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Racismo entre adolescentes, ¿cómo se manifiesta en la actualidad?\r\n"
+      },
+      {
+        "id": "17754845279620.015722804946200486",
+        "title": "PRESENTACIÓN/",
+        "writer": "NO ESPECIFICADO",
+        "advisor": "NO ESPECIFICADO",
+        "dateAdded": "inicial de arranque para el ocho de febrero fue pospuesta de manera indefinida.",
+        "themes": [
+          "PRESENTACIÓN/"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: de las Naciones Unidas para el Desarrollo y otros actores comunitarios, participaron este miércoles en el lanzamiento aquí en Bayamo de la campaña “Sigue a tu ritmo, PrEP”, una opción para prevenir el VIH.\r\nFecha: inicial de arranque para el ocho de febrero fue pospuesta de manera indefinida.\r\nEscritor: NO ESPECIFICADO\r\nAsesor: NO ESPECIFICADO\r\nTema: PRESENTACIÓN/\r\n"
+      },
+      {
+        "id": "17754845279660.4643900026325869",
+        "title": "La autoestima en los adolescentes.",
+        "writer": "Arnaldo Ernesto Torres García.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 12 de julio de 2025",
+        "themes": [
+          "La autoestima en los adolescentes."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "Programa: SIGUE A TU RITMO\r\nFecha: SÁBADO, 12 de julio de 2025\r\nEscritor: Arnaldo Ernesto Torres García.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La autoestima en los adolescentes.\r\n"
+      },
+      {
+        "id": "17754845279660.19765547619659352",
+        "title": "Por qué respetar las opiniones de nuestros compañeros.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 19 de julio de 2025",
+        "themes": [
+          "Por qué respetar las opiniones de nuestros compañeros."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 19 de julio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Por qué respetar las opiniones de nuestros compañeros.\r\n"
+      },
+      {
+        "id": "17754845279660.2576909764836559",
+        "title": "Cómo usar los valores morales y la identidad para ser atractivos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 26 de julio de 2025",
+        "themes": [
+          "Cómo usar los valores morales y la identidad para ser atractivos."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 26 de julio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo usar los valores morales y la identidad para ser atractivos.\r\n"
+      },
+      {
+        "id": "17754845279660.6070626955006777",
+        "title": "Cómo afrontar el divorcio de los padres durante la adolescencia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 5 de julio de 2025",
+        "themes": [
+          "Cómo afrontar el divorcio de los padres durante la adolescencia."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 5 de julio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo afrontar el divorcio de los padres durante la adolescencia.\r\n"
+      },
+      {
+        "id": "17754845279660.1140195438866013",
+        "title": "Cómo manejar la relación con los padres cuando le presentas una pareja.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 16 de agosto de 2025",
+        "themes": [
+          "Cómo manejar la relación con los padres cuando le presentas una pareja."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 16 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo manejar la relación con los padres cuando le presentas una pareja.\r\n"
+      },
+      {
+        "id": "17754845279660.45994309320630267",
+        "title": "Por qué NO caer en el consumo de drogas.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 2 de agosto de 2025",
+        "themes": [
+          "Por qué NO caer en el consumo de drogas."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 2 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Por qué NO caer en el consumo de drogas.\r\n"
+      },
+      {
+        "id": "17754845279660.17115673133158693",
+        "title": "Cómo lograr respeto y dignidad cuando eres una adolescente.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 23 de agosto de 2025",
+        "themes": [
+          "Cómo lograr respeto y dignidad cuando eres una adolescente."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 23 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo lograr respeto y dignidad cuando eres una adolescente.\r\n"
+      },
+      {
+        "id": "17754845279660.8632512255427591",
+        "title": "Diversión con responsabilidad en días de fiesta.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 9 de agosto de 2025",
+        "themes": [
+          "Diversión con responsabilidad en días de fiesta."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 9 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Diversión con responsabilidad en días de fiesta.\r\n"
+      },
+      {
+        "id": "17754845279660.8988481036015726",
+        "title": "Tener dinero o tener cultura, ¿escoger una o equilibrar ambas?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 13 de septiembre de 2025",
+        "themes": [
+          "Tener dinero o tener cultura",
+          "¿escoger una o equilibrar ambas?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 13 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Tener dinero o tener cultura, ¿escoger una o equilibrar ambas?\r\n"
+      },
+      {
+        "id": "17754845279660.9295576552741981",
+        "title": "¿Cuál es el valor de la responsabilidad con la libertad de expresión en las redes sociales?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 20 de septiembre de 2025",
+        "themes": [
+          "¿Cuál es el valor de la responsabilidad con la libertad de expresión en las redes sociales?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 20 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Cuál es el valor de la responsabilidad con la libertad de expresión en las redes sociales?\r\n"
+      },
+      {
+        "id": "17754845279660.060354110146528694",
+        "title": "Me gusta mi mejor amigo, ¿qué puedo hacer?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 6 de septiembre de 2025",
+        "themes": [
+          "Me gusta mi mejor amigo",
+          "¿qué puedo hacer?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 6 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Me gusta mi mejor amigo, ¿qué puedo hacer?\r\n"
+      },
+      {
+        "id": "17754845279660.0029593495490082278",
+        "title": "¿Cómo enfrentar la pérdida de uno de los padres?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 27 de septiembre de 2025",
+        "themes": [
+          "¿Cómo enfrentar la pérdida de uno de los padres?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 27 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Cómo enfrentar la pérdida de uno de los padres?\r\n"
+      },
+      {
+        "id": "17754845279660.6450430483383299",
+        "title": "¿Por qué algunos adolescentes mantienen rasgos machistas de generaciones anteriores?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 11 de octubre de 2025",
+        "themes": [
+          "¿Por qué algunos adolescentes mantienen rasgos machistas de generaciones anteriores?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 11 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Por qué algunos adolescentes mantienen rasgos machistas de generaciones anteriores?\r\n"
+      },
+      {
+        "id": "17754845279660.1697825705463143",
+        "title": "¿Puede el arte ayudarnos a sanar y seguir adelante?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 18 de octubre de 2025",
+        "themes": [
+          "¿Puede el arte ayudarnos a sanar y seguir adelante?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 18 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Puede el arte ayudarnos a sanar y seguir adelante?\r\n"
+      },
+      {
+        "id": "17754845279660.736263525655565",
+        "title": "¿Cómo saber si tengo una obsesión por alguien?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 25 de octubre de 2025",
+        "themes": [
+          "¿Cómo saber si tengo una obsesión por alguien?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 25 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Cómo saber si tengo una obsesión por alguien?\r\n"
+      },
+      {
+        "id": "17754845279660.06565934385867822",
+        "title": "¿Cómo ayudan los animales afectivos en la estabilidad emocional de los adolescentes?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 4 de octubre de 2025",
+        "themes": [
+          "¿Cómo ayudan los animales afectivos en la estabilidad emocional de los adolescentes?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 4 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Cómo ayudan los animales afectivos en la estabilidad emocional de los adolescentes?\r\n"
+      },
+      {
+        "id": "17754845279660.39779556426205975",
+        "title": "La solidaridad en la adolescencia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 29 de noviembre de 2025",
+        "themes": [
+          "La solidaridad en la adolescencia."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 29 de noviembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La solidaridad en la adolescencia.\r\n"
+      },
+      {
+        "id": "17754845279660.6480794321449617",
+        "title": "Cómo afrontar el divorcio de los padres.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 13 de diciembre de 2025",
+        "themes": [
+          "Cómo afrontar el divorcio de los padres."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 13 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo afrontar el divorcio de los padres.\r\n"
+      },
+      {
+        "id": "17754845279660.2544472212557901",
+        "title": "Cómo ganarse el respeto de los demás.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 20 de diciembre de 2025",
+        "themes": [
+          "Cómo ganarse el respeto de los demás."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 20 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo ganarse el respeto de los demás.\r\n"
+      },
+      {
+        "id": "17754845279660.2084559677684359",
+        "title": "A quién escuchar en cuestiones personales: ¿padres o amigos?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 6 de diciembre de 2025",
+        "themes": [
+          "A quién escuchar en cuestiones personales: ¿padres o amigos?"
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 6 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: A quién escuchar en cuestiones personales: ¿padres o amigos?\r\n"
+      },
+      {
+        "id": "17755028953020.9596332812915235",
+        "title": "Cómo gestionar la ansiedad ante los exámenes finales.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 24 de enero de 2026",
+        "themes": [
+          "Cómo gestionar la ansiedad ante los exámenes finales."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "Programa: SIGUE A TU RITMO\r\nFecha: SÁBADO, 24 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo gestionar la ansiedad ante los exámenes finales.\r\n"
+      },
+      {
+        "id": "17755028953020.637042980669789",
+        "title": "Cómo utilizar el optimismo en pos de las nuevas metas del año.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 3 de enero de 2026",
+        "themes": [
+          "Cómo utilizar el optimismo en pos de las nuevas metas del año."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 3 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo utilizar el optimismo en pos de las nuevas metas del año.\r\n"
+      },
+      {
+        "id": "17755028953020.46076152167025564",
+        "title": "En qué medida influye el grupo de amigos en la pareja que debe tener uno de sus miembros.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 10 de enero de 2026",
+        "themes": [
+          "En qué medida influye el grupo de amigos en la pareja que debe tener uno de sus miembros."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 10 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: En qué medida influye el grupo de amigos en la pareja que debe tener uno de sus miembros.\r\n"
+      },
+      {
+        "id": "17755028953020.22410949016944637",
+        "title": "Manejo del tiempo libre y establecimiento de prioridades en la adolescencia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 31 de enero de 2026",
+        "themes": [
+          "Manejo del tiempo libre y establecimiento de prioridades en la adolescencia."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 31 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Manejo del tiempo libre y establecimiento de prioridades en la adolescencia.\r\n"
+      },
+      {
+        "id": "17755028953020.5036291776831373",
+        "title": "La solidaridad en la adolescencia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 14 de febrero de 2026",
+        "themes": [
+          "La solidaridad en la adolescencia."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 14 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La solidaridad en la adolescencia.\r\n"
+      },
+      {
+        "id": "17755028953020.2781098435666758",
+        "title": "Cómo desarrollar la creatividad y el pensamiento innovador desde la adolescencia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 7 de febrero de 2026",
+        "themes": [
+          "Cómo desarrollar la creatividad y el pensamiento innovador desde la adolescencia."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 7 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo desarrollar la creatividad y el pensamiento innovador desde la adolescencia.\r\n"
+      },
+      {
+        "id": "17755028953020.968338408342443",
+        "title": "Por qué es necesario hablar de la sexualidad entre adolescentes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 21 de febrero de 2026",
+        "themes": [
+          "Por qué es necesario hablar de la sexualidad entre adolescentes."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 21 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Por qué es necesario hablar de la sexualidad entre adolescentes.\r\n"
+      },
+      {
+        "id": "17755028953020.2949110546754211",
+        "title": "Autoestima y aceptación personal, claves para adolescentes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 28 de febrero de 2026",
+        "themes": [
+          "Autoestima y aceptación personal",
+          "claves para adolescentes."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 28 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Autoestima y aceptación personal, claves para adolescentes.\r\n"
+      },
+      {
+        "id": "17755028953020.34098573222561146",
+        "title": "La presión social en la adolescencia: cómo decir “no” sin perder amigos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 21 de marzo de 2026",
+        "themes": [
+          "La presión social en la adolescencia: cómo decir “no” sin perder amigos."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 21 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La presión social en la adolescencia: cómo decir “no” sin perder amigos.\r\n"
+      },
+      {
+        "id": "17755028953020.48283403576607165",
+        "title": "El impacto de las redes sociales en la autoestima de los adolescentes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 28 de marzo de 2026",
+        "themes": [
+          "El impacto de las redes sociales en la autoestima de los adolescentes."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 28 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: El impacto de las redes sociales en la autoestima de los adolescentes.\r\n"
+      },
+      {
+        "id": "17755028953020.7494094881277281",
+        "title": "Cómo los adolescentes pueden manejar la ansiedad ante los exámenes finales y las pruebas de ingreso.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 7 de marzo de 2026",
+        "themes": [
+          "Cómo los adolescentes pueden manejar la ansiedad ante los exámenes finales y las pruebas de ingreso."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 7 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo los adolescentes pueden manejar la ansiedad ante los exámenes finales y las pruebas de ingreso.\r\n"
+      },
+      {
+        "id": "17755028953020.9876303407855791",
+        "title": "Comunicación asertiva para adolescentes, cómo expresar emociones y resolver conflictos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 14 de marzo de 2026",
+        "themes": [
+          "Comunicación asertiva para adolescentes",
+          "cómo expresar emociones y resolver conflictos."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 14 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Comunicación asertiva para adolescentes, cómo expresar emociones y resolver conflictos.\r\n"
+      },
+      {
+        "id": "17755028953020.22508025407559273",
+        "title": "Referentes femeninas para las adolescentes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "SÁBADO, 4 de abril de 2026",
+        "themes": [
+          "Referentes femeninas para las adolescentes."
+        ],
+        "genre": "SIGUE A TU RITMO",
+        "content": "\r\nPrograma: SIGUE A TU RITMO\r\nFecha: SÁBADO, 4 de abril de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Referentes femeninas para las adolescentes.\r\n"
+      }
+    ],
     "guionbd_data_son.json": [
       {
         "id": "17797476085960.049508321800027844",
@@ -20428,6 +21763,2443 @@
         ],
         "genre": "AL SON DE LA RADIO",
         "content": "\r\nPrograma: AL SON DE LA RADIO\r\nFecha: 10 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: EL SEPTETO SANTIAGUERO: GUARDIÁN Y RENOVADOR DEL SON\r\n"
+      }
+    ],
+    "guionbd_data_complices.json": [
+      {
+        "id": "17754845279220.9094189585436323",
+        "title": "En qué medida el divorcio afecta a niños, niñas y adolescentes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "7 de julio de 2024",
+        "themes": [
+          "En qué medida el divorcio afecta a niños",
+          "niñas y adolescentes."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "Programa: CÓMPLICES\r\nFecha: 7 de julio de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: En qué medida el divorcio afecta a niños, niñas y adolescentes.\r\n"
+      },
+      {
+        "id": "17754845279220.5371149919879727",
+        "title": "Fortalezas y debilidades del temperamento sanguíneo.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "14 de julio de 2024",
+        "themes": [
+          "Fortalezas y debilidades del temperamento sanguíneo."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 14 de julio de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Fortalezas y debilidades del temperamento sanguíneo.\r\n"
+      },
+      {
+        "id": "17754845279300.18340953454815945",
+        "title": "Patrones de comportamiento que sabotean tu autoestima.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "21 de julio de 2024",
+        "themes": [
+          "Patrones de comportamiento que sabotean tu autoestima."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 21 de julio de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Patrones de comportamiento que sabotean tu autoestima.\r\n"
+      },
+      {
+        "id": "17754845279220.5227073192176777",
+        "title": "Por qué hay personas que no te miran a los ojos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "28 de julio de 2024",
+        "themes": [
+          "Por qué hay personas que no te miran a los ojos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 28 de julio de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Por qué hay personas que no te miran a los ojos.\r\n"
+      },
+      {
+        "id": "17754845279220.9738839028957335",
+        "title": "La vitamina P y sus beneficios para la piel.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "18 de agosto de 2024",
+        "themes": [
+          "La vitamina P y sus beneficios para la piel."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 18 de agosto de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La vitamina P y sus beneficios para la piel.\r\n"
+      },
+      {
+        "id": "17754845279220.3799126230833092",
+        "title": "Presencia de Fidel en Granma.",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "CARIDAD AGUILAR ROSABAL.",
+        "dateAdded": "11 de agosto de 2024",
+        "themes": [
+          "Presencia de Fidel en Granma."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 11 de agosto de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: CARIDAD AGUILAR ROSABAL.\r\nTema: Presencia de Fidel en Granma.\r\n"
+      },
+      {
+        "id": "17754845279220.84382516887263",
+        "title": "La verdadera importancia de tener amigos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "1ro de septiembre de 2024",
+        "themes": [
+          "La verdadera importancia de tener amigos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 1ro de septiembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La verdadera importancia de tener amigos.\r\n"
+      },
+      {
+        "id": "17754845279220.5293345522344217",
+        "title": "La conexión entre los hábitos de sueño y la salud mental.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "22 de septiembre de 2024",
+        "themes": [
+          "La conexión entre los hábitos de sueño y la salud mental."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 22 de septiembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La conexión entre los hábitos de sueño y la salud mental.\r\n"
+      },
+      {
+        "id": "17754845279230.507267146663131",
+        "title": "La responsabilidad en la educación de los niños.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "8 de septiembre de 2024",
+        "themes": [
+          "La responsabilidad en la educación de los niños."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 8 de septiembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La responsabilidad en la educación de los niños.\r\n"
+      },
+      {
+        "id": "17754845279230.7160653319757369",
+        "title": "El respeto a nuestros símbolos.",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "15 de septiembre de 2024",
+        "themes": [
+          "El respeto a nuestros símbolos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 15 de septiembre de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: El respeto a nuestros símbolos.\r\n"
+      },
+      {
+        "id": "17754845279230.48364448690862283",
+        "title": "Salud sexual en las redes.",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "29 de septiembre de 2024",
+        "themes": [
+          "Salud sexual en las redes."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 29 de septiembre de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Salud sexual en las redes.\r\n"
+      },
+      {
+        "id": "17754845279230.7595275439251481",
+        "title": "Desgaste psicológico causado por el trabajo.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "27 de octubre de 2024",
+        "themes": [
+          "Desgaste psicológico causado por el trabajo."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 27 de octubre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Desgaste psicológico causado por el trabajo.\r\n"
+      },
+      {
+        "id": "17754845279230.5907662136666686",
+        "title": "La importancia de la lectura",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "13 de octubre de 2024",
+        "themes": [
+          "La importancia de la lectura"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 13 de octubre de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La importancia de la lectura\r\n"
+      },
+      {
+        "id": "17754845279230.020287819255913164",
+        "title": "Día de la Cultura Cubana",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "20 de octubre de 2024",
+        "themes": [
+          "Día de la Cultura Cubana"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 20 de octubre de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Día de la Cultura Cubana\r\n"
+      },
+      {
+        "id": "17754845279230.16098478029120433",
+        "title": "Cómo quererse mejor a uno mismo.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "3 de noviembre de 2023",
+        "themes": [
+          "Cómo quererse mejor a uno mismo."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 3 de noviembre de 2023\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo quererse mejor a uno mismo.\r\n"
+      },
+      {
+        "id": "17754845279230.7393741117206937",
+        "title": "¿Pueden las mascotas sustituir las relaciones humanas?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "10 de noviembre de 2023",
+        "themes": [
+          "¿Pueden las mascotas sustituir las relaciones humanas?"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 10 de noviembre de 2023\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Pueden las mascotas sustituir las relaciones humanas?\r\n"
+      },
+      {
+        "id": "17754845279230.3124307065556702",
+        "title": "La Importancia De Dar Gracias.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "24 de noviembre de 2024",
+        "themes": [
+          "La Importancia De Dar Gracias."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 24 de noviembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La Importancia De Dar Gracias.\r\n"
+      },
+      {
+        "id": "17754845279230.12157649714834229",
+        "title": "Cómo tus relaciones afectan a tu autoestima.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "17 de noviembre de 2024",
+        "themes": [
+          "Cómo tus relaciones afectan a tu autoestima."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 17 de noviembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cómo tus relaciones afectan a tu autoestima.\r\n"
+      },
+      {
+        "id": "17754845279230.14497434255971076",
+        "title": "Cómo afectan las adicciones al entorno familiar.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "15 de diciembre de 2024",
+        "themes": [
+          "Cómo afectan las adicciones al entorno familiar."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 15 de diciembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo afectan las adicciones al entorno familiar.\r\n"
+      },
+      {
+        "id": "17754845279230.4012499895085415",
+        "title": "Los colores del año",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "29 de diciembre de 2024",
+        "themes": [
+          "Los colores del año"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 29 de diciembre de 2024\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Los colores del año\r\n"
+      },
+      {
+        "id": "17754845279230.6783644388808261",
+        "title": "Significado de las rosas rojas.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "8 de diciembre de 2024",
+        "themes": [
+          "Significado de las rosas rojas."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 8 de diciembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Significado de las rosas rojas.\r\n"
+      },
+      {
+        "id": "17754845279230.7215096288049772",
+        "title": "Claves para aumentar tu autoestima.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "1ro de diciembre de 2024",
+        "themes": [
+          "Claves para aumentar tu autoestima."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 1ro de diciembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Claves para aumentar tu autoestima.\r\n"
+      },
+      {
+        "id": "17754845279230.05799352938666191",
+        "title": "Cómo ser más amables.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "22 de diciembre de 2024",
+        "themes": [
+          "Cómo ser más amables."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 22 de diciembre de 2024\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo ser más amables.\r\n"
+      },
+      {
+        "id": "17754845279230.4534398494016213",
+        "title": "Incendio de Bayamo",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "12 de enero de 2025",
+        "themes": [
+          "Incendio de Bayamo"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 12 de enero de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Incendio de Bayamo\r\n"
+      },
+      {
+        "id": "17754845279230.33015715484855657",
+        "title": "“La salud mental”",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "5 de enero de 2025",
+        "themes": [
+          "“La salud mental”"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 5 de enero de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: “La salud mental”\r\n"
+      },
+      {
+        "id": "17754845279230.2840999778317931",
+        "title": "Cómo prevenir las enfermedades respiratorias de forma saludable.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "19 de enero de 2025",
+        "themes": [
+          "Cómo prevenir las enfermedades respiratorias de forma saludable."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 19 de enero de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo prevenir las enfermedades respiratorias de forma saludable.\r\n"
+      },
+      {
+        "id": "17754845279230.7049179974714378",
+        "title": "Las diferencias entre lealtad y fidelidad.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "26 de enero de 2025",
+        "themes": [
+          "Las diferencias entre lealtad y fidelidad."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 26 de enero de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Las diferencias entre lealtad y fidelidad.\r\n"
+      },
+      {
+        "id": "17754845279230.4224628211741065",
+        "title": "Cómo evitar la depresión y algunos consejos para prevenir la recaída.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "9 de febrero de 2025",
+        "themes": [
+          "Cómo evitar la depresión y algunos consejos para prevenir la recaída."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 9 de febrero de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo evitar la depresión y algunos consejos para prevenir la recaída.\r\n"
+      },
+      {
+        "id": "17754845279230.8313763864054358",
+        "title": "Día mundial de los humedales.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "2 de febrero de 2025",
+        "themes": [
+          "Día mundial de los humedales."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 2 de febrero de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Día mundial de los humedales.\r\n"
+      },
+      {
+        "id": "17754845279230.5896359161772432",
+        "title": "Cuidemos el corazón.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "16 de febrero de 2025",
+        "themes": [
+          "Cuidemos el corazón."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 16 de febrero de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cuidemos el corazón.\r\n"
+      },
+      {
+        "id": "17754845279230.8038852151330665",
+        "title": "Amistad en lo seres humanos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "2 de marzo de 2025",
+        "themes": [
+          "Amistad en lo seres humanos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 2 de marzo de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Amistad en lo seres humanos.\r\n"
+      },
+      {
+        "id": "17754845279230.27593866580925897",
+        "title": "Qué es el sentimiento de soledad, por qué se produce y cómo   superarlo.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "9 de marzo de 2025",
+        "themes": [
+          "Qué es el sentimiento de soledad",
+          "por qué se produce y cómo   superarlo."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 9 de marzo de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Qué es el sentimiento de soledad, por qué se produce y cómo   superarlo.\r\n"
+      },
+      {
+        "id": "17754845279230.3186937678880114",
+        "title": "Aprender idiomas",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "16 de marzo de 2025",
+        "themes": [
+          "Aprender idiomas"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 16 de marzo de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Aprender idiomas\r\n"
+      },
+      {
+        "id": "17754845279230.9280952655792993",
+        "title": "Por qué hay personas que no te miran a los ojos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "13 de abril de 2025",
+        "themes": [
+          "Por qué hay personas que no te miran a los ojos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 13 de abril de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Por qué hay personas que no te miran a los ojos.\r\n"
+      },
+      {
+        "id": "17754845279230.7059199550626631",
+        "title": "La educación en valores desde la familia en el contexto actual.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "6 de abril de 2025",
+        "themes": [
+          "La educación en valores desde la familia en el contexto actual."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 6 de abril de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La educación en valores desde la familia en el contexto actual.\r\n"
+      },
+      {
+        "id": "17754845279230.7814677947596885",
+        "title": "Conducta y comportamiento, ¿es lo mismo?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "20 de abril de 2025",
+        "themes": [
+          "Conducta y comportamiento",
+          "¿es lo mismo?"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 20 de abril de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Conducta y comportamiento, ¿es lo mismo?\r\n"
+      },
+      {
+        "id": "17754845279230.8271913228313895",
+        "title": "Eliminemos la homofobia de nuestros hogares.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "18 de mayo de 2025",
+        "themes": [
+          "Eliminemos la homofobia de nuestros hogares."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 18 de mayo de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Eliminemos la homofobia de nuestros hogares.\r\n"
+      },
+      {
+        "id": "17754845279230.4688621068748702",
+        "title": "¿Por qué los perros imitan a los humanos?",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "4 de mayo de 2025",
+        "themes": [
+          "¿Por qué los perros imitan a los humanos?"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 4 de mayo de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: ¿Por qué los perros imitan a los humanos?\r\n"
+      },
+      {
+        "id": "17754845279230.4439929953526637",
+        "title": "Día de las madres",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "11 de mayo de 2025",
+        "themes": [
+          "Día de las madres"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 11 de mayo de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Día de las madres\r\n"
+      },
+      {
+        "id": "17754845279230.4514194102629515",
+        "title": "Consejos para ser un padre-paradigma para los hijos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "15 de junio de 2025",
+        "themes": [
+          "Consejos para ser un padre-paradigma para los hijos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 15 de junio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Consejos para ser un padre-paradigma para los hijos.\r\n"
+      },
+      {
+        "id": "17754845279230.2566971479976965",
+        "title": "Consejos para renovar el lugar donde vivimos.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "29 de junio de 2025",
+        "themes": [
+          "Consejos para renovar el lugar donde vivimos."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 29 de junio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Consejos para renovar el lugar donde vivimos.\r\n"
+      },
+      {
+        "id": "17754845279230.11521985339552232",
+        "title": "Cómo quererse mejor a uno mismo.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "8 de junio de 2025",
+        "themes": [
+          "Cómo quererse mejor a uno mismo."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 8 de junio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo quererse mejor a uno mismo.\r\n"
+      },
+      {
+        "id": "17754845279230.10186299574464963",
+        "title": "La vida luego de la viudez",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "22 de junio de 2025",
+        "themes": [
+          "La vida luego de la viudez"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 22 de junio de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La vida luego de la viudez\r\n"
+      },
+      {
+        "id": "17754845279230.7363758385446192",
+        "title": "Las diferencias entre tener y poseer.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "17 de julio de 2025",
+        "themes": [
+          "Las diferencias entre tener y poseer."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 17 de julio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Las diferencias entre tener y poseer.\r\n"
+      },
+      {
+        "id": "17754845279230.3054335546923207",
+        "title": "La formación de valores patrios desde casa.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "27 de julio de 2025",
+        "themes": [
+          "La formación de valores patrios desde casa."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 27 de julio de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La formación de valores patrios desde casa.\r\n"
+      },
+      {
+        "id": "17754845279230.431941855222849",
+        "title": "La familia ante el Trastorno por Déficit de Atención e Hiperactividad.",
+        "writer": "ARNALDO ERNESTO TORRES GARCÍA",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "13 de julio de 2025",
+        "themes": [
+          "La familia ante el Trastorno por Déficit de Atención e Hiperactividad."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 13 de julio de 2025\r\nEscritor: ARNALDO ERNESTO TORRES GARCÍA\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: La familia ante el Trastorno por Déficit de Atención e Hiperactividad.\r\n"
+      },
+      {
+        "id": "17754845279230.9233266208237807",
+        "title": "Bayamo en carnaval.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "10 de agosto de 2025",
+        "themes": [
+          "Bayamo en carnaval."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 10 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Bayamo en carnaval.\r\n"
+      },
+      {
+        "id": "17754845279230.9428165499971033",
+        "title": "Cuidados personales en escenarios del verano.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "17 de agosto de 2025",
+        "themes": [
+          "Cuidados personales en escenarios del verano."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 17 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cuidados personales en escenarios del verano.\r\n"
+      },
+      {
+        "id": "17754845279230.2933191771983773",
+        "title": "Planificación familiar de parejas jóvenes.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "3 de agosto de 2025",
+        "themes": [
+          "Planificación familiar de parejas jóvenes."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 3 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Planificación familiar de parejas jóvenes.\r\n"
+      },
+      {
+        "id": "17754845279230.8286922256546315",
+        "title": "Cómo cambia el cerebro a medida que envejece.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "31 de agosto de 2025",
+        "themes": [
+          "Cómo cambia el cerebro a medida que envejece."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 31 de agosto de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo cambia el cerebro a medida que envejece.\r\n"
+      },
+      {
+        "id": "17754845279230.9989263568974905",
+        "title": "Cómo prevenir y tratar las enfermedades de la piel.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "14 de septiembre de 2025",
+        "themes": [
+          "Cómo prevenir y tratar las enfermedades de la piel."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 14 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cómo prevenir y tratar las enfermedades de la piel.\r\n"
+      },
+      {
+        "id": "17754845279230.548686460194444",
+        "title": "La memoria, formas de ejercitarla y principales enfermedades que la afectan.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "21 de septiembre de 2025",
+        "themes": [
+          "La memoria",
+          "formas de ejercitarla y principales enfermedades que la afectan."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 21 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La memoria, formas de ejercitarla y principales enfermedades que la afectan.\r\n"
+      },
+      {
+        "id": "17754845279230.5214560070328859",
+        "title": "Los CDR y su importancia .",
+        "writer": "Arnaldo Ernesto Torres García.",
+        "advisor": "Lisell Fontelo Danta.",
+        "dateAdded": "28 de septiembre de 2025",
+        "themes": [
+          "Los CDR y su importancia ."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 28 de septiembre de 2025\r\nEscritor: Arnaldo Ernesto Torres García.\r\nAsesor: Lisell Fontelo Danta.\r\nTema: Los CDR y su importancia .\r\n"
+      },
+      {
+        "id": "17754845279230.8938952625084221",
+        "title": "Cómo evitar la contaminación del aire en casa.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Caridad Aguilar Rosabal.",
+        "dateAdded": "7 de septiembre de 2025",
+        "themes": [
+          "Cómo evitar la contaminación del aire en casa."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 7 de septiembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Caridad Aguilar Rosabal.\r\nTema: Cómo evitar la contaminación del aire en casa.\r\n"
+      },
+      {
+        "id": "17754845279230.594077336500295",
+        "title": "Preparación en casa ante amenaza de huracanes o intensas lluvias.",
+        "writer": "Arnaldo Ernesto Torres García.",
+        "advisor": "Lisell Fontelo Danta.",
+        "dateAdded": "5 de octubre de 2025",
+        "themes": [
+          "Preparación en casa ante amenaza de huracanes o intensas lluvias."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 5 de octubre de 2025\r\nEscritor: Arnaldo Ernesto Torres García.\r\nAsesor: Lisell Fontelo Danta.\r\nTema: Preparación en casa ante amenaza de huracanes o intensas lluvias.\r\n"
+      },
+      {
+        "id": "17754845279230.02254073951655511",
+        "title": "Diversidad y riqueza cultural bayamesa.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "12 de octubre de 2025",
+        "themes": [
+          "Diversidad y riqueza cultural bayamesa."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 12 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Diversidad y riqueza cultural bayamesa.\r\n"
+      },
+      {
+        "id": "17754845279230.0511364187840756",
+        "title": "La cultura cubana.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "19 de octubre de 2025",
+        "themes": [
+          "La cultura cubana."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 19 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La cultura cubana.\r\n"
+      },
+      {
+        "id": "17754845279230.7903410508556774",
+        "title": "Preparados y alertas.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "26 de octubre de 2025",
+        "themes": [
+          "Preparados y alertas."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 26 de octubre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Preparados y alertas.\r\n"
+      },
+      {
+        "id": "17754845279230.7744724773952991",
+        "title": "Tecnologías en casa.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "30 de noviembre de 2025",
+        "themes": [
+          "Tecnologías en casa."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 30 de noviembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Tecnologías en casa.\r\n"
+      },
+      {
+        "id": "17754845279230.32284608055842745",
+        "title": "Preparativos para celebrar fin de año.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "14 de diciembre de 2025",
+        "themes": [
+          "Preparativos para celebrar fin de año."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 14 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Preparativos para celebrar fin de año.\r\n"
+      },
+      {
+        "id": "17754845279230.17145578586762555",
+        "title": "Meditación en casa.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Abel Girardo Guerrero Castro.",
+        "dateAdded": "21 de diciembre de 2025",
+        "themes": [
+          "Meditación en casa."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 21 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Abel Girardo Guerrero Castro.\r\nTema: Meditación en casa.\r\n"
+      },
+      {
+        "id": "17754845279230.6843865088219618",
+        "title": "Ambientes familiares sanos a cierre de año.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Abel Girardo Guerrero Castro.",
+        "dateAdded": "28 de diciembre de 2025",
+        "themes": [
+          "Ambientes familiares sanos a cierre de año."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 28 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Abel Girardo Guerrero Castro.\r\nTema: Ambientes familiares sanos a cierre de año.\r\n"
+      },
+      {
+        "id": "17754845279230.35011808635026365",
+        "title": "La medicina natural contra las arbovirosis.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "7 de diciembre de 2025",
+        "themes": [
+          "La medicina natural contra las arbovirosis."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 7 de diciembre de 2025\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La medicina natural contra las arbovirosis.\r\n"
+      },
+      {
+        "id": "17755028952970.9724261586949549",
+        "title": "Construir proyectos de vida con inteligencia emocional.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "11 de enero de 2026",
+        "themes": [
+          "Construir proyectos de vida con inteligencia emocional."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "Programa: CÓMPLICES\r\nFecha: 11 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Construir proyectos de vida con inteligencia emocional.\r\n"
+      },
+      {
+        "id": "17755028952970.9442944233864043",
+        "title": "Valores infantiles para la vida familiar.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "18 de enero de 2026",
+        "themes": [
+          "Valores infantiles para la vida familiar."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 18 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Valores infantiles para la vida familiar.\r\n"
+      },
+      {
+        "id": "17755028952970.8145107139387022",
+        "title": "Propiedades de la guayaba. Recuperar la tradición del dulce de guayaba casero.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "25 de enero de 2026",
+        "themes": [
+          "Propiedades de la guayaba. Recuperar la tradición del dulce de guayaba casero."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 25 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Propiedades de la guayaba. Recuperar la tradición del dulce de guayaba casero.\r\n"
+      },
+      {
+        "id": "17755028952970.06908019543259947",
+        "title": "La importancia de atraer las energías positivas.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "4 de enero de 2026",
+        "themes": [
+          "La importancia de atraer las energías positivas."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 4 de enero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La importancia de atraer las energías positivas.\r\n"
+      },
+      {
+        "id": "17755028952970.1620425993774569",
+        "title": "Cuidemos el corazón.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "15 de febrero de 2026",
+        "themes": [
+          "Cuidemos el corazón."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 15 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cuidemos el corazón.\r\n"
+      },
+      {
+        "id": "17755028952970.06860911392835134",
+        "title": "Día mundial de los humedales.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "1ro de febrero de 2026",
+        "themes": [
+          "Día mundial de los humedales."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 1ro de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Día mundial de los humedales.\r\n"
+      },
+      {
+        "id": "17755028952970.622322775169396",
+        "title": "La ciencia ficción en la literatura infantil (SECCIÓN FAMILIAS FELICES)",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "8 de febrero de 2026",
+        "themes": [
+          "La ciencia ficción en la literatura infantil (SECCIÓN FAMILIAS FELICES)"
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 8 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: La ciencia ficción en la literatura infantil (SECCIÓN FAMILIAS FELICES)\r\n"
+      },
+      {
+        "id": "17755028952970.4975076044050457",
+        "title": "Cómo usar la tecnología en casa en pos del correcto desarrollo de la familia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "22 de febrero de 2026",
+        "themes": [
+          "Cómo usar la tecnología en casa en pos del correcto desarrollo de la familia."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 22 de febrero de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Cómo usar la tecnología en casa en pos del correcto desarrollo de la familia.\r\n"
+      },
+      {
+        "id": "17755028952970.7195434166349456",
+        "title": "Valores familiares transmitidos de generación en generación.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "15 de marzo de 2026",
+        "themes": [
+          "Valores familiares transmitidos de generación en generación."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 15 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Valores familiares transmitidos de generación en generación.\r\n"
+      },
+      {
+        "id": "17755028952970.7218241542179362",
+        "title": "Inicia marzo en el calendario.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "1ro de marzo de 2026",
+        "themes": [
+          "Inicia marzo en el calendario."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 1ro de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Inicia marzo en el calendario.\r\n"
+      },
+      {
+        "id": "17755028952970.9447964509986857",
+        "title": "Tradiciones familiares vinculadas con el agua.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "22 de marzo de 2026",
+        "themes": [
+          "Tradiciones familiares vinculadas con el agua."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 22 de marzo de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Tradiciones familiares vinculadas con el agua.\r\n"
+      },
+      {
+        "id": "17755028952970.5368603261472078",
+        "title": "Mujeres que inspiran: madres, abuelas, hijas y su legado en la familia.",
+        "writer": "Johan Rey Escalona Naranjo.",
+        "advisor": "Lissell Fontelo Danta.",
+        "dateAdded": "5 de abril de 2026",
+        "themes": [
+          "Mujeres que inspiran: madres",
+          "abuelas",
+          "hijas y su legado en la familia."
+        ],
+        "genre": "CÓMPLICES",
+        "content": "\r\nPrograma: CÓMPLICES\r\nFecha: 5 de abril de 2026\r\nEscritor: Johan Rey Escalona Naranjo.\r\nAsesor: Lissell Fontelo Danta.\r\nTema: Mujeres que inspiran: madres, abuelas, hijas y su legado en la familia.\r\n"
+      }
+    ],
+    "guionbd_data_estacion.json": [
+      {
+        "id": "17754845279240.5847604560493632",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "Daylèn Zalazar Maceo",
+        "dateAdded": "21 DE JULIO   DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "Programa: ESTACIÓN 95-3\r\nFecha: 21 DE JULIO   DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: Daylèn Zalazar Maceo\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.1907541840653587",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "11 DE AGOSTO   DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 11 DE AGOSTO   DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.29379301221271925",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "1 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 1 DE SEPTIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.06803259736646294",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO:JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "15 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 15 DE SEPTIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO:JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.10865635112820249",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "22 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 22 DE SEPTIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.7435993644871817",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "29 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 29 DE SEPTIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.19939845078356433",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "8 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 8 DE SEPTIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.36141620212867887",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "6 DE OCTUBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 6 DE OCTUBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.2664116459320328",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO:JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "17 DE NOVIEMBRE  DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 17 DE NOVIEMBRE  DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO:JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.03561674416523708",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO",
+        "dateAdded": "24 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 24 DE NOVIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: REALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.6404983248705776",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "22 DE DICIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 22 DE DICIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.46939592188674106",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "29 DE DICIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 29 DE DICIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.4996965693909965",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "8 DE DICIEMBRE DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 8 DE DICIEMBRE DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.41935904153590875",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "LEIPZIG DEL CARMEN VÁZQUEZ GARCÍA",
+        "dateAdded": "12 DE ENERO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 12 DE ENERO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: LEIPZIG DEL CARMEN VÁZQUEZ GARCÍA\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.4694116770763711",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "26 DE ENERO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 26 DE ENERO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.8070216468927421",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "5 DE ENERO DE 2024",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 5 DE ENERO DE 2024\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.37779472612675513",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "2 DE FEBRERO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 2 DE FEBRERO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.2510807019579804",
+        "title": "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "9 DE FEBRERO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95-3\r\nFecha: 9 DE FEBRERO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: DE PRESENTACIÓN- RECREAS Y BAJAS A IIP – FADE OUT\r\n"
+      },
+      {
+        "id": "17754845279240.4728521599984238",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "16 DE MARZO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 16 DE MARZO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.95925595860917",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "2 DE MARZODE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 2 DE MARZODE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.26077678368627333",
+        "title": "DE PRESENTACIÓN // RECREA Y BAJA A FONDO",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "23 DE MARZO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREA Y BAJA A FONDO"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 23 DE MARZO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREA Y BAJA A FONDO\r\n"
+      },
+      {
+        "id": "17754845279240.09550770895805405",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "30 DE MARZO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 30 DE MARZO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.11562559390989069",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "9 DE MARZO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 9 DE MARZO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.5806381327569391",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "20 DE ABRIL DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 20 DE ABRIL DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.8678501728579814",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "27 DE ABRIL DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 27 DE ABRIL DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.18505499810075687",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "6 DE ABRIL DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 6 DE ABRIL DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.5174430232670254",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "11 DE MAYO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 11 DE MAYO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.5157875796347431",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "18 DE MAYO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 18 DE MAYO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.6792276285589094",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "25 DE MAYO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 25 DE MAYO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.2146848380174603",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "4 DE MAYO  DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 4 DE MAYO  DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.5301046368505599",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "15 DE JUNIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 15 DE JUNIO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.8796076106254718",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "22 DE JUNIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 22 DE JUNIO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279240.4587064850849203",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GRANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "29 DE JUNIODE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 29 DE JUNIODE 2025\r\nEscritor: BEATRIZ GRANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.6724519166858831",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "8 DE JUNIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 8 DE JUNIO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.26676618037639976",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GRANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "6 DE JULIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 6 DE JULIO DE 2025\r\nEscritor: BEATRIZ GRANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.20744781710890092",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GRANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "13 DE JULIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 13 DE JULIO DE 2025\r\nEscritor: BEATRIZ GRANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.0616538077449581",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GRANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "20 DE JULIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 20 DE JULIO DE 2025\r\nEscritor: BEATRIZ GRANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.2139734795670467",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "27 DE JULIO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 27 DE JULIO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.05371471064181943",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "17 DE AGOSTO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 17 DE AGOSTO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.7700575505568376",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "3 DE AGOSTO DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 3 DE AGOSTO DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.024942658375305626",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "10 DE AGOSTO  DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 10 DE AGOSTO  DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.8558381059704979",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "14 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 14 DE SEPTIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.6958507135918734",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "21 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 21 DE SEPTIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.2677792955690391",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "28 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 28 DE SEPTIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.47951953466706343",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "7 DE SEPTIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 7 DE SEPTIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.987189310828018",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "19 DE OCTUBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 19 DE OCTUBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.7240242593157767",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "26 DE OCTUBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 26 DE OCTUBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.4076370313893133",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "9 DE NOVIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 9 DE NOVIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.9479505806176165",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "7 DE DICIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 7 DE DICIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.3418924747630081",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "21 DE DICIEMBRE DE 2025",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 21 DE DICIEMBRE DE 2025\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.6328443600369316",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "11 DE ENERO  DE 2026",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 11 DE ENERO  DE 2026\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.632963139763493",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "18 DE ENERO  DE 2026",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 18 DE ENERO  DE 2026\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17755028952990.42526492689680717",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "4 DE ENERO DE 2026",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 4 DE ENERO DE 2026\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.1844659527029957",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "15 DE FEBRERO    DE 2026",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 15 DE FEBRERO    DE 2026\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279250.5178657069708095",
+        "title": "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP",
+        "writer": "BEATRIZ GANADO ARIAS",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "8 DE FEBRERO   DE 2026",
+        "themes": [
+          "DE PRESENTACIÓN // RECREAS Y BAJAS A IIP"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: ESTACIÓN 95.3\r\nFecha: 8 DE FEBRERO   DE 2026\r\nEscritor: BEATRIZ GANADO ARIAS\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PRESENTACIÓN // RECREAS Y BAJAS A IIP\r\n"
+      },
+      {
+        "id": "17754845279600.07258268006638957",
+        "title": "PRESENTACIÓN/",
+        "writer": "NO ESPECIFICADO",
+        "advisor": "es estadounidenses no identificados informaron el miércoles a la agencia británica Reuters que Estados Unidos avanza en la creación de una fuerza militar, un plan que Washington asegura contribuirá a estabilizar el territorio palestino. Señala Prensa Latina.",
+        "dateAdded": "NO ESPECIFICADA",
+        "themes": [
+          "PRESENTACIÓN/"
+        ],
+        "genre": "ESTACIÓN 95.3",
+        "content": "\r\nPrograma: CIÓN .\r\nFecha: NO ESPECIFICADA\r\nEscritor: NO ESPECIFICADO\r\nAsesor: es estadounidenses no identificados informaron el miércoles a la agencia británica Reuters que Estados Unidos avanza en la creación de una fuerza militar, un plan que Washington asegura contribuirá a estabilizar el territorio palestino. Señala Prensa Latina.\r\nTema: PRESENTACIÓN/\r\n"
+      }
+    ],
+    "guionbd_data_domingo.json": [
+      {
+        "id": "17755028953000.07196439430733303",
+        "title": "BALANCE DE LOS TEMAS TRATADOS EN EL AÑO 2025",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "4 DE ENERO DE 2026",
+        "themes": [
+          "BALANCE DE LOS TEMAS TRATADOS EN EL AÑO 2025"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "Programa: PALCO DE DOMINGO\r\nFecha: 4 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: BALANCE DE LOS TEMAS TRATADOS EN EL AÑO 2025\r\n"
+      },
+      {
+        "id": "17755028953000.6607440682535319",
+        "title": "ARTE Y TECNOLOGÍA EN LA CONTEMPORANEIDAD",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "11 DE ENERO DE 2026",
+        "themes": [
+          "ARTE Y TECNOLOGÍA EN LA CONTEMPORANEIDAD"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 11 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: ARTE Y TECNOLOGÍA EN LA CONTEMPORANEIDAD\r\n"
+      },
+      {
+        "id": "17755028953000.9155514446706698",
+        "title": "LAS JORNADAS VILLANUEVA EN GRANMA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "18 DE ENERO DE 2026",
+        "themes": [
+          "LAS JORNADAS VILLANUEVA EN GRANMA"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 18 DE ENERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: LAS JORNADAS VILLANUEVA EN GRANMA\r\n"
+      },
+      {
+        "id": "17755028953000.6494812235278565",
+        "title": "DESARROLLO DE LA JORNADA VILLANUEVA dos mil 26 EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "25 DE ENERO DE dos mil 26",
+        "themes": [
+          "DESARROLLO DE LA JORNADA VILLANUEVA dos mil 26 EN BAYAMO"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 25 DE ENERO DE dos mil 26\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: DESARROLLO DE LA JORNADA VILLANUEVA dos mil 26 EN BAYAMO\r\n"
+      },
+      {
+        "id": "17755028953000.14932708550242335",
+        "title": "JORNADA VILLANUEVA 2026 EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "01 DE FEBRERO DE 2026",
+        "themes": [
+          "JORNADA VILLANUEVA 2026 EN BAYAMO"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 01 DE FEBRERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: JORNADA VILLANUEVA 2026 EN BAYAMO\r\n"
+      },
+      {
+        "id": "17755028953000.08179741678957675",
+        "title": "ARTE, COMPROMISO Y SOCIEDAD",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "15 DE FEBRERO DE 2026",
+        "themes": [
+          "ARTE",
+          "COMPROMISO Y SOCIEDAD"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 15 DE FEBRERO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: ARTE, COMPROMISO Y SOCIEDAD\r\n"
+      },
+      {
+        "id": "17755028953000.3797640174124023",
+        "title": "RESILIENCIA PARA UNA CULTURA VIVA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA\nASESORA: LISSELL FONTELO DANTA\nDIRECTOR: RAFAEL TRABA BORDÓN\nREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\nLOCUTOR: LUIS YERO PLA",
+        "advisor": "LISSELL FONTELO DANTA\nDIRECTOR: RAFAEL TRABA BORDÓN\nREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\nLOCUTOR: LUIS YERO PLA",
+        "dateAdded": "22 DE FEBRERO DE DOS MIL 26",
+        "themes": [
+          "RESILIENCIA PARA UNA CULTURA VIVA"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\nEMISIÓN: 92\nESCRIBE: PEDRO JOSÉ REYES ACUÑA\nASESORA: LISSELL FONTELO DANTA\nDIRECTOR: RAFAEL TRABA BORDÓN\nREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\nLOCUTOR: LUIS YERO PLA\nFECHA: 22 DE FEBRERO DE DOS MIL 26\nTEMA: RESILIENCIA PARA UNA CULTURA VIVA\r\nFecha: 22 DE FEBRERO DE DOS MIL 26\nTEMA: RESILIENCIA PARA UNA CULTURA VIVA\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\nASESORA: LISSELL FONTELO DANTA\nDIRECTOR: RAFAEL TRABA BORDÓN\nREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\nLOCUTOR: LUIS YERO PLA\nFECHA: 22 DE FEBRERO DE DOS MIL 26\nTEMA: RESILIENCIA PARA UNA CULTURA VIVA\r\nAsesor: LISSELL FONTELO DANTA\nDIRECTOR: RAFAEL TRABA BORDÓN\nREALIZADOR DE SONIDO: JOSÉ GONZÁLEZ COBO\nLOCUTOR: LUIS YERO PLA\nFECHA: 22 DE FEBRERO DE DOS MIL 26\nTEMA: RESILIENCIA PARA UNA CULTURA VIVA\r\nTema: RESILIENCIA PARA UNA CULTURA VIVA\r\n"
+      },
+      {
+        "id": "17755028953000.6607346966969248",
+        "title": "ARTE PARA LA REVOLUCIÓN",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "01 DE MARZO DE 2026",
+        "themes": [
+          "ARTE PARA LA REVOLUCIÓN"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 01 DE MARZO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: ARTE PARA LA REVOLUCIÓN\r\n"
+      },
+      {
+        "id": "17755028953000.7156824093152162",
+        "title": "EL ESTATUTO DEL CREADOR: DERECHO DE AUTOR EN LA MÚSICA Y LA LITERATURA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "15 DE MARZO DE 2026",
+        "themes": [
+          "EL ESTATUTO DEL CREADOR: DERECHO DE AUTOR EN LA MÚSICA Y LA LITERATURA"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 15 DE MARZO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: EL ESTATUTO DEL CREADOR: DERECHO DE AUTOR EN LA MÚSICA Y LA LITERATURA\r\n"
+      },
+      {
+        "id": "17755028953000.42301930595931625",
+        "title": "TROVA CUBANA, POESÍA Y ESENCIA BAYAMESA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "29 DE MARZO DE 2026",
+        "themes": [
+          "TROVA CUBANA",
+          "POESÍA Y ESENCIA BAYAMESA"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 29 DE MARZO DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: TROVA CUBANA, POESÍA Y ESENCIA BAYAMESA\r\n"
+      },
+      {
+        "id": "17755028953000.040356440119586834",
+        "title": "CELEBRACIÓN DE LOS ANIVERSARIOS DE LA OPJM Y LA UJC EN GRANMA: ARTE, MEMORIA Y COMPROMISO JUVENIL",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA..",
+        "dateAdded": "5 DE ABRIL DE 2026",
+        "themes": [
+          "CELEBRACIÓN DE LOS ANIVERSARIOS DE LA OPJM Y LA UJC EN GRANMA: ARTE",
+          "MEMORIA Y COMPROMISO JUVENIL"
+        ],
+        "genre": "PALCO DE DOMINGO",
+        "content": "\r\nPrograma: PALCO DE DOMINGO\r\nFecha: 5 DE ABRIL DE 2026\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA..\r\nTema: CELEBRACIÓN DE LOS ANIVERSARIOS DE LA OPJM Y LA UJC EN GRANMA: ARTE, MEMORIA Y COMPROMISO JUVENIL\r\n"
+      }
+    ],
+    "guionbd_data_melodias.json": [
+      {
+        "id": "17755028952960.2020357200874634",
+        "title": "sobre el bullying en los niños",
+        "writer": "NO ESPECIFICADO",
+        "advisor": "LISELL FONTELO DANTA",
+        "dateAdded": "22 febrero 2026",
+        "themes": [
+          "sobre el bullying en los niños"
+        ],
+        "genre": "COLOREANDO MELODÍAS",
+        "content": "\r\nPrograma: COLOREANDO MELODÍAS\r\nFecha: 22 febrero 2026\r\nEscritor: NO ESPECIFICADO\r\nAsesor: LISELL FONTELO DANTA\r\nTema: sobre el bullying en los niños\r\n"
+      },
+      {
+        "id": "17755028952960.4035440328001",
+        "title": "Los amigos",
+        "writer": "NO ESPECIFICADO",
+        "advisor": "LISELL FONTELO DANTA",
+        "dateAdded": "29 de marzo 2026",
+        "themes": [
+          "Los amigos"
+        ],
+        "genre": "COLOREANDO MELODÍAS",
+        "content": "\r\nPrograma: COLOREANDO MELODÍAS\r\nFecha: 29 de marzo 2026\r\nEscritor: NO ESPECIFICADO\r\nAsesor: LISELL FONTELO DANTA\r\nTema: Los amigos\r\n"
+      },
+      {
+        "id": "17755028952960.2747336690200648",
+        "title": "sobre el bullying en los niños",
+        "writer": "NO ESPECIFICADO",
+        "advisor": "LISELL FONTELO DANTA",
+        "dateAdded": "5 abril 2026",
+        "themes": [
+          "sobre el bullying en los niños"
+        ],
+        "genre": "COLOREANDO MELODÍAS",
+        "content": "\r\nPrograma: COLOREANDO MELODÍAS\r\nFecha: 5 abril 2026\r\nEscritor: NO ESPECIFICADO\r\nAsesor: LISELL FONTELO DANTA\r\nTema: sobre el bullying en los niños\r\n"
+      }
+    ],
+    "guionbd_data_alba.json": [
+      {
+        "id": "17755028952910.6340132660841477",
+        "title": "La llamada heroica de Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo  11 de enero del 2026.",
+        "themes": [
+          "La llamada heroica de Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "Programa: ALBA Y CRISOL\r\nFecha: Domingo  11 de enero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: La llamada heroica de Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.10619608379846057",
+        "title": "El río Bayamo en la vida y el imaginario de sus vecinos",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 18 de enero del 2026.",
+        "themes": [
+          "El río Bayamo en la vida y el imaginario de sus vecinos"
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 18 de enero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: El río Bayamo en la vida y el imaginario de sus vecinos\r\n"
+      },
+      {
+        "id": "17755028952910.6401974125705999",
+        "title": "Visiones de José Martí sobre Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 25 de enero del 2026.",
+        "themes": [
+          "Visiones de José Martí sobre Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 25 de enero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Visiones de José Martí sobre Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.21523160179416556",
+        "title": "Vida y obra de la poetisa Manuela Cancino.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 4 de enero del 2026.",
+        "themes": [
+          "Vida y obra de la poetisa Manuela Cancino."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 4 de enero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesora,  Abel Guerrero Castro; realizador, José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Vida y obra de la poetisa Manuela Cancino.\r\n"
+      },
+      {
+        "id": "17755028952910.4984109273029673",
+        "title": "Fidel, Bayamo y las primeras transformaciones revolucionarias.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos: …   ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 1 febrero del 2026.",
+        "themes": [
+          "Fidel",
+          "Bayamo y las primeras transformaciones revolucionarias."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 1 febrero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos: …   ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Fidel, Bayamo y las primeras transformaciones revolucionarias.\r\n"
+      },
+      {
+        "id": "17755028952910.9564671904602504",
+        "title": "El sacerdote liberal Diego José Batista, hijo de Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 15 de febrero del 2026.",
+        "themes": [
+          "El sacerdote liberal Diego José Batista",
+          "hijo de Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 15 de febrero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: El sacerdote liberal Diego José Batista, hijo de Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.6533774053665095",
+        "title": "El alzamiento del 24 de febrero de 1895 en el municipio Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 22 febrero del 2026.",
+        "themes": [
+          "El alzamiento del 24 de febrero de 1895 en el municipio Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 22 febrero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: El alzamiento del 24 de febrero de 1895 en el municipio Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.5186667384576198",
+        "title": "Juana Tamayo Infante, excepcional bayamesa del siglo XIX.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 8 febrero del 2026.",
+        "themes": [
+          "Juana Tamayo Infante",
+          "excepcional bayamesa del siglo XIX."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 8 febrero del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador de sonidos José González Cobo; conduce, Lianet Collejo Rivero. Todos bajo la dirección de Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Juana Tamayo Infante, excepcional bayamesa del siglo XIX.\r\n"
+      },
+      {
+        "id": "17755028952910.10154435621271563",
+        "title": "Carlos Manuel de Céspedes y la Constitución de Guáimaro.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 12 de abril del 2026.",
+        "themes": [
+          "Carlos Manuel de Céspedes y la Constitución de Guáimaro."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 12 de abril del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Carlos Manuel de Céspedes y la Constitución de Guáimaro.\r\n"
+      },
+      {
+        "id": "17755028952910.47817145418552265",
+        "title": "Camilo Cienfuegos y el ataque a la Planta Móvil de Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 19 de abril del 2026.",
+        "themes": [
+          "Camilo Cienfuegos y el ataque a la Planta Móvil de Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 19 de abril del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Camilo Cienfuegos y el ataque a la Planta Móvil de Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.004273100987746581",
+        "title": "Las aventuras de un obispo en Bayamo.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor,  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 28 de abril del 2026.",
+        "themes": [
+          "Las aventuras de un obispo en Bayamo."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 28 de abril del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor,  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: Las aventuras de un obispo en Bayamo.\r\n"
+      },
+      {
+        "id": "17755028952910.968740290261871",
+        "title": "El movimiento estudiantil contra la dictadura de Batista en 1952.",
+        "writer": ", Aldo Daniel Naranjo Tamayo; asesor,  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.",
+        "advisor": "Abel Guerrero Castro.",
+        "dateAdded": "Domingo 5 de abril del 2026.",
+        "themes": [
+          "El movimiento estudiantil contra la dictadura de Batista en 1952."
+        ],
+        "genre": "ALBA Y CRISOL",
+        "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 5 de abril del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor,  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: El movimiento estudiantil contra la dictadura de Batista en 1952.\r\n"
+      }
+    ],
+    "guionbd_data_musica.json": [
+      {
+        "id": "17754845279380.004490266562441891",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              :",
+        "dateAdded": "SÁBADO 13 DE JULIO DE 2024.",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "Programa: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 13 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
+      },
+      {
+        "id": "17754845279380.5909536105631208",
+        "title": "DE PROGRAMA  / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 27 DE JULIO DE 2024",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 27 DE JULIO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279380.3914916193893969",
+        "title": "DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              : Daylèn Zalazar Maceo",
+        "dateAdded": "SÁBADO 20 DE JULIO DE 2024.",
+        "themes": [
+          "DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 20 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : Daylèn Zalazar Maceo\r\nTema: DE PROGRAMA/ RECREA. SOBRE ACORDES. BAJA\r\n"
+      },
+      {
+        "id": "17754845279380.4377241597378032",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "A              :",
+        "dateAdded": "SÁBADO 07 DE JULIO DE 2024.",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JULIO DE 2024.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: A              : "
+      },
+      {
+        "id": "17754845279380.6915669971655587",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 10 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.9404508913231303",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 31 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17754845279380.12903782056551216",
+        "title": "“MUNDITO GONZÁLEZ”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 03 DE AGOSTO DE 2024",
+        "themes": [
+          "“MUNDITO GONZÁLEZ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 03 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR MACEO\r\nTema: “MUNDITO GONZÁLEZ”\r\n"
+      },
+      {
+        "id": "17754845279380.6900030215790428",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 17 DE AGOSTO DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE AGOSTO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17754845279380.6827216349434714",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN",
+        "dateAdded": "SÁBADO 07 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: IA           :\t\u001f\u001f\u001f\u001f\u001fDAYLEN"
+      },
+      {
+        "id": "17754845279380.6715527439231802",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 14 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.6518204973038542",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 21 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.1747450468173566",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 28 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE SEPTIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.6541654652551323",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 19 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17754845279380.025139477869456583",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 26 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 26 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17754845279380.43499662107240145",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 5 DE OCTUBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 5 DE OCTUBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.8813599846845498",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 16 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 16 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17754845279380.9667478457575659",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 23 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 23 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17754845279380.8858242780499245",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN SALAZAR",
+        "dateAdded": "SÁBADO 09DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 09DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN SALAZAR"
+      },
+      {
+        "id": "17754845279380.5691618820973553",
+        "title": "DE PROGRAMA  / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILEN SALAZAR",
+        "dateAdded": "SÁBADO 28 DE DICIEMBRE DE 2024",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILEN SALAZAR\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279380.03206330038742311",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILÉN",
+        "dateAdded": "SÁBADO 14 DE DICIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
+      },
+      {
+        "id": "17754845279380.88101552814117",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAILÉN",
+        "dateAdded": "SÁBADO 21 DE DICIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE DICIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAILÉN "
+      },
+      {
+        "id": "17754845279380.027000976319887182",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN ZALAZAR",
+        "dateAdded": "SÁBADO 2 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 2 DE NOVIEMBRE DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN ZALAZAR "
+      },
+      {
+        "id": "17754845279380.4834373597532471",
+        "title": "DE PROGRAMA  / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "FECHA                  :\tSÁBADO 11 DE ENERO DE 2025",
+        "dateAdded": "SÁBADO 11 DE ENERO DE 2025",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 11 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 11 DE ENERO DE 2025\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279380.2438787492676998",
+        "title": "“EL AMOR”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "FECHA                  :\tSÁBADO 18 DE ENERO DE 2024",
+        "dateAdded": "SÁBADO 18 DE ENERO DE 2024",
+        "themes": [
+          "“EL AMOR”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 18 DE ENERO DE 2024\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: FECHA                  :\tSÁBADO 18 DE ENERO DE 2024\r\nTema: “EL AMOR”\r\n"
+      },
+      {
+        "id": "17754845279380.7835973639276171",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 25 DE ENERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 25 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.4635160642956071",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 04 DE ENERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 04 DE ENERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN "
+      },
+      {
+        "id": "17754845279380.6986557880775939",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 15 DE FEBRERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 15 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.02575401781427944",
+        "title": "“ ”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLÉN ZALAZAR MACEO",
+        "dateAdded": "SÁBADO 22 DE FEBRERO DE 2025",
+        "themes": [
+          "“ ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE FEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLÉN ZALAZAR MACEO\r\nTema: “ ”\r\n"
+      },
+      {
+        "id": "17754845279380.1373731852096457",
+        "title": "Sin título",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "DAYLEN",
+        "dateAdded": "SÁBADO 8 DEFEBRERO DE 2025",
+        "themes": [
+          "General"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 8 DEFEBRERO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: DAYLEN"
+      },
+      {
+        "id": "17754845279380.48656534880364355",
+        "title": "“EN NOMBRE DE LA MUJER, CANTEMOS AL AMOR”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 1 DE MARZO DE 2025.",
+        "themes": [
+          "“EN NOMBRE DE LA MUJER",
+          "CANTEMOS AL AMOR”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 1 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “EN NOMBRE DE LA MUJER, CANTEMOS AL AMOR”\r\n"
+      },
+      {
+        "id": "17754845279380.05250715829535768",
+        "title": "“MUJERES EN LA MÚSICA”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 15 DE MARZO DE 2025.",
+        "themes": [
+          "“MUJERES EN LA MÚSICA”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 15 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MUJERES EN LA MÚSICA”\r\n"
+      },
+      {
+        "id": "17754845279380.45218104260012426",
+        "title": "“MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 22 DE MARZO DE 2025.",
+        "themes": [
+          "“MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 22 DE MARZO DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “MÁS DE UN SIGLO DE MÚSICA Y CANCIÓN”\r\n"
+      },
+      {
+        "id": "17754845279380.10925757312776052",
+        "title": "Autores bayameses.",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 26 DE ABRIL DE 2025",
+        "themes": [
+          "Autores bayameses."
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 26 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: Autores bayameses.\r\n"
+      },
+      {
+        "id": "17754845279380.3553245674370238",
+        "title": "“ABRIL EN LA MÚSICA BAYAMESA”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 05 DE ABRIL DE 2025.",
+        "themes": [
+          "“ABRIL EN LA MÚSICA BAYAMESA”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 05 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ABRIL EN LA MÚSICA BAYAMESA”\r\n"
+      },
+      {
+        "id": "17754845279380.30666511604261293",
+        "title": "“YAKARÉ”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 12 DE ABRIL DE 2025.",
+        "themes": [
+          "“YAKARÉ”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 12 DE ABRIL DE 2025.\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “YAKARÉ”\r\n"
+      },
+      {
+        "id": "17754845279380.5549341041998859",
+        "title": "“SON DIAMANTES”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 19 DE ABRIL DE 2025",
+        "themes": [
+          "“SON DIAMANTES”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 19 DE ABRIL DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SON DIAMANTES”\r\n"
+      },
+      {
+        "id": "17754845279390.04693082506669943",
+        "title": "“SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 31 DE MAYO DE 2025",
+        "themes": [
+          "“SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 31 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “SOLISTAS Y AGRUPACIONES DE PEQUEÑO FORMATO”\r\n"
+      },
+      {
+        "id": "17754845279390.09661728386827739",
+        "title": "\"Bayamo y sus festivales y concursos\"",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SABADO 3 DE MAYO DE 2025",
+        "themes": [
+          "\"Bayamo y sus festivales y concursos\""
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SABADO 3 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: \"Bayamo y sus festivales y concursos\"\r\n"
+      },
+      {
+        "id": "17754845279390.6746471673293803",
+        "title": "“ELLAS SON MADRES\"",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 10 DE MAYO DE 2025",
+        "themes": [
+          "“ELLAS SON MADRES\""
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 10 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: “ELLAS SON MADRES\"\r\n"
+      },
+      {
+        "id": "17754845279390.6607396873427951",
+        "title": "DE PROGRAMA  / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 17 DE MAYO DE 2025",
+        "themes": [
+          "DE PROGRAMA  / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 17 DE MAYO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA  / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279390.5923686889238374",
+        "title": "DE PROGRAMA / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 14 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 14 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279390.37613581757584014",
+        "title": "DE PROGRAMA / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 21 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 21 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279390.9470337730672074",
+        "title": "DE PROGRAMA / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 07 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 07 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
+      },
+      {
+        "id": "17754845279390.4980245732729315",
+        "title": "DE PROGRAMA / BAJA //",
+        "writer": "CARIDAD AGUILAR ROSABAL",
+        "advisor": "PEDRO JOSÉ REYES ACUÑA",
+        "dateAdded": "SÁBADO 28 DE JUNIO DE 2025",
+        "themes": [
+          "DE PROGRAMA / BAJA //"
+        ],
+        "genre": "MÚSICA DESDE MI CIUDAD",
+        "content": "\r\nPrograma: MÚSICA DESDE MI CIUDAD\r\nFecha: SÁBADO 28 DE JUNIO DE 2025\r\nEscritor: CARIDAD AGUILAR ROSABAL\r\nAsesor: PEDRO JOSÉ REYES ACUÑA\r\nTema: DE PROGRAMA / BAJA //\r\n"
       }
     ]
   },
@@ -30124,6 +33896,12 @@
           "name": "GAISLap",
           "type": "PC",
           "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-ETN9",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "7/6/2026"
         }
       ]
     },
@@ -30319,22 +34097,16 @@
           "addedAt": "22/5/2026"
         },
         {
-          "token": "DVC-4A35",
-          "name": "GIAS Lap",
-          "type": "PC",
-          "addedAt": "22/5/2026"
-        },
-        {
           "token": "DVC-J8BB",
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
         },
         {
-          "token": "DVC-4TX5",
+          "token": "DVC-U7K4",
           "name": "GAISLap",
           "type": "PC",
-          "addedAt": "4/6/2026"
+          "addedAt": "7/6/2026"
         }
       ]
     },
