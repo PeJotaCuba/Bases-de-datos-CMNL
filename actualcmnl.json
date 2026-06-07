@@ -403,7 +403,7 @@
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
-      "specialty": "Especialista / Guionista",
+      "specialty": "Especialista en Gestión de Contenido / Guionista",
       "email": "pejotar21@gmail.com",
       "contracts": [
         "2025-09-01",
@@ -428,22 +428,16 @@
           "addedAt": "22/5/2026"
         },
         {
-          "token": "DVC-4A35",
-          "name": "GIAS Lap",
-          "type": "PC",
-          "addedAt": "22/5/2026"
-        },
-        {
           "token": "DVC-J8BB",
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
         },
         {
-          "token": "DVC-4TX5",
+          "token": "DVC-U7K4",
           "name": "GAISLap",
           "type": "PC",
-          "addedAt": "4/6/2026"
+          "addedAt": "7/6/2026"
         }
       ]
     },
@@ -494,7 +488,8 @@
       "content": "La Doctora en Ciencias Alisa Natividad Delgado Torres agradeció este miércoles a través de Facebook a los miembros de la Asociación de Pedagogos de Cuba por haberle concedido el Premio Nacional Doctor Justo Alberto Chávez Rodríguez. La reconocida profesora bayamesa, que celebra su 80 cumpleaños y 55 años en la enseñanza superior, expresó que recibir este reconocimiento constituye un alto honor profesional y un estímulo para continuar defendiendo los principios de la educación pública, gratuita y de calidad. Nacida en Bayamo el 25 de diciembre de 1946, se graduó de Ciencias Políticas en la Universidad de La Habana en 1971, debutando como docente en la Universidad de Oriente donde se mantuvo hasta 2016. Actualmente continúa involucrada en la enseñanza desde la Universidad de Granma.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "La Doctora en Ciencias Alisa Natividad Delgado Torres agradeció este miércoles a través de Facebook a los miembros de la Asociación de Pedagogos de Cuba por haberle concedido el Premio Nacional Doctor Justo Alberto Chávez Rodríguez."
+      "excerpt": "La Doctora en Ciencias Alisa Natividad Delgado Torres agradeció este miércoles a través de Facebook a los miembros de la Asociación de Pedagogos de Cuba por haberle concedido el Premio Nacional Doctor Justo Alberto Chávez Rodríguez.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-1",
@@ -503,7 +498,8 @@
       "content": "Este miércoles representantes del sector no estatal de la economía en Bayamo sostuvieron un encuentro con las autoridades locales, para dialogar sobre el papel de los emprendedores en el desarrollo económico del territorio. El intercambio forma parte de los esfuerzos del gobierno por fomentar el diálogo con los nuevos actores económicos y promover encadenamientos productivos que contribuyan a la soberanía alimentaria y a la sustitución de importaciones. Los emprendedores expusieron sus experiencias y desafíos en medio del complejo escenario económico, mientras que las autoridades reafirmaron su compromiso de apoyar las iniciativas del sector no estatal que aporten al bienestar de la comunidad.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "Este miércoles representantes del sector no estatal de la economía en Bayamo sostuvieron un encuentro con las autoridades locales, para dialogar sobre el papel de los emprendedores en el desarrollo económico del territorio."
+      "excerpt": "Este miércoles representantes del sector no estatal de la economía en Bayamo sostuvieron un encuentro con las autoridades locales, para dialogar sobre el papel de los emprendedores en el desarrollo económico del territorio.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-2",
@@ -512,7 +508,8 @@
       "content": "El acto de graduación de los estudiantes de duodécimo grado de la Escuela de Iniciación Deportiva (EIDE) Pedro Batista Fonseca se realizó hoy en el complejo Bayam de Bayamo. Los jóvenes atletas recibieron sus diplomas tras completar su formación deportiva y académica, que los prepara para continuar estudios superiores o integrarse al deporte de alto rendimiento. La ceremonia contó con la presencia de autoridades del sector deportivo, familiares y entrenadores, quienes reconocieron el esfuerzo y la dedicación de los graduados durante su paso por la institución, que forma parte del sistema de enseñanza deportiva en la provincia de Granma.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "El acto de graduación de los estudiantes de duodécimo grado de la Escuela de Iniciación Deportiva (EIDE) Pedro Batista Fonseca se realizó hoy en el complejo Bayam de Bayamo."
+      "excerpt": "El acto de graduación de los estudiantes de duodécimo grado de la Escuela de Iniciación Deportiva (EIDE) Pedro Batista Fonseca se realizó hoy en el complejo Bayam de Bayamo.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-3",
@@ -521,7 +518,8 @@
       "content": "Con fecha 2 de junio se ha recibido comunicación de un banco extranjero, procesador de operaciones con tarjetas VISA y MASTERCARD en Cuba, de interrumpir su relación con FINCIMEX S.A. Esta interrupción se relaciona directamente con la Orden Ejecutiva número 14404 del 1 de mayo, emitida por el presidente Donald Trump como parte de su estrategia de asfixia contra Cuba. El banco informó que a partir del 6 de junio se hace ilícito continuar con los acuerdos. Se mantienen como medios de pago en divisas: efectivo, tarjetas prepago nacionales Clásica y Tropical, así como las internacionales Mir y Union Pay.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "Con fecha 2 de junio se ha recibido comunicación de un banco extranjero, procesador de operaciones con tarjetas VISA y MASTERCARD en Cuba, de interrumpir su relación con FINCIMEX S.A."
+      "excerpt": "Con fecha 2 de junio se ha recibido comunicación de un banco extranjero, procesador de operaciones con tarjetas VISA y MASTERCARD en Cuba, de interrumpir su relación con FINCIMEX S.A.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-4",
@@ -530,7 +528,8 @@
       "content": "La Cámara de Representantes de Estados Unidos aprobó este miércoles una resolución que limitará los poderes de guerra del presidente Donald Trump en Irán, un resultado que muestra el rechazo de algunos republicanos a su manejo del conflicto. Los demócratas han forzado repetidamente votaciones para limitar los poderes de guerra. La resolución se aprobó por 215 votos a 208, con el apoyo de cuatro congresistas republicanos que cruzaron líneas partidistas: Thomas Massie, Brian Fitzpatrick, Tom Barrett y Warren Davidson. La votación evidencia que la agenda del presidente ya no tiene respaldo monolítico de sus correligionarios.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "La Cámara de Representantes de Estados Unidos aprobó este miércoles una resolución que limitará los poderes de guerra del presidente Donald Trump en Irán, un resultado que muestra el rechazo de algunos republicanos a su manejo del conflicto."
+      "excerpt": "La Cámara de Representantes de Estados Unidos aprobó este miércoles una resolución que limitará los poderes de guerra del presidente Donald Trump en Irán, un resultado que muestra el rechazo de algunos republicanos a su manejo del conflicto.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAyODRDNztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBDNEE2RTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTUwIiByPSI2MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMzUwIiBjeT0iMjAwIiByPSI4MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMjUwIiBjeT0iMjAwIiByPSI3MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-5",
@@ -539,7 +538,8 @@
       "content": "El vigésimo séptimo Coloquio de Literatura quedó clausurado en la Biblioteca Provincial 1868 de Bayamo, dedicado al aniversario 45 del Día del Bibliotecario Cubano, fecha que se celebra cada 7 de junio en honor al bibliógrafo Antonio Bachiller y Morales. Varias ponencias se presentaron destacando la importancia de la lectura, sobre todo en la formación de las nuevas generaciones. El cierre del evento, presidido por Ridiel Roblejo Leyva, director provincial de Cultura, contó con la participación especial de los niños del proyecto infantil Los Andantinos.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "El vigésimo séptimo Coloquio de Literatura quedó clausurado en la Biblioteca Provincial 1868 de Bayamo, dedicado al aniversario 45 del Día del Bibliotecario Cubano, fecha que se celebra cada 7 de junio en honor al bibliógrafo Antonio Bachiller y Morales."
+      "excerpt": "El vigésimo séptimo Coloquio de Literatura quedó clausurado en la Biblioteca Provincial 1868 de Bayamo, dedicado al aniversario 45 del Día del Bibliotecario Cubano, fecha que se celebra cada 7 de junio en honor al bibliógrafo Antonio Bachiller y Morales.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1780586308858-6",
@@ -548,7 +548,8 @@
       "content": "El intenso trabajo desarrollado por las administraciones y secciones sindicales, en estrecha unión con los colectivos laborales, ha resultado en el otorgamiento de la condición de Distinguido Nacional de este sector a varias entidades. La entrega del estímulo se realiza en el marco de la jornada para homenajear a Fidel en el Año de su Centenario, al General de Ejército en su 95 cumpleaños y como saludo al 22 Congreso de la CTC. Entre los centros distinguidos se encuentra la Unidad Empresarial de Base Seguro Granma. Manuel Díaz Alcalá, director, señaló que en 2025 pagaron una comisión de 22 millones de pesos, tuvieron 265 millones de ingresos y 365 millones en indemnización a clientes.",
       "category": "General",
       "date": "Jueves 4 de junio de 2026",
-      "excerpt": "El intenso trabajo desarrollado por las administraciones y secciones sindicales, en estrecha unión con los colectivos laborales, ha resultado en el otorgamiento de la condición de Distinguido Nacional de este sector a varias entidades."
+      "excerpt": "El intenso trabajo desarrollado por las administraciones y secciones sindicales, en estrecha unión con los colectivos laborales, ha resultado en el otorgamiento de la condición de Distinguido Nacional de este sector a varias entidades.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     }
   ],
   "fichas": [
@@ -30088,7 +30089,7 @@
       "password": "RadioCiudad0026",
       "role": "admin",
       "classification": "Administrador",
-      "specialty": "Especialista / Guionista",
+      "specialty": "Especialista en Gestión de Contenido / Guionista",
       "email": "pejotar21@gmail.com",
       "contracts": [
         "2025-09-01",
@@ -30113,22 +30114,16 @@
           "addedAt": "22/5/2026"
         },
         {
-          "token": "DVC-4A35",
-          "name": "GIAS Lap",
-          "type": "PC",
-          "addedAt": "22/5/2026"
-        },
-        {
           "token": "DVC-J8BB",
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
         },
         {
-          "token": "DVC-4TX5",
+          "token": "DVC-U7K4",
           "name": "GAISLap",
           "type": "PC",
-          "addedAt": "4/6/2026"
+          "addedAt": "7/6/2026"
         }
       ]
     },
@@ -30334,6 +30329,12 @@
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-4TX5",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "4/6/2026"
         }
       ]
     },
@@ -30679,7 +30680,7 @@
     {
       "id": "pedro",
       "name": "Pedro José Reyes Acuña",
-      "specialty": "Especialista / Guionista",
+      "specialty": "Especialista en Gestión de Contenido / Guionista",
       "level": "",
       "info": "",
       "email": "pejotar21@gmail.com",
