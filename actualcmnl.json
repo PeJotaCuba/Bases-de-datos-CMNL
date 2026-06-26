@@ -91,9 +91,14 @@
       "password": "RadioCiudad0826",
       "role": "worker",
       "classification": "Director",
-      "email": "",
-      "specialty": "Directora / Guionista",
-      "tools": []
+      "email": "rosa.chi@icrt.cu",
+      "specialty": "Director de emisora / Guionista",
+      "tools": [],
+      "contracts": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "abel",
@@ -239,8 +244,13 @@
         "Gestión"
       ],
       "tools": [],
-      "email": "",
-      "specialty": "Directora de la emisora / Guionista"
+      "email": "leipzig.vazquez@icrt.cu",
+      "specialty": "Director de emisora / Guionista",
+      "contracts": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "daylen",
@@ -575,85 +585,40 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1781695756232-0",
-      "title": "Cuba lamenta fallecimiento de Taty Almeida, fundadora de Madres de Plaza de Mayo",
-      "author": "Cubadebate",
-      "content": "En un mensaje publicado en la red social X, el presidente Miguel Díaz-Canel afirmó que el ejemplo de Almeida, “luchadora incansable por los derechos y la dignidad del pueblo argentino, perdurará en nuestra memoria”. Con profundo dolor conocimos del fallecimiento de Taty Almeida, luchadora incansable por los derechos y la dignidad del pueblo argentino. Su ejemplo perdurará en nuestra memoria. La presidenta de Madres de Plaza de Mayo-Línea Fundadora, Lidia Estela Mercedes Miy Uranga, popularmente conocida como Taty, murió este domingo a los 95 luego de una vida dedicada a la militancia, los derechos humanos y la búsqueda de su hijo Alejandro, secuestrado por la Triple A en 1975, a los 20 años, y desaparecido desde entonces.",
+      "id": "news-1782481394033-0",
+      "title": "Felicitó la Cruz Roja a sus socorristas a propósito de su Día Internacional",
+      "author": "Redacción RCM - Humberto Zamora Fajardo",
+      "content": "La filial granmense de la Cruz Roja Cubana, con dirección general en Bayamo, felicitó este miércoles a sus socorristas al conmemorarse el 24 de junio su Día Internacional. Jorge Verdecia, jefe del Grupo Especial de Operaciones y Socorro, destacó a Radio Ciudad Monumento que la jornada fue una oportunidad para agradecer la importante labor que realizan estos hombres y mujeres en beneficio de la población. Los socorristas dedican su vida a ayudar a las personas sin esperar nada a cambio, y cada 24 de junio se celebra a quienes están en primera línea cuando ocurre una emergencia, no solo en Bayamo, Granma o Cuba. El Día Internacional del Socorrista es también un llamado a que más personas se sumen al voluntariado, pues en una emergencia el primero en responder casi siempre es un vecino, un familiar o un desconocido con voluntad.",
       "category": "General",
-      "date": "Titular:",
-      "excerpt": "En un mensaje publicado en la red social X, el presidente Miguel Díaz-Canel afirmó que el ejemplo de Almeida, “luchadora incansable por los derechos y la dignidad del pueblo argentino, perdurará en nuestra memoria”."
+      "date": "Jueves 25 de junio de 2026",
+      "excerpt": "La filial granmense de la Cruz Roja Cubana, con dirección general en Bayamo, felicitó este miércoles a sus socorristas al conmemorarse el 24 de junio su Día Internacional."
     },
     {
-      "id": "news-1781695756233-1",
-      "title": "Daño humanitario del bloqueo de EEUU contra Cuba es \"incalculable\"",
-      "author": "Cubadebate",
-      "content": "El bloqueo del Gobierno de Estados Unidos contra Cuba ha causado daños humanitarios incalculables y se ha convertido en el principal obstáculo para el desarrollo social de la nación caribeña, denunció este lunes 15/6 el medio de prensa digital «Cubadebate», consignado por la agencia china de noticias Xinhua. Según estadísticas oficiales citadas por Cubadebate, el índice de supervivencia de los niños con cáncer en Cuba ha disminuido del 85 al 65 por ciento, desde que fue impuesto el bloqueo petrolero a la nación caribeña y Washington escaló su política de sanciones.",
+      "id": "news-1782481394033-1",
+      "title": "Profesionales de la salud cubanos en Venezuela se encuentran fuera de peligro tras terremotos",
+      "author": "Prensa Latina",
+      "content": "Los profesionales de la salud de Cuba que colaboran en Venezuela se encuentran fuera de peligro y muchos de ellos están incorporados a las labores asistenciales requeridas, informaron en La Habana fuentes gubernamentales. Según comunicó el Ministerio de Salud Pública, tras conocerse la noticia de los terremotos en la nación bolivariana, el titular del ramo, José Ángel Portal, estableció comunicación con la Dirección de la Misión Médica en ese país, la cual informó que intercambiaron con los equipos de trabajo en los 24 estados donde hay colaboradores. Así lo publicó Prensa Latina.",
       "category": "General",
-      "date": "Titular:",
-      "excerpt": "El bloqueo del Gobierno de Estados Unidos contra Cuba ha causado daños humanitarios incalculables y se ha convertido en el principal obstáculo para el desarrollo social de la nación caribeña, denunció este lunes 15/6 el medio de prensa digital «Cubadebate», consignado por la agencia china de noticias Xinhua."
+      "date": "Jueves 25 de junio de 2026",
+      "excerpt": "Los profesionales de la salud de Cuba que colaboran en Venezuela se encuentran fuera de peligro y muchos de ellos están incorporados a las labores asistenciales requeridas, informaron en La Habana fuentes gubernamentales."
     },
     {
-      "id": "news-1781695756233-2",
-      "title": "Concluye en Manzanillo la 54 Jornada Literaria Manuel Navarro Luna",
-      "author": "Periódico Granma",
-      "content": "El escritor villaclareño Luis Manuel Pérez Boitiel, bajo el seudónimo La otra Alejandra, se alzó con el premio.",
+      "id": "news-1782481394033-2",
+      "title": "México ofrece ayuda a Venezuela tras sismos y expresa solidaridad con su pueblo",
+      "author": "Tele Sur",
+      "content": "La presidenta de México, Claudia Sheinbaum, declaró la solidaridad de su Gobierno con Venezuela a raíz de los daños registrados tras dos terremotos sucesivos de magnitud 7.2 y 7.5 ocurridos el miércoles. \"Nuestra solidaridad con el pueblo de Venezuela\", escribió en la red social X la mandataria, quien informó que la Secretaría de Asuntos Exteriores ha estado en contacto con el Gobierno de Caracas. Sheinbaum ordenó la preparación de la ayuda necesaria y precisó que, por ahora, Venezuela ha solicitado apoyo con personal especializado en rescate y salud. \"México siempre está y será solidario\", afirmó.",
       "category": "General",
-      "date": "Titular:",
-      "excerpt": "El escritor villaclareño Luis Manuel Pérez Boitiel, bajo el seudónimo La otra Alejandra, se alzó con el premio.."
+      "date": "Jueves 25 de junio de 2026",
+      "excerpt": "La presidenta de México, Claudia Sheinbaum, declaró la solidaridad de su Gobierno con Venezuela a raíz de los daños registrados tras dos terremotos sucesivos de magnitud 7.2 y 7.5 ocurridos el miércoles."
     },
     {
-      "id": "news-1781695756233-3",
-      "title": "Ante la política de asfixia y guerra económica estadounidense, la ciencia cubana continúa creando productos para más bienestar y soberanía",
-      "author": "Periódico Granma",
-      "content": "El miembro de Buró Político y Ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, expresó, este lunes, en declaraciones sobre la ciencia cubana frente al bloqueo.",
+      "id": "news-1782481394033-3",
+      "title": "Graduados más de 150 estudiantes de sexto y noveno grados de la EIDE bayamesa",
+      "author": "Redacción RCM - Humberto Zamora Fajardo",
+      "content": "Más de 150 estudiantes que cursaron estudios de sexto y noveno grados en la Escuela de Iniciación Deportiva Pedro Batista Fonseca recibieron hoy sus títulos como graduados de sus respectivas enseñanzas en un acto celebrado en Bayamo. El periodista Humberto Zamora Fajardo reportó que la graduación reconoce el esfuerzo de estos alumnos que combinan la formación académica con el entrenamiento deportivo de alto rendimiento. La EIDE bayamesa es un centro clave en la formación de atletas de la provincia de Granma.",
       "category": "General",
-      "date": "Titular:",
-      "excerpt": "El miembro de Buró Político y Ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, expresó, este lunes, en declaraciones sobre la ciencia cubana frente al bloqueo.."
-    },
-    {
-      "id": "news-1781695756233-4",
-      "title": "Bandera de Cuba presente en acto por la paz en Bruselas",
-      "author": "Periódico Granma",
-      "content": "En medio de una manifestación contra la militarización y por la paz, la bandera cubana estuvo presente.",
-      "category": "General",
-      "date": "Titular:",
-      "excerpt": "En medio de una manifestación contra la militarización y por la paz, la bandera cubana estuvo presente.."
-    },
-    {
-      "id": "news-1781695756233-5",
-      "title": "Convocan Pleno Extraordinario del Comité Central del Partido Comunista de Cuba",
-      "author": "Periódico Granma",
-      "content": "El Buró Político del Partido Comunista de Cuba acordó convocar a un Pleno Extraordinario de su Comité Central, el miércoles 17 de junio de 2026, con el objetivo de evaluar propuestas de transformaciones económicas y sociales.",
-      "category": "General",
-      "date": "Titular:",
-      "excerpt": "El Buró Político del Partido Comunista de Cuba acordó convocar a un Pleno Extraordinario de su Comité Central, el miércoles 17 de junio de 2026, con el objetivo de evaluar propuestas de transformaciones económicas y sociales.."
-    },
-    {
-      "id": "news-1781695756233-6",
-      "title": "Convocan Tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular en su X Legislatura",
-      "author": "La Demajagua",
-      "content": "La Gaceta Oficial de la República de Cuba publicó el Acuerdo 599-X/2026 del Consejo de Estado, que convoca a la Tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular en su X Legislatura. La sesión será el 18 de junio de 2026, a las 2:00 p.m., con el objetivo de evaluar las \"Propuestas de Transformaciones Económicas y Sociales\".",
-      "category": "General",
-      "date": "Titular:",
-      "excerpt": "La Gaceta Oficial de la República de Cuba publicó el Acuerdo 599-X/2026 del Consejo de Estado, que convoca a la Tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular en su X Legislatura."
-    },
-    {
-      "id": "news-1781695756233-7",
-      "title": "Primer buque iraní atraviesa la zona del bloqueo naval estadounidense",
-      "author": "Periódico Granma",
-      "content": "Los primeros buques iraníes navegaron sin contratiempos por la zona donde Estados Unidos mantenía bloqueo naval.",
-      "category": "General",
-      "date": "Titular:",
-      "excerpt": "Los primeros buques iraníes navegaron sin contratiempos por la zona donde Estados Unidos mantenía bloqueo naval.."
-    },
-    {
-      "id": "news-1781695756233-8",
-      "title": "Proyecto del PMA contribuye a nutrición de embarazadas y niños en Cuba",
-      "author": "Periódico Granma",
-      "content": "El proyecto internacional Nutrivida, del Programa Mundial de Alimentos (PMA), contribuye a fortalecer la nutrición de embarazadas y niños en Cuba.",
-      "category": "General",
-      "date": "Titular:",
-      "excerpt": "El proyecto internacional Nutrivida, del Programa Mundial de Alimentos (PMA), contribuye a fortalecer la nutrición de embarazadas y niños en Cuba.."
+      "date": "Jueves 25 de junio de 2026",
+      "excerpt": "Más de 150 estudiantes que cursaron estudios de sexto y noveno grados en la Escuela de Iniciación Deportiva Pedro Batista Fonseca recibieron hoy sus títulos como graduados de sus respectivas enseñanzas en un acto celebrado en Bayamo."
     }
   ],
   "fichas": [
@@ -4599,12 +4564,12 @@
       "educativos": 0,
       "orientacion": 171,
       "cienciaTecnica": 3,
-      "variados": 101,
+      "variados": 159,
       "historicosGrabado": 0,
       "variadoInfantilGrabado": 0,
       "dramatizados": 0,
       "literaturaArte": 43,
-      "musicales": 58,
+      "musicales": 0,
       "deportivos": 0,
       "reposiciones": 0,
       "total": 480
@@ -4616,12 +4581,12 @@
       "educativos": 0,
       "orientacion": 168,
       "cienciaTecnica": 6,
-      "variados": 101,
+      "variados": 159,
       "historicosGrabado": 0,
       "variadoInfantilGrabado": 0,
       "dramatizados": 0,
       "literaturaArte": 43,
-      "musicales": 58,
+      "musicales": 0,
       "deportivos": 0,
       "reposiciones": 0,
       "total": 480
@@ -4633,12 +4598,12 @@
       "educativos": 0,
       "orientacion": 171,
       "cienciaTecnica": 3,
-      "variados": 101,
+      "variados": 159,
       "historicosGrabado": 0,
       "variadoInfantilGrabado": 0,
       "dramatizados": 0,
       "literaturaArte": 43,
-      "musicales": 58,
+      "musicales": 0,
       "deportivos": 0,
       "reposiciones": 0,
       "total": 480
@@ -4650,12 +4615,12 @@
       "educativos": 0,
       "orientacion": 171,
       "cienciaTecnica": 3,
-      "variados": 101,
+      "variados": 159,
       "historicosGrabado": 0,
       "variadoInfantilGrabado": 0,
       "dramatizados": 0,
       "literaturaArte": 43,
-      "musicales": 58,
+      "musicales": 0,
       "deportivos": 0,
       "reposiciones": 0,
       "total": 480
@@ -4667,12 +4632,12 @@
       "educativos": 0,
       "orientacion": 168,
       "cienciaTecnica": 6,
-      "variados": 101,
+      "variados": 159,
       "historicosGrabado": 0,
       "variadoInfantilGrabado": 0,
       "dramatizados": 0,
       "literaturaArte": 43,
-      "musicales": 58,
+      "musicales": 0,
       "deportivos": 0,
       "reposiciones": 0,
       "total": 480
@@ -23980,6 +23945,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Mujeres en la administración pública: liderazgo femenino al servicio del pueblo.",
           "ideas": "En vísperas del Día del Trabajador de la Administración Pública, el programa destaca el papel de las mujeres que laboran en este sector. Una directiva municipal y una joven funcionaria comparten sus experiencias en cargos de dirección, los retos de la gestión pública y cómo el Programa de Adelanto de las Mujeres impulsa la paridad en la toma de decisiones. La sección infantil presenta a una niña que sueña con ser \"la que arregla los problemas del barrio\". \"De la Ciencia y la Técnica\" aborda la informatización de los trámites. \"Este mundo nuestro\" muestra a mujeres líderes en gobiernos de otros países. \"Un día como hoy\" recuerda el Día Internacional Libre de Bolsas de Plástico. Música de empoderamiento. Pregunta: ¿Conoces a una mujer que se destaque en la administración pública?\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "Carilda Oliver Labra: la novia de Matanzas que cantó al amor sin ataduras.",
+          "ideas": "En el natalicio 104 de Carilda Oliver Labra, una investigadora literaria repasa la vida y obra de esta Premio Nacional de Literatura, autora de versos que rompieron esquemas con su sensualidad y su defensa de la libertad femenina. Se leen fragmentos de sus poemas de amor y desamor, y se analiza cómo su poesía empoderó a las mujeres cubanas. La sección infantil presenta un poema breve de Carilda. \"Sobre el lenguaje\" analiza su riqueza metafórica. \"De la Ciencia y la Técnica\" aborda la digitalización de su obra. \"Este mundo nuestro\" recuerda a otras poetisas que desafiaron convenciones. Música de boleros y trova lírica. Pregunta: ¿Qué poema de amor te ha marcado?\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "El suelo que nos alimenta: conservación y lucha contra la degradación en Granma.",
+          "ideas": "En el Día Internacional de la Conservación del Suelo, un especialista del CITMA y un ingeniero agrónomo explican la importancia de este recurso para la seguridad alimentaria, los factores que provocan su degradación (erosión, salinización, deforestación) y las acciones de la Tarea Vida en la provincia. La sección infantil enseña a los niños cómo se forma el suelo con un experimento sencillo. \"De la Ciencia y la Técnica\" habla sobre técnicas de conservación como el abono verde y las barreras vivas. \"Este mundo nuestro\" muestra cómo otros países combaten la desertificación. \"Un día como hoy\" recuerda el fallecimiento del escritor Arthur Conan Doyle. Música de punto cubano. Pregunta: ¿Sabías que el suelo es un recurso vivo y no renovable?\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "Prevención de adicciones en el verano: responsabilidad compartida de la familia y la comunidad.",
+          "ideas": "Un psiquiatra del Centro Comunitario de Salud Mental y un oficial del MININT explican cómo el tiempo libre del verano puede ser un factor de riesgo para el consumo de drogas si no se acompaña con opciones recreativas sanas. Destacan la importancia de la vigilancia familiar, el diálogo y la oferta de actividades culturales y deportivas. La sección infantil presenta un cuento sobre la toma de buenas decisiones. \"De la Ciencia y la Técnica\" aborda los efectos de las drogas en el cerebro adolescente. \"Este mundo nuestro\" muestra programas de prevención en otros países. \"Un día como hoy\" recuerda el natalicio de la capitana mambisa Isabel Rubio. Música de conciencia. Pregunta: ¿Qué haces para proteger a tu familia de las adicciones?\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "Prácticas agroecológicas y variedades de siembra en el verano en Granma.",
+          "ideas": "Un especialista en agroecología y un productor local explican las prácticas sostenibles que se aplican en la provincia para cultivar durante la temporada estival: rotación de cultivos, abonos verdes, barreras vivas y control biológico de plagas. Se presentan las variedades de viandas, granos y hortalizas que mejor se adaptan al calor y la sequía, y cómo los campesinos innovan para mantener la producción. La sección infantil enseña a los niños a identificar semillas y plantarlas. \"De la Ciencia y la Técnica\" aborda los biofertilizantes y bioplaguicidas. \"Este mundo nuestro\" presenta experiencias de agroecología en otros países tropicales. \"Un día como hoy\" recuerda la independencia de Argentina. Música de punto cubano. Pregunta: ¿Has probado a sembrar en verano?\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "Nicolás Guillén: el poeta del pueblo que cantó a la Revolución con Fidel.",
+          "ideas": "En el natalicio 124 del Poeta Nacional, un investigador literario repasa la vida y obra de Guillén, su poesía social y antirracista, su compromiso con la Revolución y su amistad con Fidel Castro. Se reproducen grabaciones del propio Guillén recitando sus poemas. La sección infantil aprende y recita \"La muralla\". \"Sobre el lenguaje\" analiza el uso del ritmo y la sonoridad en su poesía. \"De la Ciencia y la Técnica\" habla sobre la preservación de su archivo personal. \"Este mundo nuestro\" recuerda a otros poetas nacionales de América. Música de sus poemas musicalizados por la Nueva Trova. Pregunta: ¿Qué poema de Guillén te sabes de memoria?\n"
         }
       }
     },
@@ -24487,6 +24472,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Cómo realizar trámites en línea desde el hogar y ahorrar tiempo y dinero.",
           "ideas": "\"Y algo más\" invita a un especialista en gobierno electrónico, quien explica los servicios digitales disponibles para la ciudadanía: Transfermóvil, EnZona, la plataforma de trámites del gobierno. Enseña cómo realizar gestiones bancarias, pagar servicios y consultar documentos sin salir de casa. \"Sin fórmulas mágicas\" propone una receta rápida para los días de muchas diligencias. \"Lo bello también se lleva por fuera\" recomienda organizar una carpeta digital con los documentos importantes. Testimonio de una madre trabajadora que ha simplificado su vida con estas herramientas. Tono práctico y orientador.\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "Cómo fomentar la lectura de poesía entre las niñas y adolescentes del hogar.",
+          "ideas": "\"Y algo más\" conversa con una bibliotecaria escolar, quien recomienda antologías de poetisas cubanas —desde Carilda Oliver Labra hasta Nancy Morejón— y sugiere actividades lúdicas para acercar a las muchachas a la poesía: crear un club de lectura, escribir poemas en grupo, musicalizar versos. \"Sin fórmulas mágicas\" propone una merienda para acompañar una tarde poética. \"Lo bello también se lleva por fuera\" enseña a elaborar un cuaderno de poesía decorado con flores prensadas. Testimonio de una madre que comparte versos con su hija. Música instrumental suave.\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "Cómo hacer compost casero para nutrir el jardín o el huerto familiar.",
+          "ideas": "\"Y algo más\" invita a un especialista en agricultura urbana, quien enseña paso a paso cómo elaborar compost con residuos orgánicos de la cocina: cáscaras, restos de vegetales, hojas secas. Explica qué materiales sirven y cuáles no, y cómo usarlo para mejorar la calidad del suelo del jardín o las macetas. \"Sin fórmulas mágicas\" propone recetas veraniegas con vegetales cultivados en casa. \"Lo bello también se lleva por fuera\" muestra cómo decorar el compostero. Testimonio de una familia que ha logrado un suelo fértil en su patio. Música con sonidos de la naturaleza.\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "Señales de alerta del consumo de drogas en adolescentes: guía práctica para madres y padres.",
+          "ideas": "\"Y algo más\" recibe a un psicólogo especializado en adicciones, quien detalla cambios de conducta que pueden indicar consumo: aislamiento, bajo rendimiento escolar, nuevos amigos, mentiras frecuentes, pérdida de interés. Recomienda cómo abordar la sospecha con diálogo y búsqueda de ayuda profesional. \"Prospecto radial\" recuerda la Línea Confidencial Antidrogas. Testimonio anónimo de una madre que logró ayudar a su hijo a tiempo. \"Lo bello también se lleva por fuera\" sugiere fomentar actividades extracurriculares como deportes y artes durante el verano. Tono preventivo y claro.\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "Recetas frescas y económicas con frutas y vegetales de temporada.",
+          "ideas": "\"Sin fórmulas mágicas\" invita a una cocinera local, quien enseña a preparar platos veraniegos con productos de estación: ensalada de aguacate y mango, gazpacho de tomate, batidos de guayaba y mamey. \"Prospecto radial\" habla de los beneficios de consumir frutas frescas para la hidratación. \"Y algo más\" conversa con una familia que ha aprendido a variar su menú sin gastar mucho. \"Lo bello también se lleva por fuera\" muestra cómo presentar los platos de forma atractiva. Música alegre de fondo.\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "Cómo acercar la poesía de Guillén a los niños y jóvenes del hogar.",
+          "ideas": "\"Y algo más\" conversa con una pedagoga, quien ofrece ideas para que los niños disfruten la poesía de Guillén: leer \"Por el Mar de las Antillas\" en voz alta, jugar con el ritmo de sus versos, dibujar los personajes de sus poemas. \"Sin fórmulas mágicas\" propone una merienda para acompañar la lectura. \"Lo bello también se lleva por fuera\" enseña a elaborar un mural familiar con versos de Guillén. Testimonio de una madre que ha transmitido el amor por la poesía a sus hijos. Música de trovadores que han musicalizado a Guillén.\n"
         }
       }
     },
@@ -25030,6 +25035,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Actividades por el Día del Trabajador de la Administración Pública en Bayamo.",
           "ideas": "Reportaje sobre el acto de reconocimiento a trabajadores administrativos en el Gobierno Municipal, con entrega de estímulos a quienes acumulan años de servicio. Entrevista a una funcionaria destacada. Segunda nota: balance de las acciones del gobierno electrónico en el municipio. Tercera nota: convocatoria a las actividades del fin de semana, incluyendo el acto central por el Día de la Administración Pública (4 de julio). Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "Homenajes a Carilda Oliver Labra en instituciones culturales de Granma.",
+          "ideas": "Reportaje sobre la lectura de poemas de Carilda realizada en la Biblioteca Provincial de Bayamo, con participación de poetisas locales y estudiantes. Entrevista a una joven escritora sobre la influencia de Carilda en su obra. Segunda nota: balance de las actividades del fin de semana por el Día de la Administración Pública. Tercera nota: feria de productos agropecuarios en el centro de la ciudad. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "Acciones de conservación de suelos en Granma y seguimiento a la campaña de verano.",
+          "ideas": "Reportaje sobre los proyectos de conservación de suelos en cooperativas agrícolas de la provincia, con entrevista a un productor que aplica técnicas agroecológicas. Segunda nota: balance de la campaña de verano y perspectivas de cosecha. Tercera nota: presentación del programa de actividades recreativas para niños en los parques durante las vacaciones. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "Jornadas de prevención de adicciones en comunidades y centros recreativos de Bayamo.",
+          "ideas": "Reportaje sobre los talleres y charlas impartidos por el Centro Comunitario de Salud Mental en parques y centros culturales del municipio durante el inicio del verano. Entrevista a un psicólogo y a un líder comunitario. Segunda nota: resultados de la pesquisa activa en barrios con mayor incidencia de factores de riesgo. Tercera nota: inauguración de un espacio recreativo juvenil en un parque de la ciudad. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "Avance de la producción de alimentos en Granma y feria agropecuaria de verano.",
+          "ideas": "Reportaje sobre la marcha de la campaña de verano en las cooperativas, con datos de siembra y perspectivas de cosecha. Entrevista a un directivo de la Delegación de la Agricultura. Segunda nota: feria agropecuaria de fin de semana en el centro de la ciudad con productos a precios módicos. Tercera nota: anuncio de las actividades por el natalicio de Nicolás Guillén (mañana 10 de julio). Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "Atención a grupos vulnerables en Bayamo: acciones del gobierno y las organizaciones.",
+          "ideas": "Reportaje sobre los programas de asistencia social que se implementan en el municipio para atender a personas en situación de vulnerabilidad: adultos mayores solos, madres solteras con bajos ingresos, personas con discapacidad. Entrevista a una trabajadora social y a un beneficiario de estos programas. Segunda nota: inauguración de un nuevo servicio de comedor comunitario en un barrio periférico. Tercera nota: actividades por el natalicio de Nicolás Guillén en las escuelas. Cierre con información deportiva y el pronóstico del tiempo.\n"
         }
       }
     },
@@ -25537,6 +25562,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Estrenos de grupos de teatro en Bayamo en los primeros meses de 2026: nuevas puestas en escena.",
           "ideas": "Viernes de artes escénicas. Un crítico teatral y un director local repasan los estrenos más destacados que los grupos bayameses han presentado en lo que va de año: obras de teatro comunitario, piezas infantiles y montajes de clásicos cubanos. Se describen fragmentos sonoros de las puestas y se analizan las temáticas abordadas, la acogida del público y los desafíos de hacer teatro en el contexto actual. \"En taquilla\" promociona las próximas funciones de estos grupos. \"Juego de espejos\" reflexiona sobre la vitalidad de la escena teatral local. Invitado: un joven actor que participó en uno de los estrenos.\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "Documentales sobre poetisas cubanas: Carilda, Fina y otras voces imprescindibles.",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine analiza producciones del ICAIC y de la televisión cubana que han retratado la vida y obra de grandes poetisas del país. Se describen fragmentos sonoros de entrevistas y lecturas de Carilda Oliver Labra, Fina García Marruz y otras. \"En taquilla\" promociona un ciclo de documentales sobre literatura cubana en la Casa de la Cultura. \"Juego de espejos\" reflexiona sobre cómo el audiovisual preserva la voz y la imagen de las creadoras. \"Página suelta\" convoca a realizadores locales a presentar cortos sobre escritoras de la provincia.\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "El paisaje rural cubano en las artes plásticas: del realismo al surrealismo.",
+          "ideas": "Martes de artes plásticas. Un crítico de arte analiza cómo pintores cubanos de distintas épocas han representado el suelo, los campos y la vida rural. Se describen obras de pintores como Eduardo Abela, Carlos Enríquez y artistas contemporáneos que reflejan la relación del campesino con la tierra. \"En taquilla\" promociona una exposición de pintura de paisajes en la Galería de Bayamo. \"Juego de espejos\" reflexiona sobre cómo el arte puede sensibilizar sobre la necesidad de conservar los suelos. Música de fondo con sones campesinos.\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "La narrativa cubana y el tema de las adicciones: cuentos y novelas que abren los ojos.",
+          "ideas": "Miércoles de literatura. Un escritor local y un crítico literario dialogan sobre obras de la literatura cubana que abordan el tema de las drogas o las dependencias, desde una perspectiva social o psicológica. Se leen fragmentos seleccionados. \"Juego de espejos\" analiza el papel de la literatura como herramienta de denuncia y prevención. \"En taquilla\" promociona un taller de escritura terapéutica en la Biblioteca Provincial. \"Página suelta\" convoca a microrrelatos sobre segundas oportunidades. Música de trova introspectiva.\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "El repentismo: raíces y actualidad en Cuba.",
+          "ideas": "Jueves de música. Un musicólogo y un poeta repentista recorren la historia del repentismo en Cuba, desde sus raíces campesinas hasta su evolución como género musical y literario. Se analizan las reglas de la controversia, las estructuras de la décima y las principales figuras del repentismo histórico y contemporáneo. Se reproducen fragmentos de controversias famosas y se improvisa una en vivo entre un repentista invitado y un joven decimista local. \"En taquilla\" promociona un taller de repentismo en la Casa de la Trova. \"Juego de espejos\" reflexiona sobre la vigencia del repentismo como expresión de la identidad y la soberanía cultural. Música de punto cubano y controversia.\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "Premios Nacionales de Danza en Cuba: trayectorias que honran el arte del movimiento.",
+          "ideas": "Viernes de artes escénicas. Una investigadora de la danza repasa la historia del Premio Nacional de Danza en Cuba, sus galardonados más emblemáticos —desde Alicia Alonso hasta las figuras contemporáneas— y el impacto de sus trayectorias en la Escuela Cubana de Ballet y la danza moderna. Se describen fragmentos sonoros de entrevistas y presentaciones. \"En taquilla\" promociona una gala de danza en el Teatro Principal. \"Juego de espejos\" reflexiona sobre el reconocimiento institucional al arte dancístico. Invitado: un bailarín local que aspira a seguir los pasos de esos grandes.\n"
         }
       }
     },
@@ -26044,6 +26089,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Conocer sobre Matías Pérez: el misterio del portugués volador que fascina a los jóvenes.",
           "ideas": "\"Curiosidades\" presenta la historia de Matías Pérez, el famoso aeronauta portugués que desapareció en el cielo de La Habana en 1856 y cuya leyenda aún persiste en la cultura popular cubana. Un historiador aficionado cuenta detalles de su vida y su misteriosa desaparición. La conductora conversa con jóvenes que conocen la leyenda y la han recreado en memes, canciones o relatos. \"Parada Cultural\" anuncia un concurso de microrrelatos sobre Matías Pérez. Segmento interactivo con teorías de los oyentes. Música de misterio y aventura.\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "Nuevas voces femeninas en la poesía bayamesa.",
+          "ideas": "\"Parada Cultural\" presenta a dos jóvenes poetisas de la ciudad que han publicado en revistas y antologías. Cuentan sus motivaciones, sus temas recurrentes (el amor, la migración, la identidad) y los retos de escribir y publicar siendo mujer y joven. Leen fragmentos de su obra en vivo. \"Curiosidades\" presenta datos sobre la presencia femenina en los premios literarios cubanos. Segmento interactivo con mensajes de la audiencia. Música de trova interpretada por mujeres. Tono fresco y de reconocimiento.\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "Activismo ambiental juvenil: jóvenes que siembran conciencia ecológica en Bayamo.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica los principios de la agroecología. La conductora conversa con jóvenes que participan en proyectos de reforestación y conservación de suelos en comunidades rurales del municipio. Un representante de la Tarea Vida explica cómo los jóvenes pueden integrarse a estas iniciativas. \"Curiosidades\" presenta datos sobre la degradación de suelos en el mundo. Segmento interactivo con ideas de los oyentes. Música con mensaje ecológico.\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "Ocio sin drogas: cómo disfrutar el verano con amigos de forma sana.",
+          "ideas": "La conductora conversa con un grupo de jóvenes que organizan actividades recreativas durante el verano: tardes de juegos de mesa, picnics en parques, paseos en bicicleta, noches de cine al aire libre. Un psicólogo explica la importancia de planificar el ocio para evitar el aburrimiento, que puede ser factor de riesgo. \"Parada Cultural\" anuncia las próximas actividades gratuitas en los parques de la ciudad. Segmento interactivo con ideas de los oyentes para un verano sin drogas. Música con ritmos positivos y enérgicos.\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "Del campo a la ciudad: jóvenes que apuestan por la agricultura y la innovación.",
+          "ideas": "\"Parada de Ciencia y Técnica\" presenta innovaciones tecnológicas en la agricultura cubana actual. La conductora conversa con un joven usufructuario y un estudiante de agronomía sobre sus motivaciones para trabajar en el campo, los desafíos que enfrentan y cómo aplican la tecnología en sus fincas. \"Curiosidades\" muestra ejemplos de jóvenes que han diversificado sus cultivos con éxito. Segmento interactivo con preguntas de oyentes que desean emprender en la agricultura. Música con ritmos campesinos modernos. Tono realista y motivador.\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "Los jóvenes y el rap: la banda sonora de una generación que alza la voz.",
+          "ideas": "\"Parada Cultural\" presenta a jóvenes raperos de Bayamo que utilizan este género para expresar sus inquietudes, contar sus realidades y hacer crítica social. Un productor musical local explica cómo ha evolucionado el rap cubano y su creciente aceptación. Los artistas invitados interpretan fragmentos de sus temas en vivo. \"Curiosidades\" presenta datos sobre el origen del hip hop y su llegada a Cuba. Segmento interactivo donde los oyentes comparten sus raperos favoritos. Música de rap cubano contemporáneo. Tono fresco y sin prejuicios, reconociendo el valor artístico y social del género.\n"
         }
       }
     },
@@ -26551,6 +26616,26 @@
         "Julio-semana-1-Viernes": {
           "theme": "Cómo acompañar a los niños en las vacaciones sin morir en el intento: consejos para madres y padres.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana entrevista a una psicóloga infantil, quien ofrece ideas para mantener a los niños entretenidos durante las vacaciones escolares sin pantallas: juegos de mesa, lectura compartida, paseos al parque, cocinar juntos, armar rompecabezas. \"Historias cotidianas\" presenta a una madre que ha organizado un \"campamento de verano en casa\" con gran éxito. \"¿Y qué tú crees?\" recoge opiniones callejeras sobre el reto de conciliar trabajo y niños en vacaciones. \"De todo un poco\" recomienda actividades gratuitas en la comunidad. Tono empático y práctico.\n"
+        },
+        "Julio-semana-2-Lunes": {
+          "theme": "El deseo femenino en la poesía de Carilda: una mirada a la sexualidad sin tabúes.",
+          "ideas": "Lunes es de sexualidad. Juana comenta algunos versos de Carilda Oliver Labra que rompieron moldes en su época al hablar abiertamente del deseo femenino. \"El que sabe, sabe\" entrevista a una sexóloga, quien explica cómo la expresión artística del deseo contribuye a una vivencia más plena y libre de la sexualidad. \"Historias cotidianas\" recoge el testimonio anónimo de una mujer que encontró en la poesía una vía para reconciliarse con su cuerpo y sus deseos. \"¿Y qué tú crees?\" pregunta si aún hay temas tabú en la poesía. \"De todo un poco\" recomienda libros de poesía erótica cubana. Tono respetuoso y liberador.\n"
+        },
+        "Julio-semana-2-Martes": {
+          "theme": "Legislación ambiental cubana: derechos y deberes sobre el uso y conservación del suelo.",
+          "ideas": "Martes es día jurídico. Un abogado especializado en derecho ambiental explica las normativas cubanas sobre protección del suelo, los derechos de los usufructuarios y las sanciones por mal uso de la tierra. \"Entérate, vecino\" informa sobre los mecanismos de denuncia ante daños ambientales. \"Versiones encontradas\" debate sobre el equilibrio entre producción y conservación. \"Polémica en las redes\" muestra comentarios de la ciudadanía. Se responden preguntas frecuentes de los oyentes. Tono claro y orientador.\n"
+        },
+        "Julio-semana-2-Miércoles": {
+          "theme": "Cómo los padres y la familia deben acompañar el abandono de una adicción de un adolescente o joven.",
+          "ideas": "Miércoles es variado. Juana presenta el caso de un vecino cuyo hijo está saliendo de una adicción. \"El que sabe, sabe\" entrevista a un psicólogo especializado en rehabilitación juvenil, quien explica cómo la familia debe acompañar este proceso: evitar los reproches, fomentar la comunicación abierta, establecer rutinas saludables y celebrar los pequeños logros sin bajar la guardia. \"Historias cotidianas\" recoge el testimonio anónimo de un padre que aprendió a apoyar a su hijo sin sobreprotegerlo. \"¿Y qué tú crees?\" recoge opiniones sobre si las familias están preparadas para este reto. \"De todo un poco\" informa sobre los grupos de apoyo para familiares en Bayamo. Tono empático, realista y orientador.\n"
+        },
+        "Julio-semana-2-Jueves": {
+          "theme": "El desarrollo territorial en Bayamo: proyectos de autoabastecimiento alimentario municipal.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Juana entrevista a un funcionario del gobierno municipal y a un presidente de cooperativa, quienes explican las estrategias de autoabastecimiento alimentario, los proyectos de agricultura urbana y las metas para reducir la dependencia de productos foráneos. \"Entérate, vecino\" informa sobre los puntos de venta de productos locales. \"Versiones encontradas\" debate sobre los precios y los intermediarios. \"De todo un poco\" orienta sobre cómo la población puede contribuir. Tono propositivo.\n"
+        },
+        "Julio-semana-2-Viernes": {
+          "theme": "La palabra como arma: cómo debatir con respeto en tiempos de polarización.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Inspirados por la obra de Guillén y su compromiso social, Juana invita a un comunicador y a una psicóloga, quienes ofrecen pautas para debatir sin agredir: escucha activa, argumentación basada en hechos, evitar descalificaciones, reconocer cuándo no se tiene razón. \"Historias cotidianas\" presenta el caso de dos vecinos que aprendieron a discutir sin pelearse. \"¿Y qué tú crees?\" recoge opiniones callejeras. \"Polémica en las redes\" muestra ejemplos. Tono conciliador y pedagógico.\n"
         }
       }
     },
@@ -26626,6 +26711,10 @@
         "Julio-semana-1-Sábado": {
           "theme": "Casa de las Américas: 67 años de puentes culturales entre los pueblos.",
           "ideas": "Un escritor e investigador local recuerda la fundación de Casa de las Américas, su primera directora, Haydée Santamaría, y el impacto de esta institución en la cultura latinoamericana. Se repasa la historia del Premio Casa de las Américas y su importancia para la literatura del continente. La sección infantil narra un cuento ganador de un premio Casa. \"De la Ciencia y la Técnica\" aborda la digitalización de los archivos de la institución. \"Este mundo nuestro\" presenta otros centros culturales que tienden puentes entre naciones. \"Un día como hoy\" recuerda también el Día del Trabajador de la Administración Pública. Música de trova latinoamericana. Pregunta: ¿Qué libro latinoamericano recomendarías?\n"
+        },
+        "Julio-semana-2-Sábado": {
+          "theme": "Unidad y discrepancia en el escenario actual de Cuba: el reto de construir entre todos.",
+          "ideas": "A propósito del pensamiento de José de la Luz y Caballero, quien abogó por el diálogo y el debate de ideas como motores del progreso, un sociólogo y un comunicador analizan la realidad cubana actual: la necesidad de unidad para enfrentar los desafíos nacionales, sin que ello implique silenciar las discrepancias constructivas. Se reflexiona sobre cómo debatir con respeto, sumar criterios diversos y encontrar puntos en común. La sección infantil narra un cuento sobre un grupo de niños que aprenden a trabajar en equipo a pesar de sus diferencias. \"De la Ciencia y la Técnica\" aborda las redes sociales como espacio de debate. \"Este mundo nuestro\" muestra otras sociedades que han logrado consensos. Música de trovadores con letras de contenido social. Pregunta: ¿Cómo expresas tus discrepancias sin romper la unidad?\n"
         }
       }
     },
@@ -26701,6 +26790,10 @@
         "Julio-semana-1-Sábado": {
           "theme": "Actividades culturales en Bayamo y previsiones para la próxima semana.",
           "ideas": "Reportaje sobre el acto de recordación por el aniversario de Casa de las Américas, con participación de escritores locales. Segunda nota: balance de las actividades de la semana que concluye. Tercera nota: previsiones para la semana del 6 al 12 de julio, incluyendo el natalicio de Nicolás Guillén (10 de julio) y otras efemérides culturales. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-2-Sábado": {
+          "theme": "Actividades del fin de semana y previsiones para la semana entrante.",
+          "ideas": "Reportaje sobre la ofrenda floral en la escuela que lleva el nombre de José de la Luz y Caballero en la provincia. Segunda nota: balance de las actividades de la semana que concluye. Tercera nota: previsiones para la semana del 13 al 19 de julio, incluyendo el natalicio de Mariana Grajales (12 de julio), los asaltos a los cuarteles Moncada y Carlos Manuel de Céspedes (26 de julio) y otras efemérides. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n"
         }
       }
     },
@@ -26812,6 +26905,10 @@
         "Julio-semana-1-Sábado": {
           "theme": "El poder de la palabra: cómo escribir un diario personal este verano.",
           "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre si escriben o les gustaría escribir un diario, sus dudas y experiencias. La psicóloga explica los beneficios terapéuticos de la escritura personal: clarificar ideas, expresar emociones, reducir la ansiedad. \"Sigue conmigo\" propone un ejercicio para empezar un diario con una línea por día. \"Al ritmo de tus días\" presenta el testimonio de una adolescente que ha llenado varios cuadernos. \"Suena en tu Playlist\" incluye canciones sobre la escritura y la reflexión. Tono íntimo y motivador.\n"
+        },
+        "Julio-semana-2-Sábado": {
+          "theme": "Aprender algo nuevo este verano: ideas para descubrir talentos ocultos.",
+          "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre qué les gustaría aprender o mejorar este verano: tocar un instrumento, cocinar, dibujar, hacer deporte. La psicóloga explica los beneficios de aprender cosas nuevas para la autoestima y la salud mental. \"Sigue conmigo\" propone hacer una lista de metas alcanzables. \"Al ritmo de tus días\" presenta el testimonio de una adolescente que aprendió a tocar guitarra viendo tutoriales. \"Suena en tu Playlist\" incluye canciones sobre el aprendizaje y el crecimiento personal.\n"
         }
       }
     },
@@ -26923,6 +27020,10 @@
         "Julio-semana-1-Sábado": {
           "theme": "Issac Delgado: el chévere de la salsa cubana y su legado sonero.",
           "ideas": "\"Sergito Montuno\" dedica el programa a Issac Delgado, una de las grandes voces de la música popular bailable cubana. \"¿De dónde son?\" rastrea sus orígenes en la banda de Gonzalo Rubalcaba, su paso por NG La Banda y su exitosa carrera como solista. \"Historias y soneros\" narra anécdotas de su vida artística y su capacidad para conectar con el público. \"Academia del tumbao\" invita a un musicólogo a analizar su estilo vocal y su forma de interpretar el son y la salsa. \"Conexión sonera\" presenta una colaboración suya con un artista contemporáneo. \"Son para bailadores\" cierra con un tema solicitado por un oyente. Rigor investigativo.\n"
+        },
+        "Julio-semana-2-Sábado": {
+          "theme": "El danzonete y la voz de Paulina Álvarez, \"La Emperatriz\".",
+          "ideas": "\"Sergito Montuno\" dedica el programa al danzonete, género que fusiona el danzón con el son y que conquistó los salones de baile cubanos. \"¿De dónde son?\" rastrea los orígenes de este género y la figura de Paulina Álvarez, \"La Emperatriz del Danzonete\", fallecida un 22 de julio. \"Historias y soneros\" narra anécdotas de su vida artística y su reinado en la música popular bailable. \"Academia del tumbao\" invita a un musicólogo a analizar las características musicales del danzonete. \"Conexión sonera\" presenta la influencia de este género en agrupaciones actuales de Bayamo y Manzanillo. \"Son para bailadores\" cierra con un tema solicitado por un oyente. Rigor investigativo.\n"
         }
       }
     },
@@ -27057,6 +27158,10 @@
         "Julio-semana-1-Domingo": {
           "theme": "El verano como tiempo de unión familiar. Construye un papalote con materiales reciclados. Los abuelos recuerdan los juegos de su infancia estival.",
           "ideas": "El locutor abre con la pregunta participativa: ¿Cuál es tu mejor recuerdo de un verano en familia? Invita a compartir anécdotas. Luego, propone la actividad familiar de construir un papalote (cometa) con materiales reciclados: papel de periódico, varillas de caña o alambre fino, pegamento y tiras de tela para la cola. Un artesano local guía el paso a paso. En el segmento de la tercera edad, un abuelo recuerda los juegos callejeros de su infancia: el trompo, las bolas, la suiza, el papalote. Se intercalan canciones veraniegas. Música alegre. Mensaje: los veranos se hacen memorables con imaginación y compañía.\n"
+        },
+        "Julio-semana-2-Domingo": {
+          "theme": "El ejemplo de Mariana Grajales como madre y patriota. Construye un árbol genealógico con los valores que heredaste de tu madre. Los abuelos recuerdan cómo aprendieron el patriotismo de sus madres.",
+          "ideas": "El locutor abre con la pregunta participativa: ¿Qué valor te enseñó tu madre que hoy practicas con tus hijos? Invita a compartir anécdotas. Luego, propone la actividad familiar de elaborar un árbol genealógico donde cada miembro escriba junto a su nombre el valor que más admira de su madre. En el segmento de la tercera edad, una abuela bayamesa comparte cómo su madre le enseñó a amar la patria y a ser fuerte como Mariana Grajales, y cómo ella transmitió ese legado a sus hijos. Se intercalan canciones dedicadas a las madres. Música de trova y boleros. Mensaje: el amor de madre es la primera escuela de patriotismo.\n"
         }
       }
     },
@@ -27164,6 +27269,10 @@
         "Julio-semana-1-Domingo": {
           "theme": "Canciones y cuentos sobre el verano, el mar y los juegos al aire libre.",
           "ideas": "La actriz-personaje narra un cuento sobre un grupo de niños que pasan un verano inolvidable en su barrio, jugando al escondite y volando papalotes. Se escuchan canciones infantiles cubanas sobre el verano, el sol y los juegos. Actividad: que los niños dibujen su juego de verano favorito. Música alegre y participativa. Mensaje: no se necesita dinero para ser feliz en vacaciones, solo imaginación y amigos.\n"
+        },
+        "Julio-semana-2-Domingo": {
+          "theme": "Mariana Grajales: canciones y cuentos para niños sobre la Madre de la Patria.",
+          "ideas": "La actriz-personaje narra de forma amena la historia de Mariana Grajales, la mujer que crió a los Maceo y los educó en el amor a Cuba. Se escuchan canciones infantiles dedicadas a las madres y a los héroes de la patria. Actividad: que los niños dibujen a su mamá como una heroína y digan por qué la admiran. Música alegre y participativa. Mensaje: todas las mamás que aman y educan son heroínas como Mariana.\n"
         }
       }
     },
@@ -27275,6 +27384,10 @@
         "Julio-semana-1-Domingo": {
           "theme": "José Maceo: el \"León de Oriente\" y su vínculo con la historia de Bayamo.",
           "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida de José Maceo, el hermano menor del Titán de Bronce, caído en combate el 5 de julio de 1896. Se destaca su valentía, su liderazgo en la zona oriental y sus vínculos con la ciudad de Bayamo durante las guerras independentistas. Lectura de documentos de la época. Música de fondo con piezas del siglo XIX. Reflexión sobre el legado de la estirpe de los Maceo en la rebeldía cubana.\n"
+        },
+        "Julio-semana-2-Domingo": {
+          "theme": "Mariana Grajales y su huella en la historia de la región oriental.",
+          "ideas": "Charla histórica con una investigadora del Museo Provincial. Se narra la vida de Mariana Grajales, su residencia en la región oriental, la crianza de sus hijos en los valores del honor y la libertad, y su dolorosa salida de Cuba al final de la guerra. Se leen documentos y cartas que reflejan su temple. Música de fondo con piezas del siglo XIX. Reflexión sobre el legado de la Madre de la Patria en la formación de las nuevas generaciones de cubanos.\n"
         }
       }
     },
@@ -27386,6 +27499,10 @@
         "Julio-semana-1-Domingo": {
           "theme": "Música para empezar el verano: canciones que ponen ritmo a los días de sol.",
           "ideas": "El conductor presenta una selección de canciones cubanas e internacionales que son perfectas para iniciar el verano con energía. \"Dial Sonero\" presenta un son bailable. \"Estación Mundial\" incluye temas internacionales con ritmo veraniego. \"Mano a Mano\" enfrenta dos versiones de una misma canción festiva. \"Mucho Flow\" incluye un reguetón positivo. \"De Bayamo para el Mundo\" entrevista a un músico local que estrena canción este verano. Ambiente fresco y juvenil, ideal para la mañana dominical.\n"
+        },
+        "Julio-semana-2-Domingo": {
+          "theme": "Música para las madres: boleros, sones y baladas que hablan de amor maternal.",
+          "ideas": "El conductor habilita las líneas para que los oyentes dediquen canciones a sus madres en honor a Mariana Grajales. \"Dial Sonero\" presenta un son dedicado a la madre. \"Estación Mundial\" incluye canciones internacionales de amor maternal. \"Mano a Mano\" enfrenta dos versiones de un mismo tema dedicado a las madres. \"Mucho Flow\" incluye un rap de agradecimiento a la figura materna. \"De Bayamo para el Mundo\" entrevista a un músico local que compuso una canción para su madre. Ambiente emotivo y familiar.\n"
         }
       }
     },
@@ -27497,6 +27614,10 @@
         "Julio-semana-1-Domingo": {
           "theme": "Las actividades culturales del verano en Granma: música, teatro y tradición.",
           "ideas": "La conductora presenta un panorama general de la programación cultural del verano en la provincia, destacando el \"Modo Verano\" activado por el Ministerio de Cultura. Se mencionan las giras de orquestas, los festivales en comunidades, las peñas, las ferias de artesanía, los talleres para niños y jóvenes, y el protagonismo de los artistas aficionados. \"Agenda cultural\" detalla los eventos de la primera semana de julio en Bayamo. \"Asiento reservado\" invita a un promotor cultural a comentar cómo la comunidad se apropia de estos espacios. \"Legado bayamés\" recuerda a un gestor cultural que impulsó los veranos comunitarios. Tono festivo y de invitación al disfrute."
+        },
+        "Julio-semana-2-Domingo": {
+          "theme": "Artes escénicas en el verano granmense: teatro y danza en las comunidades.",
+          "ideas": "La conductora presenta un panorama de la cartelera de verano de las agrupaciones teatrales y danzarias de la provincia, que durante julio y agosto intensifican su trabajo comunitario llevando sus espectáculos a plazas, parques y comunidades rurales. Se destacan los talleres de formación para niños y jóvenes, y el papel de las artes escénicas como animadoras de la vida cultural en los meses de calor. \"Agenda cultural\" detalla las funciones de la semana entrante. \"Asiento reservado\" invita a un director teatral a comentar su próxima puesta en escena. \"Legado bayamés\" recuerda a un actor o bailarín destacado de la ciudad. Tono festivo y de invitación al disfrute."
         }
       }
     }
@@ -33152,7 +33273,14 @@
     "Julio-semana-1-Jueves": "Soberanía Alimentaria – Higiene y salud en la ciudad.",
     "Julio-semana-1-Viernes": "Adelanto de las Mujeres – En vísperas del Día de la Administración Pública (4 de julio).",
     "Julio-semana-1-Sábado": "Cultura e Identidad – Aniversario de la creación de Casa de las Américas (1959) y Día del Trabajador de la Administración Pública.",
-    "Julio-semana-1-Domingo": "Inicio del verano – Aniversario de la muerte en combate de José Maceo (1896)."
+    "Julio-semana-1-Domingo": "Inicio del verano – Aniversario de la muerte en combate de José Maceo (1896).",
+    "Julio-semana-2-Lunes": "Adelanto de las Mujeres – Natalicio de Carilda Oliver Labra (1922).",
+    "Julio-semana-2-Martes": "Tarea Vida (Medio Ambiente) – Día Internacional de la Conservación del Suelo.",
+    "Julio-semana-2-Miércoles": "Lucha contra las Drogas – En el contexto del verano como etapa de prevención.",
+    "Julio-semana-2-Jueves": "Soberanía Alimentaria – En el contexto del inicio del verano y la producción local de alimentos.",
+    "Julio-semana-2-Viernes": "Legado de Fidel Castro – Natalicio de Nicolás Guillén (1902), el Poeta Nacional.",
+    "Julio-semana-2-Sábado": "Historia y Educación – Natalicio de José de la Luz y Caballero (1800).",
+    "Julio-semana-2-Domingo": "Natalicio de Mariana Grajales (1815), la \"Madre de la Patria\"."
   },
   "agendaUsers": [
     {
@@ -33246,9 +33374,14 @@
       "password": "RadioCiudad0826",
       "role": "worker",
       "classification": "Director",
-      "email": "",
-      "specialty": "Directora / Guionista",
-      "tools": []
+      "email": "rosa.chi@icrt.cu",
+      "specialty": "Director de emisora / Guionista",
+      "tools": [],
+      "contracts": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "abel",
@@ -33394,8 +33527,13 @@
         "Gestión"
       ],
       "tools": [],
-      "email": "",
-      "specialty": "Directora de la emisora / Guionista"
+      "email": "leipzig.vazquez@icrt.cu",
+      "specialty": "Director de emisora / Guionista",
+      "contracts": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "daylen",
@@ -34357,11 +34495,15 @@
     {
       "id": "rosa",
       "name": "Rosa Aracelis Chi Cedeño",
-      "specialty": "Directora / Guionista",
+      "specialty": "Director de emisora / Guionista",
       "level": "Segundo Nivel",
       "info": "",
-      "email": "",
-      "photoUrl": "https://picsum.photos/seed/rosa/400/400"
+      "email": "rosa.chi@icrt.cu",
+      "mobile": "54275723",
+      "photoUrl": "https://picsum.photos/seed/rosa/400/400",
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "contracts": []
     },
     {
       "id": "abel",
@@ -34491,11 +34633,15 @@
     {
       "id": "leipzig",
       "name": "Leipzig del Carmen Vázquez García",
-      "specialty": "Directora de la emisora / Guionista",
+      "specialty": "Director de emisora / Guionista",
       "level": "",
       "info": "",
-      "email": "",
-      "photoUrl": "data:image/jpeg;base64,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"
+      "email": "leipzig.vazquez@icrt.cu",
+      "mobile": "58401306",
+      "photoUrl": "data:image/jpeg;base64,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",
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "contracts": []
     },
     {
       "id": "daylen",
