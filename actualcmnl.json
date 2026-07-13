@@ -4892,9 +4892,53 @@
       "type": "habitual",
       "amount": 80.76,
       "syncStatus": "pending"
+    },
+    {
+      "id": "1783611976603",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "Propaganda",
+      "role": "Director",
+      "hours": 1,
+      "type": "habitual",
+      "amount": 88.2,
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1783611986198",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "RCM Noticias",
+      "role": "Director",
+      "hours": 0,
+      "type": "habitual",
+      "amount": 80.76,
+      "syncStatus": "pending"
     }
   ],
   "consolidated": [
+    {
+      "id": "je9culfcw",
+      "userId": "lissell",
+      "month": "2026-06",
+      "amount": 10118.643700000002,
+      "grossAmount": 10892.680000000002,
+      "taxAmount": 774.0363000000002,
+      "reportCount": 102,
+      "dateConsolidated": "2026-07-09T16:16:15.875Z",
+      "calculationMode": "autogestionado"
+    },
+    {
+      "id": "je9culfcw",
+      "userId": "lissell",
+      "month": "2026-06",
+      "amount": 10118.643700000002,
+      "grossAmount": 10892.680000000002,
+      "taxAmount": 774.0363000000002,
+      "reportCount": 102,
+      "dateConsolidated": "2026-07-09T16:16:15.875Z",
+      "calculationMode": "autogestionado"
+    },
     {
       "id": "je9culfcw",
       "userId": "lissell",
@@ -27350,7 +27394,7 @@
       "days": [
         "Sábado"
       ],
-      "time": "23:15",
+      "time": "12:28",
       "active": true,
       "dailyData": {
         "Marzo-semana-2-Sábado": {
@@ -27964,7 +28008,7 @@
       "days": [
         "Domingo"
       ],
-      "time": "22:00",
+      "time": "10:00",
       "active": true,
       "dailyData": {
         "Marzo-semana-2-Domingo": {
@@ -28219,7 +28263,8 @@
         "Martes",
         "Miércoles",
         "Jueves",
-        "Viernes"
+        "Viernes",
+        "Sábado"
       ],
       "time": "09:00",
       "active": true,
@@ -28239,6 +28284,37 @@
           "ideas": "El programa se adentra en el trabajo de la Red Juvenil Comunitaria de Bayamo, un colectivo de muchachos y muchachas que lideran proyectos socioculturales en sus propios barrios. Se entrevista a una de sus coordinadoras, quien explica cómo surgió la iniciativa, los talleres de arte, deporte y medio ambiente que realizan, y el impacto que han logrado en la prevención de conductas de riesgo. Un joven participante cuenta cómo el proyecto le cambió la vida. Se recogen testimonios de vecinos que apoyan la iniciativa. Música de rap comunitario y trova urbana. Tono fresco, participativo y de reconocimiento al protagonismo juvenil en la transformación social.\n"
         }
       }
+    },
+    {
+      "id": "manual_noticiero_provincial",
+      "name": "Noticiero Provincial",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "time": "12:00",
+      "active": true,
+      "dailyData": {}
+    },
+    {
+      "id": "manual_noticiero_nacional",
+      "name": "Noticiero Nacional",
+      "days": [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "time": "13:00",
+      "active": true,
+      "dailyData": {}
     }
   ],
   "agendaEfemerides": {
@@ -35635,9 +35711,227 @@
           }
         ],
         "pending_requests": []
+      },
+      {
+        "validated_users": [
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "admin",
+            "userData": {
+              "fullName": "Pedro José Reyes Acuña",
+              "ci": "93020746421",
+              "tomo": "172",
+              "folio": "97",
+              "contract1": "421-092501",
+              "contract2": "421-102527"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
+            "timestamp": "2026-06-01T18:44:20.156Z",
+            "specialties": [
+              "Especialista",
+              "Guionista"
+            ],
+            "contracts": {
+              "Especialista": "421-092501",
+              "Guionista": "421-102527"
+            },
+            "originalPassword": "qmnEZ2UZ",
+            "issueDate": "2026-06-01T18:44:20.156Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:44:20.156Z",
+            "status": "signed",
+            "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+            "directorName": "Administrador CMNL",
+            "directorTimestamp": "2026-06-01T18:44:20.156Z"
+          },
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "lissell",
+            "userData": {
+              "fullName": "Lissell Fontelo Danta",
+              "ci": "77082119119",
+              "tomo": "153",
+              "folio": "217",
+              "contract1": "119-012501",
+              "contract2": "119-012501"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
+            "timestamp": "2026-05-30T02:22:15.940Z",
+            "specialties": [
+              "Director",
+              "Asesora"
+            ],
+            "memberEmail": "lfontelo@gmail.com",
+            "contracts": {
+              "Director": "119-012501",
+              "Asesora": "119-012501"
+            },
+            "originalPassword": "QzVRfwPY",
+            "issueDate": "2026-06-01T18:44:34.881Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:44:34.881Z",
+            "status": "signed",
+            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+            "adminName": "Pedro José Reyes Acuña",
+            "adminTimestamp": "2026-06-01T18:44:34.881Z"
+          },
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "rafael",
+            "userData": {
+              "fullName": "Rafael Traba Bordón",
+              "ci": "68022413805",
+              "tomo": "124",
+              "folio": "295",
+              "contract1": "805-010125",
+              "contract2": "805-010125"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
+            "timestamp": "2026-06-01T16:10:03.450Z",
+            "specialties": [
+              "Director",
+              "Locutor"
+            ],
+            "memberEmail": "",
+            "contracts": {
+              "Director": "805-010125",
+              "Locutor": "805-010125"
+            },
+            "originalPassword": "sGxhtGX2",
+            "issueDate": "2026-06-01T18:45:06.571Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:45:06.571Z",
+            "status": "signed",
+            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
+            "adminName": "Pedro José Reyes Acuña",
+            "adminTimestamp": "2026-06-01T18:45:06.571Z"
+          },
+          {
+            "validated_users": [
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "admin",
+                "userData": {
+                  "fullName": "Pedro José Reyes Acuña",
+                  "ci": "93020746421",
+                  "tomo": "172",
+                  "folio": "97",
+                  "contract1": "421-092501",
+                  "contract2": "421-102527"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
+                "timestamp": "2026-06-01T18:44:20.156Z",
+                "specialties": [
+                  "Especialista",
+                  "Guionista"
+                ],
+                "contracts": {
+                  "Especialista": "421-092501",
+                  "Guionista": "421-102527"
+                },
+                "originalPassword": "qmnEZ2UZ",
+                "issueDate": "2026-06-01T18:44:20.156Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:44:20.156Z",
+                "status": "signed",
+                "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+                "directorName": "Administrador CMNL",
+                "directorTimestamp": "2026-06-01T18:44:20.156Z"
+              },
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "lissell",
+                "userData": {
+                  "fullName": "Lissell Fontelo Danta",
+                  "ci": "77082119119",
+                  "tomo": "153",
+                  "folio": "217",
+                  "contract1": "119-012501",
+                  "contract2": "119-012501"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
+                "timestamp": "2026-05-30T02:22:15.940Z",
+                "specialties": [
+                  "Director",
+                  "Asesora"
+                ],
+                "memberEmail": "lfontelo@gmail.com",
+                "contracts": {
+                  "Director": "119-012501",
+                  "Asesora": "119-012501"
+                },
+                "originalPassword": "QzVRfwPY",
+                "issueDate": "2026-06-01T18:44:34.881Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:44:34.881Z",
+                "status": "signed",
+                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+                "adminName": "Pedro José Reyes Acuña",
+                "adminTimestamp": "2026-06-01T18:44:34.881Z"
+              },
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "rafael",
+                "userData": {
+                  "fullName": "Rafael Traba Bordón",
+                  "ci": "68022413805",
+                  "tomo": "124",
+                  "folio": "295",
+                  "contract1": "805-010125",
+                  "contract2": "805-010125"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
+                "timestamp": "2026-06-01T16:10:03.450Z",
+                "specialties": [
+                  "Director",
+                  "Locutor"
+                ],
+                "memberEmail": "",
+                "contracts": {
+                  "Director": "805-010125",
+                  "Locutor": "805-010125"
+                },
+                "originalPassword": "sGxhtGX2",
+                "issueDate": "2026-06-01T18:45:06.571Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:45:06.571Z",
+                "status": "signed",
+                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
+                "adminName": "Pedro José Reyes Acuña",
+                "adminTimestamp": "2026-06-01T18:45:06.571Z"
+              }
+            ],
+            "pending_requests": []
+          }
+        ],
+        "pending_requests": [],
+        "password_resets": [
+          {
+            "userId": "rafael",
+            "grantedAt": 1783951520223,
+            "validUntil": 1784037920223
+          },
+          {
+            "userId": "lissell",
+            "grantedAt": 1783951530511,
+            "validUntil": 1784037930511
+          }
+        ]
       }
     ],
-    "pending_requests": []
+    "pending_requests": [],
+    "password_resets": [
+      {
+        "userId": "rafael",
+        "grantedAt": 1783951520223,
+        "validUntil": 1784037920223
+      },
+      {
+        "userId": "lissell",
+        "grantedAt": 1783951530511,
+        "validUntil": 1784037930511
+      }
+    ]
   },
   "managementReports": [
     {
