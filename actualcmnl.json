@@ -4850,52 +4850,26 @@
   ],
   "worklogs": [
     {
-      "id": "17744590096300.24077317718495062",
+      "id": "1783611976603",
       "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
+      "date": "2026-06-30",
+      "programName": "Propaganda",
+      "role": "Director",
+      "hours": 1,
+      "type": "habitual",
+      "amount": 88.2,
+      "syncStatus": "pending"
     },
     {
-      "id": "17744590170470.9140780844615214",
+      "id": "1783611986198",
       "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
+      "date": "2026-06-30",
+      "programName": "RCM Noticias",
+      "role": "Director",
+      "hours": 0,
+      "type": "habitual",
+      "amount": 80.76,
+      "syncStatus": "pending"
     },
     {
       "id": "1783611976603",
@@ -4918,9 +4892,69 @@
       "type": "habitual",
       "amount": 80.76,
       "syncStatus": "pending"
+    },
+    {
+      "id": "1783611976603",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "Propaganda",
+      "role": "Director",
+      "hours": 1,
+      "type": "habitual",
+      "amount": 88.2,
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1783611986198",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "RCM Noticias",
+      "role": "Director",
+      "hours": 0,
+      "type": "habitual",
+      "amount": 80.76,
+      "syncStatus": "pending"
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
     }
   ],
   "consolidated": [
+    {
+      "id": "je9culfcw",
+      "userId": "lissell",
+      "month": "2026-06",
+      "amount": 10118.643700000002,
+      "grossAmount": 10892.680000000002,
+      "taxAmount": 774.0363000000002,
+      "reportCount": 102,
+      "dateConsolidated": "2026-07-09T16:16:15.875Z",
+      "calculationMode": "autogestionado"
+    },
+    {
+      "id": "je9culfcw",
+      "userId": "lissell",
+      "month": "2026-06",
+      "amount": 10118.643700000002,
+      "grossAmount": 10892.680000000002,
+      "taxAmount": 774.0363000000002,
+      "reportCount": 102,
+      "dateConsolidated": "2026-07-09T16:16:15.875Z",
+      "calculationMode": "autogestionado"
+    },
     {
       "id": "je9culfcw",
       "userId": "lissell",
@@ -5207,546 +5241,11 @@
       "totalRealMinutes": 14400,
       "dateConsolidated": "2026-05-01T19:40:03.954Z",
       "interruptionDetails": []
-    },
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "1777664403954",
-      "month": "2026-04",
-      "accumulated": {
-        "informativos": 1906,
-        "boletines": 426,
-        "publicidad": 544,
-        "educativos": 0,
-        "orientacion": 4314,
-        "cienciaTecnica": 90,
-        "variados": 2626,
-        "historicosGrabado": 52,
-        "variadoInfantilGrabado": 52,
-        "dramatizados": 0,
-        "literaturaArte": 1286,
-        "musicales": 3104,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14400
-      },
-      "interruptions": {
-        "informativos": 0,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 0,
-        "cienciaTecnica": 0,
-        "variados": 0,
-        "variadoInfantilGrabado": 0,
-        "historicosGrabado": 0,
-        "dramatizados": 0,
-        "literaturaArte": 0,
-        "musicales": 0,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 0
-      },
-      "totalRealMinutes": 14400,
-      "dateConsolidated": "2026-05-01T19:40:03.954Z",
-      "interruptionDetails": []
     }
   ],
   "habitualExclusions": [
     {
-      "username": "admin",
-      "exclusions": []
-    },
-    {
       "username": "lissell",
-      "exclusions": [
-        {
-          "date": "2026-03-21",
-          "programName": "Parada Joven",
-          "role": "Asesor"
-        }
-      ]
-    },
-    {
-      "username": "rafael",
-      "exclusions": []
-    },
-    {
-      "username": "ernesto",
-      "exclusions": []
-    },
-    {
-      "username": "johan",
-      "exclusions": []
-    },
-    {
-      "username": "humberto",
-      "exclusions": []
-    },
-    {
-      "username": "viviana",
       "exclusions": []
     },
     {
@@ -5756,31 +5255,7 @@
   ],
   "habitualModes": [
     {
-      "username": "admin",
-      "mode": false
-    },
-    {
       "username": "lissell",
-      "mode": true
-    },
-    {
-      "username": "rafael",
-      "mode": true
-    },
-    {
-      "username": "ernesto",
-      "mode": false
-    },
-    {
-      "username": "johan",
-      "mode": false
-    },
-    {
-      "username": "humberto",
-      "mode": false
-    },
-    {
-      "username": "viviana",
       "mode": false
     },
     {
@@ -25263,6 +24738,36 @@
         "Julio-semana-3-Sábado": {
           "theme": "Verano en familia: ideas para pasarlo bien juntos sin gastar.",
           "ideas": "El programa ofrece un menú de ideas refrescantes para disfrutar las vacaciones en familia sin necesidad de viajar ni gastar dinero: organizar una guerra de globos de agua en el patio, preparar helados caseros con frutas de temporada, armar un campamento en el jardín con sábanas y cojines, hacer una noche de cuentos de misterio con linternas. Una pedagoga explica la importancia de compartir tiempo de calidad con los hijos durante el verano. La sección infantil propone juegos tradicionales. \"Este mundo nuestro\" muestra cómo otras culturas celebran el verano en familia. Música alegre y veraniega. Pregunta: ¿Cuál es tu plan favorito de verano en familia?\n"
+        },
+        "Julio-semana-5-Lunes": {
+          "theme": "Haydée Santamaría y el Festival del 78: cuando la juventud del mundo abrazó a Cuba.",
+          "ideas": "Un historiador recuerda la figura de Haydée Santamaría, heroína del Moncada y fundadora de Casa de las Américas, y el XI Festival Mundial de la Juventud y los Estudiantes, que en 1978 llenó La Habana de color, música y solidaridad. Se analiza el legado de ambos hitos en la formación de las nuevas generaciones. La sección infantil imagina cómo sería un festival mundial hoy. \"De la Ciencia y la Técnica\" aborda la comunicación internacional en aquellos años. \"Este mundo nuestro\" recuerda otros festivales mundiales. Música de la época y de trovadores. Pregunta: ¿Qué te gustaría compartir con un joven de otro país?\n",
+          "order": 1
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "Hepatitis y medio ambiente: la relación entre el saneamiento y la salud pública.",
+          "ideas": "En el Día Mundial contra la Hepatitis, un epidemiólogo y un especialista de Higiene explican los tipos de hepatitis, sus vías de contagio y las medidas de prevención. Se enfatiza la conexión con la Tarea Vida: el saneamiento ambiental, el acceso a agua potable y el manejo adecuado de residuales como herramientas clave para prevenir la enfermedad. Se informa sobre la vacunación gratuita en Cuba. La sección infantil enseña a lavarse bien las manos. \"De la Ciencia y la Técnica\" habla sobre los nuevos tratamientos antivirales. \"Este mundo nuestro\" muestra cómo otros países enfrentan esta enfermedad. Música de conciencia. Pregunta: ¿Te has vacunado contra la hepatitis?\n",
+          "order": 1
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "Perucho Figueredo: el bayamés que compuso la banda sonora de la patria.",
+          "ideas": "En el natalicio 207 de Perucho Figueredo, un historiador del Museo Provincial narra su vida, su participación en la toma de Bayamo y la composición de la música del Himno Nacional, entonado por primera vez el 20 de octubre de 1868. Se reproduce una versión del himno interpretada por una orquesta local. La sección infantil aprende el significado de la letra. \"De la Ciencia y la Técnica\" aborda la notación musical de la época. \"Este mundo nuestro\" recuerda a otros autores de himnos nacionales. Música de marchas y sones patrióticos. Pregunta: ¿Qué sientes al escuchar las notas de nuestro Himno?\n",
+          "order": 1
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "Frank País y los mártires de la Revolución: el precio de la libertad.",
+          "ideas": "En el Día de los Mártires de la Revolución, un historiador recuerda a Frank País García, asesinado el 30 de julio de 1957 junto a Raúl Pujol, y a René Ramos Latour, caído en 1958. Se analiza el contexto de la lucha clandestina y el legado de estos jóvenes que entregaron sus vidas por la libertad. La sección infantil narra una anécdota de la valentía de Frank País como maestro. \"De la Ciencia y la Técnica\" aborda la organización de la lucha clandestina. \"Este mundo nuestro\" recuerda a otros mártires jóvenes de América Latina. Música de la Generación del Centenario. Pregunta: ¿Qué enseñanza te dejan los mártires de la Revolución?\n",
+          "order": 1
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "La nueva Ley de Tierras y las transformaciones en la producción de alimentos en Cuba.",
+          "ideas": "Un especialista en derecho agrario y un productor local explican los principales cambios que introduce la nueva Ley de Tierras, su impacto en los usufructuarios y cómo busca dinamizar la producción agropecuaria. Se analizan las transformaciones en curso y los desafíos para alcanzar la soberanía alimentaria. La sección infantil enseña cómo se cultivan los alimentos. \"De la Ciencia y la Técnica\" aborda las innovaciones en la agricultura cubana. \"Este mundo nuestro\" presenta reformas agrarias en otros países. Música de punto cubano. Pregunta: ¿Cómo crees que puede mejorarse la producción de alimentos en Cuba?\n",
+          "order": 1
+        },
+        "Julio-semana-5-Sábado": {
+          "theme": "Agosto de historia y sol: disfrutar el verano conociendo nuestro pasado.",
+          "ideas": "El programa propone una agenda veraniega diferente: recorrer los sitios históricos de Bayamo como actividad familiar. Un historiador ofrece un \"mapa del tiempo\" para visitar museos, monumentos y plazas, con datos curiosos que atrapen a grandes y chicos. La sección infantil narra una anécdota histórica adaptada. \"Este mundo nuestro\" presenta cómo otras ciudades celebran su historia en verano. Música de trova tradicional. Pregunta: ¿Cuándo fue la última vez que visitaste un museo con tu familia?\n",
+          "order": 1
         }
       }
     },
@@ -25810,6 +25315,31 @@
         "Julio-semana-3-Viernes": {
           "theme": "Cómo enseñar a los hijos a ser justos y a rechazar las conductas ilícitas.",
           "ideas": "\"Y algo más\" conversa con una psicóloga y una pedagoga, quienes ofrecen pautas para inculcar valores de justicia y honestidad en niños y adolescentes: predicar con el ejemplo, utilizar cuentos y películas con dilemas morales, fomentar la empatía y explicar las consecuencias legales y sociales de las conductas ilícitas. \"Sin fórmulas mágicas\" propone una merienda para acompañar un debate familiar sobre qué es lo justo. \"Lo bello también se lleva por fuera\" sugiere crear un \"rincón de los valores\" en casa. Testimonio de una familia que dialoga abiertamente sobre estos temas.\n"
+        },
+        "Julio-semana-5-Lunes": {
+          "theme": "Especial",
+          "ideas": "",
+          "order": 2
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "Mantener una cocina limpia y segura para prevenir enfermedades.",
+          "ideas": "Una especialista en higiene de los alimentos ofrece en \"Y algo más\" pautas prácticas para mantener la cocina impecable: limpiar superficies con vinagre y bicarbonato, lavar bien frutas y verduras, separar alimentos crudos de cocidos y almacenar correctamente los sobrantes. \"Sin fórmulas mágicas\" propone recetas de desinfectantes naturales. \"Prospecto radial\" alerta sobre las intoxicaciones alimentarias más comunes en verano. Testimonio de un ama de casa que cambió sus hábitos de limpieza. \"Lo bello también se lleva por fuera\" muestra cómo organizar la nevera y la despensa. Tono práctico y preventivo.\n",
+          "order": 2
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "Preparar conservas y encurtidos para aprovechar las frutas y vegetales de verano.",
+          "ideas": "Una experta en conservación de alimentos enseña en \"Sin fórmulas mágicas\" a preparar mermelada de mango, encurtidos de pepino y zanahoria, y frutas en almíbar. \"Prospecto radial\" explica los beneficios de consumir productos de temporada. \"Y algo más\" conversa con una familia que ahorra dinero y reduce desperdicios gracias a las conservas caseras. \"Lo bello también se lleva por fuera\" muestra cómo etiquetar y decorar los frascos. Testimonio de una abuela que enseña estas técnicas a sus nietos. Música campesina de fondo.\n",
+          "order": 2
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "Enseñar a los niños el valor de la valentía y el sacrificio a través de la historia.",
+          "ideas": "Una pedagoga ofrece en \"Y algo más\" pautas para explicar a los niños el significado del sacrificio de los mártires, adaptando el mensaje a cada edad y destacando valores como la valentía, la lealtad y el amor a la patria. \"Sin fórmulas mágicas\" propone una merienda para acompañar la lectura de un libro de historia. \"Lo bello también se lleva por fuera\" sugiere visitar con los niños el monumento a los mártires y hacer un dibujo. Testimonio de un padre que conversa con sus hijos sobre la historia familiar. Música instrumental suave. Tono respetuoso y formativo.\n",
+          "order": 2
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "Iniciar un emprendimiento familiar desde casa: primeros pasos y consejos prácticos.",
+          "ideas": "Una economista y un emprendedor local comparten en \"Y algo más\" pautas para comenzar un pequeño negocio familiar: identificar una necesidad en la comunidad, elaborar un plan sencillo, gestionar permisos y promocionar los productos. \"Sin fórmulas mágicas\" propone una receta que puede convertirse en un emprendimiento de dulces o conservas. \"Lo bello también se lleva por fuera\" enseña a crear una marca y empaque atractivo con recursos limitados. Testimonio de una familia que transformó un hobby culinario en una fuente de ingresos. Música alegre de fondo. Tono práctico y motivador.\n",
+          "order": 2
         }
       }
     },
@@ -26393,6 +25923,31 @@
         "Julio-semana-3-Viernes": {
           "theme": "Jornada por el Día de la Justicia Internacional y actividades de prevención de adicciones.",
           "ideas": "Reportaje sobre el acto en el Tribunal Municipal en conmemoración de la fecha, con la presencia de juristas y estudiantes de Derecho. Entrevista a un fiscal sobre los retos de la justicia. Segunda nota: taller de prevención de drogas en un barrio vulnerable, con testimonios de especialistas y vecinos. Tercera nota: agenda de actividades para el Día de los Niños el domingo. Cierre con información deportiva y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-5-Lunes": {
+          "theme": "Especial",
+          "ideas": "",
+          "order": 3
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "Campaña de vacunación contra la hepatitis en Bayamo y acciones de saneamiento.",
+          "ideas": "Reportaje sobre la jornada de vacunación y las charlas educativas que se realizan en los policlínicos del municipio. Entrevista a un epidemiólogo y a una enfermera de la campaña. Segunda nota: acciones de limpieza e higienización en barrios vulnerables, con participación de los CDR y Salud Pública. Tercera nota: convocatoria al acto por el Día de los Mártires de la Revolución (30 de julio). Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "Homenaje a Perucho Figueredo en Bayamo y actividades culturales.",
+          "ideas": "Cobertura del acto de colocación de ofrenda floral en el monumento a Perucho Figueredo, con participación de autoridades, estudiantes y pueblo. Entrevista a un historiador local sobre la vigencia de su legado. Segunda nota: inauguración de una exposición bibliográfica sobre el Himno Nacional en la Biblioteca Provincial. Tercera nota: anuncio de las actividades por el Día de los Mártires de la Revolución. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "Acto central por el Día de los Mártires de la Revolución en Bayamo.",
+          "ideas": "Cobertura del acto de recordación en el monumento a los mártires, con ofrenda floral, participación de la Asociación de Combatientes, la UJC y el pueblo. Entrevista a un familiar de un mártir local y a un historiador sobre la vigencia de su ejemplo. Segunda nota: jornada de trabajo voluntario en comunidades como homenaje a los caídos. Tercera nota: anuncio de las actividades del fin de semana. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "Balance de la producción alimentaria en Bayamo al cierre de julio.",
+          "ideas": "Reportaje con datos sobre la producción de viandas, granos y hortalizas en el municipio durante el mes de julio. Entrevista a un directivo de la Delegación de la Agricultura sobre el cumplimiento de los planes y las perspectivas para agosto. Segunda nota: feria agropecuaria de fin de semana en el centro de la ciudad. Tercera nota: convocatoria a las actividades por el inicio de agosto. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
         }
       }
     },
@@ -26940,6 +26495,26 @@
         "Julio-semana-3-Viernes": {
           "theme": "El teatro con enfoques policiacos en Cuba y el mundo: del crimen al drama social.",
           "ideas": "Viernes de artes escénicas. Un director teatral y un crítico analizan obras del teatro policiaco cubano e internacional, desde los clásicos del género hasta las producciones contemporáneas que abordan el crimen, la investigación y la justicia. Se describen fragmentos sonoros de puestas en escena emblemáticas. \"En taquilla\" promociona una obra de misterio presentada por un grupo local. \"Juego de espejos\" reflexiona sobre cómo el teatro policiaco refleja las tensiones sociales y el anhelo de justicia. Invitado: un actor que ha participado en montajes del género. Música de suspenso.\n"
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "El cartel cubano en las campañas de salud: arte al servicio de la prevención.",
+          "ideas": "Martes de artes plásticas. Un crítico de arte analiza la evolución de los carteles de salud pública en Cuba, desde las primeras campañas de vacunación hasta los diseños contemporáneos. Se describen obras icónicas de diseñadores como Félix Beltrán y Raúl Martínez, que convirtieron mensajes sanitarios en arte. \"En taquilla\" promociona una exposición de carteles históricos en la Galería de Bayamo. \"Juego de espejos\" reflexiona sobre el poder del diseño gráfico para educar y salvar vidas. Música de fondo con sones y guarachas de la época.\n",
+          "order": 4
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "La poesía patriótica cubana: versos que encendieron la llama de la independencia.",
+          "ideas": "Miércoles de literatura. Un poeta local y un crítico literario recorren los versos de José Martí, Bonifacio Byrne, Miguel Jerónimo Gutiérrez y otros poetas que cantaron a la patria y la libertad, vinculando la poesía con la gesta independentista que Perucho Figueredo musicalizó. Se leen fragmentos emblemáticos. \"Juego de espejos\" analiza el papel de la poesía en la construcción de la identidad nacional. \"En taquilla\" promociona un recital poético en la Biblioteca Provincial. \"Página suelta\" convoca a los oyentes a enviar poemas inspirados en la patria. Música de trova patriótica.\n",
+          "order": 4
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "Canciones cubanas dedicadas a los héroes y mártires de la patria.",
+          "ideas": "Jueves de música. Un musicólogo y un trovador local recorren las canciones que el pueblo cubano ha dedicado a sus héroes y mártires: desde los sones y boleros dedicados a Frank País hasta los himnos de la Nueva Trova que honran a los caídos. Se reproducen fragmentos de temas emblemáticos de Carlos Puebla, Silvio Rodríguez y otros trovadores. \"En taquilla\" promociona una peña de trova dedicada a los mártires. Invitado: un joven trovador que interpreta una canción compuesta en homenaje a los caídos. \"Juego de espejos\" reflexiona sobre la música como vehículo de memoria histórica.\n",
+          "order": 4
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "Fernando Alonso y el Ballet Nacional de Cuba: la fundación de una escuela universal.",
+          "ideas": "Viernes de artes escénicas. Una investigadora de la danza recorre la trayectoria de Fernando Alonso, fundador junto a Alicia del Ballet Nacional de Cuba, y su decisivo aporte a la creación de la Escuela Cubana de Ballet, reconocida mundialmente. Se describen fragmentos sonoros de ensayos y funciones, y se explica el método de enseñanza que combina la técnica clásica con la expresividad cubana. \"En taquilla\" promociona una presentación de una compañía local. \"Juego de espejos\" reflexiona sobre la disciplina del ballet como alternativa a los caminos de riesgo. Invitado: una joven bailarina bayamesa que comparte su experiencia.\n",
+          "order": 4
         }
       }
     },
@@ -27487,6 +27062,26 @@
         "Julio-semana-3-Viernes": {
           "theme": "¿Qué es la justicia para los jóvenes de hoy? Debate abierto.",
           "ideas": "La conductora modera un debate entre estudiantes de Derecho y jóvenes de otras carreras sobre el concepto de justicia: ¿es igual para todos?, ¿cómo se percibe en el barrio?, ¿confían en las instituciones? Un jurista invitado aclara dudas y explica cómo los jóvenes pueden participar en la construcción de una sociedad más justa. \"Curiosidades\" presenta casos de justicia comunitaria en otros países. Segmento interactivo con mensajes de la audiencia. Música con letras de contenido social. Tono respetuoso y estimulante para el pensamiento crítico.\n"
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "Donación de sangre voluntaria: rompiendo mitos entre los jóvenes.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica cómo se procesa y almacena la sangre donada. La conductora conversa con un joven donante habitual y con un médico del banco de sangre local sobre los requisitos, los mitos que alejan a los jóvenes y la necesidad constante de sangre segura. Un receptor de sangre cuenta cómo una donación le salvó la vida. \"Curiosidades\" presenta datos sobre la donación en Cuba y en el mundo. Segmento interactivo con preguntas y testimonios de oyentes. Música emotiva y esperanzadora. Tono solidario y motivador.\n",
+          "order": 5
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "Crear música desde cero: jóvenes productores que componen con herramientas digitales.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica los programas de producción musical accesibles desde un celular o una computadora básica. La conductora conversa con un joven productor musical bayamés que crea beats y canciones desde su casa, y con un estudiante de música que ha grabado sus primeras maquetas. Comparten consejos sobre cómo empezar, dónde aprender y cómo difundir la música en plataformas digitales. \"Curiosidades\" presenta ejemplos de artistas famosos que comenzaron en su habitación. Segmento interactivo con muestras de los oyentes. Música de producción local.\n",
+          "order": 5
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "Jóvenes que hacen historia hoy: el activismo social en el siglo XXI.",
+          "ideas": "Inspirados en los mártires de la Revolución, la conductora conversa con jóvenes bayameses que hoy son protagonistas de proyectos comunitarios, ambientales y culturales. Cuentan qué los motiva a trabajar por su comunidad, cómo enfrentan los obstáculos y qué significa ser un \"joven comprometido\" en el contexto actual. Un historiador joven reflexiona sobre el legado de Frank País para las nuevas generaciones. \"Curiosidades\" presenta ejemplos de activismo juvenil en el mundo. Segmento interactivo con mensajes de los oyentes. Música de rap con contenido social. Tono inspirador.\n",
+          "order": 5
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "Conectarse con la naturaleza: organizar un campamento rústico sin salir del municipio.",
+          "ideas": "La conductora conversa con un instructor de recreación y un grupo de jóvenes que han organizado un campamento en un área natural cercana a Bayamo. Comparten consejos prácticos: montar una tienda, hacer una fogata segura, cocinar al aire libre y dejar el lugar limpio. Un psicólogo habla de los beneficios de desconectar de la tecnología y conectar con la naturaleza. \"Curiosidades\" presenta los mejores sitios para acampar en la provincia. Segmento interactivo con anécdotas de oyentes. Música de guitarra y sonidos naturales.\n",
+          "order": 5
         }
       }
     },
@@ -28034,6 +27629,31 @@
         "Julio-semana-3-Viernes": {
           "theme": "Cómo cultivar la gratitud en tiempos difíciles.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Una psicóloga explica cómo la práctica de la gratitud —apreciar lo que se tiene, por pequeño que sea— puede mejorar la salud mental, fortalecer las relaciones y ayudar a enfrentar las adversidades. \"Historias cotidianas\" presenta el testimonio de una persona que transformó su vida al empezar a escribir un diario de gratitud. \"¿Y qué tú crees?\" recoge opiniones callejeras sobre si los cubanos son agradecidos. \"De todo un poco\" recomienda ejercicios sencillos para practicar la gratitud cada día. Música relajante.\n"
+        },
+        "Julio-semana-5-Lunes": {
+          "theme": "Transformaciones económicas en Cuba: del plan a la realidad.",
+          "ideas": "Juana entrevista a un economista y a un emprendedor local, quienes analizan de forma sencilla las transformaciones económicas que vive el país: la nueva Ley de Tierras, el impulso a las pequeñas y medianas empresas, y las perspectivas del autoabastecimiento. \"El que sabe, sabe\" explica cómo estas medidas impactan la vida cotidiana. \"Historias cotidianas\" presenta el caso de una familia que ha aprovechado las nuevas oportunidades. \"Versiones encontradas\" debate sobre los retos y logros. \"De todo un poco\" orienta sobre cómo informarse sobre las nuevas normativas. Tono pedagógico y esperanzador.\n",
+          "order": 4
+        },
+        "Julio-semana-5-Martes": {
+          "theme": "Delitos económicos y corrupción: marco legal y consecuencias penales.",
+          "ideas": "Martes es día jurídico. Juana presenta el caso de un vecino que fue víctima de una estafa. \"El que sabe, sabe\" entrevista a un fiscal, quien explica las figuras delictivas relacionadas con la corrupción y los delitos económicos en el Código Penal cubano: malversación, cohecho, tráfico de influencias y enriquecimiento ilícito. Detalla las sanciones previstas y los mecanismos de denuncia. \"Versiones encontradas\" debate sobre la efectividad de las penas. \"Polémica en las redes\" muestra comentarios. Se responden preguntas frecuentes de los oyentes. Tono claro y orientador.\n",
+          "order": 6
+        },
+        "Julio-semana-5-Miércoles": {
+          "theme": "El poder de la música para unir a las personas: historias de coros y agrupaciones comunitarias.",
+          "ideas": "Miércoles es variado. Juana entrevista al director de un coro comunitario de Bayamo y a una vecina que canta en él desde hace años. Cuentan cómo la música los ha unido, les ha dado un propósito y ha alegrado los barrios. \"Historias cotidianas\" narra cómo un grupo de vecinos formó un coro para acompañar las fiestas del CDR. \"El que sabe, sabe\" explica los beneficios de cantar en grupo para la salud mental. \"¿Y qué tú crees?\" recoge opiniones sobre si aún se canta en los barrios. \"De todo un poco\" informa sobre las peñas y talleres de canto. Tono cálido y comunitario.\n",
+          "order": 6
+        },
+        "Julio-semana-5-Jueves": {
+          "theme": "El trabajo voluntario en Bayamo: experiencias de solidaridad y participación ciudadana.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Juana entrevista a un coordinador de trabajo voluntario y a un joven que participa habitualmente, quienes explican las obras que se realizan en el municipio: limpieza de parques, reparación de escuelas, apoyo a familias vulnerables. \"Historias cotidianas\" narra cómo un barrio se unió para construir una parada de ómnibus. \"Entérate, vecino\" informa sobre las próximas convocatorias. \"¿Y qué tú crees?\" recoge opiniones sobre el espíritu solidario de los bayameses. Tono participativo.\n",
+          "order": 6
+        },
+        "Julio-semana-5-Viernes": {
+          "theme": "La importancia de los buenos modales en la mesa y la convivencia social.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana invita a una especialista en etiqueta social, quien recuerda de forma amena las normas básicas de urbanidad en la mesa, el respeto a los demás comensales y cómo los buenos modales facilitan la convivencia. \"Historias cotidianas\" narra cómo una cena familiar se convirtió en una lección de respeto para los nietos. \"¿Y qué tú crees?\" pregunta si los buenos modales han pasado de moda. \"De todo un poco\" recomienda un libro sobre etiqueta. Tono cálido y nostálgico.\n",
+          "order": 6
         }
       }
     },
@@ -28200,6 +27820,11 @@
         "Julio-semana-3-Sábado": {
           "theme": "Previsiones para la semana entrante y programación cultural de fin de semana.",
           "ideas": "Balance de las principales actividades de la semana que concluye. Agenda de eventos para el fin de semana, incluyendo las actividades por el Día de los Niños (domingo 19) en parques y centros culturales. Previsiones para la semana del 20 al 26 de julio, que incluye el Día del Ajedrez (20 de julio), el aniversario del XI Festival Mundial de la Juventud y los Estudiantes (28 de julio) y los preparativos para el Día de la Rebeldía Nacional (26 de julio). Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n"
+        },
+        "Julio-semana-5-Sábado": {
+          "theme": "Actividades de inicio de agosto en Bayamo y previsiones para la semana entrante.",
+          "ideas": "Reportaje sobre las actividades artísticas comunitarias que se desarrollan en los barrios. Segunda nota: balance de la semana que concluye. Tercera nota: previsiones para la semana del 3 al 9 de agosto, que incluye el inicio de las Fiestas Populares de Bayamo (7 al 10 de agosto) y otras efemérides. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n",
+          "order": 3
         }
       }
     },
@@ -28209,7 +27834,7 @@
       "days": [
         "Sábado"
       ],
-      "time": "23:15",
+      "time": "12:28",
       "active": true,
       "dailyData": {
         "Marzo-semana-2-Sábado": {
@@ -28319,6 +27944,11 @@
         "Julio-semana-3-Sábado": {
           "theme": "Aprender a manejar la frustración cuando las cosas no salen como esperas.",
           "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes compartiendo situaciones en las que se sintieron frustrados: una mala nota, una competencia perdida, un plan fallido. La psicóloga explica que la frustración es una emoción normal y ofrece estrategias para manejarla: respirar hondo, analizar qué se puede mejorar, pedir ayuda y no darse por vencido. \"Sigue conmigo\" propone un ejercicio de reflexión sobre una frustración reciente. \"Al ritmo de tus días\" presenta a un adolescente que superó un fracaso y alcanzó su meta. \"Suena en tu Playlist\" incluye canciones sobre la perseverancia.\n"
+        },
+        "Julio-semana-5-Sábado": {
+          "theme": "Descubrir el talento artístico escondido: empezar a pintar, bailar o tocar un instrumento.",
+          "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre si se consideran creativos o no. La psicóloga explica que el talento artístico no es un don exclusivo, sino que puede desarrollarse con práctica y orientación. Un instructor de arte y un joven que descubrió su pasión por la pintura el verano pasado comparten consejos para empezar. \"Sigue conmigo\" propone un ejercicio de dibujo libre. \"Al ritmo de tus días\" presenta a un adolescente que aprendió a tocar el tres cubano en un taller comunitario. \"Suena en tu Playlist\" incluye canciones sobre la creatividad.\n",
+          "order": 4
         }
       }
     },
@@ -28438,6 +28068,11 @@
         "Julio-semana-3-Sábado": {
           "theme": "Luisito Vadel: el heredero del son cubano en el siglo XXI.",
           "ideas": "\"Sergito Montuno\" celebra el cumpleaños de Luisito Vadel (n. 27 de julio de 1967). \"¿De dónde son?\" recorre sus inicios como percusionista y su transición a vocalista, destacando su paso por agrupaciones emblemáticas. \"Historias y soneros\" narra anécdotas de su carrera como embajador del son cubano en el extranjero. \"Academia del tumbao\" invita a un musicólogo a analizar su estilo vocal y su capacidad para adaptar el son a nuevos públicos. \"Conexión sonera\" presenta una colaboración suya con un artista contemporáneo. \"Son para bailadores\" cierra con un tema solicitado por un oyente.\n"
+        },
+        "Julio-semana-5-Sábado": {
+          "theme": "Juan Formell y Los Van Van: la revolución del songo.",
+          "ideas": "\"Sergito Montuno\" rinde homenaje a Juan Formell, nacido el 2 de agosto de 1942, creador del songo y fundador de Los Van Van. \"¿De dónde son?\" rastrea sus orígenes y su llegada a La Habana. \"Historias y soneros\" narra anécdotas de la legendaria orquesta que se convirtió en crónica social de Cuba. \"Academia del tumbao\" invita a un musicólogo a analizar el songo como evolución del son. \"Conexión sonera\" presenta la influencia de Formell en las agrupaciones de Granma. \"Son para bailadores\" cierra con un clásico de Los Van Van. Rigor investigativo.\n",
+          "order": 5
         }
       }
     },
@@ -28580,6 +28215,11 @@
         "Julio-semana-3-Domingo": {
           "theme": "El Día de los Niños: cómo celebrar en familia con juegos y creatividad. Construye juguetes con materiales reciclados. Los abuelos recuerdan los juegos de su infancia.",
           "ideas": "El locutor abre con la pregunta participativa: ¿Cuál era tu juego favorito cuando eras niño? Invita a compartir anécdotas. Luego, propone la actividad familiar de construir juguetes con materiales reciclados: un carrito con cajas de fósforos, una muñeca de trapo, un títere con una media vieja. Una artesana local guía el paso a paso. En el segmento de la tercera edad, un abuelo recuerda los juegos de su niñez: el aro, el papalote, las escondidas, y reflexiona sobre cómo ha cambiado la infancia. Se intercalan canciones infantiles cubanas. Música alegre. Mensaje: los mejores regalos se hacen con amor e imaginación.\n"
+        },
+        "Julio-semana-5-Domingo": {
+          "theme": "El agua en la familia: un tesoro que debemos cuidar juntos. Construye un sistema de riego casero con materiales reciclados. La importancia de la hidratación en la tercera edad.",
+          "ideas": "El locutor abre con la pregunta participativa: ¿Cómo ahorras agua en tu casa? Invita a compartir ideas. Luego, propone la actividad familiar de construir un sistema de riego por goteo con una botella plástica reciclada, ideal para el huerto o las macetas. Un especialista guía el paso a paso. En el segmento de la tercera edad, un geriatra explica la importancia de la hidratación en los adultos mayores durante el verano, los signos de deshidratación y consejos prácticos para beber suficiente agua aunque no se tenga sed. Se intercalan canciones de son y pregones. Música suave. Mensaje: el agua es vida.\n",
+          "order": 1
         }
       }
     },
@@ -28695,6 +28335,11 @@
         "Julio-semana-3-Domingo": {
           "theme": "Cuidar el medio ambiente: canciones para niños sobre la naturaleza.",
           "ideas": "La actriz-personaje narra un cuento sobre una niña que enseña a sus amigos a reciclar y a cuidar los árboles. Se escuchan canciones infantiles cubanas sobre la naturaleza, los animales y la protección del planeta. Actividad: que los niños dibujen cómo cuidan el medio ambiente en su casa. Música alegre y participativa. Mensaje: los niños son los guardianes del futuro del planeta.\n"
+        },
+        "Julio-semana-5-Domingo": {
+          "theme": "Fidel y su niñez: canciones y cuentos para los más pequeños.",
+          "ideas": "La actriz-personaje narra de forma amena la historia de un niño llamado Fidel que creció en el campo, fue curioso, inquieto y amante de la naturaleza. Se escuchan canciones infantiles cubanas sobre la infancia, los sueños y la patria. Actividad: que los niños dibujen cómo se imaginan a Fidel cuando era niño como ellos. Música alegre y participativa. Mensaje: todos los niños pueden ser grandes si sueñan y estudian.\n",
+          "order": 2
         }
       }
     },
@@ -28814,6 +28459,11 @@
         "Julio-semana-3-Domingo": {
           "theme": "Fernando Ortiz y su legado en la antropología cubana.",
           "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida y obra de Fernando Ortiz, el \"tercer descubridor de Cuba\" después de Colón y Humboldt, que reveló las raíces africanas de la cultura cubana. Se destaca su método de investigación, sus obras fundamentales como \"Contrapunteo cubano del tabaco y el azúcar\", y su vínculo con el estudio de las tradiciones populares. Música de fondo con toques de tambor y pregones. Reflexión sobre la vigencia de su pensamiento en la Cuba actual.\n"
+        },
+        "Julio-semana-5-Domingo": {
+          "theme": "Alfredo López y la CNOC: los orígenes del movimiento obrero en la región oriental.",
+          "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida de Alfredo López, líder obrero asesinado en 1926, y la constitución de la Confederación Nacional Obrera de Cuba en Camagüey en 1925. Se destaca la participación de los trabajadores bayameses en aquellas gestas sindicales. Música de fondo con piezas de la época y coros obreros. Reflexión sobre el legado del movimiento obrero en las luchas actuales por los derechos laborales.\n",
+          "order": 3
         }
       }
     },
@@ -28823,7 +28473,7 @@
       "days": [
         "Domingo"
       ],
-      "time": "22:00",
+      "time": "10:00",
       "active": true,
       "dailyData": {
         "Marzo-semana-2-Domingo": {
@@ -28933,6 +28583,11 @@
         "Julio-semana-3-Domingo": {
           "theme": "Música infantil y juvenil cubana para celebrar el Día de los Niños.",
           "ideas": "El conductor dedica el programa a los más pequeños con una selección de canciones infantiles cubanas de todos los tiempos: desde las de Teresita Fernández y Liuba María Hevia hasta las más actuales. \"Dial Sonero\" presenta un son para niños. \"Mano a Mano\" enfrenta dos versiones de una misma canción infantil. \"Mucho Flow\" incluye un rap con mensaje positivo para los niños. \"De Bayamo para el Mundo\" entrevista a una cantante local de música infantil. Ambiente festivo y familiar, ideal para la mañana dominical.\n"
+        },
+        "Julio-semana-5-Domingo": {
+          "theme": "Música para empezar agosto: canciones que ponen ritmo al verano.",
+          "ideas": "El conductor presenta una selección de canciones cubanas e internacionales ideales para disfrutar en familia durante el mes de agosto. \"Dial Sonero\" presenta un son bailable. \"Estación Mundial\" incluye temas veraniegos. \"Mano a Mano\" enfrenta dos versiones de una misma canción festiva. \"Mucho Flow\" incluye un reguetón positivo. \"De Bayamo para el Mundo\" entrevista a un músico local que estrena tema este verano. Ambiente fresco y juvenil.\n",
+          "order": 4
         }
       }
     },
@@ -29052,6 +28707,11 @@
         "Julio-semana-3-Domingo": {
           "theme": "El órgano oriental: patrimonio, música y resistencia.",
           "ideas": "La conductora presenta un recorrido por la historia del órgano oriental, instrumento símbolo de identidad regional. Se analiza su origen, la técnica de los rollos perforados, su función en las fiestas campesinas y su declaración como Patrimonio Cultural. Coincidiendo con el Festival Nacional de Órganos que suele realizarse en julio, se destaca la labor de los organeros y músicos que mantienen viva esta tradición. \"Agenda cultural\" informa sobre las próximas presentaciones. \"Asiento reservado\" invita a un organero local a compartir anécdotas. \"Legado bayamés\" recuerda a un músico que llevó el órgano oriental por toda la provincia. Tono de orgullo y celebración."
+        },
+        "Julio-semana-5-Domingo": {
+          "theme": "Casa de Cultura 20 de Octubre: espacio de creación y comunidad.",
+          "ideas": "La conductora presenta un recorrido por la historia de la Casa de Cultura 20 de Octubre, institución emblemática de Bayamo. Se destaca su papel como centro de promoción cultural, espacio de formación de artistas aficionados y punto de encuentro comunitario. Se entrevista a su directora, a un instructor de danza y a una alumna. \"Agenda cultural\" informa sobre los talleres y eventos de la semana entrante. \"Asiento reservado\" invita a un crítico a comentar la labor de las casas de cultura. \"Legado bayamés\" recuerda a un gestor cultural que trabajó en esta institución. Tono de orgullo local.",
+          "order": 5
         }
       }
     },
@@ -29078,7 +28738,8 @@
         "Martes",
         "Miércoles",
         "Jueves",
-        "Viernes"
+        "Viernes",
+        "Sábado"
       ],
       "time": "09:00",
       "active": true,
@@ -29096,8 +28757,44 @@
         "Julio-semana-3-Sábado": {
           "theme": "Red Juvenil Comunitaria en Bayamo: jóvenes que transforman sus barrios.",
           "ideas": "El programa se adentra en el trabajo de la Red Juvenil Comunitaria de Bayamo, un colectivo de muchachos y muchachas que lideran proyectos socioculturales en sus propios barrios. Se entrevista a una de sus coordinadoras, quien explica cómo surgió la iniciativa, los talleres de arte, deporte y medio ambiente que realizan, y el impacto que han logrado en la prevención de conductas de riesgo. Un joven participante cuenta cómo el proyecto le cambió la vida. Se recogen testimonios de vecinos que apoyan la iniciativa. Música de rap comunitario y trova urbana. Tono fresco, participativo y de reconocimiento al protagonismo juvenil en la transformación social.\n"
+        },
+        "Julio-semana-5-Sábado": {
+          "theme": "Arte para todos en las comunidades bayamesas.",
+          "ideas": "El programa recorre los talleres de arte comunitario que se imparten en los barrios de Bayamo durante el verano. Se entrevista a instructores de pintura, teatro y danza que trabajan con niños, jóvenes y adultos mayores. Una participante cuenta cómo el taller de artes plásticas le ayudó a superar una depresión. Un coordinador cultural explica cómo estos proyectos son accesibles y gratuitos. Se recogen testimonios de vecinos que han visto transformarse su comunidad gracias al arte. Música de trovadores locales. Tono alegre y participativo, mostrando que el arte no es un lujo, sino un derecho de todos.\n",
+          "order": 2
         }
       }
+    },
+    {
+      "id": "manual_noticiero_provincial",
+      "name": "Noticiero Provincial",
+      "days": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "time": "12:00",
+      "active": true,
+      "dailyData": {}
+    },
+    {
+      "id": "manual_noticiero_nacional",
+      "name": "Noticiero Nacional",
+      "days": [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "time": "13:00",
+      "active": true,
+      "dailyData": {}
     }
   ],
   "agendaEfemerides": {
@@ -34765,7 +34462,14 @@
     "Julio-semana-3-Jueves": "Soberanía Alimentaria – Natalicio de Fernando Ortiz (1881).",
     "Julio-semana-3-Viernes": "Lucha contra las Drogas – Día Mundial de la Justicia Internacional.",
     "Julio-semana-3-Sábado": "Verano en familia – Disfrutar juntos sin salir de casa.",
-    "Julio-semana-3-Domingo": "Día de los Niños en Cuba – Celebración de la infancia."
+    "Julio-semana-3-Domingo": "Día de los Niños en Cuba – Celebración de la infancia.",
+    "Julio-semana-5-Lunes": "Legado de Fidel Castro – Aniversario del XI Festival Mundial de la Juventud y los Estudiantes (1978) y homenaje a Haydée Santamaría (fallecida en 1980). Programación Especial.",
+    "Julio-semana-5-Martes": "Tarea Vida (Medio Ambiente) – Día Mundial contra la Hepatitis.",
+    "Julio-semana-5-Miércoles": "Soberanía Alimentaria – Natalicio de Perucho Figueredo (1819), autor del Himno Nacional.",
+    "Julio-semana-5-Jueves": "Día de los Mártires de la Revolución Cubana.",
+    "Julio-semana-5-Viernes": "Soberanía Alimentaria – Implementación de la nueva Ley de Tierras.",
+    "Julio-semana-5-Sábado": "Verano en familia – Rebelión de los presos políticos en el Castillo del Príncipe (1958).",
+    "Julio-semana-5-Domingo": "Natalicio de Alfredo López (1894) y constitución de la CNOC (1925)."
   },
   "agendaUsers": [
     {
