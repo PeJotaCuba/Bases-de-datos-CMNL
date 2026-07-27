@@ -36911,19 +36911,237 @@
             "validUntil": 1784040999153
           }
         ]
+      },
+      {
+        "validated_users": [
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "admin",
+            "userData": {
+              "fullName": "Pedro José Reyes Acuña",
+              "ci": "93020746421",
+              "tomo": "172",
+              "folio": "97",
+              "contract1": "421-092501",
+              "contract2": "421-102527"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
+            "timestamp": "2026-06-01T18:44:20.156Z",
+            "specialties": [
+              "Especialista",
+              "Guionista"
+            ],
+            "contracts": {
+              "Especialista": "421-092501",
+              "Guionista": "421-102527"
+            },
+            "originalPassword": "qmnEZ2UZ",
+            "issueDate": "2026-06-01T18:44:20.156Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:44:20.156Z",
+            "status": "signed",
+            "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+            "directorName": "Administrador CMNL",
+            "directorTimestamp": "2026-06-01T18:44:20.156Z"
+          },
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "lissell",
+            "userData": {
+              "fullName": "Lissell Fontelo Danta",
+              "ci": "77082119119",
+              "tomo": "153",
+              "folio": "217",
+              "contract1": "119-012501",
+              "contract2": "119-012501"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
+            "timestamp": "2026-05-30T02:22:15.940Z",
+            "specialties": [
+              "Director",
+              "Asesora"
+            ],
+            "memberEmail": "lfontelo@gmail.com",
+            "contracts": {
+              "Director": "119-012501",
+              "Asesora": "119-012501"
+            },
+            "originalPassword": "QzVRfwPY",
+            "issueDate": "2026-06-01T18:44:34.881Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:44:34.881Z",
+            "status": "signed",
+            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+            "adminName": "Pedro José Reyes Acuña",
+            "adminTimestamp": "2026-06-01T18:44:34.881Z"
+          },
+          {
+            "type": "SEMANAL_REQUEST",
+            "userId": "rafael",
+            "userData": {
+              "fullName": "Rafael Traba Bordón",
+              "ci": "68022413805",
+              "tomo": "124",
+              "folio": "295",
+              "contract1": "805-010125",
+              "contract2": "805-010125"
+            },
+            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
+            "timestamp": "2026-06-01T16:10:03.450Z",
+            "specialties": [
+              "Director",
+              "Locutor"
+            ],
+            "memberEmail": "",
+            "contracts": {
+              "Director": "805-010125",
+              "Locutor": "805-010125"
+            },
+            "originalPassword": "sGxhtGX2",
+            "issueDate": "2026-06-01T18:45:06.571Z",
+            "issuer": "Administrador CMNL",
+            "validUntil": "2027-06-01T18:45:06.571Z",
+            "status": "signed",
+            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
+            "adminName": "Pedro José Reyes Acuña",
+            "adminTimestamp": "2026-06-01T18:45:06.571Z"
+          },
+          {
+            "validated_users": [
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "admin",
+                "userData": {
+                  "fullName": "Pedro José Reyes Acuña",
+                  "ci": "93020746421",
+                  "tomo": "172",
+                  "folio": "97",
+                  "contract1": "421-092501",
+                  "contract2": "421-102527"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
+                "timestamp": "2026-06-01T18:44:20.156Z",
+                "specialties": [
+                  "Especialista",
+                  "Guionista"
+                ],
+                "contracts": {
+                  "Especialista": "421-092501",
+                  "Guionista": "421-102527"
+                },
+                "originalPassword": "qmnEZ2UZ",
+                "issueDate": "2026-06-01T18:44:20.156Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:44:20.156Z",
+                "status": "signed",
+                "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+                "directorName": "Administrador CMNL",
+                "directorTimestamp": "2026-06-01T18:44:20.156Z"
+              },
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "lissell",
+                "userData": {
+                  "fullName": "Lissell Fontelo Danta",
+                  "ci": "77082119119",
+                  "tomo": "153",
+                  "folio": "217",
+                  "contract1": "119-012501",
+                  "contract2": "119-012501"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
+                "timestamp": "2026-05-30T02:22:15.940Z",
+                "specialties": [
+                  "Director",
+                  "Asesora"
+                ],
+                "memberEmail": "lfontelo@gmail.com",
+                "contracts": {
+                  "Director": "119-012501",
+                  "Asesora": "119-012501"
+                },
+                "originalPassword": "QzVRfwPY",
+                "issueDate": "2026-06-01T18:44:34.881Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:44:34.881Z",
+                "status": "signed",
+                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
+                "adminName": "Pedro José Reyes Acuña",
+                "adminTimestamp": "2026-06-01T18:44:34.881Z"
+              },
+              {
+                "type": "SEMANAL_REQUEST",
+                "userId": "rafael",
+                "userData": {
+                  "fullName": "Rafael Traba Bordón",
+                  "ci": "68022413805",
+                  "tomo": "124",
+                  "folio": "295",
+                  "contract1": "805-010125",
+                  "contract2": "805-010125"
+                },
+                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
+                "timestamp": "2026-06-01T16:10:03.450Z",
+                "specialties": [
+                  "Director",
+                  "Locutor"
+                ],
+                "memberEmail": "",
+                "contracts": {
+                  "Director": "805-010125",
+                  "Locutor": "805-010125"
+                },
+                "originalPassword": "sGxhtGX2",
+                "issueDate": "2026-06-01T18:45:06.571Z",
+                "issuer": "Administrador CMNL",
+                "validUntil": "2027-06-01T18:45:06.571Z",
+                "status": "signed",
+                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
+                "adminName": "Pedro José Reyes Acuña",
+                "adminTimestamp": "2026-06-01T18:45:06.571Z"
+              }
+            ],
+            "pending_requests": [],
+            "password_resets": [
+              {
+                "userId": "rafael",
+                "grantedAt": 1783950321328,
+                "validUntil": 1784036721328
+              },
+              {
+                "userId": "lissell",
+                "grantedAt": 1783954599153,
+                "validUntil": 1784040999153
+              }
+            ]
+          }
+        ],
+        "pending_requests": [],
+        "password_resets": [
+          {
+            "userId": "lissell",
+            "grantedAt": 1783954599153,
+            "validUntil": 1784040999153
+          },
+          {
+            "userId": "rafael",
+            "grantedAt": 1785159263647,
+            "validUntil": 1785245663647
+          }
+        ]
       }
     ],
     "pending_requests": [],
     "password_resets": [
       {
-        "userId": "rafael",
-        "grantedAt": 1783950321328,
-        "validUntil": 1784036721328
-      },
-      {
         "userId": "lissell",
         "grantedAt": 1783954599153,
         "validUntil": 1784040999153
+      },
+      {
+        "userId": "rafael",
+        "grantedAt": 1785159263647,
+        "validUntil": 1785245663647
       }
     ]
   },
