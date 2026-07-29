@@ -837,54 +837,58 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1783610340918-0",
-      "title": "Falleció el destacado locutor granmense Ernesto Douglas Bosch Reyes",
-      "author": "Redacción RCM",
-      "content": "Con profunda tristeza se conoció el fallecimiento sorpresivo de Ernesto Douglas Bosch Reyes, destacado director, realizador radial y locutor manzanillero, ocurrido recientemente en su residencia en Bayamo. Inicialmente aspiró a estudiar Medicina, pero un llamado para formarse como maestro cambió su rumbo, ingresando al Instituto Superior Pedagógico Frank País García en Santiago de Cuba, donde cursó Matemática. Al graduarse, fue metodólogo regional y luego asesor radial del sector educacional, sin dejar de ser parte de la plantilla oficial de Radio Granma. Se destacó como creador del primer informativo Radar mil 590, concepto adoptado posteriormente en La Habana. A iniciativa de Alberto Chang Véliz, se trasladó a Bayamo para incorporarse a CMKX, emisora que dirigió durante diez años. Condujo espacios provinciales y fue locutor en actos de máximo nivel, mostrando dominio de la palabra y calidad profesional inigualable.",
-      "category": "General",
-      "date": "Jueves 9 de julio de 2026",
-      "excerpt": "Con profunda tristeza se conoció el fallecimiento sorpresivo de Ernesto Douglas Bosch Reyes, destacado director, realizador radial y locutor manzanillero, ocurrido recientemente en su residencia en Bayamo.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1783610340918-1",
-      "title": "Díaz-Canel continúa intercambios con municipios habaneros y prioriza transformaciones económicas",
-      "author": "Granma",
-      "content": "El Primer Secretario del Comité Central del Partido Comunista y presidente Miguel Díaz-Canel Bermúdez continuó este miércoles los intercambios con dirigentes de los municipios de Centro Habana y Plaza de la Revolución. Acompañado por Roberto Morales Ojeda, insistió en la importancia de que los municipios hagan suyas las 176 transformaciones económicas y sociales aprobadas recientemente. Indagó sobre la responsabilidad de los actores económicos con la comunidad, los proyectos de desarrollo local vinculados a la recogida de desechos sólidos —uno de los problemas más graves de ambos municipios— y la atención a las personas más vulnerables, señala el periódico Granma.",
-      "category": "General",
-      "date": "Jueves 9 de julio de 2026",
-      "excerpt": "El Primer Secretario del Comité Central del Partido Comunista y presidente Miguel Díaz-Canel Bermúdez continuó este miércoles los intercambios con dirigentes de los municipios de Centro Habana y Plaza de la Revolución.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1783610340918-2",
-      "title": "China destaca amplio respaldo internacional a Cuba tras debate en la ONU sobre el bloqueo",
-      "author": "Prensa Latina",
-      "content": "China afirmó que la decisión de la Asamblea General de la ONU de debatir el bloqueo económico, comercial y financiero de Estados Unidos contra Cuba refleja el amplio respaldo internacional a la defensa de la soberanía de la isla. La portavoz del Ministerio de Relaciones Exteriores, Mao Ning, respondió así a la decisión adoptada el 7 de julio por la Asamblea, con 136 votos a favor, 30 abstenciones y nueve votos en contra, entre ellos el de Estados Unidos. La vocera señaló que durante más de seis décadas Washington ha mantenido el bloqueo y las sanciones contra Cuba, medidas que se intensificaron recientemente y agravaron la crisis energética en la nación caribeña.",
-      "category": "General",
-      "date": "Jueves 9 de julio de 2026",
-      "excerpt": "China afirmó que la decisión de la Asamblea General de la ONU de debatir el bloqueo económico, comercial y financiero de Estados Unidos contra Cuba refleja el amplio respaldo internacional a la defensa de la soberanía de la isla.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1783610340918-3",
-      "title": "Imparten en Bayamo curso especializado sobre técnicas alternativas de conservación de metales",
-      "author": "Redacción RCM - Ernesto Parra Muñoz",
-      "content": "Un curso especializado sobre \"Técnicas Alternativas de Conservación de Metales\" fue impartido este miércoles en Bayamo por la arquitecta Rosalba Muñoz Rojas, especialista principal de la Oficina Provincial de Monumentos y Sitios, según dio a conocer la institución cultural en su página de Facebook. La capacitación estuvo dirigida a conservadores y profesionales de museos, con el propósito de fortalecer los conocimientos sobre el rescate, la conservación y la preservación del patrimonio metálico, especialmente de piezas elaboradas en alpaca y cobre. Estos espacios de intercambio y aprendizaje contribuyen a la protección del patrimonio cultural, promoviendo buenas prácticas para garantizar su conservación y disfrute por las futuras generaciones.",
-      "category": "General",
-      "date": "Jueves 9 de julio de 2026",
-      "excerpt": "Un curso especializado sobre \"Técnicas Alternativas de Conservación de Metales\" fue impartido este miércoles en Bayamo por la arquitecta Rosalba Muñoz Rojas, especialista principal de la Oficina Provincial de Monumentos y Sitios, según dio a conocer la institución cultural en su página de Facebook.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzdDM0FFRDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzRDMUQ5NTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPHJlY3QgeD0iMjAwIiB5PSIxMDAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB0cmFuc2Zvcm09InJvdGF0ZSg0NSAzMDAgMjAwKSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1783610340918-4",
-      "title": "Presidente de CPA bayamesa destaca impacto de su base productiva en la comunidad de San Lorenzo",
+      "id": "news-1785355908741-0",
+      "title": "Convoca Red Jóvenes por la Vida a taller \"Escuela de Verano Construyendo Mi Futuro\"",
       "author": "Redacción RCM - Humberto Zamora Fajardo",
-      "content": "La CPA Celia Sánchez Manduley, enclavada en San Lorenzo, tiene un impacto importante en la comunidad, y esa barriada ha sido clave en el despunte de esa base productiva hacia la rentabilidad. Así lo confirmó René Reina Corrales, presidente de la cooperativa, en una entrevista exclusiva con el periodista Humberto Zamora Fajardo, cuya segunda parte se publicó hoy. La declaración forma parte de un reportaje sobre el papel de las cooperativas agropecuarias en el desarrollo local y su vínculo con las comunidades donde están enclavadas.",
+      "content": "La red Jóvenes por la Vida invitó a adolescentes y jóvenes entre 15 y 25 años a participar en el taller \"Escuela de Verano Construyendo Mi Futuro\", que se realizará el jueves y viernes próximos en la Sala Dos Columnas de la Uneac. El espacio, diseñado para aprender, decidir y multiplicar salud entre amigos, se desarrollará entre las nueve de la mañana y la una de la tarde con el objetivo de fomentar una cultura de autocuidado y autoresponsabilidad. Los interesados pueden comunicarse por teléfono con Yeny o José al 59921973. La Red de Jóvenes por la Vida, organizada por ProSalud y con el apoyo de UNICEF Cuba, realiza diversas actividades educativas para prevenir enfermedades de transmisión sexual y promover la salud. En la actividad intervienen promotores del policlínico Bayamo Oeste y otros actores comunitarios.",
       "category": "General",
-      "date": "Jueves 9 de julio de 2026",
-      "excerpt": "La CPA Celia Sánchez Manduley, enclavada en San Lorenzo, tiene un impacto importante en la comunidad, y esa barriada ha sido clave en el despunte de esa base productiva hacia la rentabilidad.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "La red Jóvenes por la Vida invitó a adolescentes y jóvenes entre 15 y 25 años a participar en el taller \"Escuela de Verano Construyendo Mi Futuro\", que se realizará el jueves y viernes próximos en la Sala Dos Columnas de la Uneac."
+    },
+    {
+      "id": "news-1785355908741-1",
+      "title": "Entregan en Bayamo viviendas modulares adaptadas de contenedores marítimos a cuatro familias",
+      "author": "Redacción RCM - Ernesto Parra Muñoz",
+      "content": "Cuatro familias de Bayamo recibieron este domingo sus viviendas modulares construidas a partir de contenedores marítimos, en el reparto 26 de Julio. Las nuevas casas cuentan con diseño funcional, óptimo aprovechamiento del espacio, acceso a servicios básicos y áreas comunes acondicionadas. Maidolis Blanco Vega, director municipal de la Vivienda, destacó que la fecha de entrega cobra especial significado al coincidir con el Día de la Rebeldía Nacional y la jornada por el centenario del natalicio de Fidel Castro. Los beneficiados son personas afectadas por fenómenos meteorológicos, una madre con tres niños pequeños, una joven egresada de la Casa de Niños sin amparo parental, y una subcampeona mundial y campeona Paraparamericana de levantamiento de pesas. La entrega forma parte de una estrategia nacional para aliviar el déficit habitacional.",
+      "category": "General",
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "Cuatro familias de Bayamo recibieron este domingo sus viviendas modulares construidas a partir de contenedores marítimos, en el reparto 26 de Julio."
+    },
+    {
+      "id": "news-1785355908741-2",
+      "title": "Expresa Cuba solidaridad con España ante incendios forestales que afectan varias provincias",
+      "author": "Prensa Latina",
+      "content": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, expresó la solidaridad de su país con España ante los incendios forestales que afectan varias provincias de esa nación europea. En un mensaje publicado en la red social X, el canciller cubano manifestó el respaldo del pueblo y Gobierno de la isla a las autoridades y ciudadanos españoles frente a la emergencia. \"Cuba expresa sincera solidaridad con el pueblo y el gobierno de España ante los devastadores incendios que enfrentan distintas provincias españolas\", escribió Rodríguez, publicó Prensa Latina.",
+      "category": "General",
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, expresó la solidaridad de su país con España ante los incendios forestales que afectan varias provincias de esa nación europea."
+    },
+    {
+      "id": "news-1785355908741-3",
+      "title": "Polymarket sitúa a Lula como favorito para ganar elecciones presidenciales de Brasil en 2026",
+      "author": "Tele Sur",
+      "content": "La plataforma de predicción Polymarket indica que el presidente Luiz Inácio Lula da Silva es el gran favorito para ganar las elecciones presidenciales brasileñas de 2026. En este mercado de apuestas, que funciona como un sistema financiero donde los usuarios negocian contratos basados en la probabilidad de eventos futuros, Lula registra una probabilidad de victoria del 63 por ciento, publicó Tele Sur.",
+      "category": "General",
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "La plataforma de predicción Polymarket indica que el presidente Luiz Inácio Lula da Silva es el gran favorito para ganar las elecciones presidenciales brasileñas de 2026."
+    },
+    {
+      "id": "news-1785355908741-4",
+      "title": "Protagonizará Banda de Concierto de Bayamo mano a mano con su similar de Jiguaní",
+      "author": "Redacción RCM - Humberto Zamora Fajardo",
+      "content": "La Banda de Concierto de Bayamo, a sus 158 años de fundada, protagonizará mañana miércoles a las diez de la mañana un concierto único junto a su homóloga de Jiguaní, que vive su aniversario 125. La presentación, prevista para el parque central jiguanicero, forma parte de las actividades veraniegas planificadas en la provincia y constituye una oportunidad única para disfrutar de dos instituciones musicales centenarias cuya historia está plagada de puntos en común. El mano a mano también permitirá el intercambio entre músicos que han compartido en eventos culturales e incluso en sus etapas de formación en las mismas academias. Se espera que no falten himnos y marchas patrióticas, además de clásicos de la música universal.",
+      "category": "General",
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "La Banda de Concierto de Bayamo, a sus 158 años de fundada, protagonizará mañana miércoles a las diez de la mañana un concierto único junto a su homóloga de Jiguaní, que vive su aniversario 125."
+    },
+    {
+      "id": "news-1785355908741-5",
+      "title": "Reconoce máxima dirección a Empresa de Acopio Granma por su labor pese a crisis energética",
+      "author": "La Demajagua Digital",
+      "content": "Trabajadores y directivos de la Empresa de Acopio Granma manifestaron el alto honor que representa recibir el reconocimiento, entre las doce entidades destacadas, otorgado por la máxima dirección política y gubernamental en ocasión de la celebración del 26 de Julio. Gisela Alena Acolea, directora general, significó la abnegada labor y calidad humana de todos los colectivos, que seguirán dando lo mejor de sí para la prestación del servicio al pueblo. Para enfrentar la crisis energética provocada por el cerco asfixiante de Estados Unidos, han reestructurado su sistema de trabajo, concentrando productos en un mercado por lo distante de las bases productivas, y empleando servicios alternativos como tracción animal y moto-taxis eléctricos para hacer sostenible la comercialización y distribución de alimentos. Pese a las dificultades, aseguran el suministro de viandas, hortalizas, granos y frutas al consumo social, optimizando los recursos disponibles.",
+      "category": "General",
+      "date": "Martes 28 de julio de 2026",
+      "excerpt": "Trabajadores y directivos de la Empresa de Acopio Granma manifestaron el alto honor que representa recibir el reconocimiento, entre las doce entidades destacadas, otorgado por la máxima dirección política y gubernamental en ocasión de la celebración del 26 de Julio."
     }
   ],
   "fichas": [
@@ -1230,6 +1234,31 @@
       ]
     },
     {
+      "name": "La Cumbancha ",
+      "schedule": "9:00 AM - 9:58 AM",
+      "duration": "58 min",
+      "frequency": "Lunes a Viernes",
+      "func": "Recreativa",
+      "music_cuban": "85 %",
+      "music_foreign": "15 %",
+      "group": "Musicales",
+      "form": "Musical variado",
+      "complexity": "Complejo",
+      "theme": "Música popular cubana y/o extranjera",
+      "target": "Familia",
+      "times": {
+        "music": "49 min",
+        "info": "8 min",
+        "propaganda": "1 min"
+      },
+      "startDate": "05 de Julio de 2010",
+      "emissionType": "Vivo",
+      "literarySupport": "Guión: Guión técnico.",
+      "objective": "Recrear a la audiencia bayamesa con música adecuada a sus gustos y preferencias.",
+      "profile": "Programa a una voz que anuncia música variada en géneros, estilos, épocas, y acredita los musicales y puede ofrecer breves informaciones sobre los mismos. El programa promueve música popular. Se puede realizar desde exteriores siempre con propuestas sustentadas en la música.\r\nPodrán realizarse concursos sobre aspectos musicales y comparecer divulgadores de instituciones musicales para brindar información y puede incluir entrevistas con músicos locales o del país para promocionar su música. Se ofrecen saludos, felicitaciones y reportes de sintonía enviados por los oyentes a través del correo o vía telefónica al programa, reportes de sintonía y se emplean los recursos sonoros del medio, así como la propaganda directa e indirecta.\r\nAlgunos Spots salen en voces de humoristas.",
+      "sections": []
+    },
+    {
       "name": "Sigue a tu ritmo",
       "schedule": "11:15 AM - 12:58 PM",
       "duration": "103 min",
@@ -1342,6 +1371,68 @@
         {
           "name": "Son para bailadores",
           "description": "(02:45 PM) (3 minutos): tiene como protagonista a un oyente que habla sobre sus temas musicales, artistas o agrupaciones preferidas, aportando la visión personal del bailador sobre la música que considera de alta calidad. Luego de las palabras del oyente, se radian dos canciones relacionadas.",
+          "schedule": "",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "name": "Desde el barrio",
+      "schedule": "10:00 AM - 10:58 AM",
+      "duration": "58 min",
+      "frequency": "Sábado",
+      "func": "Divulgativa",
+      "music_cuban": "85 %",
+      "music_foreign": "15 %",
+      "group": "Variados",
+      "form": "Revista de variedades",
+      "complexity": "Muy Complejo",
+      "theme": "Varios generales",
+      "target": "Familia",
+      "times": {
+        "music": "18 min",
+        "info": "37 min",
+        "propaganda": "3 min"
+      },
+      "startDate": "8 de julio de 2023",
+      "emissionType": "Vivo",
+      "literarySupport": "Guión: Muy Complejo no escenificado. Costo desde $350.00 hasta $700.00.",
+      "objective": "Divulgar las diferentes actividades de la cotidianidad bayamesas, que tienen en su centro la transformación de sus barrios y comunidades.",
+      "profile": "El programa centra su atención en el acontecer de los barrios de Bayamo. Es conducido a una voz durante todo el espacio. Cada entrega comienza con una cápsula de breves entrevistas a personas de la comunidad en la que emiten su criterio sobre la misma o sobre una problemática, un proyecto comunitario o un tema determinado, que se aborda en el espacio.\nEn sus emisiones se dedica la mayor parte del tiempo a brindar información sobre un barrio, un proyecto comunitario, una problemática específica que afecta a los bayameses o un tema afín con la cotidianidad de las comunidades. Admite la participación de funcionarios y especialistas que aporten información sobre la temática abordada. También tiene espacio para el tratamiento, como tema central, de un evento de gran relevancia para una o varias comunidades.\nA esto añade la divulgación de opciones de esparcimiento para el fin de semana y otras informaciones de facilitación social.\nCuando sea posible, puede transmitirse alguna emisión del programa desde la comunidad.\nLas secciones del programa tributan al tema central. Estas abordan diferentes elementos comunes en nuestros barrios con experiencias o ejemplos específicos en cada comunidad. Son un espacio ideal para la visibilización del trabajo de personas y organizaciones con presencia y actividad notable en las comunidades.",
+      "sections": [
+        {
+          "name": "Mi comunidad",
+          "description": "(10:05) (3 min): Consiste en una cápsula de breves entrevistas a personas de la comunidad en la que emiten su criterio sobre la misma o sobre una problemática, un proyecto comunitario o un tema determinado. Es aportado por el guionista.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Cerquita de tu casa",
+          "description": "(10:15) (3 min): Brinda información sobre carteleras y otras opciones recreativas, culturales, gastronómicas y comerciales que tienen como escenario a la comunidad. Prioriza las opciones de Casa de Cultura y los combinados deportivos.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Heroísmo cotidiano",
+          "description": "(10:25) (5 min): Publica un trabajo periodístico o recibe como invitado en el estudio a un líder comunitario, personaje popular o profesional destacado y reconocido en el barrio. Es aportado por el guionista.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "En cada cuadra",
+          "description": "(10:35) (3 min): Espacio reservado a la visibilización de la labor de los CDR, la FMC y otras organizaciones con incidencia en la transformación positiva de los barrios. También puede dedicarse a un lugar popular en el barrio: una bodega, carnicería, un parque, establecimiento comercial, entre otros.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "Los fanáticos del barrio",
+          "description": "(10:45) (3 min): Publica reportes de sintonía, así como saludos y felicitaciones para los oyentes. Cierra complaciendo a uno de ellos con un tema musical.",
+          "schedule": "",
+          "duration": ""
+        },
+        {
+          "name": "La próxima semana",
+          "description": "(10:52) (2 min): Ofrece avances de los temas a abordar en la próxima emisión e invita a la audiencia a participar durante toda la semana, a través de redes sociales, en la construcción del programa.",
           "schedule": "",
           "duration": ""
         }
@@ -1551,93 +1642,6 @@
           "duration": ""
         }
       ]
-    },
-    {
-      "name": "La Cumbancha ",
-      "schedule": "9:00 AM - 9:58 AM",
-      "duration": "58 min",
-      "frequency": "Lunes a Viernes",
-      "func": "Recreativa",
-      "music_cuban": "85 %",
-      "music_foreign": "15 %",
-      "group": "Musicales",
-      "form": "Musical variado",
-      "complexity": "Complejo",
-      "theme": "Música popular cubana y/o extranjera",
-      "target": "Familia",
-      "times": {
-        "music": "49 min",
-        "info": "8 min",
-        "propaganda": "1 min"
-      },
-      "startDate": "05 de Julio de 2010",
-      "emissionType": "Vivo",
-      "literarySupport": "Guión: Guión técnico.",
-      "objective": "Recrear a la audiencia bayamesa con música adecuada a sus gustos y preferencias.",
-      "profile": "Programa a una voz que anuncia música variada en géneros, estilos, épocas, y acredita los musicales y puede ofrecer breves informaciones sobre los mismos. El programa promueve música popular. Se puede realizar desde exteriores siempre con propuestas sustentadas en la música.\r\nPodrán realizarse concursos sobre aspectos musicales y comparecer divulgadores de instituciones musicales para brindar información y puede incluir entrevistas con músicos locales o del país para promocionar su música. Se ofrecen saludos, felicitaciones y reportes de sintonía enviados por los oyentes a través del correo o vía telefónica al programa, reportes de sintonía y se emplean los recursos sonoros del medio, así como la propaganda directa e indirecta.\r\nAlgunos Spots salen en voces de humoristas.",
-      "sections": []
-    },
-    {
-      "name": "Desde el barrio",
-      "schedule": "10:00 AM - 10:58 AM",
-      "duration": "58 min",
-      "frequency": "Sábado",
-      "func": "Divulgativa",
-      "music_cuban": "85 %",
-      "music_foreign": "15 %",
-      "group": "Variados",
-      "form": "Revista de variedades",
-      "complexity": "Muy Complejo",
-      "theme": "Varios generales",
-      "target": "Familia",
-      "times": {
-        "music": "18 min",
-        "info": "37 min",
-        "propaganda": "3 min"
-      },
-      "startDate": "8 de julio de 2023",
-      "emissionType": "Vivo",
-      "literarySupport": "Guión: Muy Complejo no escenificado. Costo desde $350.00 hasta $700.00.",
-      "objective": "Divulgar las diferentes actividades de la cotidianidad bayamesas, que tienen en su centro la transformación de sus barrios y comunidades.",
-      "profile": "El programa centra su atención en el acontecer de los barrios de Bayamo. Es conducido a una voz durante todo el espacio. Cada entrega comienza con una cápsula de breves entrevistas a personas de la comunidad en la que emiten su criterio sobre la misma o sobre una problemática, un proyecto comunitario o un tema determinado, que se aborda en el espacio.\nEn sus emisiones se dedica la mayor parte del tiempo a brindar información sobre un barrio, un proyecto comunitario, una problemática específica que afecta a los bayameses o un tema afín con la cotidianidad de las comunidades. Admite la participación de funcionarios y especialistas que aporten información sobre la temática abordada. También tiene espacio para el tratamiento, como tema central, de un evento de gran relevancia para una o varias comunidades.\nA esto añade la divulgación de opciones de esparcimiento para el fin de semana y otras informaciones de facilitación social.\nCuando sea posible, puede transmitirse alguna emisión del programa desde la comunidad.\nLas secciones del programa tributan al tema central. Estas abordan diferentes elementos comunes en nuestros barrios con experiencias o ejemplos específicos en cada comunidad. Son un espacio ideal para la visibilización del trabajo de personas y organizaciones con presencia y actividad notable en las comunidades.",
-      "sections": [
-        {
-          "name": "Mi comunidad",
-          "description": "(10:05) (3 min): Consiste en una cápsula de breves entrevistas a personas de la comunidad en la que emiten su criterio sobre la misma o sobre una problemática, un proyecto comunitario o un tema determinado. Es aportado por el guionista.",
-          "schedule": "",
-          "duration": ""
-        },
-        {
-          "name": "Cerquita de tu casa",
-          "description": "(10:15) (3 min): Brinda información sobre carteleras y otras opciones recreativas, culturales, gastronómicas y comerciales que tienen como escenario a la comunidad. Prioriza las opciones de Casa de Cultura y los combinados deportivos.",
-          "schedule": "",
-          "duration": ""
-        },
-        {
-          "name": "Heroísmo cotidiano",
-          "description": "(10:25) (5 min): Publica un trabajo periodístico o recibe como invitado en el estudio a un líder comunitario, personaje popular o profesional destacado y reconocido en el barrio. Es aportado por el guionista.",
-          "schedule": "",
-          "duration": ""
-        },
-        {
-          "name": "En cada cuadra",
-          "description": "(10:35) (3 min): Espacio reservado a la visibilización de la labor de los CDR, la FMC y otras organizaciones con incidencia en la transformación positiva de los barrios. También puede dedicarse a un lugar popular en el barrio: una bodega, carnicería, un parque, establecimiento comercial, entre otros.",
-          "schedule": "",
-          "duration": ""
-        },
-        {
-          "name": "Los fanáticos del barrio",
-          "description": "(10:45) (3 min): Publica reportes de sintonía, así como saludos y felicitaciones para los oyentes. Cierra complaciendo a uno de ellos con un tema musical.",
-          "schedule": "",
-          "duration": ""
-        },
-        {
-          "name": "La próxima semana",
-          "description": "(10:52) (2 min): Ofrece avances de los temas a abordar en la próxima emisión e invita a la audiencia a participar durante toda la semana, a través de redes sociales, en la construcción del programa.",
-          "schedule": "",
-          "duration": ""
-        }
-      ]
     }
   ],
   "catalogo": [
@@ -1673,15 +1677,15 @@
             },
             {
               "level": "II",
-              "amount": "216.04"
+              "amount": "215.95"
             },
             {
               "level": "III",
-              "amount": "198.06"
+              "amount": "198.02"
             },
             {
               "level": "SR",
-              "amount": "180.10"
+              "amount": "180.11"
             }
           ]
         },
@@ -1751,15 +1755,15 @@
           "rates": [
             {
               "level": "I",
-              "amount": "207.00"
+              "amount": "206.99"
             },
             {
               "level": "II",
-              "amount": "198.06"
+              "amount": "198.02"
             },
             {
               "level": "III",
-              "amount": "180.10"
+              "amount": "180.11"
             },
             {
               "level": "SR",
@@ -1792,7 +1796,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.06"
+              "amount": "198.02"
             },
             {
               "level": "II",
@@ -1800,11 +1804,11 @@
             },
             {
               "level": "III",
-              "amount": "153.12"
+              "amount": "153.07"
             },
             {
               "level": "SR",
-              "amount": "139.73"
+              "amount": "139.71"
             }
           ]
         },
@@ -1833,7 +1837,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.06"
+              "amount": "198.02"
             },
             {
               "level": "II",
@@ -1841,11 +1845,11 @@
             },
             {
               "level": "III",
-              "amount": "153.12"
+              "amount": "153.07"
             },
             {
               "level": "SR",
-              "amount": "139.73"
+              "amount": "139.71"
             }
           ]
         },
@@ -1874,7 +1878,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "180.10"
+              "amount": "180.11"
             },
             {
               "level": "II",
@@ -1882,11 +1886,11 @@
             },
             {
               "level": "III",
-              "amount": "146.47"
+              "amount": "146.46"
             },
             {
               "level": "SR",
-              "amount": "139.73"
+              "amount": "139.71"
             }
           ]
         },
@@ -1961,19 +1965,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "212.92"
+              "amount": "212.88"
             },
             {
               "level": "II",
-              "amount": "192.84"
+              "amount": "192.81"
             },
             {
               "level": "III",
-              "amount": "176.84"
+              "amount": "176.81"
             },
             {
               "level": "SR",
-              "amount": "160.86"
+              "amount": "160.81"
             }
           ]
         },
@@ -2043,19 +2047,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "176.84"
+              "amount": "176.81"
             },
             {
               "level": "II",
-              "amount": "152.82"
+              "amount": "152.81"
             },
             {
               "level": "III",
-              "amount": "136.70"
+              "amount": "136.67"
             },
             {
               "level": "SR",
-              "amount": "124.76"
+              "amount": "124.74"
             }
           ]
         },
@@ -2084,19 +2088,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.86"
+              "amount": "160.81"
             },
             {
               "level": "II",
-              "amount": "144.86"
+              "amount": "144.81"
             },
             {
               "level": "III",
-              "amount": "130.82"
+              "amount": "130.77"
             },
             {
               "level": "SR",
-              "amount": "124.76"
+              "amount": "124.74"
             }
           ]
         }
@@ -2134,15 +2138,15 @@
             },
             {
               "level": "II",
-              "amount": "107.99"
+              "amount": "107.97"
             },
             {
               "level": "III",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "SR",
-              "amount": "90.05"
+              "amount": "90.06"
             }
           ]
         },
@@ -2216,11 +2220,11 @@
             },
             {
               "level": "II",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "III",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "SR",
@@ -2253,7 +2257,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "II",
@@ -2261,11 +2265,11 @@
             },
             {
               "level": "III",
-              "amount": "76.55"
+              "amount": "76.54"
             },
             {
               "level": "SR",
-              "amount": "69.86"
+              "amount": "69.85"
             }
           ]
         },
@@ -2294,7 +2298,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "II",
@@ -2302,11 +2306,11 @@
             },
             {
               "level": "III",
-              "amount": "73.24"
+              "amount": "73.23"
             },
             {
               "level": "SR",
-              "amount": "69.86"
+              "amount": "69.85"
             }
           ]
         }
@@ -2344,15 +2348,15 @@
             },
             {
               "level": "II",
-              "amount": "123.42"
+              "amount": "123.40"
             },
             {
               "level": "III",
-              "amount": "113.18"
+              "amount": "113.16"
             },
             {
               "level": "SR",
-              "amount": "102.91"
+              "amount": "102.92"
             }
           ]
         },
@@ -2381,7 +2385,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "113.18"
+              "amount": "113.16"
             },
             {
               "level": "II",
@@ -2393,13 +2397,13 @@
             },
             {
               "level": "SR",
-              "amount": "79.84"
+              "amount": "79.83"
             }
           ]
         },
         {
           "role": "Locutor 2",
-          "percentage": "0 (sin porcentaje en la fórmula)",
+          "percentage": "0 (sin porcentaje)",
           "tr": "2",
           "salaries": [
             {
@@ -2463,11 +2467,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "102.91"
+              "amount": "102.92"
             },
             {
               "level": "II",
-              "amount": "92.67"
+              "amount": "92.68"
             },
             {
               "level": "III",
@@ -2475,7 +2479,7 @@
             },
             {
               "level": "SR",
-              "amount": "79.84"
+              "amount": "79.83"
             }
           ]
         },
@@ -2550,19 +2554,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "106.46"
+              "amount": "106.44"
             },
             {
               "level": "II",
-              "amount": "96.42"
+              "amount": "96.41"
             },
             {
               "level": "III",
-              "amount": "88.42"
+              "amount": "88.40"
             },
             {
               "level": "SR",
-              "amount": "80.43"
+              "amount": "80.41"
             }
           ]
         },
@@ -2632,19 +2636,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "92.43"
+              "amount": "92.41"
             },
             {
               "level": "II",
-              "amount": "88.42"
+              "amount": "88.40"
             },
             {
               "level": "III",
-              "amount": "80.43"
+              "amount": "80.41"
             },
             {
               "level": "SR",
-              "amount": "72.42"
+              "amount": "72.40"
             }
           ]
         },
@@ -2673,19 +2677,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "88.42"
+              "amount": "88.40"
             },
             {
               "level": "II",
-              "amount": "76.41"
+              "amount": "76.40"
             },
             {
               "level": "III",
-              "amount": "68.35"
+              "amount": "68.34"
             },
             {
               "level": "SR",
-              "amount": "62.38"
+              "amount": "62.37"
             }
           ]
         },
@@ -2714,19 +2718,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "80.43"
+              "amount": "80.41"
             },
             {
               "level": "II",
-              "amount": "72.43"
+              "amount": "72.40"
             },
             {
               "level": "III",
-              "amount": "65.41"
+              "amount": "65.39"
             },
             {
               "level": "SR",
-              "amount": "62.38"
+              "amount": "62.37"
             }
           ]
         }
@@ -2760,19 +2764,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "79.84"
+              "amount": "79.83"
             },
             {
               "level": "II",
-              "amount": "72.31"
+              "amount": "72.30"
             },
             {
               "level": "III",
-              "amount": "66.31"
+              "amount": "66.30"
             },
             {
               "level": "SR",
-              "amount": "60.32"
+              "amount": "60.30"
             }
           ]
         },
@@ -2842,19 +2846,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "69.31"
+              "amount": "69.30"
             },
             {
               "level": "II",
-              "amount": "66.31"
+              "amount": "66.30"
             },
             {
               "level": "III",
-              "amount": "60.32"
+              "amount": "60.30"
             },
             {
               "level": "SR",
-              "amount": "54.32"
+              "amount": "54.30"
             }
           ]
         },
@@ -2883,7 +2887,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "66.31"
+              "amount": "66.30"
             },
             {
               "level": "II",
@@ -2891,7 +2895,7 @@
             },
             {
               "level": "III",
-              "amount": "51.26"
+              "amount": "51.25"
             },
             {
               "level": "SR",
@@ -2924,15 +2928,15 @@
           "rates": [
             {
               "level": "I",
-              "amount": "60.32"
+              "amount": "60.30"
             },
             {
               "level": "II",
-              "amount": "54.32"
+              "amount": "54.30"
             },
             {
               "level": "III",
-              "amount": "49.05"
+              "amount": "49.04"
             },
             {
               "level": "SR",
@@ -2974,15 +2978,15 @@
             },
             {
               "level": "II",
-              "amount": "161.98"
+              "amount": "161.96"
             },
             {
               "level": "III",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "SR",
-              "amount": "135.07"
+              "amount": "135.08"
             }
           ]
         },
@@ -3052,19 +3056,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "155.23"
+              "amount": "155.24"
             },
             {
               "level": "II",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "III",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "SR",
-              "amount": "121.63"
+              "amount": "121.64"
             }
           ]
         },
@@ -3093,7 +3097,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "II",
@@ -3101,11 +3105,11 @@
             },
             {
               "level": "III",
-              "amount": "114.82"
+              "amount": "114.81"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         },
@@ -3134,7 +3138,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "II",
@@ -3142,11 +3146,11 @@
             },
             {
               "level": "III",
-              "amount": "114.82"
+              "amount": "114.81"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         },
@@ -3175,19 +3179,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "II",
-              "amount": "121.63"
+              "amount": "121.64"
             },
             {
               "level": "III",
-              "amount": "109.86"
+              "amount": "109.85"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         }
@@ -3221,19 +3225,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "212.92"
+              "amount": "212.88"
             },
             {
               "level": "II",
-              "amount": "192.84"
+              "amount": "192.81"
             },
             {
               "level": "III",
-              "amount": "176.84"
+              "amount": "176.81"
             },
             {
               "level": "SR",
-              "amount": "160.86"
+              "amount": "160.81"
             }
           ]
         },
@@ -3303,19 +3307,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "184.86"
+              "amount": "184.81"
             },
             {
               "level": "II",
-              "amount": "176.84"
+              "amount": "176.81"
             },
             {
               "level": "III",
-              "amount": "160.86"
+              "amount": "160.81"
             },
             {
               "level": "SR",
-              "amount": "144.86"
+              "amount": "144.81"
             }
           ]
         },
@@ -3344,19 +3348,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "176.84"
+              "amount": "176.81"
             },
             {
               "level": "II",
-              "amount": "152.82"
+              "amount": "152.81"
             },
             {
               "level": "III",
-              "amount": "136.70"
+              "amount": "136.67"
             },
             {
               "level": "SR",
-              "amount": "124.76"
+              "amount": "124.74"
             }
           ]
         },
@@ -3385,19 +3389,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.86"
+              "amount": "160.81"
             },
             {
               "level": "II",
-              "amount": "144.86"
+              "amount": "144.81"
             },
             {
               "level": "III",
-              "amount": "130.82"
+              "amount": "130.77"
             },
             {
               "level": "SR",
-              "amount": "124.76"
+              "amount": "124.74"
             }
           ]
         }
@@ -3435,15 +3439,15 @@
             },
             {
               "level": "II",
-              "amount": "161.98"
+              "amount": "161.96"
             },
             {
               "level": "III",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "SR",
-              "amount": "135.07"
+              "amount": "135.08"
             }
           ]
         },
@@ -3513,19 +3517,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "155.23"
+              "amount": "155.24"
             },
             {
               "level": "II",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "III",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "SR",
-              "amount": "121.63"
+              "amount": "121.64"
             }
           ]
         },
@@ -3554,7 +3558,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "II",
@@ -3562,11 +3566,11 @@
             },
             {
               "level": "III",
-              "amount": "114.82"
+              "amount": "114.81"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         },
@@ -3595,19 +3599,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "II",
-              "amount": "121.63"
+              "amount": "121.64"
             },
             {
               "level": "III",
-              "amount": "109.86"
+              "amount": "109.85"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         }
@@ -3645,15 +3649,15 @@
             },
             {
               "level": "II",
-              "amount": "107.99"
+              "amount": "107.97"
             },
             {
               "level": "III",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "SR",
-              "amount": "90.05"
+              "amount": "90.06"
             }
           ]
         },
@@ -3727,11 +3731,11 @@
             },
             {
               "level": "II",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "III",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "SR",
@@ -3764,7 +3768,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "II",
@@ -3772,11 +3776,11 @@
             },
             {
               "level": "III",
-              "amount": "76.55"
+              "amount": "76.54"
             },
             {
               "level": "SR",
-              "amount": "69.86"
+              "amount": "69.85"
             }
           ]
         },
@@ -3805,7 +3809,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "99.03"
+              "amount": "99.01"
             },
             {
               "level": "II",
@@ -3813,11 +3817,11 @@
             },
             {
               "level": "III",
-              "amount": "76.55"
+              "amount": "76.54"
             },
             {
               "level": "SR",
-              "amount": "69.86"
+              "amount": "69.85"
             }
           ]
         },
@@ -3846,7 +3850,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "II",
@@ -3854,11 +3858,11 @@
             },
             {
               "level": "III",
-              "amount": "73.24"
+              "amount": "73.23"
             },
             {
               "level": "SR",
-              "amount": "69.86"
+              "amount": "69.85"
             }
           ]
         }
@@ -3892,19 +3896,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "106.46"
+              "amount": "106.44"
             },
             {
               "level": "II",
-              "amount": "96.42"
+              "amount": "96.41"
             },
             {
               "level": "III",
-              "amount": "88.42"
+              "amount": "88.40"
             },
             {
               "level": "SR",
-              "amount": "80.43"
+              "amount": "80.41"
             }
           ]
         },
@@ -3933,19 +3937,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "92.43"
+              "amount": "92.41"
             },
             {
               "level": "II",
-              "amount": "88.42"
+              "amount": "88.40"
             },
             {
               "level": "III",
-              "amount": "80.43"
+              "amount": "80.41"
             },
             {
               "level": "SR",
-              "amount": "72.42"
+              "amount": "72.40"
             }
           ]
         },
@@ -3974,7 +3978,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "66.31"
+              "amount": "66.30"
             },
             {
               "level": "II",
@@ -3982,7 +3986,7 @@
             },
             {
               "level": "III",
-              "amount": "51.26"
+              "amount": "51.25"
             },
             {
               "level": "SR",
@@ -4015,15 +4019,15 @@
           "rates": [
             {
               "level": "I",
-              "amount": "60.32"
+              "amount": "60.30"
             },
             {
               "level": "II",
-              "amount": "54.32"
+              "amount": "54.30"
             },
             {
               "level": "III",
-              "amount": "49.05"
+              "amount": "49.04"
             },
             {
               "level": "SR",
@@ -4061,19 +4065,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "266.15"
+              "amount": "266.10"
             },
             {
               "level": "II",
-              "amount": "241.05"
+              "amount": "241.02"
             },
             {
               "level": "III",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "SR",
-              "amount": "201.07"
+              "amount": "201.02"
             }
           ]
         },
@@ -4143,19 +4147,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "231.08"
+              "amount": "231.01"
             },
             {
               "level": "II",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "III",
-              "amount": "201.07"
+              "amount": "201.02"
             },
             {
               "level": "SR",
-              "amount": "181.08"
+              "amount": "181.01"
             }
           ]
         },
@@ -4184,19 +4188,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "II",
-              "amount": "191.03"
+              "amount": "191.01"
             },
             {
               "level": "III",
-              "amount": "170.87"
+              "amount": "170.84"
             },
             {
               "level": "SR",
-              "amount": "155.95"
+              "amount": "155.92"
             }
           ]
         },
@@ -4225,19 +4229,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.07"
+              "amount": "201.02"
             },
             {
               "level": "II",
-              "amount": "181.08"
+              "amount": "181.01"
             },
             {
               "level": "III",
-              "amount": "163.52"
+              "amount": "163.46"
             },
             {
               "level": "SR",
-              "amount": "155.95"
+              "amount": "155.92"
             }
           ]
         }
@@ -4271,19 +4275,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "266.15"
+              "amount": "266.10"
             },
             {
               "level": "II",
-              "amount": "241.05"
+              "amount": "241.02"
             },
             {
               "level": "III",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "SR",
-              "amount": "201.07"
+              "amount": "201.02"
             }
           ]
         },
@@ -4353,19 +4357,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "231.08"
+              "amount": "231.01"
             },
             {
               "level": "II",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "III",
-              "amount": "201.07"
+              "amount": "201.02"
             },
             {
               "level": "SR",
-              "amount": "181.08"
+              "amount": "181.01"
             }
           ]
         },
@@ -4394,19 +4398,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "221.05"
+              "amount": "221.01"
             },
             {
               "level": "II",
-              "amount": "191.03"
+              "amount": "191.01"
             },
             {
               "level": "III",
-              "amount": "170.87"
+              "amount": "170.84"
             },
             {
               "level": "SR",
-              "amount": "155.95"
+              "amount": "155.92"
             }
           ]
         },
@@ -4435,19 +4439,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.07"
+              "amount": "201.02"
             },
             {
               "level": "II",
-              "amount": "181.08"
+              "amount": "181.01"
             },
             {
               "level": "III",
-              "amount": "163.52"
+              "amount": "163.46"
             },
             {
               "level": "SR",
-              "amount": "155.95"
+              "amount": "155.92"
             }
           ]
         }
@@ -4485,15 +4489,15 @@
             },
             {
               "level": "II",
-              "amount": "161.98"
+              "amount": "161.96"
             },
             {
               "level": "III",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "SR",
-              "amount": "135.07"
+              "amount": "135.08"
             }
           ]
         },
@@ -4563,19 +4567,19 @@
           "rates": [
             {
               "level": "I",
-              "amount": "155.23"
+              "amount": "155.24"
             },
             {
               "level": "II",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "III",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "SR",
-              "amount": "121.63"
+              "amount": "121.64"
             }
           ]
         },
@@ -4604,7 +4608,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "II",
@@ -4612,11 +4616,11 @@
             },
             {
               "level": "III",
-              "amount": "114.82"
+              "amount": "114.81"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         },
@@ -4645,7 +4649,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "148.55"
+              "amount": "148.52"
             },
             {
               "level": "II",
@@ -4653,11 +4657,11 @@
             },
             {
               "level": "III",
-              "amount": "114.82"
+              "amount": "114.81"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
             }
           ]
         },
@@ -4686,19 +4690,270 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "II",
-              "amount": "121.63"
+              "amount": "121.64"
             },
             {
               "level": "III",
-              "amount": "109.86"
+              "amount": "109.85"
             },
             {
               "level": "SR",
-              "amount": "104.79"
+              "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coloriando Melodías",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "89.41"
+            },
+            {
+              "level": "II",
+              "amount": "80.98"
+            },
+            {
+              "level": "III",
+              "amount": "74.26"
+            },
+            {
+              "level": "SR",
+              "amount": "67.54"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "77.62"
+            },
+            {
+              "level": "II",
+              "amount": "74.26"
+            },
+            {
+              "level": "III",
+              "amount": "67.54"
+            },
+            {
+              "level": "SR",
+              "amount": "60.82"
+            }
+          ]
+        },
+        {
+          "role": "Locutor",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "74.26"
+            },
+            {
+              "level": "II",
+              "amount": "64.18"
+            },
+            {
+              "level": "III",
+              "amount": "57.40"
+            },
+            {
+              "level": "SR",
+              "amount": "52.39"
+            }
+          ]
+        },
+        {
+          "role": "Actor Secundario",
+          "percentage": "0.3",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7735"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "3210"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "79.14"
+            },
+            {
+              "level": "II",
+              "amount": "68.95"
+            },
+            {
+              "level": "III",
+              "amount": "51.00"
+            },
+            {
+              "level": "SR",
+              "amount": "32.84"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "67.54"
+            },
+            {
+              "level": "II",
+              "amount": "60.82"
+            },
+            {
+              "level": "III",
+              "amount": "54.92"
+            },
+            {
+              "level": "SR",
+              "amount": "52.39"
             }
           ]
         }
@@ -4732,11 +4987,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "17.68"
+              "amount": "17.69"
             },
             {
               "level": "II",
-              "amount": "15.92"
+              "amount": "15.93"
             },
             {
               "level": "III",
@@ -4819,11 +5074,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "17.68"
+              "amount": "17.69"
             },
             {
               "level": "II",
-              "amount": "15.92"
+              "amount": "15.93"
             },
             {
               "level": "III",
@@ -4879,257 +5134,6 @@
       ]
     },
     {
-      "name": "Coloriando Melodías",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "89.41"
-            },
-            {
-              "level": "II",
-              "amount": "80.99"
-            },
-            {
-              "level": "III",
-              "amount": "74.27"
-            },
-            {
-              "level": "SR",
-              "amount": "67.54"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "77.61"
-            },
-            {
-              "level": "II",
-              "amount": "74.27"
-            },
-            {
-              "level": "III",
-              "amount": "67.54"
-            },
-            {
-              "level": "SR",
-              "amount": "60.81"
-            }
-          ]
-        },
-        {
-          "role": "Locutor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "74.27"
-            },
-            {
-              "level": "II",
-              "amount": "64.18"
-            },
-            {
-              "level": "III",
-              "amount": "57.41"
-            },
-            {
-              "level": "SR",
-              "amount": "52.39"
-            }
-          ]
-        },
-        {
-          "role": "Actor Secundario",
-          "percentage": "0.3",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7735"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "3210"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "79.31"
-            },
-            {
-              "level": "II",
-              "amount": "69.12"
-            },
-            {
-              "level": "III",
-              "amount": "51.12"
-            },
-            {
-              "level": "SR",
-              "amount": "32.92"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "67.54"
-            },
-            {
-              "level": "II",
-              "amount": "60.81"
-            },
-            {
-              "level": "III",
-              "amount": "54.92"
-            },
-            {
-              "level": "SR",
-              "amount": "52.39"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Propaganda",
       "roles": [
         {
@@ -5139,37 +5143,37 @@
           "salaries": [
             {
               "level": "I",
-              "amount": "7350"
+              "amount": "8115"
             },
             {
               "level": "II",
-              "amount": "6740"
+              "amount": "7350"
             },
             {
               "level": "III",
-              "amount": "6130"
+              "amount": "6740"
             },
             {
               "level": "SR",
-              "amount": "4985"
+              "amount": "6130"
             }
           ],
           "rates": [
             {
               "level": "I",
-              "amount": "147.00"
+              "amount": "162.30"
             },
             {
               "level": "II",
-              "amount": "134.80"
+              "amount": "147.00"
             },
             {
               "level": "III",
-              "amount": "122.60"
+              "amount": "134.80"
             },
             {
               "level": "SR",
-              "amount": "99.70"
+              "amount": "122.60"
             }
           ]
         },
