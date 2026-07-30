@@ -793,6 +793,12 @@
           "name": "Laptop",
           "type": "PC",
           "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-UUKU",
+          "name": "Prueba Servi",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     },
@@ -5849,7 +5855,48 @@
       ]
     }
   },
-  "transmissionInterruptions": [],
+  "transmissionInterruptions": [
+    {
+      "id": "1785411191074-Cabina 12:00-12:30",
+      "date": "2026-07-05",
+      "programName": "Cabina 12:00-12:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "10:00 AM",
+      "endTime": "03:00 PM"
+    },
+    {
+      "id": "1785411191074-Cabina 13:00-13:30",
+      "date": "2026-07-05",
+      "programName": "Cabina 13:00-13:30",
+      "category": "variados",
+      "affectedMinutes": 30,
+      "percentage": 100,
+      "startTime": "10:00 AM",
+      "endTime": "03:00 PM"
+    },
+    {
+      "id": "1785411191074-Estación 95.3",
+      "date": "2026-07-05",
+      "programName": "Estación 95.3",
+      "category": "musicales",
+      "affectedMinutes": 178,
+      "percentage": 100,
+      "startTime": "10:00 AM",
+      "endTime": "03:00 PM"
+    },
+    {
+      "id": "1785411191074-Palco de domingo",
+      "date": "2026-07-05",
+      "programName": "Palco de domingo",
+      "category": "literaturaArte",
+      "affectedMinutes": 88,
+      "percentage": 100,
+      "startTime": "10:00 AM",
+      "endTime": "03:00 PM"
+    }
+  ],
   "transmissionHistorical": [
     {
       "id": "1777913391474",
@@ -35698,6 +35745,12 @@
           "name": "Laptop",
           "type": "PC",
           "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-UUKU",
+          "name": "Prueba Servi",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     },
