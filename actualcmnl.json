@@ -799,6 +799,12 @@
           "name": "Prueba Servi",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-R28S",
+          "name": "CMNL Cover",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     },
@@ -825,16 +831,34 @@
           "addedAt": "22/5/2026"
         },
         {
-          "token": "DVC-4A35",
-          "name": "GIAS Lap",
-          "type": "PC",
-          "addedAt": "22/5/2026"
-        },
-        {
           "token": "DVC-J8BB",
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-U7K4",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-ETN9",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-UUKU",
+          "name": "Prueba Servi",
+          "type": "PC",
+          "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-R28S",
+          "name": "CMNL Cover",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     }
@@ -1687,11 +1711,11 @@
             },
             {
               "level": "III",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "SR",
-              "amount": "180.11"
+              "amount": "180.10"
             }
           ]
         },
@@ -1765,11 +1789,11 @@
             },
             {
               "level": "II",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "III",
-              "amount": "180.11"
+              "amount": "180.10"
             },
             {
               "level": "SR",
@@ -1802,7 +1826,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "II",
@@ -1843,7 +1867,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "II",
@@ -1884,7 +1908,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "180.11"
+              "amount": "180.10"
             },
             {
               "level": "II",
@@ -1983,7 +2007,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.81"
+              "amount": "160.80"
             }
           ]
         },
@@ -2094,11 +2118,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "II",
-              "amount": "144.81"
+              "amount": "144.80"
             },
             {
               "level": "III",
@@ -2152,7 +2176,7 @@
             },
             {
               "level": "SR",
-              "amount": "90.06"
+              "amount": "90.05"
             }
           ]
         },
@@ -2230,7 +2254,7 @@
             },
             {
               "level": "III",
-              "amount": "90.06"
+              "amount": "90.05"
             },
             {
               "level": "SR",
@@ -2304,7 +2328,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "90.06"
+              "amount": "90.05"
             },
             {
               "level": "II",
@@ -2362,7 +2386,7 @@
             },
             {
               "level": "SR",
-              "amount": "102.92"
+              "amount": "102.91"
             }
           ]
         },
@@ -2473,11 +2497,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "102.92"
+              "amount": "102.91"
             },
             {
               "level": "II",
-              "amount": "92.68"
+              "amount": "92.67"
             },
             {
               "level": "III",
@@ -2568,11 +2592,11 @@
             },
             {
               "level": "III",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "SR",
-              "amount": "80.41"
+              "amount": "80.40"
             }
           ]
         },
@@ -2646,11 +2670,11 @@
             },
             {
               "level": "II",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "III",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "SR",
@@ -2683,7 +2707,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "II",
@@ -2724,7 +2748,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "II",
@@ -2732,7 +2756,7 @@
             },
             {
               "level": "III",
-              "amount": "65.39"
+              "amount": "65.38"
             },
             {
               "level": "SR",
@@ -2992,7 +3016,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.08"
+              "amount": "135.07"
             }
           ]
         },
@@ -3070,11 +3094,11 @@
             },
             {
               "level": "III",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "SR",
-              "amount": "121.64"
+              "amount": "121.63"
             }
           ]
         },
@@ -3185,11 +3209,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "II",
-              "amount": "121.64"
+              "amount": "121.63"
             },
             {
               "level": "III",
@@ -3243,7 +3267,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.81"
+              "amount": "160.80"
             }
           ]
         },
@@ -3321,11 +3345,11 @@
             },
             {
               "level": "III",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "SR",
-              "amount": "144.81"
+              "amount": "144.80"
             }
           ]
         },
@@ -3395,11 +3419,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "II",
-              "amount": "144.81"
+              "amount": "144.80"
             },
             {
               "level": "III",
@@ -3453,7 +3477,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.08"
+              "amount": "135.07"
             }
           ]
         },
@@ -3531,11 +3555,11 @@
             },
             {
               "level": "III",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "SR",
-              "amount": "121.64"
+              "amount": "121.63"
             }
           ]
         },
@@ -3605,11 +3629,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "II",
-              "amount": "121.64"
+              "amount": "121.63"
             },
             {
               "level": "III",
@@ -3618,257 +3642,6 @@
             {
               "level": "SR",
               "amount": "104.78"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Desde el barrio",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "119.21"
-            },
-            {
-              "level": "II",
-              "amount": "107.97"
-            },
-            {
-              "level": "III",
-              "amount": "99.01"
-            },
-            {
-              "level": "SR",
-              "amount": "90.06"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "103.49"
-            },
-            {
-              "level": "II",
-              "amount": "99.01"
-            },
-            {
-              "level": "III",
-              "amount": "90.06"
-            },
-            {
-              "level": "SR",
-              "amount": "81.09"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "90.06"
-            },
-            {
-              "level": "II",
-              "amount": "81.09"
-            },
-            {
-              "level": "III",
-              "amount": "73.23"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
             }
           ]
         }
@@ -3910,11 +3683,11 @@
             },
             {
               "level": "III",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "SR",
-              "amount": "80.41"
+              "amount": "80.40"
             }
           ]
         },
@@ -3947,11 +3720,11 @@
             },
             {
               "level": "II",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "III",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "SR",
@@ -4083,7 +3856,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.02"
+              "amount": "201.00"
             }
           ]
         },
@@ -4161,11 +3934,11 @@
             },
             {
               "level": "III",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "SR",
-              "amount": "181.01"
+              "amount": "181.00"
             }
           ]
         },
@@ -4235,11 +4008,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "II",
-              "amount": "181.01"
+              "amount": "181.00"
             },
             {
               "level": "III",
@@ -4293,7 +4066,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.02"
+              "amount": "201.00"
             }
           ]
         },
@@ -4371,11 +4144,11 @@
             },
             {
               "level": "III",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "SR",
-              "amount": "181.01"
+              "amount": "181.00"
             }
           ]
         },
@@ -4445,11 +4218,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "II",
-              "amount": "181.01"
+              "amount": "181.00"
             },
             {
               "level": "III",
@@ -4464,258 +4237,7 @@
       ]
     },
     {
-      "name": "Palco de domingo",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "178.82"
-            },
-            {
-              "level": "II",
-              "amount": "161.96"
-            },
-            {
-              "level": "III",
-              "amount": "148.52"
-            },
-            {
-              "level": "SR",
-              "amount": "135.08"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "155.24"
-            },
-            {
-              "level": "II",
-              "amount": "148.52"
-            },
-            {
-              "level": "III",
-              "amount": "135.08"
-            },
-            {
-              "level": "SR",
-              "amount": "121.64"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "135.08"
-            },
-            {
-              "level": "II",
-              "amount": "121.64"
-            },
-            {
-              "level": "III",
-              "amount": "109.85"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Coloriando Melodías",
+      "name": "Coloriando Melodías con Niños",
       "roles": [
         {
           "role": "Director",
@@ -4966,6 +4488,508 @@
       ]
     },
     {
+      "name": "Desde el barrio",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "119.21"
+            },
+            {
+              "level": "II",
+              "amount": "107.97"
+            },
+            {
+              "level": "III",
+              "amount": "99.01"
+            },
+            {
+              "level": "SR",
+              "amount": "90.05"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "103.49"
+            },
+            {
+              "level": "II",
+              "amount": "99.01"
+            },
+            {
+              "level": "III",
+              "amount": "90.05"
+            },
+            {
+              "level": "SR",
+              "amount": "81.09"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "90.05"
+            },
+            {
+              "level": "II",
+              "amount": "81.09"
+            },
+            {
+              "level": "III",
+              "amount": "73.23"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palco de domingo",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "178.82"
+            },
+            {
+              "level": "II",
+              "amount": "161.96"
+            },
+            {
+              "level": "III",
+              "amount": "148.52"
+            },
+            {
+              "level": "SR",
+              "amount": "135.07"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "155.24"
+            },
+            {
+              "level": "II",
+              "amount": "148.52"
+            },
+            {
+              "level": "III",
+              "amount": "135.07"
+            },
+            {
+              "level": "SR",
+              "amount": "121.63"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "135.07"
+            },
+            {
+              "level": "II",
+              "amount": "121.63"
+            },
+            {
+              "level": "III",
+              "amount": "109.85"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Cabina 12:00 – 12:30 (N.P.R)",
       "roles": [
         {
@@ -5140,7 +5164,7 @@
       ]
     },
     {
-      "name": "Propaganda",
+      "name": "Promociones y Menciones",
       "roles": [
         {
           "role": "Director",
@@ -35751,6 +35775,12 @@
           "name": "Prueba Servi",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-R28S",
+          "name": "CMNL Cover",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     },
@@ -35777,16 +35807,34 @@
           "addedAt": "22/5/2026"
         },
         {
-          "token": "DVC-4A35",
-          "name": "GIAS Lap",
-          "type": "PC",
-          "addedAt": "22/5/2026"
-        },
-        {
           "token": "DVC-J8BB",
           "name": "Laptop",
           "type": "PC",
           "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-U7K4",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-ETN9",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-UUKU",
+          "name": "Prueba Servi",
+          "type": "PC",
+          "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-R28S",
+          "name": "CMNL Cover",
+          "type": "PC",
+          "addedAt": "30/7/2026"
         }
       ]
     }
@@ -35928,42 +35976,14 @@
       "name": "Administrador App",
       "specialty": "Soporte, Redacción y Criptografía",
       "level": "Administración Global",
-      "photoUrl": "",
-      "email": "pejotar21@gmail.com",
       "info": "Cuenta técnica permanente del sistema. Ofrece control completo de programaciones y validación criptográfica de identidades.",
-      "habitualPrograms": [],
+      "email": "pejotar21@gmail.com",
       "mobile": "54413935",
+      "photoUrl": "",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
       "contracts": [],
-      "designatedUserId": "pedro",
-      "deviceLimitEnabled": true,
-      "authorizedDevices": [
-        {
-          "token": "DVC-VX23",
-          "name": "Cell",
-          "type": "Móvil",
-          "addedAt": "22/5/2026"
-        },
-        {
-          "token": "DVC-J8BB",
-          "name": "Laptop",
-          "type": "PC",
-          "addedAt": "25/5/2026"
-        },
-        {
-          "token": "DVC-U7K4",
-          "name": "GAISLap",
-          "type": "PC",
-          "addedAt": "7/6/2026"
-        },
-        {
-          "token": "DVC-ETN9",
-          "name": "Laptop",
-          "type": "PC",
-          "addedAt": "7/6/2026"
-        }
-      ]
+      "designatedUserId": "pedro"
     },
     {
       "id": "jose",
