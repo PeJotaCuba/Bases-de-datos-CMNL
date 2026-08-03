@@ -808,7 +808,7 @@
         },
         {
           "token": "DVC-FKXW",
-          "name": "Laptop",
+          "name": "lAP",
           "type": "PC",
           "addedAt": "3/8/2026"
         }
@@ -1723,11 +1723,11 @@
             },
             {
               "level": "III",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "SR",
-              "amount": "180.11"
+              "amount": "180.10"
             }
           ]
         },
@@ -1801,11 +1801,11 @@
             },
             {
               "level": "II",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "III",
-              "amount": "180.11"
+              "amount": "180.10"
             },
             {
               "level": "SR",
@@ -1838,7 +1838,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "II",
@@ -1879,7 +1879,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.02"
+              "amount": "198.03"
             },
             {
               "level": "II",
@@ -1920,7 +1920,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "180.11"
+              "amount": "180.10"
             },
             {
               "level": "II",
@@ -2019,7 +2019,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.81"
+              "amount": "160.80"
             }
           ]
         },
@@ -2130,11 +2130,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "II",
-              "amount": "144.81"
+              "amount": "144.80"
             },
             {
               "level": "III",
@@ -2188,7 +2188,7 @@
             },
             {
               "level": "SR",
-              "amount": "90.06"
+              "amount": "90.05"
             }
           ]
         },
@@ -2266,7 +2266,7 @@
             },
             {
               "level": "III",
-              "amount": "90.06"
+              "amount": "90.05"
             },
             {
               "level": "SR",
@@ -2340,7 +2340,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "90.06"
+              "amount": "90.05"
             },
             {
               "level": "II",
@@ -2398,7 +2398,7 @@
             },
             {
               "level": "SR",
-              "amount": "102.92"
+              "amount": "102.91"
             }
           ]
         },
@@ -2509,11 +2509,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "102.92"
+              "amount": "102.91"
             },
             {
               "level": "II",
-              "amount": "92.68"
+              "amount": "92.67"
             },
             {
               "level": "III",
@@ -2604,11 +2604,11 @@
             },
             {
               "level": "III",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "SR",
-              "amount": "80.41"
+              "amount": "80.40"
             }
           ]
         },
@@ -2682,11 +2682,11 @@
             },
             {
               "level": "II",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "III",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "SR",
@@ -2719,7 +2719,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "II",
@@ -2760,7 +2760,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "II",
@@ -2768,7 +2768,7 @@
             },
             {
               "level": "III",
-              "amount": "65.39"
+              "amount": "65.38"
             },
             {
               "level": "SR",
@@ -3028,7 +3028,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.08"
+              "amount": "135.07"
             }
           ]
         },
@@ -3106,11 +3106,11 @@
             },
             {
               "level": "III",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "SR",
-              "amount": "121.64"
+              "amount": "121.63"
             }
           ]
         },
@@ -3221,11 +3221,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "II",
-              "amount": "121.64"
+              "amount": "121.63"
             },
             {
               "level": "III",
@@ -3279,7 +3279,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.81"
+              "amount": "160.80"
             }
           ]
         },
@@ -3357,11 +3357,11 @@
             },
             {
               "level": "III",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "SR",
-              "amount": "144.81"
+              "amount": "144.80"
             }
           ]
         },
@@ -3431,11 +3431,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.81"
+              "amount": "160.80"
             },
             {
               "level": "II",
-              "amount": "144.81"
+              "amount": "144.80"
             },
             {
               "level": "III",
@@ -3489,7 +3489,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.08"
+              "amount": "135.07"
             }
           ]
         },
@@ -3567,11 +3567,11 @@
             },
             {
               "level": "III",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "SR",
-              "amount": "121.64"
+              "amount": "121.63"
             }
           ]
         },
@@ -3641,11 +3641,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.08"
+              "amount": "135.07"
             },
             {
               "level": "II",
-              "amount": "121.64"
+              "amount": "121.63"
             },
             {
               "level": "III",
@@ -3654,257 +3654,6 @@
             {
               "level": "SR",
               "amount": "104.78"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Desde el barrio",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "119.21"
-            },
-            {
-              "level": "II",
-              "amount": "107.97"
-            },
-            {
-              "level": "III",
-              "amount": "99.01"
-            },
-            {
-              "level": "SR",
-              "amount": "90.06"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "103.49"
-            },
-            {
-              "level": "II",
-              "amount": "99.01"
-            },
-            {
-              "level": "III",
-              "amount": "90.06"
-            },
-            {
-              "level": "SR",
-              "amount": "81.09"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "90.06"
-            },
-            {
-              "level": "II",
-              "amount": "81.09"
-            },
-            {
-              "level": "III",
-              "amount": "73.23"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
             }
           ]
         }
@@ -3946,11 +3695,11 @@
             },
             {
               "level": "III",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "SR",
-              "amount": "80.41"
+              "amount": "80.40"
             }
           ]
         },
@@ -3983,11 +3732,11 @@
             },
             {
               "level": "II",
-              "amount": "88.40"
+              "amount": "88.41"
             },
             {
               "level": "III",
-              "amount": "80.41"
+              "amount": "80.40"
             },
             {
               "level": "SR",
@@ -4119,7 +3868,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.02"
+              "amount": "201.00"
             }
           ]
         },
@@ -4197,11 +3946,11 @@
             },
             {
               "level": "III",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "SR",
-              "amount": "181.01"
+              "amount": "181.00"
             }
           ]
         },
@@ -4271,11 +4020,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "II",
-              "amount": "181.01"
+              "amount": "181.00"
             },
             {
               "level": "III",
@@ -4329,7 +4078,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.02"
+              "amount": "201.00"
             }
           ]
         },
@@ -4407,11 +4156,11 @@
             },
             {
               "level": "III",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "SR",
-              "amount": "181.01"
+              "amount": "181.00"
             }
           ]
         },
@@ -4481,11 +4230,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.02"
+              "amount": "201.00"
             },
             {
               "level": "II",
-              "amount": "181.01"
+              "amount": "181.00"
             },
             {
               "level": "III",
@@ -4500,258 +4249,7 @@
       ]
     },
     {
-      "name": "Palco de domingo",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "178.82"
-            },
-            {
-              "level": "II",
-              "amount": "161.96"
-            },
-            {
-              "level": "III",
-              "amount": "148.52"
-            },
-            {
-              "level": "SR",
-              "amount": "135.08"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "155.24"
-            },
-            {
-              "level": "II",
-              "amount": "148.52"
-            },
-            {
-              "level": "III",
-              "amount": "135.08"
-            },
-            {
-              "level": "SR",
-              "amount": "121.64"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "135.08"
-            },
-            {
-              "level": "II",
-              "amount": "121.64"
-            },
-            {
-              "level": "III",
-              "amount": "109.85"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Coloriando Melodías",
+      "name": "Coloriando Melodías con Niños",
       "roles": [
         {
           "role": "Director",
@@ -5002,6 +4500,508 @@
       ]
     },
     {
+      "name": "Desde el barrio",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "119.21"
+            },
+            {
+              "level": "II",
+              "amount": "107.97"
+            },
+            {
+              "level": "III",
+              "amount": "99.01"
+            },
+            {
+              "level": "SR",
+              "amount": "90.05"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "103.49"
+            },
+            {
+              "level": "II",
+              "amount": "99.01"
+            },
+            {
+              "level": "III",
+              "amount": "90.05"
+            },
+            {
+              "level": "SR",
+              "amount": "81.09"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "90.05"
+            },
+            {
+              "level": "II",
+              "amount": "81.09"
+            },
+            {
+              "level": "III",
+              "amount": "73.23"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palco de domingo",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "178.82"
+            },
+            {
+              "level": "II",
+              "amount": "161.96"
+            },
+            {
+              "level": "III",
+              "amount": "148.52"
+            },
+            {
+              "level": "SR",
+              "amount": "135.07"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "155.24"
+            },
+            {
+              "level": "II",
+              "amount": "148.52"
+            },
+            {
+              "level": "III",
+              "amount": "135.07"
+            },
+            {
+              "level": "SR",
+              "amount": "121.63"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "135.07"
+            },
+            {
+              "level": "II",
+              "amount": "121.63"
+            },
+            {
+              "level": "III",
+              "amount": "109.85"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Cabina 12:00 – 12:30 (N.P.R)",
       "roles": [
         {
@@ -5176,7 +5176,7 @@
       ]
     },
     {
-      "name": "Propaganda",
+      "name": "Promociones y Menciones",
       "roles": [
         {
           "role": "Director",
@@ -5306,49 +5306,6 @@
   ],
   "worklogs": [
     {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "1785018441348",
-      "userId": "rafael",
-      "date": "2026-07-25",
-      "programName": "Sigue a tu ritmo",
-      "role": "Locutor",
-      "hours": 0,
-      "type": "habitual",
-      "amount": 81.59,
-      "syncStatus": "pending"
-    },
-    {
       "id": "1783611976603",
       "userId": "lissell",
       "date": "2026-06-30",
@@ -5385,44 +5342,6 @@
       "programName": "Buenos Días Bayamo",
       "date": "2026-03-24",
       "amount": 135.45
-    },
-    {
-      "id": "17744590096300.24077317718495062",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-25",
-      "amount": 135.45
-    },
-    {
-      "id": "17744590170470.9140780844615214",
-      "userId": "lissell",
-      "role": "Asesor",
-      "programName": "Buenos Días Bayamo",
-      "date": "2026-03-24",
-      "amount": 135.45
-    },
-    {
-      "id": "1783611976603",
-      "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "Propaganda",
-      "role": "Director",
-      "hours": 1,
-      "type": "habitual",
-      "amount": 88.2,
-      "syncStatus": "pending"
-    },
-    {
-      "id": "1783611986198",
-      "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "RCM Noticias",
-      "role": "Director",
-      "hours": 0,
-      "type": "habitual",
-      "amount": 80.76,
-      "syncStatus": "pending"
     },
     {
       "id": "1785018441348",
@@ -5437,17 +5356,6 @@
     }
   ],
   "consolidated": [
-    {
-      "id": "je9culfcw",
-      "userId": "lissell",
-      "month": "2026-06",
-      "amount": 10118.643700000002,
-      "grossAmount": 10892.680000000002,
-      "taxAmount": 774.0363000000002,
-      "reportCount": 102,
-      "dateConsolidated": "2026-07-09T16:16:15.875Z",
-      "calculationMode": "autogestionado"
-    },
     {
       "id": "je9culfcw",
       "userId": "lissell",
@@ -5734,857 +5642,17 @@
       "totalRealMinutes": 14400,
       "dateConsolidated": "2026-05-01T19:40:03.954Z",
       "interruptionDetails": []
-    },
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "1777664403954",
-      "month": "2026-04",
-      "accumulated": {
-        "informativos": 1906,
-        "boletines": 426,
-        "publicidad": 544,
-        "educativos": 0,
-        "orientacion": 4314,
-        "cienciaTecnica": 90,
-        "variados": 2626,
-        "historicosGrabado": 52,
-        "variadoInfantilGrabado": 52,
-        "dramatizados": 0,
-        "literaturaArte": 1286,
-        "musicales": 3104,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14400
-      },
-      "interruptions": {
-        "informativos": 0,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 0,
-        "cienciaTecnica": 0,
-        "variados": 0,
-        "variadoInfantilGrabado": 0,
-        "historicosGrabado": 0,
-        "dramatizados": 0,
-        "literaturaArte": 0,
-        "musicales": 0,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 0
-      },
-      "totalRealMinutes": 14400,
-      "dateConsolidated": "2026-05-01T19:40:03.954Z",
-      "interruptionDetails": []
-    },
-    {
-      "id": "1775232224100",
-      "month": "2026-03",
-      "accumulated": {
-        "informativos": 1934,
-        "boletines": 438,
-        "publicidad": 554,
-        "educativos": 0,
-        "orientacion": 4455,
-        "cienciaTecnica": 93,
-        "variados": 2626,
-        "historicosGrabado": 65,
-        "variadoInfantilGrabado": 65,
-        "dramatizados": 0,
-        "literaturaArte": 1371,
-        "musicales": 3279,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14880
-      },
-      "interruptions": {
-        "informativos": 13,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 438,
-        "cienciaTecnica": 0,
-        "variados": 352,
-        "variadoInfantilGrabado": 26,
-        "historicosGrabado": 26,
-        "dramatizados": 0,
-        "literaturaArte": 86,
-        "musicales": 236,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 1177
-      },
-      "totalRealMinutes": 13703,
-      "dateConsolidated": "2026-04-03T16:03:44.100Z",
-      "interruptionDetails": [
-        {
-          "id": "1775176970219-Alba y Crisol",
-          "date": "2026-03-08",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Coloreando Melodías",
-          "date": "2026-03-08",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176970219-Cómplices",
-          "date": "2026-03-08",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "10:23"
-        },
-        {
-          "id": "1775176985397-Buenos Días Bayamo",
-          "date": "2026-03-06",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "09:38"
-        },
-        {
-          "id": "1775176998336-Cabina 12:00-12:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Cabina 13:00-13:30",
-          "date": "2026-03-17",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Buenos Días Bayamo",
-          "date": "2026-03-17",
-          "programName": "Buenos Días Bayamo",
-          "category": "variados",
-          "affectedMinutes": 116,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
-          "date": "2026-03-17",
-          "programName": "La Cumbancha (Lunes a Viernes)",
-          "category": "musicales",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Todos en Casa",
-          "date": "2026-03-17",
-          "programName": "Todos en Casa",
-          "category": "orientacion",
-          "affectedMinutes": 58,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-RCM Noticias",
-          "date": "2026-03-17",
-          "programName": "RCM Noticias",
-          "category": "informativos",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Arte Bayamo",
-          "date": "2026-03-17",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775176998336-Parada Joven",
-          "date": "2026-03-17",
-          "programName": "Parada Joven",
-          "category": "orientacion",
-          "affectedMinutes": 28,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177022539-Arte Bayamo",
-          "date": "2026-03-26",
-          "programName": "Arte Bayamo",
-          "category": "literaturaArte",
-          "affectedMinutes": 43,
-          "percentage": 100,
-          "startTime": "11:15",
-          "endTime": "11:58"
-        },
-        {
-          "id": "1775177047827-Cabina 12:00-12:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 12:00-12:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cabina 13:00-13:30",
-          "date": "2026-03-22",
-          "programName": "Cabina 13:00-13:30",
-          "category": "variados",
-          "affectedMinutes": 30,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Alba y Crisol",
-          "date": "2026-03-22",
-          "programName": "Alba y Crisol",
-          "category": "historicosGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Coloreando Melodías",
-          "date": "2026-03-22",
-          "programName": "Coloreando Melodías",
-          "category": "variadoInfantilGrabado",
-          "affectedMinutes": 13,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Cómplices",
-          "date": "2026-03-22",
-          "programName": "Cómplices",
-          "category": "orientacion",
-          "affectedMinutes": 176,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        },
-        {
-          "id": "1775177047827-Estación 95.3",
-          "date": "2026-03-22",
-          "programName": "Estación 95.3",
-          "category": "musicales",
-          "affectedMinutes": 178,
-          "percentage": 100,
-          "startTime": "07:00",
-          "endTime": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "1777664403954",
-      "month": "2026-04",
-      "accumulated": {
-        "informativos": 1906,
-        "boletines": 426,
-        "publicidad": 544,
-        "educativos": 0,
-        "orientacion": 4314,
-        "cienciaTecnica": 90,
-        "variados": 2626,
-        "historicosGrabado": 52,
-        "variadoInfantilGrabado": 52,
-        "dramatizados": 0,
-        "literaturaArte": 1286,
-        "musicales": 3104,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 14400
-      },
-      "interruptions": {
-        "informativos": 0,
-        "boletines": 0,
-        "publicidad": 0,
-        "educativos": 0,
-        "orientacion": 0,
-        "cienciaTecnica": 0,
-        "variados": 0,
-        "variadoInfantilGrabado": 0,
-        "historicosGrabado": 0,
-        "dramatizados": 0,
-        "literaturaArte": 0,
-        "musicales": 0,
-        "deportivos": 0,
-        "reposiciones": 0,
-        "total": 0
-      },
-      "totalRealMinutes": 14400,
-      "dateConsolidated": "2026-05-01T19:40:03.954Z",
-      "interruptionDetails": []
     }
   ],
   "habitualExclusions": [
     {
       "username": "admin",
       "exclusions": []
-    },
-    {
-      "username": "lissell",
-      "exclusions": [
-        {
-          "date": "2026-03-21",
-          "programName": "Parada Joven",
-          "role": "Asesor"
-        }
-      ]
-    },
-    {
-      "username": "rafael",
-      "exclusions": []
-    },
-    {
-      "username": "ernesto",
-      "exclusions": []
-    },
-    {
-      "username": "johan",
-      "exclusions": []
-    },
-    {
-      "username": "humberto",
-      "exclusions": []
-    },
-    {
-      "username": "viviana",
-      "exclusions": []
-    },
-    {
-      "username": "admincmnl",
-      "exclusions": []
     }
   ],
   "habitualModes": [
     {
       "username": "admin",
-      "mode": false
-    },
-    {
-      "username": "lissell",
-      "mode": true
-    },
-    {
-      "username": "rafael",
-      "mode": false
-    },
-    {
-      "username": "ernesto",
-      "mode": false
-    },
-    {
-      "username": "johan",
-      "mode": false
-    },
-    {
-      "username": "humberto",
-      "mode": false
-    },
-    {
-      "username": "viviana",
-      "mode": false
-    },
-    {
-      "username": "admincmnl",
       "mode": false
     }
   ],
@@ -6865,6 +5933,88 @@
       "totalRealMinutes": 14400,
       "dateConsolidated": "2026-07-09T15:13:30.354Z",
       "interruptionDetails": []
+    },
+    {
+      "id": "auto-2026-07-1785762983309",
+      "month": "2026-07",
+      "accumulated": {
+        "informativos": 1975,
+        "boletines": 441,
+        "publicidad": 564,
+        "educativos": 0,
+        "orientacion": 4482,
+        "cienciaTecnica": 96,
+        "variados": 5189,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1329,
+        "musicales": 700,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 60,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 88,
+        "musicales": 178,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 326
+      },
+      "totalRealMinutes": 14554,
+      "dateConsolidated": "2026-08-03T13:16:23.309Z",
+      "interruptionDetails": [
+        {
+          "id": "1785411191074-Cabina 12:00-12:30",
+          "date": "2026-07-05",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "10:00 AM",
+          "endTime": "03:00 PM"
+        },
+        {
+          "id": "1785411191074-Cabina 13:00-13:30",
+          "date": "2026-07-05",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "10:00 AM",
+          "endTime": "03:00 PM"
+        },
+        {
+          "id": "1785411191074-Estación 95.3",
+          "date": "2026-07-05",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "10:00 AM",
+          "endTime": "03:00 PM"
+        },
+        {
+          "id": "1785411191074-Palco de domingo",
+          "date": "2026-07-05",
+          "programName": "Palco de domingo",
+          "category": "literaturaArte",
+          "affectedMinutes": 88,
+          "percentage": 100,
+          "startTime": "10:00 AM",
+          "endTime": "03:00 PM"
+        }
+      ]
     }
   ],
   "paymentConfigs": {},
@@ -26134,6 +25284,66 @@
           "theme": "Agosto de historia y sol: disfrutar el verano conociendo nuestro pasado.",
           "ideas": "El programa propone una agenda veraniega diferente: recorrer los sitios históricos de Bayamo como actividad familiar. Un historiador ofrece un \"mapa del tiempo\" para visitar museos, monumentos y plazas, con datos curiosos que atrapen a grandes y chicos. La sección infantil narra una anécdota histórica adaptada. \"Este mundo nuestro\" presenta cómo otras ciudades celebran su historia en verano. Música de trova tradicional. Pregunta: ¿Cuándo fue la última vez que visitaste un museo con tu familia?\n",
           "order": 1
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "La naturaleza cubana en la pintura: el legado de Carlos Enríquez y otros paisajistas.",
+          "ideas": "Un crítico de arte y un especialista del CITMA dialogan sobre cómo los grandes pintores cubanos —entre ellos Carlos Enríquez, nacido un 3 de agosto— han reflejado la campiña, los ríos y los bosques de la isla. Se aprovecha para hablar de la necesidad de preservar esos paisajes que inspiraron tantas obras, en el marco de la Tarea Vida. La sección infantil dibuja su paisaje cubano favorito. \"De la Ciencia y la Técnica\" explica la conservación de los pigmentos naturales. \"Este mundo nuestro\" recuerda a otros pintores paisajistas del mundo. Música de fondo con sones y boleros. Pregunta: ¿Qué paisaje de Cuba te inspira más?\n",
+          "order": 1
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "Calixto García y Henry Reeve: dos gigantes de la independencia que forjaron la nación.",
+          "ideas": "Un historiador recuerda la figura del Mayor General Calixto García, \"el general de las tres guerras\", y de Henry Reeve, \"El Inglesito\", brigadista internacional que entregó su vida por Cuba. Se analiza su ejemplo de internacionalismo y valentía. La sección infantil narra una anécdota de la vida de Calixto García. \"De la Ciencia y la Técnica\" aborda la logística militar del siglo XIX. \"Este mundo nuestro\" recuerda a otros combatientes internacionalistas. Música de marchas mambisas. Pregunta: ¿Qué héroe de nuestras guerras de independencia te inspira más?\n",
+          "order": 1
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "Mujeres que sostienen el hogar: el papel de las cuidadoras en la resiliencia familiar.",
+          "ideas": "Una psicóloga y una trabajadora social analizan el papel fundamental de las mujeres —madres, abuelas, hijas— como pilares de la resiliencia familiar, especialmente en tiempos de crisis. Se destaca cómo el cuidado de niños, ancianos y enfermos recae mayoritariamente sobre ellas, y cómo el Programa de Adelanto de las Mujeres busca visibilizar y apoyar esta labor. La sección infantil agradece a las mujeres que cuidan. \"De la Ciencia y la Técnica\" aborda la economía del cuidado. \"Este mundo nuestro\" muestra políticas de apoyo a cuidadoras en otros países. Música de trovadoras. Pregunta: ¿Quién cuida de ti cuando lo necesitas?\n",
+          "order": 1
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "Hiroshima y la Segunda Guerra Mundial: las lecciones que Fidel nos enseñó a nunca olvidar.",
+          "ideas": "Un historiador rememora el lanzamiento de la bomba atómica sobre Hiroshima en 1945 y las lecciones de la Segunda Guerra Mundial. Se reproducen fragmentos de discursos de Fidel Castro donde reflexionó sobre la guerra, la paz y el peligro nuclear, conectando con su visión antimperialista y su llamado a la paz mundial. La sección infantil enseña a resolver conflictos sin violencia. \"De la Ciencia y la Técnica\" explica los efectos de la radiación. \"Este mundo nuestro\" muestra los esfuerzos globales por el desarme nuclear. Música por la paz. Pregunta: ¿Qué enseñanza de Fidel sobre la paz te ha marcado?\n",
+          "order": 1
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "El agua que nos da vida: homenaje a los trabajadores hidráulicos en su día.",
+          "ideas": "El programa adelanta el homenaje al Día del Trabajador Hidráulico. Un directivo de Recursos Hidráulicos en Granma explica los retos de garantizar el abasto de agua en la provincia, las inversiones en redes y los proyectos de ahorro. Se entrevista a un trabajador del sector con años de experiencia. La sección infantil agradece a quienes llevan el agua a los hogares. \"De la Ciencia y la Técnica\" aborda las tecnologías de potabilización y bombeo. \"Este mundo nuestro\" muestra cómo otros países gestionan el agua. Música de homenaje. Pregunta: ¿Valoras el trabajo de quienes te traen el agua?\n",
+          "order": 1
+        },
+        "Agosto-semana-1-Sábado": {
+          "theme": "Fiestas Populares de Bayamo: el corazón de la ciudad late en sus tradiciones.",
+          "ideas": "El programa se suma al ambiente festivo de la ciudad. Un historiador local narra el origen de las Fiestas Populares y su evolución. Un organizador detalla el programa de actividades: desfiles, conciertos, ferias y competencias. La sección infantil habla de los juegos tradicionales que se disfrutan en las fiestas. \"Este mundo nuestro\" presenta otras fiestas populares famosas del mundo. Música de conga, son y guaracha. Pregunta: ¿Cuál es tu mejor recuerdo de las Fiestas Populares?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "El agua como fuente de vida y soberanía: homenaje a los trabajadores hidráulicos.",
+          "ideas": "En el Día del Trabajador Hidráulico, un directivo de Recursos Hidráulicos en Granma explica la importancia del manejo sostenible del agua para la agricultura y la soberanía alimentaria. Se entrevista a un trabajador del sector con décadas de servicio y a un joven ingeniero hidráulico. La sección infantil enseña cómo llega el agua a los hogares. \"De la Ciencia y la Técnica\" aborda los sistemas de riego eficiente y las plantas potabilizadoras. \"Este mundo nuestro\" muestra cómo otros países gestionan el agua en tiempos de sequía. Música de homenaje. Pregunta: ¿Cómo ahorras agua en tu casa?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "Mujeres jóvenes que transforman la ciencia y la educación en Bayamo.",
+          "ideas": "En vísperas del Día Internacional de la Juventud, el programa destaca a jóvenes mujeres que se destacan en la ciencia, la tecnología y la educación en la provincia. Una bióloga, una profesora de Física y una estudiante de Medicina comparten sus motivaciones, sus proyectos y cómo el ejemplo de Fidel las inspira a superarse. La sección infantil presenta a una niña que sueña con ser científica. \"De la Ciencia y la Técnica\" aborda las becas para mujeres en carreras STEM. \"Este mundo nuestro\" recuerda a mujeres científicas que cambiaron el mundo. Música de empoderamiento. Pregunta: ¿Qué joven mujer de tu comunidad merece ser reconocida?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "Fidel y la juventud: \"Si los jóvenes fallan, todo fallará\".",
+          "ideas": "Programa especial dedicado al Día Internacional de la Juventud y al centenario de Fidel. Se repasan los discursos más emblemáticos del Comandante dedicados a los jóvenes, incluyendo su célebre frase de 2007. Un dirigente de la UJC y un historiador analizan la relación de Fidel con las nuevas generaciones, desde la Campaña de Alfabetización hasta los programas actuales. La sección infantil imagina cómo será el futuro que Fidel soñó para ellos. \"De la Ciencia y la Técnica\" habla de los jóvenes innovadores cubanos. \"Este mundo nuestro\" recuerda a líderes mundiales que confiaron en la juventud. Música de la Generación del Centenario. Pregunta: ¿Cómo crees que Fidel ve a los jóvenes de hoy?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "100 años de Fidel: el hombre que cambió la historia de Cuba y del mundo.",
+          "ideas": "Programa especial de dos horas dedicado íntegramente a conmemorar el centenario del natalicio del Comandante en Jefe. Se recorre su vida desde su infancia en Birán hasta su legado como líder mundial. Participan un historiador, un combatiente de la Sierra Maestra, un médico internacionalista y un joven que nació después de su retiro. Se reproducen fragmentos de sus discursos más emblemáticos. La sección infantil es una carta colectiva de niños bayameses a Fidel. \"De la Ciencia y la Técnica\" repasa los logros científicos impulsados por él. \"Este mundo nuestro\" recoge mensajes de solidaridad desde otros países. Música de la Nueva Trova y marchas revolucionarias. Pregunta: ¿Qué le dirías a Fidel si pudieras hablar con él?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "Carlos J. Finlay y la Tarea Vida: ciencia cubana al servicio de la salud y el ambiente.",
+          "ideas": "Un epidemiólogo y un especialista del CITMA recuerdan el histórico descubrimiento de Carlos J. Finlay sobre el mosquito Aedes aegypti como transmisor de la fiebre amarilla, presentado un 14 de agosto de 1881. Se conecta este hito científico con la Tarea Vida y el control de vectores en el contexto actual de cambio climático. La sección infantil enseña a identificar y eliminar criaderos de mosquitos. \"De la Ciencia y la Técnica\" habla sobre las nuevas tecnologías para el control de plagas. \"Este mundo nuestro\" recuerda a otros grandes científicos latinoamericanos. Música de homenaje a la ciencia. Pregunta: ¿Cómo combates los mosquitos en tu casa?\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Sábado": {
+          "theme": "Vacaciones en casa: ideas para seguir disfrutando el verano sin salir de la ciudad.",
+          "ideas": "El programa ofrece un menú de ideas refrescantes para las familias que no pueden viajar: organizar una \"fiesta de espuma\" casera en el patio, hacer una guerra de globos de agua, montar un cine al aire libre con sábanas y proyectores artesanales. Un pedagogo explica la importancia del juego en familia. La sección infantil propone juegos tradicionales. \"Este mundo nuestro\" muestra cómo otras culturas disfrutan el verano en casa. Música alegre y veraniega. Pregunta: ¿Cómo te diviertes en casa durante el verano?\n",
+          "order": 1
         }
       }
     },
@@ -26705,6 +25915,56 @@
         "Julio-semana-5-Viernes": {
           "theme": "Iniciar un emprendimiento familiar desde casa: primeros pasos y consejos prácticos.",
           "ideas": "Una economista y un emprendedor local comparten en \"Y algo más\" pautas para comenzar un pequeño negocio familiar: identificar una necesidad en la comunidad, elaborar un plan sencillo, gestionar permisos y promocionar los productos. \"Sin fórmulas mágicas\" propone una receta que puede convertirse en un emprendimiento de dulces o conservas. \"Lo bello también se lleva por fuera\" enseña a crear una marca y empaque atractivo con recursos limitados. Testimonio de una familia que transformó un hobby culinario en una fuente de ingresos. Música alegre de fondo. Tono práctico y motivador.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "Aprovechar las cáscaras y semillas en la cocina: creatividad sin desperdicios.",
+          "ideas": "Una cocinera experta en economía circular enseña en \"Sin fórmulas mágicas\" a reutilizar cáscaras de plátano, piña y semillas de mango para hacer infusiones, vinagretas, dulces y abonos. \"Y algo más\" conversa con una familia que ha reducido a la mitad su basura orgánica aplicando estas ideas. \"Prospecto radial\" habla de los nutrientes que se esconden en lo que normalmente se desecha. \"Lo bello también se lleva por fuera\" muestra cómo decorar frascos para conservas. Testimonio de una abuela que nunca botaba nada. Música instrumental alegre.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "Ejercicios de bajo impacto para mantenerse activo en casa durante el verano.",
+          "ideas": "Un fisioterapeuta enseña en \"Y algo más\" una rutina de ejercicios de bajo impacto que pueden realizar en casa personas de todas las edades: estiramientos, yoga suave y fortalecimiento muscular con sillas y bandas elásticas. \"Sin fórmulas mágicas\" propone un batido proteico natural con frutas de temporada. \"Prospecto radial\" habla de los beneficios de la actividad física para la salud mental. Testimonio de una familia que hace ejercicio junta cada mañana. \"Lo bello también se lleva por fuera\" recomienda ropa cómoda reciclada.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "La sobreprotección: cómo evitar criar hijos dependientes e inseguros.",
+          "ideas": "Una psicóloga infantil explica en \"Y algo más\" los riesgos de la sobreprotección: niños con baja autoestima, miedo al fracaso y falta de autonomía. Ofrece pautas para fomentar la independencia desde pequeños, asignando responsabilidades acordes a su edad y permitiendo que se equivoquen. \"Sin fórmulas mágicas\" propone involucrar a los niños en la cocina con tareas seguras. \"Lo bello también se lleva por fuera\" sugiere crear un mural de logros. Testimonio de una madre que aprendió a soltar. Música suave.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "El nido vacío: cómo afrontar la partida de los hijos del hogar.",
+          "ideas": "Una psicóloga familiar ofrece en \"Y algo más\" herramientas para sobrellevar el síndrome del nido vacío cuando los hijos se independizan o emigran. Recomienda redescubrir intereses personales, fortalecer la relación de pareja y mantener la comunicación a distancia. \"Sin fórmulas mágicas\" propone cocinar recetas que le gustaban a los hijos y compartirlas en fotos. \"Lo bello también se lleva por fuera\" sugiere redecorar la habitación vacía con un nuevo propósito. Testimonio de una madre que transformó su tristeza en un proyecto comunitario. Música suave y nostálgica.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "Adolescentes en vacaciones: ideas para mantenerlos ocupados sin agobios.",
+          "ideas": "Una pedagoga y una madre comparten en \"Y algo más\" estrategias para que los adolescentes disfruten sus vacaciones de forma productiva y entretenida: proyectos de ciencia, voluntariado, deportes, lectura recreativa y pequeños emprendimientos. \"Sin fórmulas mágicas\" propone que ellos mismos preparen una cena. \"Lo bello también se lleva por fuera\" sugiere decorar su habitación con manualidades. Testimonio de un adolescente que organizó un club de juegos en su barrio. Música juvenil. Tono comprensivo y alentador.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "Instalar un sistema casero de recolección de agua de lluvia para el hogar.",
+          "ideas": "\"Y algo más\" recibe a un especialista que explica paso a paso cómo montar un sistema sencillo de recolección de agua de lluvia usando canaletas, tanques y filtros caseros. \"Sin fórmulas mágicas\" enseña a potabilizar el agua recolectada con métodos naturales. \"Lo bello también se lleva por fuera\" muestra cómo decorar el tanque recolector. Testimonio de una familia que ha reducido su dependencia del acueducto. Música con sonidos de agua. Tono práctico y ecológico.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "Impulsar las vocaciones científicas en las niñas del hogar.",
+          "ideas": "\"Y algo más\" conversa con una pedagoga que ofrece ideas para despertar el interés de las niñas por la ciencia: experimentos sencillos, visitas a museos, lectura de biografías de científicas. \"Sin fórmulas mágicas\" propone una merienda temática con \"experimentos culinarios\". \"Lo bello también se lleva por fuera\" enseña a crear un mural de científicas inspiradoras. Testimonio de una madre cuya hija ganó un concurso de ciencias. Música instrumental. Tono motivador.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "Fidel en la mesa familiar: cómo transmitir su legado a los hijos y nietos.",
+          "ideas": "\"Y algo más\" conversa con una pedagoga y una abuela sobre cómo hablar de Fidel a los niños y adolescentes de forma amena y cercana, utilizando anécdotas, canciones y documentos históricos. \"Sin fórmulas mágicas\" propone preparar un plato típico cubano mientras se conversa sobre el valor de la soberanía y la solidaridad. \"Lo bello también se lleva por fuera\" sugiere hacer un mural familiar con fotos y frases de Fidel. Testimonio de una familia que honra la memoria del Comandante cada año.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "Fidel en la vida cotidiana: cómo su pensamiento se refleja en cada hogar cubano.",
+          "ideas": "\"Y algo más\" conversa con una familia bayamesa que recuerda cómo las políticas de Fidel transformaron sus vidas: la Reforma Agraria que les dio tierra, la Campaña de Alfabetización que les enseñó a leer, el médico de la familia que les salvó la vida. \"Sin fórmulas mágicas\" prepara un plato típico del oriente cubano, como le gustaba al Comandante. \"Lo bello también se lleva por fuera\" muestra cómo decorar la casa con motivos patrióticos. Testimonio de tres generaciones que agradecen a Fidel. Música de trova y boleros. Tono emotivo y familiar.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "Eliminar criaderos de mosquitos en el hogar: una tarea familiar de verano.",
+          "ideas": "\"Y algo más\" recibe a un especialista en control de vectores, quien enseña de forma práctica a revisar y eliminar los criaderos del mosquito Aedes aegypti en patios, azoteas y jardines. \"Sin fórmulas mágicas\" propone recetas de repelentes naturales con plantas como la citronela y el romero. \"Prospecto radial\" habla sobre las enfermedades transmitidas por mosquitos. Testimonio de una familia que ha convertido la inspección semanal en un juego con los niños. \"Lo bello también se lleva por fuera\" muestra cómo decorar el patio con plantas repelentes. Tono práctico y preventivo.\n",
           "order": 2
         }
       }
@@ -27314,6 +26574,56 @@
           "theme": "Balance de la producción alimentaria en Bayamo al cierre de julio.",
           "ideas": "Reportaje con datos sobre la producción de viandas, granos y hortalizas en el municipio durante el mes de julio. Entrevista a un directivo de la Delegación de la Agricultura sobre el cumplimiento de los planes y las perspectivas para agosto. Segunda nota: feria agropecuaria de fin de semana en el centro de la ciudad. Tercera nota: convocatoria a las actividades por el inicio de agosto. Cierre con información deportiva y el pronóstico del tiempo.\n",
           "order": 3
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "Balance del fin de semana y entrevistas por el centenario de Fidel.",
+          "ideas": "Reportaje sobre las principales actividades del fin de semana en Bayamo, incluyendo eventos culturales, deportivos y comunitarios. Segunda nota: entrevista a un historiador local sobre el significado del centenario de Fidel Castro para los bayameses, como parte de la serie de entrevistas que se realizarán durante toda la semana. Tercera nota: preparativos para las Fiestas Populares de Bayamo (7 al 10 de agosto). Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "Sector de la salud en Bayamo ante la situación energética actual y entrevistas por el centenario de Fidel.",
+          "ideas": "Reportaje sobre las medidas que implementan los hospitales y policlínicos del municipio para mantener los servicios de salud ante las afectaciones eléctricas, incluyendo el uso de plantas eléctricas de emergencia y la reorganización de turnos. Entrevista a un directivo de Salud Pública. Segunda nota: entrevista a una doctora de la brigada médica cubana sobre el legado de Fidel en la salud pública universal y gratuita, como parte de la serie por el centenario. Tercera nota: continuidad de los preparativos para las Fiestas Populares. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "Fiestas Populares de Bayamo: programa de actividades y entrevistas por el centenario de Fidel.",
+          "ideas": "Reportaje sobre el programa oficial de las Fiestas Populares (7 al 10 de agosto): conciertos, ferias, competencias y actividades para niños. Entrevista a un organizador. Segunda nota: entrevista a un combatiente de la Revolución sobre su participación en los preparativos del centenario de Fidel, como parte de la serie semanal. Tercera nota: balance de la campaña de verano en la agricultura. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "Jornada por la paz en Bayamo y entrevistas por el centenario de Fidel.",
+          "ideas": "Reportaje sobre el acto simbólico por la paz realizado en la plaza, con velas encendidas por las víctimas de Hiroshima y un llamado a la no violencia. Entrevista a un estudiante de Historia. Segunda nota: entrevista a un diplomático local que trabajó junto a Fidel, sobre su legado en la política exterior de paz, como parte de la serie por el centenario. Tercera nota: inauguración de la feria de artesanía dentro de las Fiestas Populares. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "Homenaje a trabajadores hidráulicos, Fiestas Populares y entrevistas por el centenario de Fidel.",
+          "ideas": "Reportaje sobre el reconocimiento a trabajadores de Recursos Hidráulicos en su día, con entrega de estímulos. Entrevista a un técnico de acueducto. Segunda nota: entrevista a un historiador sobre la visión de Fidel respecto al desarrollo hidráulico del país, como parte de la serie por el centenario. Tercera nota: arranque de las Fiestas Populares de Bayamo con actividades en el parque central. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "Homenaje al trabajador hidráulico y reportaje especial por el centenario de Fidel.",
+          "ideas": "Reportaje sobre el acto de reconocimiento a los trabajadores de Recursos Hidráulicos en la provincia. Segunda nota: crónica especial sobre la visión de Fidel Castro respecto al desarrollo hidráulico de Cuba, con testimonios de quienes trabajaron en las grandes obras hidráulicas impulsadas por el Comandante. Tercera nota: continuidad de las Fiestas Populares de Bayamo. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "Reportaje por el centenario de Fidel: su legado en la educación y la ciencia.",
+          "ideas": "Crónica sobre la visión de Fidel Castro acerca de la educación y la ciencia como pilares del desarrollo, con entrevistas a fundadores de la Universidad de Granma y a científicos formados bajo el impulso del Comandante. Segunda nota: actividades juveniles en Bayamo por el Día Internacional de la Juventud. Tercera nota: cierre de las Fiestas Populares de Bayamo. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "Especial por el centenario de Fidel: los jóvenes bayameses y su legado.",
+          "ideas": "Reportaje sobre las actividades juveniles en Bayamo por el Día Internacional de la Juventud y el centenario de Fidel: trabajo voluntario, exposiciones, festivales deportivos. Entrevista a un joven dirigente de la UJC. Segunda nota: crónica sobre la relación de Fidel con la juventud bayamesa, con testimonios de quienes participaron en las brigadas juveniles. Tercera nota: preparativos para el acto central del 13 de agosto. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "Cobertura especial del acto central por el centenario de Fidel en Bayamo.",
+          "ideas": "Cobertura en vivo del acto político-cultural en la Plaza del Himno, con ofrendas florales, desfile de pioneros y trabajadores, y concierto de trovadores. Entrevistas a autoridades, combatientes y pueblo en general sobre el significado de este día. Segunda nota: crónica sobre los 100 años de Fidel, con un recuento de sus visitas a Bayamo y su relación con la ciudad. Tercera nota: mensajes de felicitación desde otras provincias y el extranjero. Cierre con la música del acto.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "Homenaje a Finlay, control de vectores en Bayamo y reportaje por el centenario de Fidel.",
+          "ideas": "Reportaje sobre la actividad de recordación del descubrimiento de Finlay en la escuela de Medicina de Bayamo. Entrevista a un epidemiólogo local sobre la campaña contra el mosquito. Segunda nota: crónica por el centenario de Fidel sobre el apoyo del Comandante al desarrollo de la medicina y la ciencia cubanas. Tercera nota: balance de la celebración del centenario el día anterior. Cierre con información deportiva y el pronóstico del tiempo.\n",
+          "order": 3
         }
       }
     },
@@ -27881,6 +27191,56 @@
           "theme": "Fernando Alonso y el Ballet Nacional de Cuba: la fundación de una escuela universal.",
           "ideas": "Viernes de artes escénicas. Una investigadora de la danza recorre la trayectoria de Fernando Alonso, fundador junto a Alicia del Ballet Nacional de Cuba, y su decisivo aporte a la creación de la Escuela Cubana de Ballet, reconocida mundialmente. Se describen fragmentos sonoros de ensayos y funciones, y se explica el método de enseñanza que combina la técnica clásica con la expresividad cubana. \"En taquilla\" promociona una presentación de una compañía local. \"Juego de espejos\" reflexiona sobre la disciplina del ballet como alternativa a los caminos de riesgo. Invitado: una joven bailarina bayamesa que comparte su experiencia.\n",
           "order": 4
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "La radio en el cine cubano: cuando las ondas sonoras se vuelven imagen.",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine analiza cómo el séptimo arte cubano ha representado el mundo de la radio: locutores, cabinas, radionovelas y la magia de la comunicación inalámbrica. Se describen fragmentos sonoros de películas y documentales que rinden homenaje a este medio. \"En taquilla\" promociona un ciclo de cine en la Casa de la Cultura. \"Juego de espejos\" reflexiona sobre la relación entre la radio y el cine como medios hermanos. \"Página suelta\" convoca a los oyentes a contar su película favorita sobre la radio.\n",
+          "order": 4
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "El retrato ecuestre y heroico en la plástica cubana: de Calixto García a nuestros días.",
+          "ideas": "Martes de artes plásticas. Un crítico de arte analiza cómo los pintores y escultores han representado a los héroes de la independencia, en especial a Calixto García y Henry Reeve, en estatuas ecuestres, óleos y grabados. Se describen obras emblemáticas del arte cubano. \"En taquilla\" promociona una exposición de pintura histórica en el Museo Provincial. \"Juego de espejos\" reflexiona sobre el arte como constructor de la memoria patriótica. Música de fondo con marchas y sones del siglo XIX.\n",
+          "order": 4
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "La poesía social y femenina de Mirta Aguirre: el verso como arma revolucionaria.",
+          "ideas": "Miércoles de literatura. Un crítico literario y una poetisa local analizan la obra de Mirta Aguirre, destacada ensayista y revolucionaria cubana, fallecida un 6 de agosto. Se leen fragmentos de sus poemas de contenido social y su visión feminista. \"Juego de espejos\" reflexiona sobre la vigencia de su pensamiento. \"En taquilla\" promociona un recital poético en la Biblioteca Provincial. \"Página suelta\" convoca a los oyentes a enviar poemas inspirados en la mujer y la revolución. Música de trova femenina.\n",
+          "order": 4
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "La canción pacifista cubana: trovadores que cantaron contra la guerra.",
+          "ideas": "Jueves de música. Un musicólogo y un trovador local recorren las canciones del repertorio cubano que han abogado por la paz y denunciado la guerra, desde la Nueva Trova hasta el rap. Se reproducen fragmentos de Silvio Rodríguez, Pablo Milanés y otros. \"En taquilla\" promociona un concierto por la paz en la Casa de la Trova. Invitado: un joven trovador que interpreta una canción antibélica. \"Juego de espejos\" reflexiona sobre la música como herramienta para construir una cultura de paz.\n",
+          "order": 4
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "El teatro campesino cubano: la vida rural en las tablas.",
+          "ideas": "Viernes de artes escénicas. Un director teatral y un crítico analizan obras del teatro cubano que han retratado la vida del campesino y los conflictos agrarios, desde el teatro bufo hasta las creaciones contemporáneas. Se describen fragmentos sonoros de puestas en escena. \"En taquilla\" promociona una obra de teatro comunitario. \"Juego de espejos\" reflexiona sobre el teatro como voz del mundo rural. Invitado: un actor de teatro campesino.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "Fidel Castro en el documental cubano: rostro, voz y memoria del líder histórico.",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine analiza cómo el documental cubano ha registrado la figura de Fidel a lo largo de las décadas. Se describen fragmentos sonoros de documentales emblemáticos que capturan su voz, sus discursos y su relación con el pueblo. \"En taquilla\" promociona un ciclo de documentales sobre Fidel en la Casa de la Cultura. \"Juego de espejos\" reflexiona sobre el valor del audiovisual para preservar la memoria del Comandante. \"Página suelta\" convoca a los oyentes a compartir qué documental sobre Fidel les ha impactado más.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "El retrato de Fidel en la fotografía cubana: instantáneas que hicieron historia.",
+          "ideas": "Martes de artes plásticas. Un crítico de arte y un fotógrafo local analizan cómo los grandes fotógrafos cubanos —desde Korda hasta los contemporáneos— han captado a Fidel en momentos históricos, íntimos y cotidianos. Se describen imágenes emblemáticas que dieron la vuelta al mundo. \"En taquilla\" promociona una exposición fotográfica en el Museo Provincial. \"Juego de espejos\" reflexiona sobre el poder de la fotografía para construir la memoria colectiva. Música de la época.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "La juventud en la literatura cubana: cuentos y novelas sobre el ímpetu de ser joven.",
+          "ideas": "Miércoles de literatura. Un crítico literario y un joven escritor analizan cómo la literatura cubana ha retratado la juventud: desde las obras sobre la Generación del Centenario hasta narrativas contemporáneas que exploran las inquietudes de los jóvenes actuales. Se leen fragmentos seleccionados. \"Juego de espejos\" reflexiona sobre cómo la literatura capta el espíritu de cada época. \"En taquilla\" promociona una lectura de cuentos juveniles. \"Página suelta\" convoca a jóvenes escritores a enviar sus relatos.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "Fidel en la música cubana: del son a la trova, canciones que inmortalizan al líder.",
+          "ideas": "Jueves de música, dedicado íntegramente a Fidel. Un musicólogo repasa las canciones más emblemáticas que el pueblo cubano ha dedicado al Comandante a lo largo de las décadas: desde \"Cabalgando con Fidel\" hasta \"El elegido\" y \"Fidel, la historia me absolverá\". Se reproducen fragmentos de estas piezas interpretadas por Carlos Puebla, Silvio Rodríguez, Sara González y otros. \"En taquilla\" promociona el concierto central por el centenario. Invitado: un trovador local que interpreta una canción compuesta especialmente para esta fecha.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "Himno de Bayamo: la partitura que se convirtió en símbolo de la patria.",
+          "ideas": "Viernes de artes escénicas, pero hoy se dedica a la efeméride histórica. Un musicólogo y un historiador recuerdan que un 14 de agosto de 1867 Perucho Figueredo compuso la música del Himno de Bayamo. Se analiza la estructura musical de la pieza, su evolución hasta convertirse en Himno Nacional y las distintas interpretaciones que ha tenido. \"En taquilla\" promociona un concierto de la Orquesta Sinfónica. \"Juego de espejos\" reflexiona sobre el poder de la música para construir la identidad nacional.\n",
+          "order": 4
         }
       }
     },
@@ -28447,6 +27807,56 @@
         "Julio-semana-5-Viernes": {
           "theme": "Conectarse con la naturaleza: organizar un campamento rústico sin salir del municipio.",
           "ideas": "La conductora conversa con un instructor de recreación y un grupo de jóvenes que han organizado un campamento en un área natural cercana a Bayamo. Comparten consejos prácticos: montar una tienda, hacer una fogata segura, cocinar al aire libre y dejar el lugar limpio. Un psicólogo habla de los beneficios de desconectar de la tecnología y conectar con la naturaleza. \"Curiosidades\" presenta los mejores sitios para acampar en la provincia. Segmento interactivo con anécdotas de oyentes. Música de guitarra y sonidos naturales.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "La voluntad de los jóvenes cubanos de defender la patria.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica el concepto de la Guerra de Todo el Pueblo. La conductora conversa con un joven que cumple el Servicio Militar Activo y con un instructor de los Bastiones Universitarios sobre el significado de la defensa de la patria en el siglo XXI. Se debate sobre las formas cotidianas de defender la soberanía. \"Curiosidades\" presenta datos sobre la preparación militar juvenil en Cuba. Segmento interactivo con mensajes de oyentes. Música de marchas y sones combativos. Tono orgulloso y reflexivo.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "El mal de amores y cómo superarlo.",
+          "ideas": "Un psicólogo y una joven que superó una ruptura amorosa comparten consejos prácticos para sanar después de una decepción sentimental: permitirse sentir el dolor, mantener la rutina, buscar apoyo en amigos y familia, y redescubrir los propios intereses. \"Curiosidades\" explica qué ocurre en el cerebro cuando uno se enamora y cuando se desenamora. \"Parada de película\" recomienda un filme sobre el desamor. Segmento interactivo con mensajes de la audiencia. Música de baladas y despecho. Tono empático y alentador.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "Cómo funciona la red juvenil en Bayamo.",
+          "ideas": "La conductora conversa con coordinadores de la Red Juvenil Comunitaria de Bayamo, quienes explican cómo se organiza, qué proyectos desarrollan y cómo otros jóvenes pueden sumarse. Un miembro activo comparte su experiencia personal y cómo el voluntariado le ha cambiado la perspectiva. \"Curiosidades\" presenta el impacto de la red en los barrios. Segmento interactivo con preguntas de la audiencia. Música de rap comunitario y trova urbana. Tono fresco y participativo.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "Consumo de alcohol en fiestas populares: cómo divertirse sin excesos.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica los efectos del alcohol en el organismo y los riesgos del consumo excesivo. La conductora conversa con un barman que prepara cócteles sin alcohol y con un joven que ha optado por un estilo de vida sobrio. \"Curiosidades\" presenta los mitos sobre el alcohol. Segmento interactivo con mensajes de oyentes sobre sus experiencias. Música bailable con mensajes positivos. Tono fresco y responsable.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "Navegar sin naufragar: uso seguro de internet y nuevas tecnologías.",
+          "ideas": "\"Parada de Ciencia y Técnica\" explica los conceptos de ciberseguridad, protección de datos y huella digital. La conductora conversa con un especialista en informática y con un joven creador de contenido sobre los riesgos y oportunidades de internet: cómo proteger contraseñas, identificar noticias falsas, evitar el ciberacoso y aprovechar las redes para aprender y emprender. \"Curiosidades\" presenta datos sobre el uso de internet en Cuba. Segmento interactivo con preguntas de los oyentes. Música electrónica y tecnológica. Tono fresco y preventivo.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "Fidel y los jóvenes: el relevo generacional como garantía de la Revolución.",
+          "ideas": "\"Curiosidades\" presenta fragmentos de discursos de Fidel dedicados a la juventud. La conductora conversa con un joven historiador y una dirigente de la UJC sobre cómo el pensamiento de Fidel sigue guiando a las nuevas generaciones. Se debate sobre el papel de los jóvenes en la Cuba actual y cómo honrar el legado del Comandante. Segmento interactivo con mensajes de oyentes sobre qué les inspira Fidel. Música de trovadores que cantaron a la Revolución.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "Ser joven en el centenario de Fidel: compromisos y desafíos.",
+          "ideas": "La conductora conversa con un panel de jóvenes de diferentes sectores —un deportista, una artista, un campesino— sobre qué significa ser joven en el año del centenario de Fidel. Debaten sobre los desafíos actuales y cómo honrar el legado del Comandante desde sus realidades cotidianas. \"Curiosidades\" presenta datos sobre la juventud cubana actual. Segmento interactivo con mensajes de oyentes. Música de rap y trova contemporánea.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "¿Qué significa ser joven en la Cuba de hoy? Debate abierto.",
+          "ideas": "La conductora modera un debate entre jóvenes de diferentes ámbitos sobre las oportunidades, retos y sueños de la juventud cubana actual. Se discute sobre empleo, migración, tecnología y participación social, a la luz del legado de Fidel. Un psicólogo comenta los desafíos emocionales de esta etapa. \"Curiosidades\" presenta datos sobre la juventud cubana. Segmento interactivo con mensajes de la audiencia. Música actual cubana. Tono fresco y participativo.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "100 años de Fidel, 100 razones para seguir adelante.",
+          "ideas": "Programa especial donde jóvenes de diferentes sectores comparten lo que significa Fidel para ellos. Un estudiante de Medicina, un joven campesino, un artista y un deportista cuentan cómo el legado del Comandante los inspira en su vida diaria. \"Curiosidades\" presenta 100 datos curiosos sobre la vida de Fidel. Se leen fragmentos de cartas escritas por jóvenes al Comandante. Segmento interactivo donde los oyentes llaman y comparten su \"razón para seguir adelante\". Música de rap revolucionario y trova joven.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "Ciencia joven en Bayamo: proyectos de estudiantes que innovan en salud y medio ambiente.",
+          "ideas": "\"Parada de Ciencia y Técnica\" presenta proyectos científicos desarrollados por estudiantes de la Universidad de Granma, relacionados con el control biológico de plagas y el saneamiento ambiental. La conductora conversa con dos jóvenes investigadores que explican sus descubrimientos de forma amena. \"Curiosidades\" muestra cómo Finlay también fue un joven innovador en su época. Segmento interactivo con preguntas de los oyentes. Música de concentración y estudio.\n",
           "order": 5
         }
       }
@@ -29020,6 +28430,56 @@
           "theme": "La importancia de los buenos modales en la mesa y la convivencia social.",
           "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana invita a una especialista en etiqueta social, quien recuerda de forma amena las normas básicas de urbanidad en la mesa, el respeto a los demás comensales y cómo los buenos modales facilitan la convivencia. \"Historias cotidianas\" narra cómo una cena familiar se convirtió en una lección de respeto para los nietos. \"¿Y qué tú crees?\" pregunta si los buenos modales han pasado de moda. \"De todo un poco\" recomienda un libro sobre etiqueta. Tono cálido y nostálgico.\n",
           "order": 6
+        },
+        "Agosto-semana-1-Lunes": {
+          "theme": "Cómo hablar de sexualidad con los hijos adolescentes sin tabúes.",
+          "ideas": "Lunes es de sexualidad. Juana presenta el caso de una vecina que no sabe cómo abordar el tema con su hija. \"El que sabe, sabe\" entrevista a un psicólogo, quien ofrece pautas para una comunicación abierta, adaptada a cada edad, basada en información veraz y sin mitos. \"Historias cotidianas\" recoge el testimonio de una madre que logró construir un vínculo de confianza. \"De todo un poco\" informa sobre los servicios de orientación en los policlínicos. Tono claro y empático.\n",
+          "order": 6
+        },
+        "Agosto-semana-1-Martes": {
+          "theme": "El marco legal para la protección de los adultos mayores en Cuba.",
+          "ideas": "Martes es día jurídico. Juana presenta el caso de una vecina preocupada por los derechos de su padre anciano. \"El que sabe, sabe\" entrevista a un abogado especializado, quien explica las leyes que protegen a los adultos mayores: derechos sucesorios, pensiones, protección contra el abandono y la violencia. \"Entérate, vecino\" informa sobre los trámites en la Dirección de Trabajo y Seguridad Social. \"Versiones encontradas\" debate sobre la responsabilidad familiar y estatal. Se responden preguntas de los oyentes. Tono claro y orientador.\n",
+          "order": 6
+        },
+        "Agosto-semana-1-Miércoles": {
+          "theme": "El arte de envejecer: cómo mantenerse activo y feliz en la tercera edad.",
+          "ideas": "Miércoles es variado. Un geriatra y una psicóloga comparten consejos para vivir la vejez con plenitud: alimentación saludable, ejercicio moderado, relaciones sociales activas y proyectos personales. \"Historias cotidianas\" presenta a un adulto mayor bayamés que a sus 80 años pinta cuadros y baila danzón. \"¿Y qué tú crees?\" recoge opiniones callejeras sobre qué significa envejecer bien. \"De todo un poco\" informa sobre los círculos de abuelos en los barrios. Tono optimista y motivador.\n",
+          "order": 6
+        },
+        "Agosto-semana-1-Jueves": {
+          "theme": "Las Fiestas Populares de Bayamo: tradición, cultura y dinamización económica.",
+          "ideas": "Jueves es de Historia, Política, Economía y Sociedad local. Juana entrevista a un organizador de las Fiestas Populares y a un historiador, quienes explican el origen de esta tradición, su evolución y el impacto económico y cultural en la ciudad. \"Historias cotidianas\" recuerda las fiestas de antaño. \"Entérate, vecino\" informa sobre el programa de actividades. \"¿Y qué tú crees?\" recoge expectativas de los bayameses. Tono festivo y de orgullo local.\n",
+          "order": 6
+        },
+        "Agosto-semana-1-Viernes": {
+          "theme": "Negocios familiares en Bayamo: experiencias y claves para el éxito.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana entrevista a dos emprendedores que han montado pequeños negocios familiares: una cafetería de barrio y un taller de reparación de equipos. Cuentan cómo empezaron, los obstáculos que vencieron y cómo involucran a toda la familia. \"Historias cotidianas\" narra cómo un negocio familiar sacó adelante a tres generaciones. \"¿Y qué tú crees?\" recoge opiniones sobre el emprendimiento en Cuba. \"De todo un poco\" orienta sobre los trámites para legalizar un negocio. Tono inspirador y práctico.\n",
+          "order": 6
+        },
+        "Agosto-semana-2-Lunes": {
+          "theme": "Los círculos infantiles: una obra de Fidel y Vilma para las madres trabajadoras.",
+          "ideas": "Lunes es de sexualidad, pero hoy se dedica a Fidel. Juana entrevista a una educadora de un círculo infantil y a una madre trabajadora, quienes recuerdan cómo Fidel y Vilma Espín impulsaron estas instituciones que permitieron la plena incorporación de la mujer al trabajo. \"Historias cotidianas\" narra la experiencia de una abuela que llevó a sus hijos al círculo en los años 60. \"El que sabe, sabe\" explica la visión de Fidel sobre la educación infantil. \"De todo un poco\" informa sobre los círculos infantiles en Bayamo. Tono de gratitud y homenaje.\n",
+          "order": 6
+        },
+        "Agosto-semana-2-Martes": {
+          "theme": "Testimonios de quienes conocieron a Fidel: el hombre detrás del líder.",
+          "ideas": "Martes es día jurídico, pero hoy se dedica a Fidel. Juana entrevista a dos vecinos bayameses que tuvieron la oportunidad de conocer a Fidel personalmente: un campesino que lo recibió en su finca y una maestra que lo escuchó en un discurso. \"Historias cotidianas\" recoge anécdotas humanas que revelan la cercanía y sencillez del Comandante. \"El que sabe, sabe\" analiza la relación de Fidel con el pueblo. \"De todo un poco\" invita a los oyentes a compartir sus propias historias. Tono emotivo y personal.\n",
+          "order": 6
+        },
+        "Agosto-semana-2-Miércoles": {
+          "theme": "La solidaridad internacional cubana: el legado de Fidel que la juventud continúa.",
+          "ideas": "Miércoles es variado, pero hoy se dedica a Fidel. Juana entrevista a un médico que cumplió misión internacionalista y a un joven que participa en brigadas solidarias. Cuentan cómo Fidel inculcó el valor de la solidaridad y cómo los jóvenes cubanos mantienen vivo ese legado. \"Historias cotidianas\" recuerda anécdotas de misiones en África y América Latina. \"El que sabe, sabe\" explica la historia del internacionalismo cubano. \"De todo un poco\" informa sobre las brigadas solidarias actuales. Tono de orgullo y compromiso.\n",
+          "order": 6
+        },
+        "Agosto-semana-2-Jueves": {
+          "theme": "Fidel y Bayamo: una historia de amor entre el líder y la cuna de la Revolución.",
+          "ideas": "Juana dedica el programa a recordar la relación especial de Fidel con Bayamo. Un historiador narra las visitas del Comandante a la ciudad, sus discursos en la Plaza del Himno, y cómo el asalto al cuartel Carlos Manuel de Céspedes en 1953 unió para siempre a Bayamo con la gesta revolucionaria. \"Historias cotidianas\" recoge testimonios de bayameses que vieron a Fidel, que le estrecharon la mano o que fueron beneficiados por sus políticas. \"El que sabe, sabe\" analiza por qué Bayamo ocupa un lugar especial en la historia de la Revolución. Tono de orgullo local y gratitud.\n",
+          "order": 6
+        },
+        "Agosto-semana-2-Viernes": {
+          "theme": "La persistencia de Finlay: cómo el científico cubano venció el escepticismo.",
+          "ideas": "Viernes es variado, sobre la vida y sus reflexiones. Juana narra la historia de Carlos J. Finlay, quien durante años fue ignorado por la comunidad científica internacional hasta que su teoría sobre el mosquito fue finalmente aceptada. Una psicóloga extrae lecciones sobre la perseverancia y la confianza en uno mismo. \"Historias cotidianas\" recoge el testimonio de un inventor bayamés que también tuvo que luchar contra la incredulidad. \"¿Y qué tú crees?\" pregunta si los cubanos valoran a sus científicos. \"De todo un poco\" recomienda un libro sobre Finlay. Tono inspirador.\n",
+          "order": 6
         }
       }
     },
@@ -29191,6 +28651,16 @@
           "theme": "Actividades de inicio de agosto en Bayamo y previsiones para la semana entrante.",
           "ideas": "Reportaje sobre las actividades artísticas comunitarias que se desarrollan en los barrios. Segunda nota: balance de la semana que concluye. Tercera nota: previsiones para la semana del 3 al 9 de agosto, que incluye el inicio de las Fiestas Populares de Bayamo (7 al 10 de agosto) y otras efemérides. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n",
           "order": 3
+        },
+        "Agosto-semana-1-Sábado": {
+          "theme": "Fiestas Populares de Bayamo y previsiones para la semana entrante.",
+          "ideas": "Cobertura de las principales actividades del día en las Fiestas Populares, incluyendo la feria de artesanía y los conciertos. Segunda nota: entrevista a un músico local sobre el legado de Fidel en la cultura popular, como parte de la serie por el centenario. Tercera nota: previsiones para la semana del 10 al 16 de agosto, que incluye el Día del Trabajador Hidráulico, el natalicio de Fidel Castro (13) y otras efemérides. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Sábado": {
+          "theme": "Actividades de verano en Bayamo y crónica de cierre del centenario de Fidel.",
+          "ideas": "Reportaje sobre las actividades recreativas del fin de semana en los parques de la ciudad. Segunda nota: crónica de cierre de la semana del centenario de Fidel, con un balance de las actividades realizadas y el impacto en la población. Tercera nota: previsiones para la semana del 17 al 23 de agosto, con efemérides como el fusilamiento de Perucho Figueredo (17) y el natalicio de Ernesto Lecuona (17). Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n",
+          "order": 3
         }
       }
     },
@@ -29315,6 +28785,16 @@
           "theme": "Descubrir el talento artístico escondido: empezar a pintar, bailar o tocar un instrumento.",
           "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre si se consideran creativos o no. La psicóloga explica que el talento artístico no es un don exclusivo, sino que puede desarrollarse con práctica y orientación. Un instructor de arte y un joven que descubrió su pasión por la pintura el verano pasado comparten consejos para empezar. \"Sigue conmigo\" propone un ejercicio de dibujo libre. \"Al ritmo de tus días\" presenta a un adolescente que aprendió a tocar el tres cubano en un taller comunitario. \"Suena en tu Playlist\" incluye canciones sobre la creatividad.\n",
           "order": 4
+        },
+        "Agosto-semana-1-Sábado": {
+          "theme": "Malas y buenas compañías: cómo elegir amistades que sumen y no resten.",
+          "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre sus grupos de amigos y si alguna vez se han sentido presionados a hacer cosas que no querían. La psicóloga explica la diferencia entre amistades sanas y tóxicas, y cómo identificar relaciones que suman o restan. \"Sigue conmigo\" propone un ejercicio de reflexión sobre el propio círculo social. \"Al ritmo de tus días\" presenta el testimonio de un adolescente que supo alejarse de malas influencias. \"Suena en tu Playlist\" incluye canciones sobre la amistad verdadera.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Sábado": {
+          "theme": "La presión de tener que ser \"perfecto\" en redes sociales: cómo liberarse de esa carga.",
+          "ideas": "\"Lo que se comenta\" recoge grabaciones de adolescentes hablando sobre la presión de mostrar una vida perfecta en Instagram o TikTok. La psicóloga explica cómo esta autoexigencia puede generar ansiedad y baja autoestima, y ofrece herramientas para cultivar una imagen más auténtica y libre. \"Sigue conmigo\" propone un \"día sin filtros\". \"Al ritmo de tus días\" presenta el testimonio de una adolescente que decidió dejar de compararse. \"Suena en tu Playlist\" incluye canciones sobre la autoaceptación.\n",
+          "order": 4
         }
       }
     },
@@ -29438,6 +28918,16 @@
         "Julio-semana-5-Sábado": {
           "theme": "Juan Formell y Los Van Van: la revolución del songo.",
           "ideas": "\"Sergito Montuno\" rinde homenaje a Juan Formell, nacido el 2 de agosto de 1942, creador del songo y fundador de Los Van Van. \"¿De dónde son?\" rastrea sus orígenes y su llegada a La Habana. \"Historias y soneros\" narra anécdotas de la legendaria orquesta que se convirtió en crónica social de Cuba. \"Academia del tumbao\" invita a un musicólogo a analizar el songo como evolución del son. \"Conexión sonera\" presenta la influencia de Formell en las agrupaciones de Granma. \"Son para bailadores\" cierra con un clásico de Los Van Van. Rigor investigativo.\n",
+          "order": 5
+        },
+        "Agosto-semana-1-Sábado": {
+          "theme": "Soneros granmenses: el talento de la tierra que canta y hace bailar.",
+          "ideas": "\"Sergito Montuno\" dedica el programa a celebrar a los soneros nacidos en la provincia de Granma. \"¿De dónde son?\" rastrea los orígenes de figuras como José Alberto Tamayo Díaz, \"El Ruiseñor\", y otros soneros locales que han llevado el son de Bayamo y Manzanillo al mundo. \"Historias y soneros\" narra anécdotas de sus carreras y su vínculo con la tierra que los vio nacer. \"Academia del tumbao\" invita a un musicólogo a analizar sus estilos. \"Conexión sonera\" presenta una colaboración entre soneros granmenses de diferentes generaciones. \"Son para bailadores\" cierra con un tema solicitado por un oyente. Rigor investigativo y orgullo local.\n",
+          "order": 5
+        },
+        "Agosto-semana-2-Sábado": {
+          "theme": "El bolero-son: pasión y melancolía hechas ritmo.",
+          "ideas": "\"Sergito Montuno\" dedica el programa al bolero-son, género que nació de la fusión del bolero romántico con el son cubano. \"¿De dónde son?\" rastrea sus orígenes en la obra de Benny Moré (cuyo natalicio se acerca el 24 de agosto) y otros grandes intérpretes. \"Historias y soneros\" narra anécdotas de las grandes orquestas que popularizaron el género. \"Academia del tumbao\" invita a un musicólogo a analizar la estructura del bolero-son. \"Conexión sonera\" presenta versiones contemporáneas. \"Son para bailadores\" cierra con un clásico solicitado por un oyente.\n",
           "order": 5
         }
       }
@@ -29586,6 +29076,16 @@
           "theme": "El agua en la familia: un tesoro que debemos cuidar juntos. Construye un sistema de riego casero con materiales reciclados. La importancia de la hidratación en la tercera edad.",
           "ideas": "El locutor abre con la pregunta participativa: ¿Cómo ahorras agua en tu casa? Invita a compartir ideas. Luego, propone la actividad familiar de construir un sistema de riego por goteo con una botella plástica reciclada, ideal para el huerto o las macetas. Un especialista guía el paso a paso. En el segmento de la tercera edad, un geriatra explica la importancia de la hidratación en los adultos mayores durante el verano, los signos de deshidratación y consejos prácticos para beber suficiente agua aunque no se tenga sed. Se intercalan canciones de son y pregones. Música suave. Mensaje: el agua es vida.\n",
           "order": 1
+        },
+        "Agosto-semana-1-Domingo": {
+          "theme": "La convivencia familiar. Construye un mural de valores en familia. Los abuelos y la educación de los nietos: transmitiendo el amor por la historia.",
+          "ideas": "El locutor abre con la pregunta participativa: ¿Qué valores se practican en tu casa? Invita a compartir anécdotas. Luego, propone la actividad familiar de construir un mural con recortes, frases y dibujos que representen los valores de la familia. En el segmento de la tercera edad, una abuela comparte cómo educa a sus nietos en el amor. Mensaje: la familia es la primera formadora de valores.\n",
+          "order": 1
+        },
+        "Agosto-semana-2-Domingo": {
+          "theme": "La unidad como legado de Fidel y Chibás. Construye una línea de tiempo familiar de momentos históricos. Los abuelos recuerdan cómo escuchaban los discursos de Chibás por radio.",
+          "ideas": "El locutor abre con la pregunta participativa: ¿Qué recuerdas de los grandes discursos políticos que escuchabas en tu juventud? Invita a compartir anécdotas. Luego, propone la actividad familiar de construir una línea de tiempo en papel que una los grandes hitos históricos de Cuba con los acontecimientos importantes de la propia familia. En el segmento de la tercera edad, un abuelo recuerda cómo se escuchaban los discursos de Eduardo Chibás por radio y cómo aquel líder inspiró a muchos jóvenes que luego se unirían a Fidel. Se intercalan grabaciones de discursos históricos. Música de la época. Mensaje: la historia de Cuba es también la historia de nuestras familias.\n",
+          "order": 1
         }
       }
     },
@@ -29705,6 +29205,16 @@
         "Julio-semana-5-Domingo": {
           "theme": "Fidel y su niñez: canciones y cuentos para los más pequeños.",
           "ideas": "La actriz-personaje narra de forma amena la historia de un niño llamado Fidel que creció en el campo, fue curioso, inquieto y amante de la naturaleza. Se escuchan canciones infantiles cubanas sobre la infancia, los sueños y la patria. Actividad: que los niños dibujen cómo se imaginan a Fidel cuando era niño como ellos. Música alegre y participativa. Mensaje: todos los niños pueden ser grandes si sueñan y estudian.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Domingo": {
+          "theme": "Fidel y su niñez: canciones y cuentos para los más pequeños.",
+          "ideas": "La actriz-personaje narra de forma amena la historia de un niño llamado Fidel que creció en el campo, fue curioso, inquieto y amante de la naturaleza. Se escuchan canciones infantiles cubanas sobre la infancia, los sueños y la patria. Actividad: que los niños dibujen cómo se imaginan a Fidel cuando era niño como ellos. Música alegre y participativa. Mensaje: todos los niños pueden ser grandes si sueñan y estudian.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Domingo": {
+          "theme": "Fidel, Chibás y los héroes de la patria: canciones para niños valientes.",
+          "ideas": "La actriz-personaje narra de forma amena quiénes fueron Eduardo Chibás y los fundadores del primer Partido Comunista, y cómo prepararon el camino para la Revolución de Fidel. Se escuchan canciones infantiles cubanas sobre la patria y la valentía. Actividad: que los niños dibujen qué significa para ellos ser \"un buen cubano\". Música alegre y participativa. Mensaje: la patria se construye con el esfuerzo de todos.\n",
           "order": 2
         }
       }
@@ -29830,6 +29340,16 @@
           "theme": "Alfredo López y la CNOC: los orígenes del movimiento obrero en la región oriental.",
           "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida de Alfredo López, líder obrero asesinado en 1926, y la constitución de la Confederación Nacional Obrera de Cuba en Camagüey en 1925. Se destaca la participación de los trabajadores bayameses en aquellas gestas sindicales. Música de fondo con piezas de la época y coros obreros. Reflexión sobre el legado del movimiento obrero en las luchas actuales por los derechos laborales.\n",
           "order": 3
+        },
+        "Agosto-semana-1-Domingo": {
+          "theme": "Fidel y Bayamo: los vínculos del Comandante con la cuna de la nacionalidad.",
+          "ideas": "Charla histórica con un investigador del Museo Provincial. Se narran las visitas de Fidel a Bayamo, sus discursos en la Plaza del Himno, su relación con la historia de la ciudad y cómo el asalto al cuartel Carlos Manuel de Céspedes en 1953 vinculó definitivamente a Bayamo con la gesta revolucionaria. Música de fondo con piezas de la época. Reflexión sobre el legado de Fidel en la memoria colectiva de los bayameses.\n",
+          "order": 3
+        },
+        "Agosto-semana-2-Domingo": {
+          "theme": "Eduardo Chibás y su influencia en el pensamiento político de la generación de Fidel.",
+          "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida de Eduardo Chibás, su liderazgo en el Partido Ortodoxo, su denuncia de la corrupción y su trágico sacrificio. Se analiza cómo su ejemplo y su prédica ética influyeron en jóvenes como Fidel Castro, que militaron en la ortodoxia antes de la Revolución. Música de fondo con piezas de la época. Reflexión sobre la vigencia del pensamiento de Chibás en la Cuba actual.\n",
+          "order": 3
         }
       }
     },
@@ -29953,6 +29473,16 @@
         "Julio-semana-5-Domingo": {
           "theme": "Música para empezar agosto: canciones que ponen ritmo al verano.",
           "ideas": "El conductor presenta una selección de canciones cubanas e internacionales ideales para disfrutar en familia durante el mes de agosto. \"Dial Sonero\" presenta un son bailable. \"Estación Mundial\" incluye temas veraniegos. \"Mano a Mano\" enfrenta dos versiones de una misma canción festiva. \"Mucho Flow\" incluye un reguetón positivo. \"De Bayamo para el Mundo\" entrevista a un músico local que estrena tema este verano. Ambiente fresco y juvenil.\n",
+          "order": 4
+        },
+        "Agosto-semana-1-Domingo": {
+          "theme": "Música para las Fiestas Populares: sones, congas y guarachas para bailar.",
+          "ideas": "El conductor presenta una selección de canciones perfectas para disfrutar durante las Fiestas Populares de Bayamo: desde sones tradicionales y congas callejeras hasta éxitos bailables contemporáneos. \"Dial Sonero\" presenta un son clásico para fiestas. \"Estación Mundial\" incluye ritmos festivos de otras culturas. \"Mano a Mano\" enfrenta dos versiones de un mismo tema bailable. \"Mucho Flow\" incluye un reguetón festivo. \"De Bayamo para el Mundo\" entrevista a un músico local que se presenta en las fiestas. Ambiente festivo y alegre.\n",
+          "order": 4
+        },
+        "Agosto-semana-2-Domingo": {
+          "theme": "Música de los años 40 y 50: la banda sonora de la juventud de Fidel y Chibás.",
+          "ideas": "El conductor presenta una selección de la música que se escuchaba en Cuba durante los años 40 y 50, la época en que Fidel y los jóvenes de su generación se formaban políticamente. \"Dial Sonero\" presenta un son de la época. \"Estación Mundial\" incluye boleros y jazz que sonaban en La Habana. \"Mano a Mano\" enfrenta dos versiones de un mismo tema clásico. \"Mucho Flow\" sorprende con un remix moderno de un tema antiguo. \"De Bayamo para el Mundo\" entrevista a un músico local que interpreta piezas de la época. Ambiente nostálgico y cultural.\n",
           "order": 4
         }
       }
@@ -30078,6 +29608,16 @@
           "theme": "Casa de Cultura 20 de Octubre: espacio de creación y comunidad.",
           "ideas": "La conductora presenta un recorrido por la historia de la Casa de Cultura 20 de Octubre, institución emblemática de Bayamo. Se destaca su papel como centro de promoción cultural, espacio de formación de artistas aficionados y punto de encuentro comunitario. Se entrevista a su directora, a un instructor de danza y a una alumna. \"Agenda cultural\" informa sobre los talleres y eventos de la semana entrante. \"Asiento reservado\" invita a un crítico a comentar la labor de las casas de cultura. \"Legado bayamés\" recuerda a un gestor cultural que trabajó en esta institución. Tono de orgullo local.",
           "order": 5
+        },
+        "Agosto-semana-1-Domingo": {
+          "theme": "Fidel y el arte: representaciones del Comandante en la creación cubana.",
+          "ideas": "La conductora presenta un recorrido por cómo la figura de Fidel Castro ha sido abordada por pintores, escultores, músicos, poetas y cineastas cubanos a lo largo de seis décadas. Se analizan obras emblemáticas y se reflexiona sobre la relación entre el líder y los creadores. \"Agenda cultural\" informa sobre las exposiciones y conciertos de la semana entrante en saludo al centenario. \"Asiento reservado\" invita a un crítico a comentar una obra. \"Legado bayamés\" recuerda a un artista local que retrató a Fidel. Tono de homenaje desde la creación artística.",
+          "order": 5
+        },
+        "Agosto-semana-2-Domingo": {
+          "theme": "Perucho Figueredo y el Himno Nacional: música, patria e identidad.",
+          "ideas": "La conductora presenta un recorrido por la historia del Himno Nacional, desde su composición por Perucho Figueredo hasta su consagración como símbolo patrio. Se analiza la figura de su autor, el contexto de su creación y las diferentes interpretaciones que ha tenido a lo largo de la historia. \"Agenda cultural\" informa sobre las actividades de la semana entrante. \"Asiento reservado\" invita a un musicólogo a comentar la obra. \"Legado bayamés\" recuerda el vínculo eterno de Bayamo con el Himno Nacional. Tono de orgullo patrio.",
+          "order": 5
         }
       }
     },
@@ -30127,6 +29667,16 @@
         "Julio-semana-5-Sábado": {
           "theme": "Arte para todos en las comunidades bayamesas.",
           "ideas": "El programa recorre los talleres de arte comunitario que se imparten en los barrios de Bayamo durante el verano. Se entrevista a instructores de pintura, teatro y danza que trabajan con niños, jóvenes y adultos mayores. Una participante cuenta cómo el taller de artes plásticas le ayudó a superar una depresión. Un coordinador cultural explica cómo estos proyectos son accesibles y gratuitos. Se recogen testimonios de vecinos que han visto transformarse su comunidad gracias al arte. Música de trovadores locales. Tono alegre y participativo, mostrando que el arte no es un lujo, sino un derecho de todos.\n",
+          "order": 2
+        },
+        "Agosto-semana-1-Sábado": {
+          "theme": "Las Fiestas Populares vividas desde los barrios bayameses.",
+          "ideas": "El programa recorre varios barrios de Bayamo para conocer cómo se viven las Fiestas Populares desde la comunidad. Se entrevista a vecinos que organizan descargas, competencias de baile y ferias gastronómicas en sus cuadras. Una presidenta de CDR explica cómo se preparan para estas celebraciones y qué significado tienen para la cohesión barrial. Un músico aficionado cuenta cómo las fiestas son una plataforma para el talento local. Se recogen testimonios de niños, jóvenes y abuelos. Música de son y conga. Tono festivo y comunitario.\n",
+          "order": 2
+        },
+        "Agosto-semana-2-Sábado": {
+          "theme": "Trabajo comunitario en el Consejo Popular El Valle.",
+          "ideas": "El programa se traslada al Consejo Popular El Valle para conocer las iniciativas comunitarias que allí se desarrollan. Se entrevista a líderes barriales que impulsan proyectos de agricultura urbana, talleres de artesanía para adultos mayores y un círculo de lectura para niños. Una vecina cuenta cómo el trabajo comunitario ha transformado la vida de su cuadra. Se recogen testimonios de participantes y se informa sobre cómo sumarse a estas iniciativas. Música de trova comunitaria. Tono participativo y de reconocimiento al esfuerzo colectivo.\n",
           "order": 2
         }
       }
@@ -34707,6 +34257,1165 @@
         "event": "1936",
         "description": "Se publica la novela Lo que el viento se llevó de Margaret Mitchell."
       }
+    ],
+    "Julio": [
+      {
+        "day": 1,
+        "event": "1829",
+        "description": "Nace el poeta cubano Juan Cristóbal Nápoles Fajardo, \"El Cucalambé\"."
+      },
+      {
+        "day": 1,
+        "event": "1871",
+        "description": "Es fusilado en Nuevitas el patriota Federico Fernández Cavada."
+      },
+      {
+        "day": 1,
+        "event": "1935",
+        "description": "Emilio Roig de Leuchsenring recibe la condición de Historiador de la Ciudad de La Habana."
+      },
+      {
+        "day": 1,
+        "event": "1947",
+        "description": "Fundación de la emisora Radio Reloj."
+      },
+      {
+        "day": 1,
+        "event": "1929",
+        "description": "Nace el bioquímico Gerald Maurice Edelman."
+      },
+      {
+        "day": 1,
+        "event": "1974",
+        "description": "Muere el presidente argentino Juan Domingo Perón."
+      },
+      {
+        "day": 2,
+        "event": "1846",
+        "description": "Nace en Sancti Spíritus el patriota cubano Serafín Sánchez."
+      },
+      {
+        "day": 2,
+        "event": "1920",
+        "description": "Nace en La Habana el destacado poeta Eliseo Diego."
+      },
+      {
+        "day": 2,
+        "event": "1778",
+        "description": "Fallece el filósofo suizo Jean Jacques Rousseau."
+      },
+      {
+        "day": 2,
+        "event": "1961",
+        "description": "Se suicida el escritor norteamericano Ernest Hemingway."
+      },
+      {
+        "day": 3,
+        "event": "1915",
+        "description": "Nace Juan Manuel Márquez, segundo al mando de la expedición del yate Granma."
+      },
+      {
+        "day": 3,
+        "event": "1883",
+        "description": "Nace en Praga el escritor Franz Kafka."
+      },
+      {
+        "day": 3,
+        "event": "1971",
+        "description": "Muere Jim Morrison, vocalista de The Doors."
+      },
+      {
+        "day": 4,
+        "event": "1959",
+        "description": "Se crea la institución cultural Casa de las Américas en La Habana."
+      },
+      {
+        "day": 4,
+        "event": "1807",
+        "description": "Nace el prócer italiano Giuseppe Garibaldi."
+      },
+      {
+        "day": 4,
+        "event": "1826",
+        "description": "Fallecen John Adams y Thomas Jefferson, ex presidentes de EE. UU."
+      },
+      {
+        "day": 5,
+        "event": "1896",
+        "description": "Muere en combate el General José Maceo, el \"León de Oriente\"."
+      },
+      {
+        "day": 5,
+        "event": "1918",
+        "description": "Se funda la Sociedad Estomatológica Cubana."
+      },
+      {
+        "day": 5,
+        "event": "1936",
+        "description": "Muere en Matanzas el poeta Bonifacio Byrne."
+      },
+      {
+        "day": 5,
+        "event": "1811",
+        "description": "Venezuela proclama su independencia."
+      },
+      {
+        "day": 5,
+        "event": "1911",
+        "description": "Nace el político francés Georges Pompidou."
+      },
+      {
+        "day": 6,
+        "event": "1922",
+        "description": "Nace en Matanzas la poetisa Carilda Oliver Labra."
+      },
+      {
+        "day": 6,
+        "event": "1982",
+        "description": "Fallece el \"Canciller de la Dignidad\", Raúl Roa García."
+      },
+      {
+        "day": 6,
+        "event": "1907",
+        "description": "Nace la pintora mexicana Frida Kahlo."
+      },
+      {
+        "day": 6,
+        "event": "1919",
+        "description": "Nace el pintor ecuatoriano Oswaldo Guayasamín."
+      },
+      {
+        "day": 7,
+        "event": "1898",
+        "description": "Muere el arquitecto e ingeniero cubano Francisco Javier Cisneros."
+      },
+      {
+        "day": 7,
+        "event": "1930",
+        "description": "Fallece el escritor británico Arthur Conan Doyle."
+      },
+      {
+        "day": 7,
+        "event": "1978",
+        "description": "Las Islas Salomón obtienen su independencia."
+      },
+      {
+        "day": 8,
+        "event": "1873",
+        "description": "Nace en Pinar del Río la capitana mambisa Isabel Rubio."
+      },
+      {
+        "day": 8,
+        "event": "1986",
+        "description": "Llega a Cuba en visita oficial la Madre Teresa de Calcuta."
+      },
+      {
+        "day": 8,
+        "event": "1809",
+        "description": "Muere el filósofo liberal Thomas Paine."
+      },
+      {
+        "day": 8,
+        "event": "1994",
+        "description": "Muere el presidente norcoreano Kim Il Sung."
+      },
+      {
+        "day": 9,
+        "event": "1932",
+        "description": "Se estrena la obra \"El Poema del Manglar\" del músico Ernesto Lecuona."
+      },
+      {
+        "day": 9,
+        "event": "1816",
+        "description": "Argentina declara su independencia de España."
+      },
+      {
+        "day": 9,
+        "event": "1819",
+        "description": "Nace Elias Howe, inventor de la máquina de coser."
+      },
+      {
+        "day": 10,
+        "event": "1902",
+        "description": "Nace en Camagüey el Poeta Nacional de Cuba, Nicolás Guillén."
+      },
+      {
+        "day": 10,
+        "event": "1964",
+        "description": "Fallece Aniceto Díaz, creador del danzonete."
+      },
+      {
+        "day": 10,
+        "event": "1509",
+        "description": "Nace el teólogo francés Juan Calvino."
+      },
+      {
+        "day": 10,
+        "event": "1989",
+        "description": "Muere Mel Blanc, actor de voz estadounidense."
+      },
+      {
+        "day": 11,
+        "event": "1810",
+        "description": "Nace en La Habana el eminente pensador José de la Luz y Caballero."
+      },
+      {
+        "day": 11,
+        "event": "1561",
+        "description": "Nace el poeta español Luis de Góngora."
+      },
+      {
+        "day": 11,
+        "event": "2000",
+        "description": "Muere el poeta nacional dominicano Pedro Mir."
+      },
+      {
+        "day": 12,
+        "event": "1815",
+        "description": "Nace la patriota Mariana Grajales, la \"Madre de la Patria\"."
+      },
+      {
+        "day": 12,
+        "event": "1854",
+        "description": "Nace en Matanzas el patriota y periodista Juan Gualberto Gómez."
+      },
+      {
+        "day": 12,
+        "event": "1989",
+        "description": "Muere el cantante cubano Carlos Puebla."
+      },
+      {
+        "day": 12,
+        "event": "1817",
+        "description": "Nace el filósofo Henry David Thoreau."
+      },
+      {
+        "day": 12,
+        "event": "1904",
+        "description": "Nace el poeta chileno Pablo Neruda."
+      },
+      {
+        "day": 13,
+        "event": "1793",
+        "description": "Es asesinado el líder revolucionario francés Marat."
+      },
+      {
+        "day": 13,
+        "event": "1930",
+        "description": "Comienza en Uruguay la primera Copa Mundial de Fútbol."
+      },
+      {
+        "day": 13,
+        "event": "1934",
+        "description": "Nace el escritor nigeriano Wole Soyinka."
+      },
+      {
+        "day": 14,
+        "event": "2003",
+        "description": "Muere en La Habana el célebre músico Compay Segundo."
+      },
+      {
+        "day": 14,
+        "event": "1789",
+        "description": "Toma de la Bastilla en París."
+      },
+      {
+        "day": 14,
+        "event": "1816",
+        "description": "Muere en cautiverio el prócer venezolano Francisco de Miranda."
+      },
+      {
+        "day": 15,
+        "event": "1689",
+        "description": "Fundación de la villa de Santa Clara."
+      },
+      {
+        "day": 15,
+        "event": "1889",
+        "description": "Laura Martínez de Carvajal se gradúa como la primera mujer médico en Cuba."
+      },
+      {
+        "day": 15,
+        "event": "1910",
+        "description": "Culmina la construcción del Puente Almendares en La Habana."
+      },
+      {
+        "day": 15,
+        "event": "1606",
+        "description": "Nace el pintor holandés Rembrandt."
+      },
+      {
+        "day": 15,
+        "event": "2005",
+        "description": "Cienfuegos es declarado Patrimonio de la Humanidad."
+      },
+      {
+        "day": 16,
+        "event": "1881",
+        "description": "Nace en La Habana el sabio investigador Fernando Ortiz."
+      },
+      {
+        "day": 16,
+        "event": "1898",
+        "description": "Capitulación oficial de las tropas españolas en Santiago de Cuba."
+      },
+      {
+        "day": 16,
+        "event": "1932",
+        "description": "Nace el líder estudiantil José Antonio Echeverría."
+      },
+      {
+        "day": 16,
+        "event": "1486",
+        "description": "Nace el pintor italiano Andrea del Sarto."
+      },
+      {
+        "day": 17,
+        "event": "1810",
+        "description": "Nace el zoólogo Juan Cristóbal Gundlach, creador del primer museo de zoología en Cuba."
+      },
+      {
+        "day": 17,
+        "event": "1911",
+        "description": "Nace el destacado músico Armando Romeau."
+      },
+      {
+        "day": 17,
+        "event": "1959",
+        "description": "El Gobierno Revolucionario destituye al presidente Manuel Urrutia."
+      },
+      {
+        "day": 17,
+        "event": "1942",
+        "description": "Comienza la Batalla de Stalingrado."
+      },
+      {
+        "day": 17,
+        "event": "1995",
+        "description": "Muere el piloto Juan Manuel Fangio."
+      },
+      {
+        "day": 18,
+        "event": "2011",
+        "description": "Fallece el destacado espeleólogo cubano Juan Gallardo Cordero."
+      },
+      {
+        "day": 18,
+        "event": "1830",
+        "description": "Se proclama la primera Constitución de Uruguay."
+      },
+      {
+        "day": 18,
+        "event": "1872",
+        "description": "Muere el presidente mexicano Benito Juárez."
+      },
+      {
+        "day": 18,
+        "event": "1918",
+        "description": "Nace Nelson Mandela."
+      },
+      {
+        "day": 19,
+        "event": "1794",
+        "description": "Fallece en La Habana Julián Recio de Oquendo, precursor de la docencia médica."
+      },
+      {
+        "day": 19,
+        "event": "1979",
+        "description": "Triunfo de la Revolución Sandinista en Nicaragua."
+      },
+      {
+        "day": 19,
+        "event": "1980",
+        "description": "Se inauguran los XXII Juegos Olímpicos en Moscú."
+      },
+      {
+        "day": 20,
+        "event": "1926",
+        "description": "Es asesinado el líder obrero Alfredo López por la tiranía machadista."
+      },
+      {
+        "day": 20,
+        "event": "2007",
+        "description": "Se funda en La Habana la Agencia Cubana de Rock."
+      },
+      {
+        "day": 20,
+        "event": "1923",
+        "description": "Es asesinado en una emboscada el revolucionario mexicano Pancho Villa."
+      },
+      {
+        "day": 21,
+        "event": "1828",
+        "description": "Nace en La Habana el prestigioso jurisconsulto Nicolás Azcárate."
+      },
+      {
+        "day": 21,
+        "event": "1792",
+        "description": "Es ejecutado el prócer brasileño Tiradentes."
+      },
+      {
+        "day": 21,
+        "event": "1899",
+        "description": "Nace en EE. UU. el escritor Ernest Hemingway."
+      },
+      {
+        "day": 22,
+        "event": "1965",
+        "description": "Fallece en La Habana Paulina Álvarez, la \"Emperatriz del danzonete\"."
+      },
+      {
+        "day": 22,
+        "event": "1822",
+        "description": "Nace el científico Gregorio Mendel, padre de la genética."
+      },
+      {
+        "day": 22,
+        "event": "1981",
+        "description": "Mehmet Ali Agca es condenado por el atentado al Papa."
+      },
+      {
+        "day": 23,
+        "event": "1940",
+        "description": "Nace en La Habana la bailarina Mirta Plá."
+      },
+      {
+        "day": 23,
+        "event": "1958",
+        "description": "Muere torturado en Bayamo el capitán del Ejército Rebelde Osvaldo Herrera."
+      },
+      {
+        "day": 23,
+        "event": "1989",
+        "description": "La UNESCO declara a Trinidad y al Valle de los Ingenios Patrimonio de la Humanidad."
+      },
+      {
+        "day": 23,
+        "event": "1911",
+        "description": "Nace el novelista argentino Ernesto Sábato."
+      },
+      {
+        "day": 24,
+        "event": "1908",
+        "description": "Nace el dirigente comunista Blas Roca Calderío."
+      },
+      {
+        "day": 24,
+        "event": "1961",
+        "description": "Llega a La Habana el primer cosmonauta del mundo, Yuri Gagarin."
+      },
+      {
+        "day": 24,
+        "event": "1783",
+        "description": "Nace en Caracas el Libertador Simón Bolívar."
+      },
+      {
+        "day": 24,
+        "event": "1969",
+        "description": "Regresa a la Tierra la misión Apolo 11."
+      },
+      {
+        "day": 25,
+        "event": "1515",
+        "description": "Fundación de la Villa de Santiago de Cuba por Diego Velázquez."
+      },
+      {
+        "day": 25,
+        "event": "1913",
+        "description": "Nace el médico y combatiente revolucionario Mario Muñoz Monroy."
+      },
+      {
+        "day": 25,
+        "event": "1898",
+        "description": "Estados Unidos invade Puerto Rico."
+      },
+      {
+        "day": 25,
+        "event": "1956",
+        "description": "Egipto nacionaliza el Canal de Suez."
+      },
+      {
+        "day": 26,
+        "event": "1953",
+        "description": "Asaltos a los cuarteles Moncada en Santiago de Cuba y Carlos Manuel de Céspedes en Bayamo."
+      },
+      {
+        "day": 26,
+        "event": "1875",
+        "description": "Nace el poeta español Antonio Machado."
+      },
+      {
+        "day": 26,
+        "event": "1952",
+        "description": "Fallece en Argentina Eva Duarte de Perón."
+      },
+      {
+        "day": 27,
+        "event": "1898",
+        "description": "Desembarco del patriota Federico Pérez Carbó durante la Guerra Necesaria."
+      },
+      {
+        "day": 27,
+        "event": "1953",
+        "description": "La dictadura batistiana clausura el periódico \"Hoy\"."
+      },
+      {
+        "day": 27,
+        "event": "1953",
+        "description": "Firma del Armisticio de Panmunjón (Corea)."
+      },
+      {
+        "day": 27,
+        "event": "1981",
+        "description": "Microsoft adquiere el sistema MS-DOS."
+      },
+      {
+        "day": 28,
+        "event": "1978",
+        "description": "Se inaugura en Cuba el XI Festival Mundial de la Juventud y los Estudiantes."
+      },
+      {
+        "day": 28,
+        "event": "1980",
+        "description": "Fallece Haydée Santamaría, heroína del Moncada y fundadora de Casa de las Américas."
+      },
+      {
+        "day": 28,
+        "event": "1750",
+        "description": "Muere el músico alemán Juan Sebastián Bach."
+      },
+      {
+        "day": 28,
+        "event": "1954",
+        "description": "Nace el presidente venezolano Hugo Chávez Frías."
+      },
+      {
+        "day": 29,
+        "event": "1819",
+        "description": "Nace en Bayamo el músico y periodista Perucho Figueredo, autor del Himno Nacional."
+      },
+      {
+        "day": 29,
+        "event": "1836",
+        "description": "Se inaugura el Arco del Triunfo en París."
+      },
+      {
+        "day": 29,
+        "event": "1890",
+        "description": "Muere el pintor holandés Vincent Van Gogh."
+      },
+      {
+        "day": 30,
+        "event": "1896",
+        "description": "Cae en combate el doctor e independentista cubano Juan Bruno Zayas."
+      },
+      {
+        "day": 30,
+        "event": "1957",
+        "description": "Son asesinados en Santiago de Cuba los revolucionarios Frank País García y Raúl Pujol."
+      },
+      {
+        "day": 30,
+        "event": "1958",
+        "description": "Cae en combate el comandante René Ramos Latour \"Daniel\"."
+      },
+      {
+        "day": 30,
+        "event": "1811",
+        "description": "Es fusilado en México el cura Miguel Hidalgo."
+      },
+      {
+        "day": 31,
+        "event": "1847",
+        "description": "Nace en La Habana el destacado músico Ignacio Cervantes."
+      },
+      {
+        "day": 31,
+        "event": "1784",
+        "description": "Muere el filósofo francés Denis Diderot."
+      },
+      {
+        "day": 31,
+        "event": "1944",
+        "description": "Fallece el escritor y aviador Antoine de Saint-Exupéry."
+      },
+      {
+        "day": 31,
+        "event": "1981",
+        "description": "Muere el líder panameño Omar Torrijos en un accidente aéreo."
+      }
+    ],
+    "Agosto": [
+      {
+        "day": 1,
+        "event": "1958",
+        "description": "Rebelión de los presos políticos en el Castillo del Príncipe; son asesinados los revolucionarios Vicente Ponce Carrasco, Reynaldo Gutiérrez Otaño y Roberto de la Rosa Valdés."
+      },
+      {
+        "day": 1,
+        "event": "1967",
+        "description": "Nace en Matanzas el destacado jugador de voleibol cubano Raúl Diago Izquierdo."
+      },
+      {
+        "day": 1,
+        "event": "1914",
+        "description": "Alemania le declara la guerra a Francia, dando inicio a la Primera Guerra Mundial."
+      },
+      {
+        "day": 1,
+        "event": "1920",
+        "description": "Mahatma Gandhi lanza su campaña de desobediencia civil en la India."
+      },
+      {
+        "day": 2,
+        "event": "1894",
+        "description": "Nace el líder obrero cubano Alfredo López."
+      },
+      {
+        "day": 2,
+        "event": "1925",
+        "description": "Se constituye en Camagüey la Confederación Nacional Obrera de Cuba (CNOC), con la participación de 160 delegados y bajo el liderazgo de Alfredo López."
+      },
+      {
+        "day": 2,
+        "event": "1876",
+        "description": "Se patentan los primeros teléfonos por Alexander Graham Bell y Elisha Gray."
+      },
+      {
+        "day": 2,
+        "event": "1884",
+        "description": "Nace el escritor y presidente venezolano Rómulo Gallegos."
+      },
+      {
+        "day": 3,
+        "event": "1901",
+        "description": "Nace en Zulueta, Las Villas, el reconocido pintor cubano Carlos Enríquez."
+      },
+      {
+        "day": 3,
+        "event": "1980",
+        "description": "El boxeador cubano Teófilo Stevenson gana la medalla de oro en los Juegos Olímpicos de Moscú, logrando su tercer título olímpico consecutivo."
+      },
+      {
+        "day": 3,
+        "event": "1492",
+        "description": "Zarpa Cristóbal Colón del puerto de Palos en busca de una nueva ruta hacia las Indias."
+      },
+      {
+        "day": 3,
+        "event": "1806",
+        "description": "Francisco de Miranda iza por primera vez la bandera venezolana."
+      },
+      {
+        "day": 4,
+        "event": "1839",
+        "description": "Nace en Holguín el Mayor General del Ejército Libertador Calixto García Íñiguez, el \"general de las tres guerras\"."
+      },
+      {
+        "day": 4,
+        "event": "1876",
+        "description": "Fallece el independentista norteamericano Henry Reeve, conocido como \"El Inglesito\"."
+      },
+      {
+        "day": 4,
+        "event": "1912",
+        "description": "Nace el destacado intelectual y teatrista cubano Virgilio Piñera."
+      },
+      {
+        "day": 4,
+        "event": "1901",
+        "description": "Nace en Nueva Orleans el músico Louis Armstrong, figura cimera del jazz."
+      },
+      {
+        "day": 5,
+        "event": "1951",
+        "description": "El líder político cubano Eduardo Chibás pronuncia su último discurso radial y se dispara un tiro en un gesto de sacrificio público."
+      },
+      {
+        "day": 5,
+        "event": "1978",
+        "description": "Se celebra la clausura del XI Festival Mundial de la Juventud y los Estudiantes en la Plaza de la Revolución."
+      },
+      {
+        "day": 5,
+        "event": "1895",
+        "description": "Muere en Londres el pensador y revolucionario Federico Engels."
+      },
+      {
+        "day": 5,
+        "event": "1962",
+        "description": "Fallece la actriz estadounidense Marilyn Monroe."
+      },
+      {
+        "day": 6,
+        "event": "1980",
+        "description": "Muere la destacada poeta, ensayista y revolucionaria cubana Mirta Aguirre."
+      },
+      {
+        "day": 6,
+        "event": "1825",
+        "description": "Proclamación de la independencia de Bolivia."
+      },
+      {
+        "day": 6,
+        "event": "1945",
+        "description": "Estados Unidos lanza la primera bomba atómica sobre la ciudad japonesa de Hiroshima."
+      },
+      {
+        "day": 7,
+        "event": "1925",
+        "description": "Se constituye formalmente en Camagüey la Confederación Nacional Obrera de Cuba (CNOC)."
+      },
+      {
+        "day": 7,
+        "event": "1964",
+        "description": "Fallece en La Habana el historiador e investigador Emilio Roig de Leuchsenring."
+      },
+      {
+        "day": 7,
+        "event": "1819",
+        "description": "Victoria de Simón Bolívar en la Batalla de Boyacá, sellando la independencia de Nueva Granada."
+      },
+      {
+        "day": 7,
+        "event": "1960",
+        "description": "Independencia de Costa de Marfil."
+      },
+      {
+        "day": 8,
+        "event": "1964",
+        "description": "Fallece el historiador cubano Emilio Roig de Leuchsenring."
+      },
+      {
+        "day": 8,
+        "event": "1873",
+        "description": "Nace Emiliano Zapata, líder campesino de la Revolución mexicana."
+      },
+      {
+        "day": 8,
+        "event": "1948",
+        "description": "Se funda la Organización Deportiva Panamericana (ODEPA)."
+      },
+      {
+        "day": 9,
+        "event": "1769",
+        "description": "Nace el escritor y poeta cubano Manuel Justo de Rubalcava."
+      },
+      {
+        "day": 9,
+        "event": "1909",
+        "description": "Nace en Matanzas Justo Vega, una de las figuras más emblemáticas de la música campesina cubana."
+      },
+      {
+        "day": 9,
+        "event": "1976",
+        "description": "Muere el relevante escritor y poeta cubano José Lezama Lima."
+      },
+      {
+        "day": 9,
+        "event": "1945",
+        "description": "Estados Unidos lanza la segunda bomba atómica sobre Nagasaki."
+      },
+      {
+        "day": 10,
+        "event": "1809",
+        "description": "Se produce el Grito de Independencia en Ecuador."
+      },
+      {
+        "day": 10,
+        "event": "1903",
+        "description": "Fundación del Partido Bolchevique ruso por Vladimir Ilich Lenin."
+      },
+      {
+        "day": 11,
+        "event": "1888",
+        "description": "Fallece el eminente científico y agrónomo cubano Álvaro Reynoso."
+      },
+      {
+        "day": 11,
+        "event": "1911",
+        "description": "Nace Manuel Gómez Reyes, combatiente revolucionario y asaltante al Cuartel Moncada."
+      },
+      {
+        "day": 11,
+        "event": "1903",
+        "description": "Fallece el patriota y escritor puertorriqueño Eugenio María de Hostos."
+      },
+      {
+        "day": 12,
+        "event": "1933",
+        "description": "Triunfo de la huelga general revolucionaria que provoca la caída y huida del dictador Gerardo Machado."
+      },
+      {
+        "day": 12,
+        "event": "1887",
+        "description": "Nace el físico austríaco Erwin Schrödinger, Premio Nobel de Física."
+      },
+      {
+        "day": 12,
+        "event": "1911",
+        "description": "Nace el célebre actor mexicano Mario Moreno, \"Cantinflas\"."
+      },
+      {
+        "day": 13,
+        "event": "1926",
+        "description": "Natalicio del líder histórico de la Revolución Cubana, Fidel Castro Ruz, en Birán."
+      },
+      {
+        "day": 13,
+        "event": "1957",
+        "description": "Son asesinados por la tiranía batistiana en Pinar del Río los jóvenes hermanos y poetas Sergio y Luis Saíz Montes de Oca."
+      },
+      {
+        "day": 13,
+        "event": "1971",
+        "description": "Nace el boxeador cubano Mario Kindelán Mesa, campeón olímpico y mundial."
+      },
+      {
+        "day": 13,
+        "event": "1956",
+        "description": "Muere el dramaturgo alemán Bertolt Brecht."
+      },
+      {
+        "day": 14,
+        "event": "1867",
+        "description": "El patriota Perucho Figueredo compone la música del Himno de Bayamo."
+      },
+      {
+        "day": 14,
+        "event": "1881",
+        "description": "Carlos J. Finlay expone su descubrimiento sobre el mosquito Aedes aegypti como agente transmisor de la fiebre amarilla."
+      },
+      {
+        "day": 14,
+        "event": "1935",
+        "description": "Nace el destacado escritor y dramaturgo cubano Antón Arrufat."
+      },
+      {
+        "day": 14,
+        "event": "1960",
+        "description": "Nace en Gran Bretaña la cantante y actriz Sarah Brightman."
+      },
+      {
+        "day": 15,
+        "event": "1511",
+        "description": "Fundación de Baracoa por Diego Velázquez, convirtiéndose en la primera villa fundada en Cuba."
+      },
+      {
+        "day": 15,
+        "event": "1898",
+        "description": "Fallece la capitana de sanidad y patriota mambisa Isabel Rubio."
+      },
+      {
+        "day": 15,
+        "event": "1769",
+        "description": "Nace Napoleón Bonaparte en Córcega."
+      },
+      {
+        "day": 15,
+        "event": "1945",
+        "description": "Corea es liberada de la ocupación japonesa."
+      },
+      {
+        "day": 16,
+        "event": "1925",
+        "description": "Constitución del primer Partido Comunista de Cuba, fundado por Carlos Baliño y Julio Antonio Mella."
+      },
+      {
+        "day": 16,
+        "event": "1951",
+        "description": "Fallece Eduardo Chibás, líder del Partido del Pueblo Cubano (Ortodoxo), días después de dispararse en público."
+      },
+      {
+        "day": 16,
+        "event": "1947",
+        "description": "Se proclama la independencia de la India y Pakistán."
+      },
+      {
+        "day": 16,
+        "event": "1977",
+        "description": "Muere el cantante estadounidense Elvis Presley."
+      },
+      {
+        "day": 17,
+        "event": "1870",
+        "description": "Es fusilado en Santiago de Cuba el patriota Perucho Figueredo, autor de la letra y música del Himno Nacional."
+      },
+      {
+        "day": 17,
+        "event": "1896",
+        "description": "Nace el genial compositor y pianista cubano Ernesto Lecuona."
+      },
+      {
+        "day": 17,
+        "event": "1850",
+        "description": "Fallece en Francia el libertador argentino José de San Martín."
+      },
+      {
+        "day": 18,
+        "event": "1717",
+        "description": "Nace Agustín Palomino Sanabria, considerado el precursor de la docencia médica en Cuba."
+      },
+      {
+        "day": 18,
+        "event": "1958",
+        "description": "Fallece el estudiante revolucionario cubano Ramón Pando Ferrer."
+      },
+      {
+        "day": 18,
+        "event": "1936",
+        "description": "Es fusilado en Granada por las fuerzas fascistas el poeta español Federico García Lorca."
+      },
+      {
+        "day": 18,
+        "event": "1989",
+        "description": "Es asesinado el político colombiano Luis Carlos Galán."
+      },
+      {
+        "day": 19,
+        "event": "1820",
+        "description": "Nace Manuel Boza Agramonte, Mayor General del Ejército Libertador."
+      },
+      {
+        "day": 19,
+        "event": "1828",
+        "description": "Es descubierta por las autoridades coloniales la Conspiración de Soles y Rayos de Bolívar."
+      },
+      {
+        "day": 19,
+        "event": "1915",
+        "description": "Muere el eminente médico y científico cubano Carlos Juan Finlay."
+      },
+      {
+        "day": 19,
+        "event": "2002",
+        "description": "Fallece el destacado escultor vasco Eduardo Chillida."
+      },
+      {
+        "day": 20,
+        "event": "1880",
+        "description": "Llegan a La Habana los restos del intelectual y patriota José Antonio Saco procedentes de España."
+      },
+      {
+        "day": 20,
+        "event": "1900",
+        "description": "Nace la polifacética artista y cantante cubana Rita Montaner, conocida como \"La Única\"."
+      },
+      {
+        "day": 20,
+        "event": "1778",
+        "description": "Nace el prócer chileno Bernardo O'Higgins."
+      },
+      {
+        "day": 20,
+        "event": "1920",
+        "description": "Nace el escritor estadounidense Ray Bradbury."
+      },
+      {
+        "day": 21,
+        "event": "1899",
+        "description": "Muere el Mayor General mambí Francisco Varona González."
+      },
+      {
+        "day": 21,
+        "event": "1900",
+        "description": "Nace el Dr. Pedro Kourí Esmeja, microbiólogo y padre de la parasitología en Cuba."
+      },
+      {
+        "day": 21,
+        "event": "1958",
+        "description": "La Columna No. 2 \"Antonio Maceo\", al mando de Camilo Cienfuegos, parte de la Sierra Maestra para iniciar la invasión hacia occidente."
+      },
+      {
+        "day": 21,
+        "event": "1957",
+        "description": "Se produce el primer lanzamiento exitoso de un misil balístico intercontinental."
+      },
+      {
+        "day": 22,
+        "event": "1845",
+        "description": "Nace en La Habana el Mayor General del Ejército Libertador José María Aguirre Valdés."
+      },
+      {
+        "day": 22,
+        "event": "1922",
+        "description": "Fundación de la radio en Cuba tras la primera transmisión oficial realizada por Luis Casas Romero a través de la planta 2LC."
+      },
+      {
+        "day": 22,
+        "event": "1928",
+        "description": "Nace en Santiago de Cuba el popular cantante y compositor Pacho Alonso."
+      },
+      {
+        "day": 22,
+        "event": "1961",
+        "description": "Se constituye la Unión de Escritores y Artistas de Cuba (UNEAC), presidida por Nicolás Guillén."
+      },
+      {
+        "day": 23,
+        "event": "1889",
+        "description": "Nace el investigador histórico y primer Historiador de la Ciudad de La Habana, Emilio Roig de Leuchsenring."
+      },
+      {
+        "day": 23,
+        "event": "1960",
+        "description": "Se funda la Federación de Mujeres Cubanas (FMC), bajo la dirección de Vilma Espín Guillois."
+      },
+      {
+        "day": 23,
+        "event": "1769",
+        "description": "Nace el naturalista y científico francés Georges Cuvier."
+      },
+      {
+        "day": 24,
+        "event": "1832",
+        "description": "Nace en Bayamo el poeta y patriota Juan Clemente Zenea."
+      },
+      {
+        "day": 24,
+        "event": "1879",
+        "description": "Inicio de la Guerra Chiquita, segundo intento organizado por la independencia de Cuba."
+      },
+      {
+        "day": 24,
+        "event": "1919",
+        "description": "Nace el célebre cantante Benny Moré, apodado \"El Bárbaro del Ritmo\"."
+      },
+      {
+        "day": 24,
+        "event": "1933",
+        "description": "Aparece asesinado por la tiranía el destacado dirigente sindical Alfredo López."
+      },
+      {
+        "day": 24,
+        "event": "1899",
+        "description": "Nace en Buenos Aires el escritor Jorge Luis Borges."
+      },
+      {
+        "day": 25,
+        "event": "1835",
+        "description": "Nace en El Cobre la destacada poetisa cubana Luisa Pérez de Zambrana."
+      },
+      {
+        "day": 25,
+        "event": "1609",
+        "description": "Galileo Galilei presenta su primer telescopio al Senado de Venecia."
+      },
+      {
+        "day": 25,
+        "event": "1688",
+        "description": "Muere el pirata Henry Morgan en Jamaica."
+      },
+      {
+        "day": 25,
+        "event": "1867",
+        "description": "Fallece el físico británico Michael Faraday."
+      },
+      {
+        "day": 26,
+        "event": "2003",
+        "description": "Fallece el reconocido escultor cubano José Delarra."
+      },
+      {
+        "day": 26,
+        "event": "1789",
+        "description": "Es aprobada la Declaración de los Derechos del Hombre y del Ciudadano por la Asamblea Nacional Francesa."
+      },
+      {
+        "day": 26,
+        "event": "1910",
+        "description": "Nace Teresa de Calcuta."
+      },
+      {
+        "day": 27,
+        "event": "1982",
+        "description": "Fallece el cantante cubano Pacho Alonso."
+      },
+      {
+        "day": 27,
+        "event": "1770",
+        "description": "Nace el filósofo alemán Georg Wilhelm Friedrich Hegel."
+      },
+      {
+        "day": 27,
+        "event": "1908",
+        "description": "Nace Lyndon B. Johnson, presidente de los Estados Unidos."
+      },
+      {
+        "day": 28,
+        "event": "1922",
+        "description": "Fallece en Santiago de Cuba el patriota, escritor e intelectual Emilio Bacardí."
+      },
+      {
+        "day": 28,
+        "event": "1947",
+        "description": "Muere el legendario torero español Manolete."
+      },
+      {
+        "day": 28,
+        "event": "1963",
+        "description": "Martin Luther King pronuncia su discurso \"I Have a Dream\" ante 200,000 personas."
+      },
+      {
+        "day": 29,
+        "event": "1894",
+        "description": "Nace el poeta y periodista revolucionario cubano Manuel Navarro Luna."
+      },
+      {
+        "day": 29,
+        "event": "1632",
+        "description": "Nace John Locke, filósofo inglés y padre del empirismo."
+      },
+      {
+        "day": 29,
+        "event": "1958",
+        "description": "Nace el cantante Michael Jackson."
+      },
+      {
+        "day": 30,
+        "event": "1897",
+        "description": "Las tropas mambisas bajo el mando de Calixto García toman la ciudad de Las Tunas tras seis días de asedio."
+      },
+      {
+        "day": 30,
+        "event": "1917",
+        "description": "Nace el revolucionario cubano Emilio González Morales."
+      },
+      {
+        "day": 30,
+        "event": "1871",
+        "description": "Nace Ernest Rutherford, pionero de la física nuclear."
+      },
+      {
+        "day": 30,
+        "event": "2006",
+        "description": "Muere el escritor egipcio Naguib Mahfuz, Premio Nobel de Literatura."
+      },
+      {
+        "day": 31,
+        "event": "1911",
+        "description": "Nace el músico cubano Arsenio Rodríguez, figura clave en el desarrollo del son y el mambo."
+      },
+      {
+        "day": 31,
+        "event": "1958",
+        "description": "La Columna No. 8 \"Ciro Redondo\", comandada por el Che Guevara, parte de Las Mercedes hacia occidente para continuar la invasión revolucionaria."
+      },
+      {
+        "day": 31,
+        "event": "1967",
+        "description": "Caen en una emboscada en Bolivia los combatientes de la guerrilla del Che: Tamara Bunke (Tania), Juan Vitalio Acuña y otros seis guerrilleros."
+      },
+      {
+        "day": 31,
+        "event": "1962",
+        "description": "Independencia de Trinidad y Tobago."
+      },
+      {
+        "day": 31,
+        "event": "2007",
+        "description": "Fallece el cineasta sueco Ingmar Bergman."
+      }
     ]
   },
   "agendaConmemoraciones": {
@@ -35638,6 +36347,320 @@
         "national": "Aniversario de la proclamación de la Isla de la Juventud.",
         "international": "Día Internacional de los Asteroides, Día de las Redes Sociales y Día Internacional del Parlamentarismo."
       }
+    ],
+    "Julio": [
+      {
+        "day": 1,
+        "national": "Día del Historiador Cubano, Día del Trabajador Químico, natalicio del poeta Juan Cristóbal Nápoles Fajardo \"El Cucalambé\" (1829) y fundación de Radio Reloj (1947).",
+        "international": "Día Internacional del Reggae, Día Internacional del Chiste y Día Internacional de la Fruta."
+      },
+      {
+        "day": 2,
+        "national": "Natalicio del patriota Serafín Sánchez (1846) y del poeta Eliseo Diego (1920).",
+        "international": "Día Internacional del Periodista Deportivo y Día Mundial de los OVNIs."
+      },
+      {
+        "day": 3,
+        "national": "Natalicio de Juan Manuel Márquez (1915), segundo al mando de la expedición del Granma.",
+        "international": "Día Internacional Libre de Bolsas de Plástico y Día Internacional del Síndrome de Rubinstein-Taybi."
+      },
+      {
+        "day": 4,
+        "national": "Día del Trabajador de la Administración Pública y creación de la Casa de las Américas (1959).",
+        "international": "Día Mundial de los Delfines en Cautiverio, Día Internacional de las Cooperativas y Día Mundial del Ebook."
+      },
+      {
+        "day": 5,
+        "national": "Caída en combate del General José Maceo (1896), fallecimiento del poeta Bonifacio Byrne (1936) y fundación de la Sociedad Estomatológica Cubana (1918).",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 6,
+        "national": "Fallecimiento de Raúl Roa García (1982) y natalicio de la poetisa Carilda Oliver Labra (1922).",
+        "international": "Día Mundial del Desarrollo Rural, Día Internacional de Los Beatles y Día Mundial de las Zoonosis."
+      },
+      {
+        "day": 7,
+        "national": "Fallecimiento del ingeniero y arquitecto Francisco Javier Cisneros (1898).",
+        "international": "Día Internacional de la Conservación del Suelo, Día Mundial del Idioma Kiswahili y Día Internacional del Cóndor."
+      },
+      {
+        "day": 8,
+        "national": "Natalicio de la capitana mambisa Isabel Rubio (1873) y visita oficial a Cuba de la Madre Teresa de Calcuta (1986).",
+        "international": "Día Mundial de la Alergia, Día Internacional de los Paramédicos y Día Mundial de la Salud de la Piel."
+      },
+      {
+        "day": 9,
+        "national": "Estreno de la obra \"El Poema del Manglar\" de Ernesto Lecuona (1932).",
+        "international": "Día Internacional de la Destrucción de Armas de Fuego."
+      },
+      {
+        "day": 10,
+        "national": "Natalicio de Nicolás Guillén (1902), Poeta Nacional de Cuba, y fallecimiento de Aniceto Díaz, creador del danzonete (1964).",
+        "international": "Día de Apreciación del Capibara y Día Mundial del Glut1."
+      },
+      {
+        "day": 11,
+        "national": "Natalicio del pensador y pedagogo José de la Luz y Caballero (1810).",
+        "international": "Día Mundial de la Población, Día Mundial del Caballo y Día Internacional de Reflexión y Conmemoración del Genocidio de Srebrenica."
+      },
+      {
+        "day": 12,
+        "national": "Natalicio de Mariana Grajales (1815), \"Madre de la Patria\", y del patriota y periodista Juan Gualberto Gómez (1854).",
+        "international": "Día Internacional de la Esperanza y Día Internacional de la Lucha contra las Tormentas de Arena y Polvo."
+      },
+      {
+        "day": 13,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Rock, Día Internacional del Sarcoma y Día Internacional del Director de Orquesta."
+      },
+      {
+        "day": 14,
+        "national": "Fallecimiento del músico Compay Segundo (2003).",
+        "international": "Día Mundial del Chimpancé, Día Internacional del Tiburón y Día Internacional del Auxiliar de Enfermería."
+      },
+      {
+        "day": 15,
+        "national": "Fundación de la villa de Santa Clara (1689) y graduación de Laura Martínez de Carvajal como primera mujer médico en Cuba (1889).",
+        "international": "Día Mundial de las Habilidades de la Juventud."
+      },
+      {
+        "day": 16,
+        "national": "Natalicio del investigador Fernando Ortiz (1881) y del líder estudiantil José Antonio Echeverría (1932), y capitulación oficial de las tropas españolas en Santiago de Cuba (1898).",
+        "international": "Día Mundial de la Serpiente."
+      },
+      {
+        "day": 17,
+        "national": "Natalicio del zoólogo Juan Cristóbal Gundlach (1810) y del músico Armando Romeau (1911), y destitución del presidente Manuel Urrutia (1959).",
+        "international": "Día Mundial de la Justicia Internacional, Día Mundial del Emoji y Día Mundial del Tatuaje."
+      },
+      {
+        "day": 18,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de Nelson Mandela, Día de la Vaquita Marina y Día Mundial de la Escucha."
+      },
+      {
+        "day": 19,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día de Iberoamérica."
+      },
+      {
+        "day": 20,
+        "national": "Asesinato del líder obrero Alfredo López (1926) y fundación de la Agencia Cubana de Rock (2007).",
+        "international": "Día Mundial del Ajedrez, Día Internacional de la Luna y Día del Amigo."
+      },
+      {
+        "day": 21,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Perro y Día Mundial del Gazpacho."
+      },
+      {
+        "day": 22,
+        "national": "Fallecimiento de Paulina Álvarez, la \"Emperatriz del danzonete\" (1965).",
+        "international": "Día Mundial del Cerebro, Día Mundial Contra la Minería a Cielo Abierto y Día Mundial del Síndrome del Cromosoma X Frágil."
+      },
+      {
+        "day": 23,
+        "national": "Muerte por torturas del capitán del Ejército Rebelde Osvaldo Herrera (1958) y declaración de Trinidad y el Valle de los Ingenios como Patrimonio de la Humanidad (1989).",
+        "international": "Día Mundial de las Ballenas y los Delfines y Día Mundial del Síndrome de Sjögren."
+      },
+      {
+        "day": 24,
+        "national": "Natalicio del dirigente comunista Blas Roca Calderío (1908) y llegada a La Habana del cosmonauta Yuri Gagarin (1961).",
+        "international": "Día de la Sobrecapacidad de la Tierra, Día Internacional del Autocuidado y Día Internacional del Tequila."
+      },
+      {
+        "day": 25,
+        "national": "Fundación de la villa de Santiago de Cuba (1515) y natalicio del médico y combatiente Mario Muñoz Monroy (1913).",
+        "international": "Día Internacional para el Bienestar Judicial, Día Internacional de la Mujer Afrodescendiente y Día Mundial para la Prevención de los Ahogamientos."
+      },
+      {
+        "day": 26,
+        "national": "Día de la Rebeldía Nacional, conmemoración de los asaltos a los cuarteles Moncada y Carlos Manuel de Céspedes (1953).",
+        "international": "Día Internacional de conservación del Ecosistema de Manglares, Día de los Abuelos y Día Internacional del Esperanto."
+      },
+      {
+        "day": 27,
+        "national": "Días de conmemoración oficial por el Asalto al Cuartel Moncada.",
+        "international": "Día Mundial del Cáncer de Cabeza y Cuello."
+      },
+      {
+        "day": 28,
+        "national": "Inauguración del XI Festival Mundial de la Juventud y los Estudiantes en Cuba (1978) y fallecimiento de Haydée Santamaría (1980).",
+        "international": "Día Mundial contra la Hepatitis."
+      },
+      {
+        "day": 29,
+        "national": "Natalicio de Perucho Figueredo (1819), autor de la música del Himno Nacional.",
+        "international": "Día Internacional del Tigre y Día Internacional del Mal de Amores."
+      },
+      {
+        "day": 30,
+        "national": "Día de los Mártires de la Revolución, en honor a Frank País García y Raúl Pujol (1957), caída en combate de René Ramos Latour (1958) y Juan Bruno Zayas (1896).",
+        "international": "Día Internacional de la Amistad y Día Mundial contra la Trata de Personas."
+      },
+      {
+        "day": 31,
+        "national": "Natalicio del músico Ignacio Cervantes (1847).",
+        "international": "Día Mundial de los Guardas Forestales y Día del Administrador de Sistemas Informáticos."
+      }
+    ],
+    "Agosto": [
+      {
+        "day": 1,
+        "national": "Rebelión de los presos políticos en el Castillo del Príncipe (1958), asesinato de los revolucionarios Vicente Ponce Carrasco, Reynaldo Gutiérrez Otaño y Roberto de la Rosa Valdés.",
+        "international": "Día Mundial de la Alegría, Día de la Pachamama y Día Mundial del ARN."
+      },
+      {
+        "day": 2,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 3,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Planificación Familiar."
+      },
+      {
+        "day": 4,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Leopardo Nublado."
+      },
+      {
+        "day": 5,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 6,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Cerveza, Día Mundial de los Faros y Día Internacional de Concienciación sobre las Necesidades Especiales de Desarrollo y los Desafíos de los Países en Desarrollo sin Litoral."
+      },
+      {
+        "day": 7,
+        "national": "Aniversario de la constitución de la Confederación Nacional Obrera de Cuba (CNOC) en Camagüey (1925), bajo el liderazgo de Alfredo López.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 8,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Gato, Día Internacional del Orgasmo Femenino y Día de la Encefalomielitis Miálgica Severa o Síndrome de Fatiga Crónica."
+      },
+      {
+        "day": 9,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de las Poblaciones Indígenas y Día Internacional de la Solidaridad con la lucha de la Mujer en Sudáfrica y Namibia."
+      },
+      {
+        "day": 10,
+        "national": "Día del Trabajador Hidráulico.",
+        "international": "Día Mundial del León y Día Internacional del Biodiésel."
+      },
+      {
+        "day": 11,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de los Tambores Metálicos."
+      },
+      {
+        "day": 12,
+        "national": "Conmemoración de la victoria de la huelga general revolucionaria de 1933, que provocó la caída y huida del dictador Gerardo Machado.",
+        "international": "Día Internacional de la Juventud, Día Mundial del Elefante y Día Internacional del Disco de Vinilo."
+      },
+      {
+        "day": 13,
+        "national": "Natalicio del líder histórico de la Revolución Cubana, Fidel Castro Ruz (1926). Asesinato de los hermanos Sergio y Luis Saíz Montes de Oca (1957).",
+        "international": "Día Internacional de la Zurdera, Día Internacional del Lobo y Día Internacional del Armadillo."
+      },
+      {
+        "day": 14,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Lagarto y Día Interamericano de la Calidad del Aire."
+      },
+      {
+        "day": 15,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Animal sin Hogar y Día Mundial de la Relajación."
+      },
+      {
+        "day": 16,
+        "national": "Aniversario de la constitución del primer Partido Comunista de Cuba (1925), fundado por Carlos Baliño y Julio Antonio Mella.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 17,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Peatón y Día Internacional de la Enfermedad de Coats."
+      },
+      {
+        "day": 18,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Prevención de Incendios Forestales, Día Internacional de la Arqueología y Día de Nunca Rendirse."
+      },
+      {
+        "day": 19,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de la Fotografía, Día Mundial de la Asistencia Humanitaria y Día Mundial del Orangután."
+      },
+      {
+        "day": 20,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Mosquito."
+      },
+      {
+        "day": 21,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo y Día Mundial del Síndrome DYRK 1A."
+      },
+      {
+        "day": 22,
+        "national": "Día de la Radio Cubana y aniversario de la fundación de la Unión de Escritores y Artistas de Cuba (UNEAC) en 1961.",
+        "international": "Día Mundial del Folclore, Día Mundial de la Leche Vegetal y Día Internacional de Conmemoración de las Víctimas de Actos de Violencia Motivados por la Religión o las Creencias."
+      },
+      {
+        "day": 23,
+        "national": "Aniversario de la fundación de la Federación de Mujeres Cubanas (FMC) en 1960, bajo la dirección de Vilma Espín Guillois.",
+        "international": "Día del Internauta, Día Internacional del Hashtag y Día Internacional para el Recuerdo del Comercio de Esclavos y su Abolición."
+      },
+      {
+        "day": 24,
+        "national": "Inicio de la Guerra Chiquita (1879), segundo intento organizado por la independencia de la isla.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 25,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Peluquero."
+      },
+      {
+        "day": 26,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional contra el Dengue y Día Internacional de la Actriz y del Actor."
+      },
+      {
+        "day": 27,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial de los Lagos."
+      },
+      {
+        "day": 28,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Síndrome de Turner."
+      },
+      {
+        "day": 29,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional contra los Ensayos Nucleares y Día Mundial del Videojuego."
+      },
+      {
+        "day": 30,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Tiburón Ballena y Día Internacional de los Desaparecidos."
+      },
+      {
+        "day": 31,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Solidaridad, Día Internacional de los Afrodescendientes y Día Internacional de la Obstetricia."
+      }
     ]
   },
   "agendaDayThemes": {
@@ -35835,7 +36858,21 @@
     "Julio-semana-5-Jueves": "Día de los Mártires de la Revolución Cubana.",
     "Julio-semana-5-Viernes": "Soberanía Alimentaria – Implementación de la nueva Ley de Tierras.",
     "Julio-semana-5-Sábado": "Verano en familia – Rebelión de los presos políticos en el Castillo del Príncipe (1958).",
-    "Julio-semana-5-Domingo": "Natalicio de Alfredo López (1894) y constitución de la CNOC (1925)."
+    "Julio-semana-5-Domingo": "Natalicio de Alfredo López (1894) y constitución de la CNOC (1925).",
+    "Agosto-semana-1-Lunes": "Tarea Vida (Medio Ambiente) – La naturaleza como inspiración artística.",
+    "Agosto-semana-1-Martes": "Legado de Fidel Castro – Natalicio de Calixto García (1839) y fallecimiento de Henry Reeve (1876).",
+    "Agosto-semana-1-Miércoles": "Adelanto de las Mujeres – La resiliencia familiar.",
+    "Agosto-semana-1-Jueves": "Legado de Fidel Castro – Lecciones de la Segunda Guerra Mundial y reflexiones de Fidel.",
+    "Agosto-semana-1-Viernes": "Soberanía Alimentaria – Día del Trabajador Hidráulico (10 de agosto, se adelanta).",
+    "Agosto-semana-1-Sábado": "Verano en familia – Fiestas Populares de Bayamo (7 al 10 de agosto).",
+    "Agosto-semana-1-Domingo": "Homenaje a Fidel Castro en su centenario (13 de agosto, se adelanta).",
+    "Agosto-semana-2-Lunes": "Soberanía Alimentaria – Día del Trabajador Hidráulico.",
+    "Agosto-semana-2-Martes": "Adelanto de las Mujeres – Fallecimiento de Álvaro Reynoso (1888) y Día Internacional de la Juventud (12 de agosto, se adelanta).",
+    "Agosto-semana-2-Miércoles": "Día Internacional de la Juventud – Fidel y la juventud cubana.",
+    "Agosto-semana-2-Jueves": "Programación Especial – Centenario del natalicio de Fidel Castro Ruz (1926).",
+    "Agosto-semana-2-Viernes": "Tarea Vida (Medio Ambiente) – Aniversario del descubrimiento de Finlay sobre el mosquito Aedes aegypti (1881).",
+    "Agosto-semana-2-Sábado": "Verano en familia – Fundación de Baracoa (1511) y fallecimiento de Isabel Rubio (1898).",
+    "Agosto-semana-2-Domingo": "Legado de Fidel Castro – Constitución del primer Partido Comunista de Cuba (1925) y fallecimiento de Eduardo Chibás (1951)."
   },
   "agendaUsers": [
     {
@@ -36646,7 +37683,7 @@
         },
         {
           "token": "DVC-FKXW",
-          "name": "Laptop",
+          "name": "lAP",
           "type": "PC",
           "addedAt": "3/8/2026"
         }
