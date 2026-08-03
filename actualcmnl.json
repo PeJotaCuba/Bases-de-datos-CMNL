@@ -805,6 +805,12 @@
           "name": "CMNL Cover",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-FKXW",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "3/8/2026"
         }
       ]
     },
@@ -873,7 +879,8 @@
       "content": "La red Jóvenes por la Vida invitó a adolescentes y jóvenes entre 15 y 25 años a participar en el taller \"Escuela de Verano Construyendo Mi Futuro\", que se realizará el jueves y viernes próximos en la Sala Dos Columnas de la Uneac. El espacio, diseñado para aprender, decidir y multiplicar salud entre amigos, se desarrollará entre las nueve de la mañana y la una de la tarde con el objetivo de fomentar una cultura de autocuidado y autoresponsabilidad. Los interesados pueden comunicarse por teléfono con Yeny o José al 59921973. La Red de Jóvenes por la Vida, organizada por ProSalud y con el apoyo de UNICEF Cuba, realiza diversas actividades educativas para prevenir enfermedades de transmisión sexual y promover la salud. En la actividad intervienen promotores del policlínico Bayamo Oeste y otros actores comunitarios.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "La red Jóvenes por la Vida invitó a adolescentes y jóvenes entre 15 y 25 años a participar en el taller \"Escuela de Verano Construyendo Mi Futuro\", que se realizará el jueves y viernes próximos en la Sala Dos Columnas de la Uneac."
+      "excerpt": "La red Jóvenes por la Vida invitó a adolescentes y jóvenes entre 15 y 25 años a participar en el taller \"Escuela de Verano Construyendo Mi Futuro\", que se realizará el jueves y viernes próximos en la Sala Dos Columnas de la Uneac.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1785355908741-1",
@@ -882,7 +889,8 @@
       "content": "Cuatro familias de Bayamo recibieron este domingo sus viviendas modulares construidas a partir de contenedores marítimos, en el reparto 26 de Julio. Las nuevas casas cuentan con diseño funcional, óptimo aprovechamiento del espacio, acceso a servicios básicos y áreas comunes acondicionadas. Maidolis Blanco Vega, director municipal de la Vivienda, destacó que la fecha de entrega cobra especial significado al coincidir con el Día de la Rebeldía Nacional y la jornada por el centenario del natalicio de Fidel Castro. Los beneficiados son personas afectadas por fenómenos meteorológicos, una madre con tres niños pequeños, una joven egresada de la Casa de Niños sin amparo parental, y una subcampeona mundial y campeona Paraparamericana de levantamiento de pesas. La entrega forma parte de una estrategia nacional para aliviar el déficit habitacional.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "Cuatro familias de Bayamo recibieron este domingo sus viviendas modulares construidas a partir de contenedores marítimos, en el reparto 26 de Julio."
+      "excerpt": "Cuatro familias de Bayamo recibieron este domingo sus viviendas modulares construidas a partir de contenedores marítimos, en el reparto 26 de Julio.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1785355908741-2",
@@ -891,7 +899,8 @@
       "content": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, expresó la solidaridad de su país con España ante los incendios forestales que afectan varias provincias de esa nación europea. En un mensaje publicado en la red social X, el canciller cubano manifestó el respaldo del pueblo y Gobierno de la isla a las autoridades y ciudadanos españoles frente a la emergencia. \"Cuba expresa sincera solidaridad con el pueblo y el gobierno de España ante los devastadores incendios que enfrentan distintas provincias españolas\", escribió Rodríguez, publicó Prensa Latina.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, expresó la solidaridad de su país con España ante los incendios forestales que afectan varias provincias de esa nación europea."
+      "excerpt": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, expresó la solidaridad de su país con España ante los incendios forestales que afectan varias provincias de esa nación europea.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAyODRDNztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBDNEE2RTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTUwIiByPSI2MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMzUwIiBjeT0iMjAwIiByPSI4MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMjUwIiBjeT0iMjAwIiByPSI3MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1785355908741-3",
@@ -900,7 +909,8 @@
       "content": "La plataforma de predicción Polymarket indica que el presidente Luiz Inácio Lula da Silva es el gran favorito para ganar las elecciones presidenciales brasileñas de 2026. En este mercado de apuestas, que funciona como un sistema financiero donde los usuarios negocian contratos basados en la probabilidad de eventos futuros, Lula registra una probabilidad de victoria del 63 por ciento, publicó Tele Sur.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "La plataforma de predicción Polymarket indica que el presidente Luiz Inácio Lula da Silva es el gran favorito para ganar las elecciones presidenciales brasileñas de 2026."
+      "excerpt": "La plataforma de predicción Polymarket indica que el presidente Luiz Inácio Lula da Silva es el gran favorito para ganar las elecciones presidenciales brasileñas de 2026.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1785355908741-4",
@@ -909,7 +919,8 @@
       "content": "La Banda de Concierto de Bayamo, a sus 158 años de fundada, protagonizará mañana miércoles a las diez de la mañana un concierto único junto a su homóloga de Jiguaní, que vive su aniversario 125. La presentación, prevista para el parque central jiguanicero, forma parte de las actividades veraniegas planificadas en la provincia y constituye una oportunidad única para disfrutar de dos instituciones musicales centenarias cuya historia está plagada de puntos en común. El mano a mano también permitirá el intercambio entre músicos que han compartido en eventos culturales e incluso en sus etapas de formación en las mismas academias. Se espera que no falten himnos y marchas patrióticas, además de clásicos de la música universal.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "La Banda de Concierto de Bayamo, a sus 158 años de fundada, protagonizará mañana miércoles a las diez de la mañana un concierto único junto a su homóloga de Jiguaní, que vive su aniversario 125."
+      "excerpt": "La Banda de Concierto de Bayamo, a sus 158 años de fundada, protagonizará mañana miércoles a las diez de la mañana un concierto único junto a su homóloga de Jiguaní, que vive su aniversario 125.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     },
     {
       "id": "news-1785355908741-5",
@@ -918,7 +929,8 @@
       "content": "Trabajadores y directivos de la Empresa de Acopio Granma manifestaron el alto honor que representa recibir el reconocimiento, entre las doce entidades destacadas, otorgado por la máxima dirección política y gubernamental en ocasión de la celebración del 26 de Julio. Gisela Alena Acolea, directora general, significó la abnegada labor y calidad humana de todos los colectivos, que seguirán dando lo mejor de sí para la prestación del servicio al pueblo. Para enfrentar la crisis energética provocada por el cerco asfixiante de Estados Unidos, han reestructurado su sistema de trabajo, concentrando productos en un mercado por lo distante de las bases productivas, y empleando servicios alternativos como tracción animal y moto-taxis eléctricos para hacer sostenible la comercialización y distribución de alimentos. Pese a las dificultades, aseguran el suministro de viandas, hortalizas, granos y frutas al consumo social, optimizando los recursos disponibles.",
       "category": "General",
       "date": "Martes 28 de julio de 2026",
-      "excerpt": "Trabajadores y directivos de la Empresa de Acopio Granma manifestaron el alto honor que representa recibir el reconocimiento, entre las doce entidades destacadas, otorgado por la máxima dirección política y gubernamental en ocasión de la celebración del 26 de Julio."
+      "excerpt": "Trabajadores y directivos de la Empresa de Acopio Granma manifestaron el alto honor que representa recibir el reconocimiento, entre las doce entidades destacadas, otorgado por la máxima dirección política y gubernamental en ocasión de la celebración del 26 de Julio.",
+      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
     }
   ],
   "fichas": [
@@ -1711,11 +1723,11 @@
             },
             {
               "level": "III",
-              "amount": "198.03"
+              "amount": "198.02"
             },
             {
               "level": "SR",
-              "amount": "180.10"
+              "amount": "180.11"
             }
           ]
         },
@@ -1789,11 +1801,11 @@
             },
             {
               "level": "II",
-              "amount": "198.03"
+              "amount": "198.02"
             },
             {
               "level": "III",
-              "amount": "180.10"
+              "amount": "180.11"
             },
             {
               "level": "SR",
@@ -1826,7 +1838,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.03"
+              "amount": "198.02"
             },
             {
               "level": "II",
@@ -1867,7 +1879,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "198.03"
+              "amount": "198.02"
             },
             {
               "level": "II",
@@ -1908,7 +1920,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "180.10"
+              "amount": "180.11"
             },
             {
               "level": "II",
@@ -2007,7 +2019,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.80"
+              "amount": "160.81"
             }
           ]
         },
@@ -2118,11 +2130,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.80"
+              "amount": "160.81"
             },
             {
               "level": "II",
-              "amount": "144.80"
+              "amount": "144.81"
             },
             {
               "level": "III",
@@ -2176,7 +2188,7 @@
             },
             {
               "level": "SR",
-              "amount": "90.05"
+              "amount": "90.06"
             }
           ]
         },
@@ -2254,7 +2266,7 @@
             },
             {
               "level": "III",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "SR",
@@ -2328,7 +2340,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "90.05"
+              "amount": "90.06"
             },
             {
               "level": "II",
@@ -2386,7 +2398,7 @@
             },
             {
               "level": "SR",
-              "amount": "102.91"
+              "amount": "102.92"
             }
           ]
         },
@@ -2497,11 +2509,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "102.91"
+              "amount": "102.92"
             },
             {
               "level": "II",
-              "amount": "92.67"
+              "amount": "92.68"
             },
             {
               "level": "III",
@@ -2592,11 +2604,11 @@
             },
             {
               "level": "III",
-              "amount": "88.41"
+              "amount": "88.40"
             },
             {
               "level": "SR",
-              "amount": "80.40"
+              "amount": "80.41"
             }
           ]
         },
@@ -2670,11 +2682,11 @@
             },
             {
               "level": "II",
-              "amount": "88.41"
+              "amount": "88.40"
             },
             {
               "level": "III",
-              "amount": "80.40"
+              "amount": "80.41"
             },
             {
               "level": "SR",
@@ -2707,7 +2719,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "88.41"
+              "amount": "88.40"
             },
             {
               "level": "II",
@@ -2748,7 +2760,7 @@
           "rates": [
             {
               "level": "I",
-              "amount": "80.40"
+              "amount": "80.41"
             },
             {
               "level": "II",
@@ -2756,7 +2768,7 @@
             },
             {
               "level": "III",
-              "amount": "65.38"
+              "amount": "65.39"
             },
             {
               "level": "SR",
@@ -3016,7 +3028,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.07"
+              "amount": "135.08"
             }
           ]
         },
@@ -3094,11 +3106,11 @@
             },
             {
               "level": "III",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "SR",
-              "amount": "121.63"
+              "amount": "121.64"
             }
           ]
         },
@@ -3209,11 +3221,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "II",
-              "amount": "121.63"
+              "amount": "121.64"
             },
             {
               "level": "III",
@@ -3267,7 +3279,7 @@
             },
             {
               "level": "SR",
-              "amount": "160.80"
+              "amount": "160.81"
             }
           ]
         },
@@ -3345,11 +3357,11 @@
             },
             {
               "level": "III",
-              "amount": "160.80"
+              "amount": "160.81"
             },
             {
               "level": "SR",
-              "amount": "144.80"
+              "amount": "144.81"
             }
           ]
         },
@@ -3419,11 +3431,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "160.80"
+              "amount": "160.81"
             },
             {
               "level": "II",
-              "amount": "144.80"
+              "amount": "144.81"
             },
             {
               "level": "III",
@@ -3477,7 +3489,7 @@
             },
             {
               "level": "SR",
-              "amount": "135.07"
+              "amount": "135.08"
             }
           ]
         },
@@ -3555,11 +3567,11 @@
             },
             {
               "level": "III",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "SR",
-              "amount": "121.63"
+              "amount": "121.64"
             }
           ]
         },
@@ -3629,11 +3641,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "135.07"
+              "amount": "135.08"
             },
             {
               "level": "II",
-              "amount": "121.63"
+              "amount": "121.64"
             },
             {
               "level": "III",
@@ -3642,6 +3654,257 @@
             {
               "level": "SR",
               "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desde el barrio",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "119.21"
+            },
+            {
+              "level": "II",
+              "amount": "107.97"
+            },
+            {
+              "level": "III",
+              "amount": "99.01"
+            },
+            {
+              "level": "SR",
+              "amount": "90.06"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "103.49"
+            },
+            {
+              "level": "II",
+              "amount": "99.01"
+            },
+            {
+              "level": "III",
+              "amount": "90.06"
+            },
+            {
+              "level": "SR",
+              "amount": "81.09"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "90.06"
+            },
+            {
+              "level": "II",
+              "amount": "81.09"
+            },
+            {
+              "level": "III",
+              "amount": "73.23"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
             }
           ]
         }
@@ -3683,11 +3946,11 @@
             },
             {
               "level": "III",
-              "amount": "88.41"
+              "amount": "88.40"
             },
             {
               "level": "SR",
-              "amount": "80.40"
+              "amount": "80.41"
             }
           ]
         },
@@ -3720,11 +3983,11 @@
             },
             {
               "level": "II",
-              "amount": "88.41"
+              "amount": "88.40"
             },
             {
               "level": "III",
-              "amount": "80.40"
+              "amount": "80.41"
             },
             {
               "level": "SR",
@@ -3856,7 +4119,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.00"
+              "amount": "201.02"
             }
           ]
         },
@@ -3934,11 +4197,11 @@
             },
             {
               "level": "III",
-              "amount": "201.00"
+              "amount": "201.02"
             },
             {
               "level": "SR",
-              "amount": "181.00"
+              "amount": "181.01"
             }
           ]
         },
@@ -4008,11 +4271,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.00"
+              "amount": "201.02"
             },
             {
               "level": "II",
-              "amount": "181.00"
+              "amount": "181.01"
             },
             {
               "level": "III",
@@ -4066,7 +4329,7 @@
             },
             {
               "level": "SR",
-              "amount": "201.00"
+              "amount": "201.02"
             }
           ]
         },
@@ -4144,11 +4407,11 @@
             },
             {
               "level": "III",
-              "amount": "201.00"
+              "amount": "201.02"
             },
             {
               "level": "SR",
-              "amount": "181.00"
+              "amount": "181.01"
             }
           ]
         },
@@ -4218,11 +4481,11 @@
           "rates": [
             {
               "level": "I",
-              "amount": "201.00"
+              "amount": "201.02"
             },
             {
               "level": "II",
-              "amount": "181.00"
+              "amount": "181.01"
             },
             {
               "level": "III",
@@ -4237,7 +4500,258 @@
       ]
     },
     {
-      "name": "Coloriando Melodías con Niños",
+      "name": "Palco de domingo",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "178.82"
+            },
+            {
+              "level": "II",
+              "amount": "161.96"
+            },
+            {
+              "level": "III",
+              "amount": "148.52"
+            },
+            {
+              "level": "SR",
+              "amount": "135.08"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "155.24"
+            },
+            {
+              "level": "II",
+              "amount": "148.52"
+            },
+            {
+              "level": "III",
+              "amount": "135.08"
+            },
+            {
+              "level": "SR",
+              "amount": "121.64"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "148.52"
+            },
+            {
+              "level": "II",
+              "amount": "128.36"
+            },
+            {
+              "level": "III",
+              "amount": "114.81"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "3",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "135.08"
+            },
+            {
+              "level": "II",
+              "amount": "121.64"
+            },
+            {
+              "level": "III",
+              "amount": "109.85"
+            },
+            {
+              "level": "SR",
+              "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coloriando Melodías",
       "roles": [
         {
           "role": "Director",
@@ -4488,508 +5002,6 @@
       ]
     },
     {
-      "name": "Desde el barrio",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "119.21"
-            },
-            {
-              "level": "II",
-              "amount": "107.97"
-            },
-            {
-              "level": "III",
-              "amount": "99.01"
-            },
-            {
-              "level": "SR",
-              "amount": "90.05"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "103.49"
-            },
-            {
-              "level": "II",
-              "amount": "99.01"
-            },
-            {
-              "level": "III",
-              "amount": "90.05"
-            },
-            {
-              "level": "SR",
-              "amount": "81.09"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "90.05"
-            },
-            {
-              "level": "II",
-              "amount": "81.09"
-            },
-            {
-              "level": "III",
-              "amount": "73.23"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Palco de domingo",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "178.82"
-            },
-            {
-              "level": "II",
-              "amount": "161.96"
-            },
-            {
-              "level": "III",
-              "amount": "148.52"
-            },
-            {
-              "level": "SR",
-              "amount": "135.07"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "155.24"
-            },
-            {
-              "level": "II",
-              "amount": "148.52"
-            },
-            {
-              "level": "III",
-              "amount": "135.07"
-            },
-            {
-              "level": "SR",
-              "amount": "121.63"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "148.52"
-            },
-            {
-              "level": "II",
-              "amount": "128.36"
-            },
-            {
-              "level": "III",
-              "amount": "114.81"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "3",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "135.07"
-            },
-            {
-              "level": "II",
-              "amount": "121.63"
-            },
-            {
-              "level": "III",
-              "amount": "109.85"
-            },
-            {
-              "level": "SR",
-              "amount": "104.78"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Cabina 12:00 – 12:30 (N.P.R)",
       "roles": [
         {
@@ -5164,7 +5176,7 @@
       ]
     },
     {
-      "name": "Promociones y Menciones",
+      "name": "Propaganda",
       "roles": [
         {
           "role": "Director",
@@ -5294,47 +5306,46 @@
   ],
   "worklogs": [
     {
-      "id": "1783611976603",
+      "id": "17744590096300.24077317718495062",
       "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "Propaganda",
-      "role": "Director",
-      "hours": 1,
-      "type": "habitual",
-      "amount": 88.2,
-      "syncStatus": "pending"
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
     },
     {
-      "id": "1783611986198",
+      "id": "17744590170470.9140780844615214",
       "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "RCM Noticias",
-      "role": "Director",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "1785018441348",
+      "userId": "rafael",
+      "date": "2026-07-25",
+      "programName": "Sigue a tu ritmo",
+      "role": "Locutor",
       "hours": 0,
       "type": "habitual",
-      "amount": 80.76,
-      "syncStatus": "pending"
-    },
-    {
-      "id": "1783611976603",
-      "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "Propaganda",
-      "role": "Director",
-      "hours": 1,
-      "type": "habitual",
-      "amount": 88.2,
-      "syncStatus": "pending"
-    },
-    {
-      "id": "1783611986198",
-      "userId": "lissell",
-      "date": "2026-06-30",
-      "programName": "RCM Noticias",
-      "role": "Director",
-      "hours": 0,
-      "type": "habitual",
-      "amount": 80.76,
+      "amount": 81.59,
       "syncStatus": "pending"
     },
     {
@@ -5376,6 +5387,44 @@
       "amount": 135.45
     },
     {
+      "id": "17744590096300.24077317718495062",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-25",
+      "amount": 135.45
+    },
+    {
+      "id": "17744590170470.9140780844615214",
+      "userId": "lissell",
+      "role": "Asesor",
+      "programName": "Buenos Días Bayamo",
+      "date": "2026-03-24",
+      "amount": 135.45
+    },
+    {
+      "id": "1783611976603",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "Propaganda",
+      "role": "Director",
+      "hours": 1,
+      "type": "habitual",
+      "amount": 88.2,
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1783611986198",
+      "userId": "lissell",
+      "date": "2026-06-30",
+      "programName": "RCM Noticias",
+      "role": "Director",
+      "hours": 0,
+      "type": "habitual",
+      "amount": 80.76,
+      "syncStatus": "pending"
+    },
+    {
       "id": "1785018441348",
       "userId": "rafael",
       "date": "2026-07-25",
@@ -5388,17 +5437,6 @@
     }
   ],
   "consolidated": [
-    {
-      "id": "je9culfcw",
-      "userId": "lissell",
-      "month": "2026-06",
-      "amount": 10118.643700000002,
-      "grossAmount": 10892.680000000002,
-      "taxAmount": 774.0363000000002,
-      "reportCount": 102,
-      "dateConsolidated": "2026-07-09T16:16:15.875Z",
-      "calculationMode": "autogestionado"
-    },
     {
       "id": "je9culfcw",
       "userId": "lissell",
@@ -5696,15 +5734,819 @@
       "totalRealMinutes": 14400,
       "dateConsolidated": "2026-05-01T19:40:03.954Z",
       "interruptionDetails": []
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
+    },
+    {
+      "id": "1775232224100",
+      "month": "2026-03",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 438,
+        "publicidad": 554,
+        "educativos": 0,
+        "orientacion": 4455,
+        "cienciaTecnica": 93,
+        "variados": 2626,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1371,
+        "musicales": 3279,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 13,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 438,
+        "cienciaTecnica": 0,
+        "variados": 352,
+        "variadoInfantilGrabado": 26,
+        "historicosGrabado": 26,
+        "dramatizados": 0,
+        "literaturaArte": 86,
+        "musicales": 236,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 1177
+      },
+      "totalRealMinutes": 13703,
+      "dateConsolidated": "2026-04-03T16:03:44.100Z",
+      "interruptionDetails": [
+        {
+          "id": "1775176970219-Alba y Crisol",
+          "date": "2026-03-08",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Coloreando Melodías",
+          "date": "2026-03-08",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176970219-Cómplices",
+          "date": "2026-03-08",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "10:23"
+        },
+        {
+          "id": "1775176985397-Buenos Días Bayamo",
+          "date": "2026-03-06",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "09:38"
+        },
+        {
+          "id": "1775176998336-Cabina 12:00-12:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Cabina 13:00-13:30",
+          "date": "2026-03-17",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Buenos Días Bayamo",
+          "date": "2026-03-17",
+          "programName": "Buenos Días Bayamo",
+          "category": "variados",
+          "affectedMinutes": 116,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-La Cumbancha (Lunes a Viernes)",
+          "date": "2026-03-17",
+          "programName": "La Cumbancha (Lunes a Viernes)",
+          "category": "musicales",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Todos en Casa",
+          "date": "2026-03-17",
+          "programName": "Todos en Casa",
+          "category": "orientacion",
+          "affectedMinutes": 58,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-RCM Noticias",
+          "date": "2026-03-17",
+          "programName": "RCM Noticias",
+          "category": "informativos",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Arte Bayamo",
+          "date": "2026-03-17",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775176998336-Parada Joven",
+          "date": "2026-03-17",
+          "programName": "Parada Joven",
+          "category": "orientacion",
+          "affectedMinutes": 28,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177022539-Arte Bayamo",
+          "date": "2026-03-26",
+          "programName": "Arte Bayamo",
+          "category": "literaturaArte",
+          "affectedMinutes": 43,
+          "percentage": 100,
+          "startTime": "11:15",
+          "endTime": "11:58"
+        },
+        {
+          "id": "1775177047827-Cabina 12:00-12:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 12:00-12:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cabina 13:00-13:30",
+          "date": "2026-03-22",
+          "programName": "Cabina 13:00-13:30",
+          "category": "variados",
+          "affectedMinutes": 30,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Alba y Crisol",
+          "date": "2026-03-22",
+          "programName": "Alba y Crisol",
+          "category": "historicosGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Coloreando Melodías",
+          "date": "2026-03-22",
+          "programName": "Coloreando Melodías",
+          "category": "variadoInfantilGrabado",
+          "affectedMinutes": 13,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Cómplices",
+          "date": "2026-03-22",
+          "programName": "Cómplices",
+          "category": "orientacion",
+          "affectedMinutes": 176,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        },
+        {
+          "id": "1775177047827-Estación 95.3",
+          "date": "2026-03-22",
+          "programName": "Estación 95.3",
+          "category": "musicales",
+          "affectedMinutes": 178,
+          "percentage": 100,
+          "startTime": "07:00",
+          "endTime": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "1777664403954",
+      "month": "2026-04",
+      "accumulated": {
+        "informativos": 1906,
+        "boletines": 426,
+        "publicidad": 544,
+        "educativos": 0,
+        "orientacion": 4314,
+        "cienciaTecnica": 90,
+        "variados": 2626,
+        "historicosGrabado": 52,
+        "variadoInfantilGrabado": 52,
+        "dramatizados": 0,
+        "literaturaArte": 1286,
+        "musicales": 3104,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14400
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14400,
+      "dateConsolidated": "2026-05-01T19:40:03.954Z",
+      "interruptionDetails": []
     }
   ],
   "habitualExclusions": [
     {
-      "username": "lissell",
+      "username": "admin",
       "exclusions": []
     },
     {
+      "username": "lissell",
+      "exclusions": [
+        {
+          "date": "2026-03-21",
+          "programName": "Parada Joven",
+          "role": "Asesor"
+        }
+      ]
+    },
+    {
       "username": "rafael",
+      "exclusions": []
+    },
+    {
+      "username": "ernesto",
+      "exclusions": []
+    },
+    {
+      "username": "johan",
+      "exclusions": []
+    },
+    {
+      "username": "humberto",
+      "exclusions": []
+    },
+    {
+      "username": "viviana",
       "exclusions": []
     },
     {
@@ -5714,11 +6556,31 @@
   ],
   "habitualModes": [
     {
-      "username": "lissell",
+      "username": "admin",
       "mode": false
     },
     {
+      "username": "lissell",
+      "mode": true
+    },
+    {
       "username": "rafael",
+      "mode": false
+    },
+    {
+      "username": "ernesto",
+      "mode": false
+    },
+    {
+      "username": "johan",
+      "mode": false
+    },
+    {
+      "username": "humberto",
+      "mode": false
+    },
+    {
+      "username": "viviana",
       "mode": false
     },
     {
@@ -35781,6 +36643,12 @@
           "name": "CMNL Cover",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-FKXW",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "3/8/2026"
         }
       ]
     },
@@ -35976,14 +36844,54 @@
       "name": "Administrador App",
       "specialty": "Soporte, Redacción y Criptografía",
       "level": "Administración Global",
-      "info": "Cuenta técnica permanente del sistema. Ofrece control completo de programaciones y validación criptográfica de identidades.",
-      "email": "pejotar21@gmail.com",
-      "mobile": "54413935",
       "photoUrl": "",
+      "email": "pejotar21@gmail.com",
+      "info": "Cuenta técnica permanente del sistema. Ofrece control completo de programaciones y validación criptográfica de identidades.",
+      "habitualPrograms": [],
+      "mobile": "54413935",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
       "contracts": [],
-      "designatedUserId": "pedro"
+      "designatedUserId": "pedro",
+      "deviceLimitEnabled": true,
+      "authorizedDevices": [
+        {
+          "token": "DVC-VX23",
+          "name": "Cell",
+          "type": "Móvil",
+          "addedAt": "22/5/2026"
+        },
+        {
+          "token": "DVC-J8BB",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "25/5/2026"
+        },
+        {
+          "token": "DVC-U7K4",
+          "name": "GAISLap",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-ETN9",
+          "name": "Laptop",
+          "type": "PC",
+          "addedAt": "7/6/2026"
+        },
+        {
+          "token": "DVC-UUKU",
+          "name": "Prueba Servi",
+          "type": "PC",
+          "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-R28S",
+          "name": "CMNL Cover",
+          "type": "PC",
+          "addedAt": "30/7/2026"
+        }
+      ]
     },
     {
       "id": "jose",
