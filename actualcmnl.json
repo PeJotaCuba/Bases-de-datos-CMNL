@@ -178,7 +178,9 @@
           "Palco de domingo",
           "Parada Joven",
           "Cómplices",
-          "Coloreando Melodías"
+          "Coloreando Melodías",
+          "Buenos Días Bayamo",
+          "Coloreando Melodías "
         ],
         "Director": [
           "Todos en Casa",
@@ -187,7 +189,8 @@
           "Al son de la radio",
           "La Cumbancha Sábado",
           "Alba y Crisol",
-          "Desde el barrio"
+          "Desde el barrio",
+          "Sigue a tu ritmo"
         ]
       },
       "habitualProgramsDays": {
@@ -225,6 +228,9 @@
           ],
           "Desde el barrio": [
             "Sábado"
+          ],
+          "Sigue a tu ritmo": [
+            "Sábado"
           ]
         },
         "Asesora": {
@@ -258,6 +264,23 @@
             "Domingo"
           ],
           "Coloreando Melodías": [
+            "Domingo"
+          ],
+          "Buenos Días Bayamo": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+          ],
+          "Coloreando Melodías ": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado",
             "Domingo"
           ]
         }
@@ -3660,6 +3683,257 @@
       ]
     },
     {
+      "name": "Desde el barrio",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "119.21"
+            },
+            {
+              "level": "II",
+              "amount": "107.97"
+            },
+            {
+              "level": "III",
+              "amount": "99.01"
+            },
+            {
+              "level": "SR",
+              "amount": "90.05"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "103.49"
+            },
+            {
+              "level": "II",
+              "amount": "99.01"
+            },
+            {
+              "level": "III",
+              "amount": "90.05"
+            },
+            {
+              "level": "SR",
+              "amount": "81.09"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 1",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Locutor 2",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "99.01"
+            },
+            {
+              "level": "II",
+              "amount": "85.57"
+            },
+            {
+              "level": "III",
+              "amount": "76.54"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "2",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "90.05"
+            },
+            {
+              "level": "II",
+              "amount": "81.09"
+            },
+            {
+              "level": "III",
+              "amount": "73.23"
+            },
+            {
+              "level": "SR",
+              "amount": "69.85"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Alba y Crisol",
       "roles": [
         {
@@ -4249,508 +4523,6 @@
       ]
     },
     {
-      "name": "Coloriando Melodías con Niños",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "89.41"
-            },
-            {
-              "level": "II",
-              "amount": "80.98"
-            },
-            {
-              "level": "III",
-              "amount": "74.26"
-            },
-            {
-              "level": "SR",
-              "amount": "67.54"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "77.62"
-            },
-            {
-              "level": "II",
-              "amount": "74.26"
-            },
-            {
-              "level": "III",
-              "amount": "67.54"
-            },
-            {
-              "level": "SR",
-              "amount": "60.82"
-            }
-          ]
-        },
-        {
-          "role": "Locutor",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "74.26"
-            },
-            {
-              "level": "II",
-              "amount": "64.18"
-            },
-            {
-              "level": "III",
-              "amount": "57.40"
-            },
-            {
-              "level": "SR",
-              "amount": "52.39"
-            }
-          ]
-        },
-        {
-          "role": "Actor Secundario",
-          "percentage": "0.3",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7735"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "3210"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "79.14"
-            },
-            {
-              "level": "II",
-              "amount": "68.95"
-            },
-            {
-              "level": "III",
-              "amount": "51.00"
-            },
-            {
-              "level": "SR",
-              "amount": "32.84"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "1.5",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "67.54"
-            },
-            {
-              "level": "II",
-              "amount": "60.82"
-            },
-            {
-              "level": "III",
-              "amount": "54.92"
-            },
-            {
-              "level": "SR",
-              "amount": "52.39"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Desde el barrio",
-      "roles": [
-        {
-          "role": "Director",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "119.21"
-            },
-            {
-              "level": "II",
-              "amount": "107.97"
-            },
-            {
-              "level": "III",
-              "amount": "99.01"
-            },
-            {
-              "level": "SR",
-              "amount": "90.05"
-            }
-          ]
-        },
-        {
-          "role": "Producción Musical (asociada al Director)",
-          "percentage": "0.005",
-          "tr": "No aplica",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "8115"
-            },
-            {
-              "level": "II",
-              "amount": "7350"
-            },
-            {
-              "level": "III",
-              "amount": "6740"
-            },
-            {
-              "level": "SR",
-              "amount": "6130"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "40.58"
-            },
-            {
-              "level": "II",
-              "amount": "36.75"
-            },
-            {
-              "level": "III",
-              "amount": "33.70"
-            },
-            {
-              "level": "SR",
-              "amount": "30.65"
-            }
-          ]
-        },
-        {
-          "role": "Asesor",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "7045"
-            },
-            {
-              "level": "II",
-              "amount": "6740"
-            },
-            {
-              "level": "III",
-              "amount": "6130"
-            },
-            {
-              "level": "SR",
-              "amount": "5520"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "103.49"
-            },
-            {
-              "level": "II",
-              "amount": "99.01"
-            },
-            {
-              "level": "III",
-              "amount": "90.05"
-            },
-            {
-              "level": "SR",
-              "amount": "81.09"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 1",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Locutor 2",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6740"
-            },
-            {
-              "level": "II",
-              "amount": "5825"
-            },
-            {
-              "level": "III",
-              "amount": "5210"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "99.01"
-            },
-            {
-              "level": "II",
-              "amount": "85.57"
-            },
-            {
-              "level": "III",
-              "amount": "76.54"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        },
-        {
-          "role": "Realizador (RGETSR)",
-          "percentage": "0.4",
-          "tr": "2",
-          "salaries": [
-            {
-              "level": "I",
-              "amount": "6130"
-            },
-            {
-              "level": "II",
-              "amount": "5520"
-            },
-            {
-              "level": "III",
-              "amount": "4985"
-            },
-            {
-              "level": "SR",
-              "amount": "4755"
-            }
-          ],
-          "rates": [
-            {
-              "level": "I",
-              "amount": "90.05"
-            },
-            {
-              "level": "II",
-              "amount": "81.09"
-            },
-            {
-              "level": "III",
-              "amount": "73.23"
-            },
-            {
-              "level": "SR",
-              "amount": "69.85"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Palco de domingo",
       "roles": [
         {
@@ -4996,6 +4768,257 @@
             {
               "level": "SR",
               "amount": "104.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coloreando Melodías ",
+      "roles": [
+        {
+          "role": "Director",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "89.41"
+            },
+            {
+              "level": "II",
+              "amount": "80.98"
+            },
+            {
+              "level": "III",
+              "amount": "74.26"
+            },
+            {
+              "level": "SR",
+              "amount": "67.54"
+            }
+          ]
+        },
+        {
+          "role": "Producción Musical (asociada al Director)",
+          "percentage": "0.005",
+          "tr": "No aplica",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "8115"
+            },
+            {
+              "level": "II",
+              "amount": "7350"
+            },
+            {
+              "level": "III",
+              "amount": "6740"
+            },
+            {
+              "level": "SR",
+              "amount": "6130"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "40.58"
+            },
+            {
+              "level": "II",
+              "amount": "36.75"
+            },
+            {
+              "level": "III",
+              "amount": "33.70"
+            },
+            {
+              "level": "SR",
+              "amount": "30.65"
+            }
+          ]
+        },
+        {
+          "role": "Asesor",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7045"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "6130"
+            },
+            {
+              "level": "SR",
+              "amount": "5520"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "77.62"
+            },
+            {
+              "level": "II",
+              "amount": "74.26"
+            },
+            {
+              "level": "III",
+              "amount": "67.54"
+            },
+            {
+              "level": "SR",
+              "amount": "60.82"
+            }
+          ]
+        },
+        {
+          "role": "Locutor",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6740"
+            },
+            {
+              "level": "II",
+              "amount": "5825"
+            },
+            {
+              "level": "III",
+              "amount": "5210"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "74.26"
+            },
+            {
+              "level": "II",
+              "amount": "64.18"
+            },
+            {
+              "level": "III",
+              "amount": "57.40"
+            },
+            {
+              "level": "SR",
+              "amount": "52.39"
+            }
+          ]
+        },
+        {
+          "role": "Actor Secundario",
+          "percentage": "0.3",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "7735"
+            },
+            {
+              "level": "II",
+              "amount": "6740"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "3210"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "79.14"
+            },
+            {
+              "level": "II",
+              "amount": "68.95"
+            },
+            {
+              "level": "III",
+              "amount": "51.00"
+            },
+            {
+              "level": "SR",
+              "amount": "32.84"
+            }
+          ]
+        },
+        {
+          "role": "Realizador (RGETSR)",
+          "percentage": "0.4",
+          "tr": "1.5",
+          "salaries": [
+            {
+              "level": "I",
+              "amount": "6130"
+            },
+            {
+              "level": "II",
+              "amount": "5520"
+            },
+            {
+              "level": "III",
+              "amount": "4985"
+            },
+            {
+              "level": "SR",
+              "amount": "4755"
+            }
+          ],
+          "rates": [
+            {
+              "level": "I",
+              "amount": "67.54"
+            },
+            {
+              "level": "II",
+              "amount": "60.82"
+            },
+            {
+              "level": "III",
+              "amount": "54.92"
+            },
+            {
+              "level": "SR",
+              "amount": "52.39"
             }
           ]
         }
@@ -5646,13 +5669,13 @@
   ],
   "habitualExclusions": [
     {
-      "username": "admin",
+      "username": "admincmnl",
       "exclusions": []
     }
   ],
   "habitualModes": [
     {
-      "username": "admin",
+      "username": "admincmnl",
       "mode": false
     }
   ],
@@ -24108,6 +24131,915 @@
         "content": "\r\nPrograma: ALBA Y CRISOL\r\nFecha: Domingo 5 de abril del 2026.\r\nEscritor: , Aldo Daniel Naranjo Tamayo; asesor,  Abel Guerrero Castro; realizador,  ; conduce, Lianet Collejo Rivero. Todos bajo la dirección de  Maylén Leyanis Pérez Chi.\r\nAsesor: Abel Guerrero Castro.\r\nTema: El movimiento estudiantil contra la dictadura de Batista en 1952.\r\n"
       }
     ],
+    "guionbd_data_barrio.json": [
+      {
+        "id": "17861886003850.11351372804813376",
+        "title": "EL CONSEJO POPULAR CAMILO CIENFUEGOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 12 DE AGOSTO DE 2023",
+        "themes": [
+          "EL CONSEJO POPULAR CAMILO CIENFUEGOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 12 DE AGOSTO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: EL CONSEJO POPULAR CAMILO CIENFUEGOS"
+      },
+      {
+        "id": "17861886003850.7554924316251568",
+        "title": "EL PROYECTO SOCIOCULTURAL COMUNITARIO DOCE DE ENERO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "SÁBADO 15 DE JULIO DE 2023",
+        "themes": [
+          "EL PROYECTO SOCIOCULTURAL COMUNITARIO DOCE DE ENERO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 15 DE JULIO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: EL PROYECTO SOCIOCULTURAL COMUNITARIO DOCE DE ENERO"
+      },
+      {
+        "id": "17861886003850.5627633452956549",
+        "title": "LABOR DE LA FMC EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 19 DE AGOSTO DE 2023",
+        "themes": [
+          "LABOR DE LA FMC EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 19 DE AGOSTO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LABOR DE LA FMC EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003850.7693468229167642",
+        "title": "RESUMEN DE ACTIVIDADES VERANIEGAS EN LOS BARRIOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 2 DE SEPTIEMBRE DE 2023",
+        "themes": [
+          "RESUMEN DE ACTIVIDADES VERANIEGAS EN LOS BARRIOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 2 DE SEPTIEMBRE DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: RESUMEN DE ACTIVIDADES VERANIEGAS EN LOS BARRIOS"
+      },
+      {
+        "id": "17861886003850.5731536307869521",
+        "title": "LA LABOR DE LOS DELEGADOS DE CIRCUNSCRIPCIÓN EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 22 DE JULIO DE 2023",
+        "themes": [
+          "LA LABOR DE LOS DELEGADOS DE CIRCUNSCRIPCIÓN EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 22 DE JULIO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LA LABOR DE LOS DELEGADOS DE CIRCUNSCRIPCIÓN EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003850.718140591826336",
+        "title": "LA BUENA CONVIVENCIA ENTRE VECINOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 26 DE AGOSTO DE 2023",
+        "themes": [
+          "LA BUENA CONVIVENCIA ENTRE VECINOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 26 DE AGOSTO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LA BUENA CONVIVENCIA ENTRE VECINOS"
+      },
+      {
+        "id": "17861886003860.878463240447151",
+        "title": "LABOR COMUNITARIA DEL MONUMENTO PLAZA DE LA PATRIA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 29 DE JULIO DE 2023",
+        "themes": [
+          "LABOR COMUNITARIA DEL MONUMENTO PLAZA DE LA PATRIA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 29 DE JULIO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LABOR COMUNITARIA DEL MONUMENTO PLAZA DE LA PATRIA"
+      },
+      {
+        "id": "17861886003870.741433939408822",
+        "title": "AGRICULTURA URBANA SUBURBANA Y FAMILIAR EN NUESTROS BARRIOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 5 DE AGOSTO DE 2023",
+        "themes": [
+          "AGRICULTURA URBANA",
+          "SUBURBANA Y FAMILIAR EN NUESTROS BARRIOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 5 DE AGOSTO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: AGRICULTURA URBANA, SUBURBANA Y FAMILIAR EN NUESTROS BARRIOS"
+      },
+      {
+        "id": "17861886003870.5518411190173746",
+        "title": "EL BARRIO LA OLLÁ",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "LISSELL FONTELO DANTA",
+        "dateAdded": "SÁBADO 8 DE JULIO DE 2023",
+        "themes": [
+          "EL BARRIO LA OLLÁ"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 8 DE JULIO DE 2023\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: LISSELL FONTELO DANTA\r\nTema: EL BARRIO LA OLLÁ"
+      },
+      {
+        "id": "17861886003930.639133958624465",
+        "title": "PROYECTO SOCIOCULTURAL MANOS MÁGICAS DE ARTESANAS BAYAMESAS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 6 DE ABRIL DE 2024",
+        "themes": [
+          "PROYECTO SOCIOCULTURAL MANOS MÁGICAS",
+          "DE ARTESANAS BAYAMESAS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 06 DE ABRIL DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: PROYECTO SOCIOCULTURAL MANOS MÁGICAS, DE ARTESANAS BAYAMESAS"
+      },
+      {
+        "id": "17861886003870.13434381676577567",
+        "title": "PROYECTO ALMAS CALLEJERAS EN FAVOR DE LOS ANIMALES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 13 DE ABRIL DE 2024",
+        "themes": [
+          "PROYECTO ALMAS CALLEJERAS",
+          "EN FAVOR DE LOS ANIMALES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 13 DE ABRIL DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: PROYECTO “ALMAS CALLEJERAS”, EN FAVOR DE LOS ANIMALES"
+      },
+      {
+        "id": "17861886003870.7347594406235856",
+        "title": "LABOR DE LOS TRABAJADORES SOCIALES EN EL CONSEJO POPULAR JESÚS MENÉNDEZ",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 20 DE ABRIL DE 2024",
+        "themes": [
+          "LABOR DE LOS TRABAJADORES SOCIALES EN EL CONSEJO POPULAR JESÚS MENÉNDEZ"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 20 DE ABRIL DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LABOR DE LOS TRABAJADORES SOCIALES EN EL CONSEJO POPULAR JESÚS MENÉNDEZ"
+      },
+      {
+        "id": "17861886003870.2677533434952565",
+        "title": "IMPACTO DEL PROYECTO SOCIOCULTURAL CUBA MODELA EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 27 DE ABRIL DE 2024",
+        "themes": [
+          "IMPACTO DEL PROYECTO SOCIOCULTURAL CUBA MODELA EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 27 DE ABRIL DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: IMPACTO DEL PROYECTO SOCIOCULTURAL “CUBA MODELA” EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003870.34084952677963687",
+        "title": "IMPACTO SOCIAL DE LA SOCIEDAD DE EMPRENDEDORES AYUDA A CRECER",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 3 DE AGOSTO DE 2024",
+        "themes": [
+          "IMPACTO SOCIAL DE LA SOCIEDAD DE EMPRENDEDORES AYUDA A CRECER"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 03 DE AGOSTO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: IMPACTO SOCIAL DE LA SOCIEDAD DE EMPRENDEDORES “AYUDA A CRECER”"
+      },
+      {
+        "id": "17861886003870.2598863915450592",
+        "title": "LABOR COMUNITARIA DE LOS PROMOTORES DE SALUD DE LA RED HSH EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 10 DE AGOSTO DE 2024",
+        "themes": [
+          "LABOR COMUNITARIA DE LOS PROMOTORES DE SALUD DE LA RED HSH EN BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 10 DE AGOSTO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR COMUNITARIA DE LOS PROMOTORES DE SALUD DE LA RED HSH EN BAYAMO"
+      },
+      {
+        "id": "17861886003870.7301338536999125",
+        "title": "LABOR DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 17 DE AGOSTO DE 2024",
+        "themes": [
+          "LABOR DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 17 DE AGOSTO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003870.45743632376896226",
+        "title": "LABOR DE LA CASA DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 31 DE AGOSTO DE 2024",
+        "themes": [
+          "LABOR DE LA CASA DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 31 DE AGOSTO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DE LA CASA DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO"
+      },
+      {
+        "id": "17861886003870.8684326538945986",
+        "title": "LABOR COMUNITARIA DEL PROYECTO DE DESARROLLO LOCAL PALANTE RECORDS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 7 DE DICIEMBRE DE 2024",
+        "themes": [
+          "LABOR COMUNITARIA DEL PROYECTO DE DESARROLLO LOCAL PALANTE RECORDS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 07 DE DICIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR COMUNITARIA DEL PROYECTO DE DESARROLLO LOCAL “PA´LANTE RECORDS”"
+      },
+      {
+        "id": "17861886003870.4898127220464211",
+        "title": "EL TRABAJO DEL COORDINADOR POLÍTICO DEL PCC Y SUS ESTRUCTURAS SUBORDINADAS EN EL CONSEJO POPULAR DE JESÚS MENÉNDEZ",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 14 DE DICIEMBRE DE 2024",
+        "themes": [
+          "EL TRABAJO DEL COORDINADOR POLÍTICO DEL PCC Y SUS ESTRUCTURAS SUBORDINADAS EN EL CONSEJO POPULAR DE JESÚS MENÉNDEZ"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 14 DE DICIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: EL TRABAJO DEL COORDINADOR POLÍTICO DEL PCC Y SUS ESTRUCTURAS SUBORDINADAS EN EL CONSEJO POPULAR DE JESÚS MENÉNDEZ"
+      },
+      {
+        "id": "17861886003870.013177113448543443",
+        "title": "LOS MUSEOS DE BAYAMO EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 21 DE DICIEMBRE DE 2024",
+        "themes": [
+          "LOS MUSEOS DE BAYAMO EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 21 DE DICIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LOS MUSEOS DE BAYAMO EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003870.7999944343157714",
+        "title": "INICIATIVAS BAYAMESAS EN FAVOR DE LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 28 DE DICIEMBRE DE 2024",
+        "themes": [
+          "INICIATIVAS BAYAMESAS EN FAVOR DE LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 28 DE DICIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: INICIATIVAS BAYAMESAS EN FAVOR DE LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003870.5526441057780783",
+        "title": "COLECTIVO DE ARTESANAS JUANA MORENO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "YANET DEL TORO ROSALES",
+        "dateAdded": "SÁBADO 6 DE JULIO DE 2024",
+        "themes": [
+          "COLECTIVO DE ARTESANAS JUANA MORENO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 06 DE JULIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: YANET DEL TORO ROSALES\r\nTema: COLECTIVO DE ARTESANAS “JUANA MORENO”"
+      },
+      {
+        "id": "17861886003870.9327760589644153",
+        "title": "ARTE JOVEN EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "YANET DEL TORO ROSALES",
+        "dateAdded": "SÁBADO 13 DE JULIO DE 2024",
+        "themes": [
+          "ARTE JOVEN EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 13 DE JULIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: YANET DEL TORO ROSALES\r\nTema: ARTE JOVEN EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003880.015766887591608048",
+        "title": "TRABAJO COMUNITARIO DE LA CASA DE CULTURA 20 DE OCTUBRE",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 20 DE JULIO DE 2024",
+        "themes": [
+          "TRABAJO COMUNITARIO DE LA CASA DE CULTURA 20 DE OCTUBRE"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 20 DE JULIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: TRABAJO COMUNITARIO DE LA CASA DE CULTURA 20 DE OCTUBRE"
+      },
+      {
+        "id": "17861886003880.575531065974641",
+        "title": "IMPORTANCIA DE LAS CELEBRACIONES FAMILIARES Y EN LOS BARRIOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 27 DE JULIO DE 2024",
+        "themes": [
+          "IMPORTANCIA DE LAS CELEBRACIONES FAMILIARES Y EN LOS BARRIOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 27 DE JULIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: IMPORTANCIA DE LAS CELEBRACIONES FAMILIARES Y EN LOS BARRIOS"
+      },
+      {
+        "id": "17861886003880.2402198080778919",
+        "title": "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 1 DE JUNIO DE 2024",
+        "themes": [
+          "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 01 DE JUNIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LABOR COMUNITARIA DE LOS GRUPOS TEATRALES “ANDANTE” Y “GUERRILLA DE TEATREROS”."
+      },
+      {
+        "id": "17861886003880.34468231439724817",
+        "title": "LABOR DE LOS PROMOTORES CULTURALES EN EL CONSEJO POPULAR MABAY",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 8 DE JUNIO DE 2024",
+        "themes": [
+          "LABOR DE LOS PROMOTORES CULTURALES EN EL CONSEJO POPULAR MABAY"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 08 DE JUNIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: LABOR DE LOS PROMOTORES CULTURALES EN EL CONSEJO POPULAR MABAY."
+      },
+      {
+        "id": "17861886003880.5643157333962123",
+        "title": "TRADICIONES POPULARES DE MABAY",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ANA MARGARITA GUTIÉRREZ MUSTELIER",
+        "dateAdded": "SÁBADO 15 DE JUNIO DE 2024",
+        "themes": [
+          "TRADICIONES POPULARES DE MABAY"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 15 DE JUNIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ANA MARGARITA GUTIÉRREZ MUSTELIER\r\nTema: TRADICIONES POPULARES DE MABAY"
+      },
+      {
+        "id": "17861886003880.7685553489858836",
+        "title": "LABOR COMUNITARIA DE LOS MUSEOS DE BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "YANET DEL TORO ROSALES",
+        "dateAdded": "SÁBADO 22 DE JUNIO DE 2024",
+        "themes": [
+          "LABOR COMUNITARIA DE LOS MUSEOS DE BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 22 DE JUNIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: YANET DEL TORO ROSALES\r\nTema: LABOR COMUNITARIA DE LOS MUSEOS DE BAYAMO"
+      },
+      {
+        "id": "17861886003880.7546933354277787",
+        "title": "TRABAJO SOCIAL COMUNITARIO EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "YANET DEL TORO ROSALES",
+        "dateAdded": "SÁBADO 29 DE JUNIO DE 2024",
+        "themes": [
+          "TRABAJO SOCIAL COMUNITARIO EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 29 DE JUNIO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: YANET DEL TORO ROSALES\r\nTema: TRABAJO SOCIAL COMUNITARIO EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA"
+      },
+      {
+        "id": "17861886003880.2957580458410505",
+        "title": "CONSEJO POPULAR MABAY",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 16 DE MARZO DE 2024",
+        "themes": [
+          "CONSEJO POPULAR MABAY"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 16 DE MARZO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: CONSEJO POPULAR MABAY"
+      },
+      {
+        "id": "17861886003880.7543619016996151",
+        "title": "LABOR DE LA CASA DE CULTURA 20 DE OCTUBRE EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 23 DE MARZO DE 2024",
+        "themes": [
+          "LABOR DE LA CASA DE CULTURA 20 DE OCTUBRE EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 23 DE MARZO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LABOR DE LA CASA DE CULTURA 20 DE OCTUBRE EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003880.2989390683941603",
+        "title": "COMUNIDAD ROBERTO REYES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 30 DE MARZO DE 2024",
+        "themes": [
+          "COMUNIDAD ROBERTO REYES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 30 DE MARZO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: COMUNIDAD ROBERTO REYES"
+      },
+      {
+        "id": "17861886003880.6197045837828458",
+        "title": "LABOR DE LA FMC EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "DIRECTOR LISSELL FONTELO DANTA",
+        "dateAdded": "SÁBADO 9 DE MARZO DE 2024",
+        "themes": [
+          "LABOR DE LA FMC EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 9 DE MARZO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: DIRECTOR: LISSELL FONTELO DANTA\r\nTema: LABOR DE LA FMC EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003880.48039979725942517",
+        "title": "LA COMUNIDAD DE VIVIENDAS CAMPESINAS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 11 DE MAYO DE 2024",
+        "themes": [
+          "LA COMUNIDAD DE VIVIENDAS CAMPESINAS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 11 DE MAYO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LA COMUNIDAD DE VIVIENDAS CAMPESINAS"
+      },
+      {
+        "id": "17861886003880.0016034710827237397",
+        "title": "LABOR DE LOS DELEGADOS EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 18 DE MAYO DE 2024",
+        "themes": [
+          "LABOR DE LOS DELEGADOS EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 18 DE MAYO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: LABOR DE LOS DELEGADOS EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003880.2861575169293772",
+        "title": "TRABAJO SOCIAL Y SOCIOCULTURAL EN EL CONSEJO POPULAR CAMILO CIENFUEGOS GORRIARÁN",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 25 DE MAYO DE 2024",
+        "themes": [
+          "TRABAJO SOCIAL Y SOCIOCULTURAL EN EL CONSEJO POPULAR CAMILO CIENFUEGOS GORRIARÁN"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 25 DE MAYO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: TRABAJO SOCIAL Y SOCIOCULTURAL EN EL CONSEJO POPULAR CAMILO CIENFUEGOS GORRIARÁN"
+      },
+      {
+        "id": "17861886003880.17120159185184614",
+        "title": "PRODUCCIÓN DE ALIMENTOS EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "ABEL GUERRERO CASTRO",
+        "dateAdded": "SÁBADO 4 DE MAYO DE 2024",
+        "themes": [
+          "PRODUCCIÓN DE ALIMENTOS EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 4 DE MAYO DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: ABEL GUERRERO CASTRO\r\nTema: PRODUCCIÓN DE ALIMENTOS EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003880.42058842918505923",
+        "title": "LABOR DE LA BRIGADA ARTÍSTICA POR GUANTÁNAMO MI CORAZÓN",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 2 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "LABOR DE LA BRIGADA ARTÍSTICA POR GUANTÁNAMO",
+          "MI CORAZÓN"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 02 DE NOVIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DE LA BRIGADA ARTÍSTICA “POR GUANTÁNAMO, MI CORAZÓN”"
+      },
+      {
+        "id": "17861886003880.9750731167614756",
+        "title": "PRINCIPALES PROBLEMÁTICAS Y TRABAJO SOCIAL EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 9 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "PRINCIPALES PROBLEMÁTICAS Y TRABAJO SOCIAL EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 09 DE NOVIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: PRINCIPALES PROBLEMÁTICAS Y TRABAJO SOCIAL EN LA CIRCUNSCRIPCIÓN 153 DE PEDRO POMPA"
+      },
+      {
+        "id": "17861886003880.3121086703829524",
+        "title": "LA COMUNICACIÓN COMUNITARIA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 16 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "LA COMUNICACIÓN COMUNITARIA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 16 DE NOVIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LA COMUNICACIÓN COMUNITARIA"
+      },
+      {
+        "id": "17861886003880.8304154282924952",
+        "title": "EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 23 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 23 DE NOVIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003910.7010539847694875",
+        "title": "DEPORTE PARA TODOS EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 30 DE NOVIEMBRE DE 2024",
+        "themes": [
+          "DEPORTE PARA TODOS EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 30 DE NOVIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: DEPORTE PARA TODOS EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003910.04502425170456825",
+        "title": "VIOLENCIA EN LAS COMUNIDADES IMPACTOS Y FORMAS DE CONTRARRESTARLA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 12 DE OCTUBRE DE 2024",
+        "themes": [
+          "VIOLENCIA EN LAS COMUNIDADES IMPACTOS Y FORMAS DE CONTRARRESTARLA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 12 DE OCTUBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: VIOLENCIA EN LAS COMUNIDADES: IMPACTOS Y FORMAS DE CONTRARRESTARLA"
+      },
+      {
+        "id": "17861886003910.7269935150647183",
+        "title": "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 19 DE OCTUBRE DE 2024",
+        "themes": [
+          "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 19 DE OCTUBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR COMUNITARIA DE LOS GRUPOS TEATRALES “ANDANTE” Y “GUERRILLA DE TEATREROS”."
+      },
+      {
+        "id": "17861886003920.5114012786116354",
+        "title": "LABOR DEL COMBINADO DEPORTIVO SIBONEY",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 26 DE OCTUBRE DE 2024",
+        "themes": [
+          "LABOR DEL COMBINADO DEPORTIVO SIBONEY"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 26 DE OCTUBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DEL COMBINADO DEPORTIVO “SIBONEY”"
+      },
+      {
+        "id": "17861886003920.5067718369753694",
+        "title": "LAS COMUNIDADES EN LA PRODUCCIÓN DE ALIMENTOS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 5 DE OCTUBRE DE 2024",
+        "themes": [
+          "LAS COMUNIDADES EN LA PRODUCCIÓN DE ALIMENTOS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 5 DE OCTUBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LAS COMUNIDADES EN LA PRODUCCIÓN DE ALIMENTOS"
+      },
+      {
+        "id": "17861886003930.11809884037097462",
+        "title": "LA RESILIENCIA COMUNITARIA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 7 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "LA RESILIENCIA COMUNITARIA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 07 DE SEPTIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LA RESILIENCIA COMUNITARIA"
+      },
+      {
+        "id": "17861886003930.05274433689281188",
+        "title": "LABOR DEL COMBINADO DEPORTIVO CAMILO CIENFUEGOS GORRIARÁN",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 14 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "LABOR DEL COMBINADO DEPORTIVO CAMILO CIENFUEGOS GORRIARÁN"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 14 DE SEPTIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DEL COMBINADO DEPORTIVO “CAMILO CIENFUEGOS GORRIARÁN”"
+      },
+      {
+        "id": "17861886003970.8922141843586765",
+        "title": "ESPACIOS PARA LA PARTICIPACIÓN EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 21 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "ESPACIOS PARA LA PARTICIPACIÓN EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 21 DE SEPTIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: ESPACIOS PARA LA PARTICIPACIÓN EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003930.3444278174572517",
+        "title": "LABOR DE LOS COMITÉS DE DEFENSA DE LA REVOLUCIÓN",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 28 DE SEPTIEMBRE DE 2024",
+        "themes": [
+          "LABOR DE LOS COMITÉS DE DEFENSA DE LA REVOLUCIÓN"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 28 DE SEPTIEMBRE DE 2024\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DE LOS COMITÉS DE DEFENSA DE LA REVOLUCIÓN"
+      },
+      {
+        "id": "17861886003930.1442099704969162",
+        "title": "PROMOCIÓN DE SALUD EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 5 DE ABRIL DE 2025",
+        "themes": [
+          "PROMOCIÓN DE SALUD EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 05 DE ABRIL DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: PROMOCIÓN DE SALUD EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003930.43070874969905526",
+        "title": "TRADICIÓN Y CREATIVIDAD EN LOS BARRIOS DE BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 12 DE ABRIL DE 2025",
+        "themes": [
+          "TRADICIÓN Y CREATIVIDAD EN LOS BARRIOS DE BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 12 DE ABRIL DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: TRADICIÓN Y CREATIVIDAD EN LOS BARRIOS DE BAYAMO"
+      },
+      {
+        "id": "17861886003940.2521760595672141",
+        "title": "IMPACTO DE LAS CASAS DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 16 DE AGOSTO DE 2025",
+        "themes": [
+          "IMPACTO DE LAS CASAS DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 16 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: IMPACTO DE LAS CASAS DE ORIENTACIÓN A LA MUJER Y LA FAMILIA EN BAYAMO"
+      },
+      {
+        "id": "17861886003970.7925267323947617",
+        "title": "LABOR EN LAS COMUNIDADES DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 30 DE AGOSTO DE 2025",
+        "themes": [
+          "LABOR EN LAS COMUNIDADES DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 30 DE AGOSTO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR EN LAS COMUNIDADES DEL MÉDICO Y LA ENFERMERA DE LA FAMILIA"
+      },
+      {
+        "id": "17861886003970.16976209130409814",
+        "title": "TRADICIONES POPULARES Y PROMOCIÓN CULTURAL EN EL CONSEJO POPULAR MABAY",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 4 DE ENERO DE 2025",
+        "themes": [
+          "TRADICIONES POPULARES Y PROMOCIÓN CULTURAL EN EL CONSEJO POPULAR MABAY"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 04 DE ENERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: TRADICIONES POPULARES Y PROMOCIÓN CULTURAL EN EL CONSEJO POPULAR MABAY."
+      },
+      {
+        "id": "17861886003970.8109720289307027",
+        "title": "ACTIVISMO COMUNITARIO DE ORGANIZACIONES DE LA SOCIEDAD CIVIL EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 11 DE ENERO DE 2025",
+        "themes": [
+          "ACTIVISMO COMUNITARIO DE ORGANIZACIONES DE LA SOCIEDAD CIVIL EN BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 11 DE ENERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: ACTIVISMO COMUNITARIO DE ORGANIZACIONES DE LA SOCIEDAD CIVIL EN BAYAMO"
+      },
+      {
+        "id": "17861886003970.5591834732333786",
+        "title": "LABOR DEL COMBINADO DEPORTIVO JESÚS MENÉNDEZ LARRONDO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 18 DE ENERO DE 2025",
+        "themes": [
+          "LABOR DEL COMBINADO DEPORTIVO JESÚS MENÉNDEZ LARRONDO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 18 DE ENERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DEL COMBINADO DEPORTIVO “JESÚS MENÉNDEZ LARRONDO”"
+      },
+      {
+        "id": "17861886003970.7227843876207846",
+        "title": "DEPORTE PARA DISCAPACITADOS UNA EXPERIENCIA BAYAMESA",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 25 DE ENERO DE 2025",
+        "themes": [
+          "DEPORTE PARA DISCAPACITADOS",
+          "UNA EXPERIENCIA BAYAMESA"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 25 DE ENERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: DEPORTE PARA DISCAPACITADOS, UNA EXPERIENCIA BAYAMESA"
+      },
+      {
+        "id": "17861886003970.16994678677281894",
+        "title": "LABOR DE LOS DONANTES DE SANGRE EN BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 1 DE FEBRERO DE 2025",
+        "themes": [
+          "LABOR DE LOS DONANTES DE SANGRE EN BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 01 DE FEBRERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DE LOS DONANTES DE SANGRE EN BAYAMO"
+      },
+      {
+        "id": "17861886003970.24497126544688008",
+        "title": "LABOR DE LOS PROMOTORES CULTURALES EN COMUNIDADES BAYAMESAS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 8 DE FEBRERO DE 2025",
+        "themes": [
+          "LABOR DE LOS PROMOTORES CULTURALES EN COMUNIDADES BAYAMESAS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: 08 DE FEBRERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR DE LOS PROMOTORES CULTURALES EN COMUNIDADES BAYAMESAS"
+      },
+      {
+        "id": "17861886003970.018916732698902594",
+        "title": "LA COMUNIDAD DE VIVIENDAS CAMPESINAS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 15 DE FEBRERO DE 2025",
+        "themes": [
+          "LA COMUNIDAD DE VIVIENDAS CAMPESINAS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 15 DE FEBRERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LA COMUNIDAD DE VIVIENDAS CAMPESINAS"
+      },
+      {
+        "id": "17861886003970.3877104655262733",
+        "title": "ACTIVIDADES DEPORTIVAS EN LOS BARRIOS DE BAYAMO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 22 DE FEBRERO DE 2025",
+        "themes": [
+          "ACTIVIDADES DEPORTIVAS EN LOS BARRIOS DE BAYAMO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 22 DE FEBRERO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: ACTIVIDADES DEPORTIVAS EN LOS BARRIOS DE BAYAMO"
+      },
+      {
+        "id": "17861886003970.2994222032066505",
+        "title": "DEPORTE EN VERANO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 5 DE JULIO DE 2025",
+        "themes": [
+          "DEPORTE EN VERANO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 05 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: DEPORTE EN VERANO"
+      },
+      {
+        "id": "17861886003970.8343987129050126",
+        "title": "PROMOTORES CULTURALES EN VERANO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 19 DE JULIO DE 2025",
+        "themes": [
+          "PROMOTORES CULTURALES EN VERANO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 19 DE JULIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: PROMOTORES CULTURALES EN VERANO"
+      },
+      {
+        "id": "17861886003970.19464852057062343",
+        "title": "EL PROGRAMA DE PREVENCIÓN DE LAS ITS VIHSIDA EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 7 DE JUNIO DE 2025",
+        "themes": [
+          "EL PROGRAMA DE PREVENCIÓN DE LAS ITS",
+          "VIHSIDA EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 07 DE JUNIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: EL PROGRAMA DE PREVENCIÓN DE LAS ITS, VIH-SIDA EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003970.12310800800261412",
+        "title": "DEPORTE PARA TODOS EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 14 DE JUNIO DE 2025",
+        "themes": [
+          "DEPORTE PARA TODOS EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 14 DE JUNIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: DEPORTE PARA TODOS EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003970.8943249023378249",
+        "title": "PROYECTO NACIDOS EN EL ASFALTO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 21 DE JUNIO DE 2025",
+        "themes": [
+          "PROYECTO NACIDOS EN EL ASFALTO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 21 DE JUNIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: PROYECTO NACIDOS EN EL ASFALTO"
+      },
+      {
+        "id": "17861886003970.8155108293449587",
+        "title": "IMPACTOS Y FORMAS DE CONTRARRESTAR LA VIOLENCIA EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 28 DE JUNIO DE 2025",
+        "themes": [
+          "IMPACTOS Y FORMAS DE CONTRARRESTAR LA VIOLENCIA EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 28 DE JUNIO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: IMPACTOS Y FORMAS DE CONTRARRESTAR LA VIOLENCIA EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003970.09537276039091469",
+        "title": "ACTIVISMO DE LAS FEDERADAS EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 8 DE MARZO DE 2025",
+        "themes": [
+          "ACTIVISMO DE LAS FEDERADAS EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 08 DE MARZO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: ACTIVISMO DE LAS FEDERADAS EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003970.8780933269840789",
+        "title": "ATENCIÓN A NIÑOS EN SITUACIÓN DE DISCAPACIDAD Y MENORES SIN AMPARO FAMILIAR EN EL CONSEJO POPULAR JESÚS MENÉNDEZ LARRONDO",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 22 DE MARZO DE 2025",
+        "themes": [
+          "ATENCIÓN A NIÑOS EN SITUACIÓN DE DISCAPACIDAD Y MENORES SIN AMPARO FAMILIAR EN EL CONSEJO POPULAR JESÚS MENÉNDEZ LARRONDO"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 22 DE MARZO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: ATENCIÓN A NIÑOS EN SITUACIÓN DE DISCAPACIDAD Y MENORES SIN AMPARO FAMILIAR EN EL CONSEJO POPULAR JESÚS MENÉNDEZ LARRONDO"
+      },
+      {
+        "id": "17861886003980.5709096145535177",
+        "title": "EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 29 DE MARZO DE 2025",
+        "themes": [
+          "EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 29 DE MARZO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: EL TRABAJO SOCIAL Y CULTURAL EN LAS COMUNIDADES"
+      },
+      {
+        "id": "17861886003980.2131205336531874",
+        "title": "LAS MADRES CUBANAS SOSTÉN DE LAS FAMILIAS Y LA COMUNIDAD",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 10 DE MAYO DE 2025",
+        "themes": [
+          "LAS MADRES CUBANAS",
+          "SOSTÉN DE LAS FAMILIAS Y LA COMUNIDAD"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 10 DE MAYO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LAS MADRES CUBANAS, SOSTÉN DE LAS FAMILIAS Y LA COMUNIDAD"
+      },
+      {
+        "id": "17861886003980.3419219050000051",
+        "title": "JÓVENES PRACTICANTES DE DEPORTES AMATEURS EN COMUNIDADES BAYAMESAS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 17 DE MAYO DE 2025",
+        "themes": [
+          "JÓVENES PRACTICANTES DE DEPORTES AMATEURS EN COMUNIDADES BAYAMESAS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 17 DE MAYO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: JÓVENES PRACTICANTES DE DEPORTES AMATEURS EN COMUNIDADES BAYAMESAS"
+      },
+      {
+        "id": "17861886003980.8311817330597965",
+        "title": "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS",
+        "writer": "PEDRO JOSÉ REYES ACUÑA",
+        "advisor": "CARIDAD AGUILAR ROSABAL",
+        "dateAdded": "SÁBADO 31 DE MAYO DE 2025",
+        "themes": [
+          "LABOR COMUNITARIA DE LOS GRUPOS TEATRALES ANDANTE Y GUERRILLA DE TEATREROS"
+        ],
+        "genre": "DESDE EL BARRIO",
+        "content": "Programa: DESDE EL BARRIO\r\nFecha: SÁBADO 31 DE MAYO DE 2025\r\nEscritor: PEDRO JOSÉ REYES ACUÑA\r\nAsesor: CARIDAD AGUILAR ROSABAL\r\nTema: LABOR COMUNITARIA DE LOS GRUPOS TEATRALES “ANDANTE” Y “GUERRILLA DE TEATREROS”."
+      }
+    ],
     "guionbd_data_musica.json": [
       {
         "id": "17754845279380.004490266562441891",
@@ -37053,7 +37985,9 @@
           "Palco de domingo",
           "Parada Joven",
           "Cómplices",
-          "Coloreando Melodías"
+          "Coloreando Melodías",
+          "Buenos Días Bayamo",
+          "Coloreando Melodías "
         ],
         "Director": [
           "Todos en Casa",
@@ -37062,7 +37996,8 @@
           "Al son de la radio",
           "La Cumbancha Sábado",
           "Alba y Crisol",
-          "Desde el barrio"
+          "Desde el barrio",
+          "Sigue a tu ritmo"
         ]
       },
       "habitualProgramsDays": {
@@ -37100,6 +38035,9 @@
           ],
           "Desde el barrio": [
             "Sábado"
+          ],
+          "Sigue a tu ritmo": [
+            "Sábado"
           ]
         },
         "Asesora": {
@@ -37133,6 +38071,23 @@
             "Domingo"
           ],
           "Coloreando Melodías": [
+            "Domingo"
+          ],
+          "Buenos Días Bayamo": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+          ],
+          "Coloreando Melodías ": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado",
             "Domingo"
           ]
         }
@@ -37927,6 +38882,12 @@
           "name": "CMNL Cover",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-FKXW",
+          "name": "lAP",
+          "type": "PC",
+          "addedAt": "3/8/2026"
         }
       ]
     },
@@ -38064,7 +39025,9 @@
           "Palco de domingo",
           "Parada Joven",
           "Cómplices",
-          "Coloreando Melodías"
+          "Coloreando Melodías",
+          "Buenos Días Bayamo",
+          "Coloreando Melodías "
         ],
         "Director": [
           "Todos en Casa",
@@ -38073,7 +39036,8 @@
           "Al son de la radio",
           "La Cumbancha Sábado",
           "Alba y Crisol",
-          "Desde el barrio"
+          "Desde el barrio",
+          "Sigue a tu ritmo"
         ]
       },
       "habitualProgramsDays": {
@@ -38111,6 +39075,9 @@
           ],
           "Desde el barrio": [
             "Sábado"
+          ],
+          "Sigue a tu ritmo": [
+            "Sábado"
           ]
         },
         "Asesora": {
@@ -38145,6 +39112,23 @@
           ],
           "Coloreando Melodías": [
             "Domingo"
+          ],
+          "Buenos Días Bayamo": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+          ],
+          "Coloreando Melodías ": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado",
+            "Domingo"
           ]
         }
       },
@@ -38152,6 +39136,20 @@
         "2025-01-01",
         "2025-01-01",
         ""
+      ],
+      "authorizedDevices": [
+        {
+          "token": "DVC-4Z9H5",
+          "name": "Móvil",
+          "type": "Móvil",
+          "addedAt": "9/7/2026"
+        },
+        {
+          "token": "DVC-6N7P",
+          "name": "PC-Informativo",
+          "type": "PC",
+          "addedAt": "9/7/2026"
+        }
       ]
     },
     {
