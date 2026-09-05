@@ -6038,6 +6038,47 @@
           "endTime": "03:00 PM"
         }
       ]
+    },
+    {
+      "id": "auto-2026-08-1788609413262",
+      "month": "2026-08",
+      "accumulated": {
+        "informativos": 1934,
+        "boletines": 435,
+        "publicidad": 550,
+        "educativos": 0,
+        "orientacion": 4287,
+        "cienciaTecnica": 87,
+        "variados": 5254,
+        "historicosGrabado": 65,
+        "variadoInfantilGrabado": 65,
+        "dramatizados": 0,
+        "literaturaArte": 1328,
+        "musicales": 875,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 14880
+      },
+      "interruptions": {
+        "informativos": 0,
+        "boletines": 0,
+        "publicidad": 0,
+        "educativos": 0,
+        "orientacion": 0,
+        "cienciaTecnica": 0,
+        "variados": 0,
+        "variadoInfantilGrabado": 0,
+        "historicosGrabado": 0,
+        "dramatizados": 0,
+        "literaturaArte": 0,
+        "musicales": 0,
+        "deportivos": 0,
+        "reposiciones": 0,
+        "total": 0
+      },
+      "totalRealMinutes": 14880,
+      "dateConsolidated": "2026-09-05T11:56:53.262Z",
+      "interruptionDetails": []
     }
   ],
   "paymentConfigs": {},
@@ -26336,6 +26377,66 @@
           "theme": "Balance de las vacaciones en familia y perspectivas para el nuevo curso.",
           "ideas": "El programa invita a las familias a hacer un balance de las vacaciones: qué disfrutaron, qué aprendieron y qué momentos atesorarán. Una psicóloga orienta sobre cómo cerrar esta etapa y preparar el ánimo para el nuevo curso. La sección infantil comparte lo mejor de sus vacaciones. \"Este mundo nuestro\" muestra cómo otras culturas despiden el verano. Música alegre y escolar. Pregunta: ¿Qué te llevas del verano?\n",
           "order": 1
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "Arsenio Rodríguez: el arquitecto del son que revolucionó la música cubana.",
+          "ideas": "El programa celebra el natalicio de Arsenio Rodríguez. Un musicólogo explica su innovación al incorporar la conga y el piano al conjunto de son, y su influencia en la música bailable actual. La sección infantil conoce los instrumentos del son. \"De la Ciencia y la Técnica\" aborda la evolución de las orquestas. \"Este mundo nuestro\" recuerda a otros innovadores de la música popular. Música de Arsenio Rodríguez. Pregunta: ¿Qué son cubano te hace bailar?\n",
+          "order": 1
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "La escuela cubana: comienzo de un nuevo curso, continuidad del proyecto de Fidel.",
+          "ideas": "El programa dedica su temática central al inicio del curso. Una directora de escuela y una maestra conversan sobre la alegría de recibir a los estudiantes. Se recuerda el legado de Fidel en la educación. La sección infantil narra un cuento sobre el primer día de clases. \"De la Ciencia y la Técnica\" aborda las tecnologías en las aulas. \"Este mundo nuestro\" muestra cómo otros países inician su año escolar. Música escolar. Pregunta: ¿Qué recuerdas de tu primer día de clases?\n",
+          "order": 1
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "Drogas legales: alcohol, cigarro y automedicación, la otra cara del consumo.",
+          "ideas": "Un psiquiatra y un especialista en adicciones explican que el alcohol y el tabaco, drogas legales, son las de mayor consumo en Cuba y causan graves daños a la salud. Se aborda también el riesgo de la automedicación con psicofármacos. La sección infantil habla de hábitos saludables. \"De la Ciencia y la Técnica\" detalla los efectos del alcohol y la nicotina. \"Este mundo nuestro\" muestra campañas internacionales contra estas drogas. Música de conciencia. Pregunta: ¿Cómo evitas el consumo excesivo en tu familia?\n",
+          "order": 1
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "Ciencia y medio ambiente: el legado de Tranquilino Sandalio de Noda.",
+          "ideas": "Un historiador de la ciencia y un especialista del CITMA recuerdan al sabio y conectan su legado con la Tarea Vida. La sección infantil hace un experimento. \"De la Ciencia y la Técnica\" repasa sus aportes. \"Este mundo nuestro\" recuerda a sabios latinoamericanos.\n",
+          "order": 1
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "Grandes actrices del teatro, el cine, la televisión y la radio cubanas.",
+          "ideas": "Una crítica de arte y una actriz local repasan la trayectoria de las más destacadas actrices cubanas, incluida Isabel Santos, en los distintos medios. Se analiza su aporte a la representación de la mujer cubana. La sección infantil conoce el oficio de actuar. \"Este mundo nuestro\" recuerda a grandes actrices latinoamericanas. Música de bandas sonoras. Pregunta: ¿Qué actriz cubana admiras más?\n",
+          "order": 1
+        },
+        "Septiembre-semana-1-Sábado": {
+          "theme": "La Marina de Guerra Revolucionaria y sus pares en el mundo.",
+          "ideas": "Un historiador naval repasa la fundación y gesta de la Marina de Guerra Revolucionaria, y establece comparaciones con otras marinas de guerra del mundo. La sección infantil dibuja barcos. \"De la Ciencia y la Técnica\" aborda la tecnología naval. \"Este mundo nuestro\" presenta marinas emblemáticas. Música de la época.\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "Aire limpio, cielo azul: la calidad del aire como prioridad ambiental.",
+          "ideas": "El programa se suma al Día Internacional del Aire Limpio. Un especialista del CITMA explica las fuentes de contaminación atmosférica en Cuba y las acciones para mejorar la calidad del aire, vinculadas a la Tarea Vida. La sección infantil enseña cómo los árboles purifican el aire. \"De la Ciencia y la Técnica\" detalla los sistemas de monitoreo. \"Este mundo nuestro\" muestra experiencias internacionales. Música con sonidos de la naturaleza. Pregunta: ¿Qué haces para contribuir a un aire más limpio?\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "La alfabetización y el periodismo: dos legados de Fidel.",
+          "ideas": "Un historiador recuerda la Campaña de Alfabetización impulsada por Fidel y la creación de una prensa revolucionaria comprometida con el pueblo. La sección infantil cuenta cómo los niños pueden aprender a leer. \"De la Ciencia y la Técnica\" habla de la digitalización de la prensa. \"Este mundo nuestro\" muestra otras campañas de alfabetización. Música de la época. Pregunta: ¿Qué maestro o periodista te marcó?\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "Alimentar al pueblo desde la tierra: la soberanía alimentaria en Granma.",
+          "ideas": "Un directivo de la Agricultura y un productor local analizan los avances de la producción de alimentos en la provincia, con énfasis en el autoabastecimiento municipal. La sección infantil aprende de dónde vienen los alimentos. \"De la Ciencia y la Técnica\" habla de innovaciones agrícolas. \"Este mundo nuestro\" muestra experiencias de soberanía alimentaria. Música campesina. Pregunta: ¿Apoyas a los productores locales?\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "Mujeres que hacen arte: voces femeninas en la cultura cubana.",
+          "ideas": "Una investigadora cultural repasa el aporte de las mujeres a la música, la literatura y las artes plásticas cubanas. La sección infantil conoce a Rita Montaner. \"Este mundo nuestro\" recuerda a artistas latinoamericanas. Música de trovadoras. Pregunta: ¿Qué artista cubana te inspira?\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Prevenir adicciones desde la familia y la comunidad.",
+          "ideas": "Un psiquiatra y un oficial del MININT explican las estrategias de prevención de adicciones en adolescentes, con énfasis en la comunicación familiar y las actividades sanas. La sección infantil habla de elegir bien. \"De la Ciencia y la Técnica\" detalla los efectos de las drogas en el cerebro joven. \"Este mundo nuestro\" muestra campañas preventivas. Música de conciencia. Pregunta: ¿Cómo proteges a tus hijos de las drogas?\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Sábado": {
+          "theme": "Los Cinco Héroes: dignidad y resistencia frente al imperio.",
+          "ideas": "Un historiador recuerda el arresto de los Cinco Héroes el 12 de septiembre de 1998 y su larga batalla legal. Se destaca su valentía y la solidaridad internacional. La sección infantil habla de la valentía. \"Este mundo nuestro\" recuerda a Pedro Albizu Campos y Víctor Jara. Música de trova solidaria.\n",
+          "order": 1
         }
       }
     },
@@ -27007,6 +27108,56 @@
         "Agosto-semana-4-Viernes": {
           "theme": "La relación familia-escuela y su importancia.",
           "ideas": "\"Y algo más\" conversa con una pedagoga y una madre, quienes explican por qué es clave la comunicación entre la familia y la escuela para el éxito escolar. Ofrecen consejos para participar activamente: asistir a reuniones, mantener contacto con los maestros y apoyar las tareas. \"Sin fórmulas mágicas\" propone una merienda para la primera reunión de padres. Testimonio de una familia que ha cultivado una relación estrecha con la escuela de sus hijos. Música de fondo suave. Tono orientador.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "Manejo de paneles solares en casa: cómo aprovecharlos mejor.",
+          "ideas": "\"Y algo más\" recibe a un especialista en energía solar, quien explica los tipos de paneles disponibles, su correcta instalación, orientación y mantenimiento. Da consejos para maximizar su rendimiento y almacenar energía. \"Sin fórmulas mágicas\" propone recetas de cocción eficiente con equipos solares. \"Lo bello también se lleva por fuera\" sugiere integrar los paneles a la estética del hogar. Testimonio de una familia que ha logrado autonomía energética parcial.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "Acompañar a niños y adolescentes en sus deberes escolares.",
+          "ideas": "\"Y algo más\" conversa con una pedagoga, quien ofrece pautas para acompañar las tareas escolares sin hacerlas por ellos: crear un espacio adecuado, establecer horarios, motivar con paciencia y reforzar logros. \"Sin fórmulas mágicas\" propone una merienda para después del estudio. \"Lo bello también se lleva por fuera\" sugiere preparar un rincón de estudio agradable. Testimonio de una madre que ha encontrado el equilibrio entre apoyo y autonomía.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "Prevenir el consumo de drogas en adolescentes: el papel del diálogo familiar.",
+          "ideas": "\"Y algo más\" recibe a un psicólogo que ofrece pautas para dialogar sobre drogas sin estigmatizar. \"Prospecto radial\" recuerda la Línea Confidencial Antidrogas. Testimonio de una familia.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "Manejo sostenible de agua y energía en el hogar.",
+          "ideas": "\"Y algo más\" invita a un especialista en eficiencia, quien ofrece consejos para reducir el consumo de agua y electricidad, implicando a toda la familia. \"Sin fórmulas mágicas\" propone una cena de bajo consumo energético. \"Lo bello también se lleva por fuera\" muestra cómo decorar con luces eficientes. Testimonio de una familia que ha reducido su factura.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "El cuidado de la voz en los niños: prevenir problemas en la escuela.",
+          "ideas": "Fonoaudióloga ofrece consejos sobre hidratación, evitar gritos y detectar señales de alerta.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "Cómo mejorar la calidad del aire dentro del hogar.",
+          "ideas": "\"Y algo más\" recibe a una especialista en salud ambiental, quien recomienda plantas purificadoras, ventilación adecuada, reducción del uso de aerosoles y eliminación del humo del tabaco en interiores. \"Sin fórmulas mágicas\" propone ambientadores naturales. \"Lo bello también se lleva por fuera\" enseña a crear un rincón verde. Testimonio de una familia que ha notado mejoría respiratoria.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "Fomentar la lectura y la escritura en casa.",
+          "ideas": "\"Y algo más\" conversa con una bibliotecaria, quien ofrece ideas para crear un rincón de lectura, leer en familia y animar a los niños a escribir cuentos y diarios. \"Sin fórmulas mágicas\" propone una merienda para acompañar la lectura. \"Lo bello también se lleva por fuera\" enseña a fabricar separadores. Testimonio de una madre que ha formado pequeños lectores.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "Preparar meriendas saludables y económicas para la escuela.",
+          "ideas": "\"Y algo más\" recibe a una nutricionista, quien propone meriendas nutritivas con frutas de temporada, panes y jugos naturales. \"Sin fórmulas mágicas\" da recetas rápidas. \"Prospecto radial\" habla de la importancia de una buena alimentación infantil. Testimonio de una madre que organiza las meriendas semanales.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "Impulsar la creatividad de las niñas en el hogar.",
+          "ideas": "\"Y algo más\" conversa con una instructora de arte, quien recomienda actividades para estimular la creatividad femenina. \"Sin fórmulas mágicas\" propone una merienda temática. \"Lo bello\" enseña a crear un espacio de arte en casa.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Señales de alerta del consumo de drogas en adolescentes.",
+          "ideas": "\"Y algo más\" recibe a un psicólogo, quien detalla cambios de conducta, bajo rendimiento y nuevas amistades. Recomienda diálogo y búsqueda de ayuda. \"Prospecto radial\" recuerda la Línea Confidencial Antidrogas. Testimonio de una madre.\n",
           "order": 2
         }
       }
@@ -27716,6 +27867,56 @@
           "theme": "Preparación e inicio del nuevo curso escolar.",
           "ideas": "Reportaje sobre el alistamiento general de las escuelas y la distribución de recursos. Entrevista a directivos y maestros. Segunda nota: orientaciones finales a las familias. Tercera nota: actividades culturales de despedida del verano. Cierre con información deportiva y el pronóstico del tiempo.\n",
           "order": 3
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "Balance del fin de semana.",
+          "ideas": "Resumen informativo de las actividades del sábado y domingo en Bayamo: presentaciones culturales, eventos deportivos y principales noticias. Segunda nota: breve mención al homenaje a Arsenio Rodríguez en la Casa de la Trova. Tercera nota: preparativos finales para el inicio del curso escolar mañana. Cierre con el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "Acto de inicio del curso escolar en Bayamo.",
+          "ideas": "Cobertura del acto de inicio en una escuela primaria, con declaraciones de estudiantes, maestros y padres. Segunda nota: balance de cobertura docente y recursos. Tercera nota: breve reseña del fallecimiento de Narciso López. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "Recordación de la Primera Declaración de La Habana.",
+          "ideas": "Actividad política conmemorativa. Segunda nota: acciones de prevención en escuelas. Tercera nota: balance del primer día de clases. Deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "Gestión ambiental en Bayamo.",
+          "ideas": "Reportaje sobre las acciones de saneamiento, reforestación y control de focos contaminantes en el municipio. Entrevista a un especialista del CITMA. Segunda nota: homenaje a Tranquilino Sandalio de Noda. Tercera nota: balance de la campaña de ahorro energético. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "Actividades de fin de semana.",
+          "ideas": "Reportaje sobre la agenda cultural y deportiva del fin de semana en Bayamo. Segunda nota: homenaje a Isabel Santos en el cine club local. Tercera nota: breve mención al Día del Trabajador Estadístico (6 de septiembre). Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "Balance del fin de semana y contaminación por humo en la ciudad.",
+          "ideas": "Resumen informativo de las actividades del sábado y domingo en Bayamo. Segunda nota: reportaje sobre la contaminación por humo generada por vehículos y quemas indebidas en la ciudad, con declaraciones de especialistas del CITMA y de vecinos afectados. Cierre con información deportiva y pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "Aseguramiento para el curso escolar recién comenzado.",
+          "ideas": "Reportaje sobre la marcha del curso escolar, con énfasis en la cobertura docente, la entrega de recursos y la alimentación escolar. Entrevista a directivos de Educación y a padres. Segunda nota: recordación de la creación de los Joven Club de Computación. Tercera nota: breve mención al Día del Periodista. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "Balance de la producción agropecuaria en Bayamo.",
+          "ideas": "Reportaje sobre la marcha de la campaña agrícola y el acopio de productos. Entrevista a un productor destacado. Segunda nota: feria agropecuaria del fin de semana. Tercera nota: breve mención al natalicio de Rafael Trejo. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "Actividades culturales y homenaje a la mujer creadora.",
+          "ideas": "Reportaje sobre una exposición de artistas locales. Segunda nota: actividad por el Día del Periodista. Tercera nota: breve mención al fallecimiento de Agostinho Neto. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Jornadas de prevención de adicciones en Bayamo.",
+          "ideas": "Reportaje sobre talleres en escuelas y comunidades. Entrevista a un psicólogo y a un líder comunitario. Segunda nota: recordación del golpe en Chile y homenaje a Víctor Jara. Tercera nota: actividades del fin de semana. Cierre con deportes y pronóstico.\n",
+          "order": 3
         }
       }
     },
@@ -28383,6 +28584,56 @@
           "theme": "La actriz cubana Paula Alí: una vida dedicada a las tablas.",
           "ideas": "Viernes de artes escénicas. Un crítico teatral y un actor local repasan la trayectoria de Paula Alí, destacada actriz cubana, su versatilidad en el teatro, el cine y la televisión, y su aporte a la escena nacional. Se describen fragmentos sonoros de algunas de sus actuaciones. \"En taquilla\" promociona una función en su honor. \"Juego de espejos\" reflexiona sobre la vocación actoral como forma de vida.\n",
           "order": 4
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "El cine y la inteligencia artificial: ¿alianza o amenaza?",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine y un informático analizan cómo la inteligencia artificial está transformando la producción audiovisual: guiones generados por algoritmos, actores digitales, restauración de clásicos. Se debate sobre los límites éticos y artísticos. Se describen ejemplos de películas que han usado estas tecnologías. \"En taquilla\" promociona un ciclo de cine experimental. \"Juego de espejos\" reflexiona sobre el futuro del cine.\n",
+          "order": 4
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "La escultura funeraria en Cuba: arte, memoria y tradición.",
+          "ideas": "Martes de artes plásticas. Un crítico analiza la escultura funeraria en cementerios cubanos. Se describen obras emblemáticas. \"En taquilla\" promociona una exposición fotográfica. \"Juego de espejos\" reflexiona sobre el arte y la memoria.\n",
+          "order": 4
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "La obra de Mario Benedetti y su influencia en la narrativa cubana.",
+          "ideas": "Miércoles de literatura. Un crítico analiza la influencia de Benedetti. Se leen fragmentos. \"Página suelta\" convoca a microrrelatos.\n",
+          "order": 4
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "La trova y la música tradicional: el legado de los compositores orientales.",
+          "ideas": "Jueves de música. Musicólogo y trovador repasan la obra de compositores orientales. Fragmentos. Peña de trova.\n",
+          "order": 4
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "Isabel Santos en el cine y el teatro cubano.",
+          "ideas": "Viernes artes escénicas. Crítico y realizador analizan sus trabajos. Fragmentos.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "El cine documental y la contaminación atmosférica.",
+          "ideas": "Lunes de audiovisuales. Un crítico analiza documentales cubanos e internacionales que abordan la contaminación del aire y sus efectos. Se describen fragmentos sonoros. \"En taquilla\" promociona un ciclo de cine ambiental. \"Juego de espejos\" reflexiona sobre el poder del audiovisual para crear conciencia ecológica.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "Los carteles de la Campaña de Alfabetización: arte al servicio de la educación.",
+          "ideas": "Martes de artes plásticas. Un crítico analiza los carteles, vallas y materiales gráficos creados durante la Campaña de Alfabetización. Se describen obras emblemáticas. \"En taquilla\" promociona una exposición en el Museo Provincial. \"Juego de espejos\" reflexiona sobre el arte como herramienta educativa.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "La literatura del campo: cuentos y poemas sobre la vida rural cubana.",
+          "ideas": "Miércoles de literatura. Un escritor local y un crítico analizan obras de la narrativa cubana que retratan el campo y sus personajes. Se leen fragmentos. \"Página suelta\" convoca a microrrelatos sobre la tierra.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "Voces femeninas del bolero en Cuba.",
+          "ideas": "Jueves de música. Un musicólogo repasa la trayectoria de grandes intérpretes femeninas del bolero cubano: Elena Burke, Omara Portuondo, Moraima Secada, entre otras. Se reproducen fragmentos de sus grabaciones más emblemáticas. \"En taquilla\" promociona una peña de boleros. \"Juego de espejos\" reflexiona sobre la sensualidad y el sentimiento en la interpretación femenina.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Teatro y crítica social en Cuba.",
+          "ideas": "Viernes de artes escénicas. Un director teatral y un crítico analizan obras del teatro cubano que ejercen la crítica social, desde el teatro bufo hasta piezas contemporáneas. Se describen fragmentos sonoros. \"En taquilla\" promociona una función comunitaria.\n",
+          "order": 4
         }
       }
     },
@@ -29049,6 +29300,56 @@
         "Agosto-semana-4-Viernes": {
           "theme": "Estrés académico y cómo manejarlo.",
           "ideas": "La conductora conversa con un psicólogo y un estudiante universitario sobre el estrés académico, sus síntomas y estrategias para manejarlo: organización, ejercicio, sueño adecuado y apoyo social. \"Curiosidades\" presenta datos sobre el estrés en estudiantes. Segmento interactivo con experiencias de los oyentes. Música relajante.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "El son cubano y su influencia en la música actual que escuchan los jóvenes.",
+          "ideas": "La conductora conversa con un joven productor musical y un sonero. Analizan cómo el son sigue vivo en la música urbana y las fusiones contemporáneas. \"Curiosidades\" muestra ejemplos de samples de son en el reguetón y el rap. Segmento interactivo con peticiones. Música de son y fusiones.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "Motivación para el nuevo curso: cómo empezar con buen pie.",
+          "ideas": "Un psicólogo educativo y una estudiante universitaria comparten estrategias para iniciar el curso con motivación: establecer metas, organizar el tiempo, participar en clase. \"Curiosidades\" presenta datos sobre hábitos exitosos. Segmento interactivo.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "Prevención del alcoholismo en jóvenes: señales de alerta.",
+          "ideas": "Conversa con un médico y un joven abstemio. Señales y alternativas de ocio sin alcohol. Datos.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "El cambio climático y la juventud: cómo actuar desde lo local.",
+          "ideas": "Activistas ambientales y especialista. Acciones concretas. Datos sobre impacto en Cuba.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "El cine cubano y los jóvenes: una relación que se renueva.",
+          "ideas": "Joven crítico y estudiante de realización. Propuestas contemporáneas.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "El arte de respirar: deporte, naturaleza y bienestar juvenil.",
+          "ideas": "La conductora conversa con un instructor de ejercicios al aire libre y un joven practicante de ciclismo. Se habla de los beneficios del ejercicio físico para la salud mental y respiratoria, y de los espacios verdes de Bayamo para entrenar. \"Curiosidades\" presenta datos sobre el sedentarismo juvenil. Segmento interactivo con recomendaciones. Música con ritmos enérgicos.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "Jóvenes periodistas: contar la realidad con veracidad.",
+          "ideas": "La conductora conversa con estudiantes de periodismo y jóvenes reporteros. Analizan los retos de la profesión en la era digital y la importancia de la ética. \"Curiosidades\" presenta la historia del periódico Hoy. Segmento interactivo con preguntas.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "Emprendimientos gastronómicos desde la cocina familiar.",
+          "ideas": "La conductora conversa con jóvenes que han iniciado pequeños negocios de comida. Comparten recetas, estrategias y desafíos. \"Curiosidades\" presenta el crecimiento de este sector. Segmento interactivo.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "Mujeres jóvenes y artistas en Bayamo.",
+          "ideas": "La conductora conversa con una cantante y una pintora jóvenes de la ciudad. Cuentan sus proyectos, influencias y retos en el mundo del arte. \"Curiosidades\" presenta datos sobre la participación femenina en la cultura local. Segmento interactivo con mensajes. Música de artistas invitadas.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Ocio sin drogas: alternativas para el fin de semana.",
+          "ideas": "La conductora conversa con jóvenes que organizan actividades sanas: deportes, arte, música. \"Curiosidades\" presenta opciones recreativas gratuitas.\n",
           "order": 5
         }
       }
@@ -29722,6 +30023,56 @@
           "theme": "Consejos para un regreso a clases exitoso: cómo preparar a los niños y adolescentes.",
           "ideas": "Viernes es variado. Juana reúne a una psicóloga y a una madre con experiencia, quienes ofrecen recomendaciones para un regreso a clases exitoso: ajustar rutinas, motivar sin presionar, preparar el espacio de estudio y mantener comunicación con los maestros. \"Historias cotidianas\" narra la experiencia de una familia numerosa. \"De todo un poco\" comparte una lista de verificación. Tono alentador y práctico.\n",
           "order": 6
+        },
+        "Septiembre-semana-1-Lunes": {
+          "theme": "Climaterio masculino o andropausia: mitos y realidades.",
+          "ideas": "Lunes es de sexualidad. Juana presenta el caso de un vecino con síntomas de cansancio y baja libido. \"El que sabe, sabe\" entrevista a un urólogo, quien explica la andropausia, sus síntomas y tratamientos. Desmiente mitos. \"Historias cotidianas\" recoge un testimonio anónimo. \"De todo un poco\" informa sobre las consultas de urología en Bayamo.\n",
+          "order": 6
+        },
+        "Septiembre-semana-1-Martes": {
+          "theme": "Infecciones vaginales recurrentes: prevención y cuidados.",
+          "ideas": "Juana entrevista a un ginecólogo sobre causas y prevención. Desmiente mitos. Testimonio anónimo. Información de consultas en Bayamo.\n",
+          "order": 6
+        },
+        "Septiembre-semana-1-Miércoles": {
+          "theme": "La educación vial desde la infancia.",
+          "ideas": "Miércoles variado. Oficial de tránsito y maestra. Prevención y normas.\n",
+          "order": 6
+        },
+        "Septiembre-semana-1-Jueves": {
+          "theme": "La participación de los padres en las actividades escolares.",
+          "ideas": "Jueves local. Presidenta de consejo de escuela y madre activa. Importancia de la participación.\n",
+          "order": 6
+        },
+        "Septiembre-semana-1-Viernes": {
+          "theme": "El teatro escolar: una herramienta para la formación integral.",
+          "ideas": "Instructor de teatro escolar explica beneficios.\n",
+          "order": 6
+        },
+        "Septiembre-semana-2-Lunes": {
+          "theme": "Disfunciones sexuales femeninas: más allá del tabú.",
+          "ideas": "Lunes es de sexualidad. Juana presenta el caso de una vecina que sufre de falta de deseo. \"El que sabe, sabe\" entrevista a una sexóloga, quien explica causas y tratamientos. Desmiente mitos. \"Historias cotidianas\" recoge un testimonio anónimo. \"De todo un poco\" informa sobre consultas especializadas.\n\n---\n",
+          "order": 6
+        },
+        "Septiembre-semana-2-Martes": {
+          "theme": "Derechos de autor y libertad de prensa en Cuba.",
+          "ideas": "Martes es jurídico. Juana entrevista a un abogado especializado en derecho de autor y comunicación. Explica el marco legal de la prensa y los derechos de los creadores. \"Versiones encontradas\" debate sobre los límites de la libertad de expresión. Se responden preguntas.\n\n---\n",
+          "order": 6
+        },
+        "Septiembre-semana-2-Miércoles": {
+          "theme": "Alimentación consciente: cómo comer sano sin gastar de más.",
+          "ideas": "Miércoles variado. Una nutricionista orienta sobre cómo equilibrar la dieta con productos locales. \"Historias cotidianas\" narra cómo una familia cambió sus hábitos. \"De todo un poco\" recomienda recetas.\n\n---\n",
+          "order": 6
+        },
+        "Septiembre-semana-2-Jueves": {
+          "theme": "La mujer en la vida económica y social de Bayamo.",
+          "ideas": "Jueves local. Juana entrevista a una dirigente de la FMC y a una emprendedora. Analizan avances y desafíos de la mujer en el municipio. \"Entérate, vecino\" informa sobre programas de apoyo.\n\n---\n",
+          "order": 6
+        },
+        "Septiembre-semana-2-Viernes": {
+          "theme": "Cómo ayudar a un amigo que cae en las drogas.",
+          "ideas": "Viernes variado. Una psicóloga orienta sobre cómo acompañar a un amigo con problemas de adicción, sin juzgar y buscando ayuda profesional. \"Historias cotidianas\" narra una experiencia de apoyo exitoso.\n\n---\n",
+          "order": 6
         }
       }
     },
@@ -29913,6 +30264,16 @@
           "theme": "Balance del verano y preparativos finales para el curso escolar.",
           "ideas": "Reportaje sobre las actividades de cierre del verano en Bayamo. Segunda nota: preparativos finales para el inicio del curso escolar. Tercera nota: previsiones para la semana entrante. Cierre con la cartelera deportiva del domingo y el pronóstico del tiempo.\n",
           "order": 3
+        },
+        "Septiembre-semana-1-Sábado": {
+          "theme": "Día de la Marina de Guerra y previsiones para la semana.",
+          "ideas": "Actividades por la Marina. Previsiones. Cierre con cartelera y pronóstico.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Sábado": {
+          "theme": "Actividades culturales del fin de semana.",
+          "ideas": "Reportaje sobre la agenda cultural y deportiva del fin de semana en Bayamo: conciertos, exposiciones, peñas y competencias. Segunda nota: breve mención al aniversario del arresto de los Cinco Héroes. Tercera nota: previsiones para la próxima semana. Cierre con cartelera y pronóstico.\n",
+          "order": 3
         }
       }
     },
@@ -30057,6 +30418,16 @@
           "theme": "Cómo retomar el horario y estilo de vida en el nuevo curso escolar tras las vacaciones.",
           "ideas": "\"Lo que se comenta\" recoge voces de adolescentes sobre lo difícil que es retomar la rutina escolar. La psicóloga ofrece consejos para ajustar el horario de sueño, organizar el tiempo de estudio y mantener hábitos saludables. \"Sigue conmigo\" propone un plan de adaptación para los primeros días. \"Al ritmo de tus días\" presenta el testimonio de un adolescente que logró una transición exitosa. Música motivadora.\n",
           "order": 4
+        },
+        "Septiembre-semana-1-Sábado": {
+          "theme": "La importancia de mantener la motivación escolar durante todo el curso.",
+          "ideas": "Estrategias para evitar el desánimo.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Sábado": {
+          "theme": "Debatir y escuchar: cómo hacerlo entre adolescentes.",
+          "ideas": "\"Lo que se comenta\" recoge voces de adolescentes hablando sobre discusiones con amigos y familiares. La psicóloga ofrece pautas para debatir sin pelear: escucha activa, respeto al turno, argumentación y aceptación de la diferencia. \"Sigue conmigo\" propone un ejercicio de debate sobre un tema cotidiano. \"Al ritmo de tus días\" presenta a un adolescente que aprendió a escuchar antes de hablar.\n",
+          "order": 4
         }
       }
     },
@@ -30200,6 +30571,16 @@
         "Agosto-semana-4-Sábado": {
           "theme": "Arsenio Rodríguez: el ciego maravilloso que revolucionó el son.",
           "ideas": "\"Sergito Montuno\" dedica el programa a Arsenio Rodríguez, nacido el 31 de agosto de 1911, uno de los arquitectos del son habanizado. \"¿De dónde son?\" rastrea sus orígenes en Matanzas y su innovación al incorporar la conga y el piano al conjunto de son. \"Historias y soneros\" narra anécdotas de su vida y obra. \"Academia del tumbao\" invita a un musicólogo a analizar sus aportes. \"Conexión sonera\" presenta la influencia de Arsenio en agrupaciones actuales. \"Son para bailadores\" cierra con un clásico.\n",
+          "order": 5
+        },
+        "Septiembre-semana-1-Sábado": {
+          "theme": "Universon: la sonoridad granmense que late en el son.",
+          "ideas": "\"Sergito Montuno\" dedica el programa al grupo granmense Universon. \"¿De dónde son?\" explora sus orígenes y trayectoria. \"Historias y soneros\" narra anécdotas. \"Academia del tumbao\" analiza su estilo. \"Conexión sonera\" presenta sus fusiones. \"Son para bailadores\" cierra con un tema del grupo.\n",
+          "order": 5
+        },
+        "Septiembre-semana-2-Sábado": {
+          "theme": "José Alberto Tamayo Díaz, \"El Ruiseñor\": la voz de Bayamo en el mundo.",
+          "ideas": "\"Sergito Montuno\" dedica el programa al cantautor bayamés José Alberto Tamayo Díaz, conocido como \"El Ruiseñor\". \"¿De dónde son?\" repasa sus orígenes y trayectoria de casi cuatro décadas. \"Historias y soneros\" narra anécdotas de su carrera internacional. \"Academia del tumbao\" analiza su estilo, que fusiona el son con la salsa y otros ritmos. \"Conexión sonera\" presenta sus colaboraciones. \"Son para bailadores\" cierra con un tema del artista.\n\n---\n",
           "order": 5
         }
       }
@@ -30368,6 +30749,16 @@
           "theme": "La importancia de establecer rutinas familiares para el curso escolar. Prepara juntos el horario de la familia. Los abuelos comparten cómo era su preparación para la escuela.",
           "ideas": "El locutor abre con la pregunta participativa: ¿Cómo se prepara tu familia para el inicio del curso? Invita a compartir experiencias. Luego, propone la actividad familiar de elaborar juntos un horario semanal que incluya tiempo de estudio, tareas domésticas y recreación. En el segmento de la tercera edad, un abuelo recuerda cómo se preparaba para la escuela en su juventud y la importancia que le daba su familia. Se intercalan canciones escolares. Mensaje: la organización familiar es clave para un año escolar exitoso.\n",
           "order": 1
+        },
+        "Septiembre-semana-1-Domingo": {
+          "theme": "La importancia de los números en la vida familiar. Organiza un presupuesto familiar con ayuda de todos. Los abuelos recuerdan cómo llevaban las cuentas del hogar.",
+          "ideas": "Pregunta participativa sobre organización de cuentas. Actividad de presupuesto sencillo con niños. Abuelo recuerda métodos antiguos.\n",
+          "order": 1
+        },
+        "Septiembre-semana-2-Domingo": {
+          "theme": "El arte en familia: cómo acercar a niños y abuelos a la cultura. Realiza una tarde de arte en casa. Los abuelos recuerdan cómo se formaban los artistas antes del ISA.",
+          "ideas": "El locutor abre preguntando: ¿Qué manifestación artística disfrutan en familia? Luego, propone una tarde de arte con dibujo, música y poesía. En el segmento de la tercera edad, un abuelo recuerda la formación artística antes de la creación del ISA. Música de trovadores.\n",
+          "order": 1
         }
       }
     },
@@ -30507,6 +30898,16 @@
         "Agosto-semana-4-Domingo": {
           "theme": "Cuentos y canciones para preparar el regreso a la escuela.",
           "ideas": "La actriz-personaje narra un cuento sobre un niño que se prepara con ilusión para su primer día de clases. Se escuchan canciones infantiles sobre la escuela, los lápices y los libros. Actividad: que los niños dibujen cómo les gustaría que fuera su aula. Música alegre y participativa. Mensaje: la escuela es un lugar para aprender y hacer amigos.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Domingo": {
+          "theme": "Canciones y cuentos sobre la patria y los héroes.",
+          "ideas": "Historia de un héroe cubano. Canciones infantiles. Dibujo.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Domingo": {
+          "theme": "Cuentos y canciones sobre la patria y el arte.",
+          "ideas": "La actriz-personaje narra la historia de la Asamblea de Jimaguayú y la creación del ISA de forma sencilla. Se escuchan canciones infantiles sobre la patria. Actividad: dibujar una escuela de arte.\n",
           "order": 2
         }
       }
@@ -30652,6 +31053,16 @@
           "theme": "Las escuelas en Bayamo y su devenir histórico.",
           "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la evolución de las instituciones educativas en Bayamo, desde las primeras escuelas coloniales hasta el sistema educativo revolucionario. Se destaca la labor de maestros y pedagogos locales. Música de fondo con piezas de la época. Reflexión sobre la escuela como pilar de la comunidad.\n",
           "order": 3
+        },
+        "Septiembre-semana-1-Domingo": {
+          "theme": "Los censos hechos en Bayamo durante la colonia y la neocolonia.",
+          "ideas": "Un investigador del Museo Provincial analiza los censos históricos realizados en Bayamo, sus características, limitaciones y utilidad para conocer la vida de la ciudad. Música de época.\n",
+          "order": 3
+        },
+        "Septiembre-semana-2-Domingo": {
+          "theme": "Manuel Muñoz Cedeño: un bayamés ilustre.",
+          "ideas": "Charla histórica con un investigador del Museo Provincial. Se narra la vida y obra de Manuel Muñoz Cedeño, figura relevante de la historia de Bayamo, destacando su aporte a la cultura y a la comunidad. Se leen documentos y testimonios. Música de la época. Reflexión sobre su legado.\n",
+          "order": 3
         }
       }
     },
@@ -30795,6 +31206,16 @@
         "Agosto-semana-4-Domingo": {
           "theme": "Música para despedir el verano.",
           "ideas": "El conductor presenta una selección de canciones ideales para cerrar el verano con alegría. \"Dial Sonero\" presenta un son de despedida. \"Estación Mundial\" incluye temas veraniegos de otros países. \"Mano a Mano\" enfrenta versiones de una misma canción. \"Mucho Flow\" incluye un reguetón festivo. \"De Bayamo para el Mundo\" entrevista a un músico local que estrenó tema este verano. Ambiente fresco.\n",
+          "order": 4
+        },
+        "Septiembre-semana-1-Domingo": {
+          "theme": "Música para comenzar el mes de septiembre.",
+          "ideas": "Canciones motivadoras. Sones, trova y música actual.\n",
+          "order": 4
+        },
+        "Septiembre-semana-2-Domingo": {
+          "theme": "Música para celebrar la cultura cubana.",
+          "ideas": "El conductor presenta una selección de canciones que exaltan la identidad y la creación artística.\n",
           "order": 4
         }
       }
@@ -30940,6 +31361,16 @@
           "theme": "La radio y la música en la cultura cubana.",
           "ideas": "La conductora presenta un recorrido por la relación entre la radio y la música en Cuba, destacando el papel de las emisoras locales en la promoción de la cultura. \"Agenda cultural\" informa sobre las actividades de la semana entrante. \"Asiento reservado\" invita a un locutor histórico. \"Legado bayamés\" recuerda a un radialista destacado. Tono de homenaje a la radio.",
           "order": 5
+        },
+        "Septiembre-semana-1-Domingo": {
+          "theme": "La enseñanza artística en Granma.",
+          "ideas": "La conductora presenta un recorrido por las instituciones de enseñanza artística en la provincia: escuelas de música, danza, teatro y artes plásticas. Entrevista a un profesor y a un estudiante. \"Agenda cultural\" informa. \"Legado bayamés\" recuerda a un formador de artistas.",
+          "order": 5
+        },
+        "Septiembre-semana-2-Domingo": {
+          "theme": "Inicio del curso escolar en la enseñanza artística bayamesa.",
+          "ideas": "La conductora presenta un recorrido por las instituciones de enseñanza artística de Bayamo que inician su curso: escuelas de música, danza, teatro y artes plásticas. Entrevista a un profesor y a un estudiante. \"Agenda cultural\" informa sobre las matrículas y actividades. \"Legado bayamés\" recuerda a un formador de artistas local.",
+          "order": 5
         }
       }
     },
@@ -31009,6 +31440,16 @@
         "Agosto-semana-4-Sábado": {
           "theme": "Gira de Teniente Rey por los 100 años de Fidel: balance.",
           "ideas": "El programa presenta un balance de la gira realizada por la agrupación Teniente Rey en saludo al centenario de Fidel Castro. Se entrevista a sus integrantes y a líderes comunitarios que organizaron las presentaciones. Cuentan anécdotas, la respuesta del público y el impacto cultural en los barrios visitados. Música de la agrupación. Tono festivo y de homenaje.\n",
+          "order": 2
+        },
+        "Septiembre-semana-1-Sábado": {
+          "theme": "Teniente Rey y sus conciertos en las comunidades.",
+          "ideas": "El programa sigue a la agrupación Teniente Rey en sus presentaciones por los barrios de Bayamo. Se entrevista a sus integrantes y a vecinos que han disfrutado de sus conciertos. Se analiza el impacto cultural de la música en vivo en las comunidades.\n",
+          "order": 2
+        },
+        "Septiembre-semana-2-Sábado": {
+          "theme": "Red Juvenil Comunitaria en Bayamo.",
+          "ideas": "El programa se adentra en el trabajo de la Red Juvenil Comunitaria de Bayamo. Se entrevista a sus coordinadores y a jóvenes participantes, quienes explican los proyectos socioculturales que impulsan en los barrios: talleres de arte, jornadas de limpieza, festivales y actividades recreativas. Se recogen testimonios de vecinos y se informa cómo sumarse. Música de rap comunitario y trova urbana.\n",
           "order": 2
         }
       }
@@ -36748,6 +37189,813 @@
         "event": "2007",
         "description": "Fallece el cineasta sueco Ingmar Bergman."
       }
+    ],
+    "Septiembre": [
+      {
+        "day": 1,
+        "event": "1851",
+        "description": "Fallece fusilado el independentista venezolano Narciso López."
+      },
+      {
+        "day": 1,
+        "event": "1901",
+        "description": "Nace el célebre bacteriólogo cubano Arturo Curbelo Hernández."
+      },
+      {
+        "day": 1,
+        "event": "1904",
+        "description": "Se crea oficialmente la agencia de noticias rusa ITAR-TASS."
+      },
+      {
+        "day": 1,
+        "event": "1939",
+        "description": "Tropas de la Alemania nazi invaden Polonia, dando inicio a la Segunda Guerra Mundial."
+      },
+      {
+        "day": 1,
+        "event": "1969",
+        "description": "Da inicio el proceso de la Revolución libia."
+      },
+      {
+        "day": 1,
+        "event": "1970",
+        "description": "Fallece el escritor francés François Mauriac, galardonado con el Premio Nobel de Literatura."
+      },
+      {
+        "day": 2,
+        "event": "1192",
+        "description": "El rey Ricardo I de Inglaterra y Saladino firman el Tratado de Jaffa, poniendo fin a la Tercera Cruzada."
+      },
+      {
+        "day": 2,
+        "event": "1666",
+        "description": "Comienza el gran incendio de Londres que destruye más del 80% de la ciudad."
+      },
+      {
+        "day": 2,
+        "event": "1858",
+        "description": "Se realiza el primer cableado telegráfico a través del Océano Atlántico."
+      },
+      {
+        "day": 2,
+        "event": "1945",
+        "description": "Japón firma su rendición incondicional, marcando el final de la Segunda Guerra Mundial."
+      },
+      {
+        "day": 2,
+        "event": "1960",
+        "description": "Se proclama ante el pueblo la Primera Declaración de La Habana, donde Fidel Castro anuncia la ruptura del tratado militar con Estados Unidos."
+      },
+      {
+        "day": 2,
+        "event": "1973",
+        "description": "Fallece el célebre novelista británico J.R.R. Tolkien."
+      },
+      {
+        "day": 3,
+        "event": "1658",
+        "description": "Fallece Oliver Cromwell, figura política y líder de la Revolución inglesa."
+      },
+      {
+        "day": 3,
+        "event": "1808",
+        "description": "Nace el destacado científico y sabio cubano Tranquilino Sandalio Noda."
+      },
+      {
+        "day": 3,
+        "event": "1875",
+        "description": "Nace el ingeniero y fabricante de automóviles austríaco Ferdinand Porsche."
+      },
+      {
+        "day": 3,
+        "event": "1957",
+        "description": "Muere en una acción revolucionaria en el cine América de La Habana la joven combatiente Urselia Díaz Báez."
+      },
+      {
+        "day": 3,
+        "event": "1969",
+        "description": "Fallece el presidente de la República Democrática de Vietnam, Ho Chi Minh."
+      },
+      {
+        "day": 3,
+        "event": "1979",
+        "description": "Se inaugura en La Habana la VI Cumbre del Movimiento de Países No Alineados."
+      },
+      {
+        "day": 4,
+        "event": "1479",
+        "description": "Se firma el Tratado de Alcacova entre España y Portugal, por el cual se reconocen los derechos castellanos sobre las islas Canarias."
+      },
+      {
+        "day": 4,
+        "event": "1838",
+        "description": "Nace Francisco Argilagos Guinferrer, considerado el primer médico internacionalista cubano y oftalmólogo del Ejército Libertador."
+      },
+      {
+        "day": 4,
+        "event": "1931",
+        "description": "Se funda en Polonia la Federación Internacional de Tiro con Arco."
+      },
+      {
+        "day": 4,
+        "event": "1961",
+        "description": "Nace la destacada actriz cubana de cine y televisión Isabel Santos."
+      },
+      {
+        "day": 4,
+        "event": "1965",
+        "description": "Fallece el teólogo, médico misionero y filósofo alemán Albert Schweitzer."
+      },
+      {
+        "day": 5,
+        "event": "1638",
+        "description": "Nace el monarca francés Luis XIV."
+      },
+      {
+        "day": 5,
+        "event": "1877",
+        "description": "Comienza el proceso científico para confeccionar el primer mapa del Planeta Marte."
+      },
+      {
+        "day": 5,
+        "event": "1908",
+        "description": "Nace el compositor y cantante cubano Joseíto Fernández, creador de la melodía de la Guantanamera."
+      },
+      {
+        "day": 5,
+        "event": "1946",
+        "description": "Nace en Zanzíbar el músico y cantante británico Freddie Mercury."
+      },
+      {
+        "day": 5,
+        "event": "1957",
+        "description": "Se produce el Levantamiento popular de Cienfuegos, con la toma del puesto naval de Cayo Loco por marinos y miembros del Movimiento 26 de Julio."
+      },
+      {
+        "day": 5,
+        "event": "1980",
+        "description": "Se instituye de forma oficial esta fecha como el Día de la Marina de Guerra Revolucionaria."
+      },
+      {
+        "day": 6,
+        "event": "1815",
+        "description": "El Libertador Simón Bolívar redacta su célebre Carta de Jamaica."
+      },
+      {
+        "day": 6,
+        "event": "1874",
+        "description": "Cae prisionero de las tropas coloniales españolas el Mayor General del Ejército Libertador Calixto García Íñiguez."
+      },
+      {
+        "day": 6,
+        "event": "1959",
+        "description": "Nace en Matanzas el combatiente revolucionario Eugenio Morales Quintana."
+      },
+      {
+        "day": 6,
+        "event": "1970",
+        "description": "Se ejecuta el primer Censo de Población y Viviendas de la Revolución, estableciéndose en esta fecha el Día del Trabajador Estadístico en Cuba."
+      },
+      {
+        "day": 6,
+        "event": "1998",
+        "description": "Fallece el aclamado director de cine japonés Akira Kurosawa."
+      },
+      {
+        "day": 6,
+        "event": "1998",
+        "description": "Se realiza en Francia el primer trasplante de mano del mundo a un paciente neozelandés."
+      },
+      {
+        "day": 7,
+        "event": "1895",
+        "description": "Fallece el médico y combatiente de las guerras de independencia de Cuba Federico Incháustegui."
+      },
+      {
+        "day": 7,
+        "event": "1941",
+        "description": "Fallece en La Habana el general mambí y ex-presidente de la República Mario García Menocal."
+      },
+      {
+        "day": 7,
+        "event": "1944",
+        "description": "Muere el destacado compositor y musicólogo cubano Eduardo Sánchez de Fuentes."
+      },
+      {
+        "day": 7,
+        "event": "1948",
+        "description": "Se proclama oficialmente la constitución de la República Democrática Alemana."
+      },
+      {
+        "day": 7,
+        "event": "1949",
+        "description": "Fallece el destacado muralista y pintor mexicano José Clemente Orozco."
+      },
+      {
+        "day": 8,
+        "event": "1157",
+        "description": "Nace el monarca inglés Ricardo I de Inglaterra, conocido como \"Ricardo Corazón de León\"."
+      },
+      {
+        "day": 8,
+        "event": "1645",
+        "description": "Muere el escritor español del Siglo de Oro Francisco de Quevedo."
+      },
+      {
+        "day": 8,
+        "event": "1894",
+        "description": "Fallece el eminente físico y científico alemán Hermann Von Helmholtz."
+      },
+      {
+        "day": 8,
+        "event": "1943",
+        "description": "Es asesinado por las fuerzas ocupantes fascistas el periodista comunista checo Julius Fucik, instaurándose en su homenaje el Día Internacional del Periodista."
+      },
+      {
+        "day": 8,
+        "event": "1987",
+        "description": "Se crean por iniciativa oficial en Cuba los Joven Club de Computación y Electrónica."
+      },
+      {
+        "day": 9,
+        "event": "1907",
+        "description": "Se realiza de forma exitosa el primer vuelo de un aeroplano con más de una hora de duración."
+      },
+      {
+        "day": 9,
+        "event": "1910",
+        "description": "Nace en San Antonio de los Baños el líder juvenil y mártir estudiantil Rafael Trejo González."
+      },
+      {
+        "day": 9,
+        "event": "1969",
+        "description": "Cae combatiendo en la guerrilla el revolucionario boliviano Inti Peredo."
+      },
+      {
+        "day": 9,
+        "event": "1976",
+        "description": "Fallece en Pekín el dirigente comunista y líder de la Revolución china Mao Tse Tung."
+      },
+      {
+        "day": 9,
+        "event": "1989",
+        "description": "Muere la célebre actriz de cine norteamericana Bette Davis."
+      },
+      {
+        "day": 10,
+        "event": "1096",
+        "description": "Da inicio la Primera Cruzada impulsada por el Papa Urbano II."
+      },
+      {
+        "day": 10,
+        "event": "1482",
+        "description": "Fallece Federico Di Montefeltro, duque de Urbino y notable mecenas de las artes."
+      },
+      {
+        "day": 10,
+        "event": "1974",
+        "description": "La República de Portugal reconoce oficialmente la independencia de Guinea-Bissau."
+      },
+      {
+        "day": 10,
+        "event": "1979",
+        "description": "Fallece el líder revolucionario y primer presidente angolano Agostinho Neto."
+      },
+      {
+        "day": 10,
+        "event": "1999",
+        "description": "Muere el célebre tenor lírico español Alfredo Kraus."
+      },
+      {
+        "day": 11,
+        "event": "1297",
+        "description": "Las tropas macedonias de William Wallace vencen al ejército inglés en la Batalla de Stirling."
+      },
+      {
+        "day": 11,
+        "event": "1911",
+        "description": "Nace en Regla el cantante y pianista cubano Ignacio Villa, conocido universalmente como \"Bola de Nieve\"."
+      },
+      {
+        "day": 11,
+        "event": "1973",
+        "description": "Se produce un golpe militar en Chile comandado por Augusto Pinochet, donde es asesinado el presidente Salvador Allende."
+      },
+      {
+        "day": 11,
+        "event": "1982",
+        "description": "Fallece en París el célebre pintor de vanguardia cubano Wifredo Lam."
+      },
+      {
+        "day": 11,
+        "event": "2001",
+        "description": "Se produce el atentado terrorista contra las Torres Gemelas de Nueva York en los Estados Unidos."
+      },
+      {
+        "day": 12,
+        "event": "1891",
+        "description": "Nace en Puerto Rico el patriota y líder nacionalista Pedro Albízu Campos."
+      },
+      {
+        "day": 12,
+        "event": "1933",
+        "description": "Se establece en Cuba el programa de derechos civiles y políticos para la mujer mambisa."
+      },
+      {
+        "day": 12,
+        "event": "1958",
+        "description": "Nace en Santiago de Cuba el pesista y campeón olímpico cubano Daniel Núñez Aguiar."
+      },
+      {
+        "day": 12,
+        "event": "1973",
+        "description": "Es detenido en Santiago de Chile el cantautor y activista comunista Víctor Jara."
+      },
+      {
+        "day": 12,
+        "event": "1998",
+        "description": "Son arrestados en los Estados Unidos cinco agentes de inteligencia cubanos que realizaban tareas de vigilancia antiterrorista, conocidos como Los Cinco Héroes."
+      },
+      {
+        "day": 13,
+        "event": "1834",
+        "description": "El gobierno colonial español decreta el destierro del pensador e intelectual cubano José Antonio Saco."
+      },
+      {
+        "day": 13,
+        "event": "1895",
+        "description": "Se inicia en Camagüey la histórica Asamblea Constituyente de Jimaguayú."
+      },
+      {
+        "day": 13,
+        "event": "1937",
+        "description": "Nace en Oriente Eloy Rodríguez Téllez, combatiente del Ejército Rebelde e integrante del Segundo Frente Oriental."
+      },
+      {
+        "day": 13,
+        "event": "1972",
+        "description": "Nace en La Habana el innovador músico y realizador cubano X Alfonso."
+      },
+      {
+        "day": 13,
+        "event": "1976",
+        "description": "Se constituye por decreto del Gobierno Revolucionario el Instituto Superior de Arte (ISA)."
+      },
+      {
+        "day": 13,
+        "event": "1998",
+        "description": "Fallece en La Habana el científico, espeleólogo e investigador cubano Antonio Núñez Jiménez."
+      },
+      {
+        "day": 14,
+        "event": "1769",
+        "description": "Nace el geógrafo, naturalista y explorador alemán Alejandro de Humboldt."
+      },
+      {
+        "day": 14,
+        "event": "1913",
+        "description": "Nace el militar y presidente democrático de Guatemala Jacobo Arbenz Guzmán."
+      },
+      {
+        "day": 14,
+        "event": "1920",
+        "description": "Nace en Paso de los Toros el célebre escritor uruguayo Mario Benedetti."
+      },
+      {
+        "day": 14,
+        "event": "1942",
+        "description": "Comienza la histórica Batalla de Stalingrado, punto de giro en la Segunda Guerra Mundial."
+      },
+      {
+        "day": 14,
+        "event": "1959",
+        "description": "El Gobierno Revolucionario entrega de manera formal las instalaciones del Cuartel de Columbia al Ministerio de Educación."
+      },
+      {
+        "day": 14,
+        "event": "1982",
+        "description": "Muere en un accidente la actriz de Hollywood y princesa consorte de Mónaco Grace Kelly."
+      },
+      {
+        "day": 15,
+        "event": "1830",
+        "description": "Nace el militar y presidente de la República de México Porfirio Díaz."
+      },
+      {
+        "day": 15,
+        "event": "1830",
+        "description": "Se inaugura de forma comercial la primera línea de ferrocarril entre Liverpool y Manchester."
+      },
+      {
+        "day": 15,
+        "event": "1890",
+        "description": "Nace en Torquay la célebre escritora británica de novelas policíacas Agatha Christie."
+      },
+      {
+        "day": 15,
+        "event": "1894",
+        "description": "Nace en París el cineasta, escritor y director francés Jean Renoir."
+      },
+      {
+        "day": 15,
+        "event": "1946",
+        "description": "Nace en Nueva York el laureado director y guionista de cine Oliver Stone."
+      },
+      {
+        "day": 16,
+        "event": "1810",
+        "description": "Miguel Hidalgo convoca a la rebelión popular armada mediante el Grito de Dolores en México."
+      },
+      {
+        "day": 16,
+        "event": "1895",
+        "description": "Representantes de la Revolución firman formalmente la Constitución de Jimaguayú."
+      },
+      {
+        "day": 16,
+        "event": "1932",
+        "description": "Muere el médico militar y parasitólogo británico Ronald Ross, Premio Nobel de Medicina."
+      },
+      {
+        "day": 16,
+        "event": "1955",
+        "description": "Fuerzas golpistas derrocan de forma violenta al presidente constitucional argentino Juan Domingo Perón."
+      },
+      {
+        "day": 16,
+        "event": "1973",
+        "description": "Es asesinado por la dictadura militar en Santiago de Chile el trovador Víctor Jara."
+      },
+      {
+        "day": 16,
+        "event": "2002",
+        "description": "Se crea oficialmente en La Habana la institución de la Agencia Cubana de Rap."
+      },
+      {
+        "day": 17,
+        "event": "1580",
+        "description": "Nace en Madrid el genial escritor, poeta y dramaturgo Francisco de Quevedo y Villegas."
+      },
+      {
+        "day": 17,
+        "event": "1861",
+        "description": "Nace en La Habana el periodista, crítico literario e independentista Manuel de la Cruz."
+      },
+      {
+        "day": 17,
+        "event": "1958",
+        "description": "Son torturadas y asesinadas por la policía batistiana las valientes mensajeras de la Sierra Maestra, Lidia Doce y Clodomira Acosta Ferrals."
+      },
+      {
+        "day": 17,
+        "event": "1991",
+        "description": "La República de Macedonia proclama oficialmente su independencia de la Federación Yugoslava."
+      },
+      {
+        "day": 17,
+        "event": "2008",
+        "description": "Fallece en La Habana el destacado director de cine cubano Humberto Solás."
+      },
+      {
+        "day": 18,
+        "event": "1810",
+        "description": "Se produce la proclamación de la independencia nacional de Chile."
+      },
+      {
+        "day": 18,
+        "event": "1906",
+        "description": "Un devastador tifón con vientos extremos azota Hong Kong, cobrando la vida de más de 10,000 personas."
+      },
+      {
+        "day": 18,
+        "event": "1914",
+        "description": "Nace en Regla el extraordinario cantante de música popular cubana Roberto Faz."
+      },
+      {
+        "day": 18,
+        "event": "1944",
+        "description": "Nace la célebre intérprete y cantante de copla española Rocío Jurado."
+      },
+      {
+        "day": 18,
+        "event": "1949",
+        "description": "Son asesinados por sicarios patronales los líderes obreros azucareros Amancio Rodríguez y José Oviedo Chacón."
+      },
+      {
+        "day": 18,
+        "event": "1980",
+        "description": "Despega al espacio la misión soviética Soyuz 38, iniciando el vuelo cósmico de Arnaldo Tamayo Méndez."
+      },
+      {
+        "day": 19,
+        "event": "1890",
+        "description": "Fallece en La Habana el poeta mambí y compositor José Fornaris."
+      },
+      {
+        "day": 19,
+        "event": "1923",
+        "description": "Nace el combatiente clandestino y expedicionario revolucionario cubano Tony Santiago."
+      },
+      {
+        "day": 19,
+        "event": "1925",
+        "description": "Es asesinado por matones gubernamentales el líder sindical de los ferroviarios Enrique Varona González."
+      },
+      {
+        "day": 19,
+        "event": "1983",
+        "description": "Se proclama la soberanía nacional de las islas caribeñas de San Cristóbal y Nieves."
+      },
+      {
+        "day": 19,
+        "event": "1991",
+        "description": "Arqueólogos descubren en los Alpes el cuerpo congelado del denominado \"Hombre de Hielo\"."
+      },
+      {
+        "day": 20,
+        "event": "1519",
+        "description": "La expedición naval de Fernando de Magallanes zarpa de Sanlúcar de Barrameda para dar la vuelta al mundo."
+      },
+      {
+        "day": 20,
+        "event": "1904",
+        "description": "Fallece el prestigioso general mambí de origen puertorriqueño Juan Rius Rivera."
+      },
+      {
+        "day": 20,
+        "event": "1957",
+        "description": "Fallece en Helsinki el célebre compositor de música clásica finlandés Jean Sibelius."
+      },
+      {
+        "day": 20,
+        "event": "1960",
+        "description": "Fidel Castro y el primer ministro de la URSS, Nikita Jruschov, sostienen una histórica entrevista en el Hotel Theresa de Nueva York."
+      },
+      {
+        "day": 20,
+        "event": "2009",
+        "description": "Se celebra ante más de un millón de personas en la Plaza de la Revolución el segundo Concierto Paz Sin Fronteras."
+      },
+      {
+        "day": 21,
+        "event": "1558",
+        "description": "Fallece el emperador y rey español Carlos V en el monasterio de Yuste."
+      },
+      {
+        "day": 21,
+        "event": "1846",
+        "description": "Tropas de intervención norteamericanas invaden territorio de México y sitian la ciudad de Monterrey."
+      },
+      {
+        "day": 21,
+        "event": "1953",
+        "description": "Comienza en Santiago de Cuba el juicio contra Fidel Castro y los asaltantes al Cuartel Moncada."
+      },
+      {
+        "day": 21,
+        "event": "1958",
+        "description": "Se efectúa en Mayarí Arriba el histórico Primer Congreso Campesino en Armas, presidido por Raúl Castro."
+      },
+      {
+        "day": 21,
+        "event": "2003",
+        "description": "Fallece en Barcelona la extraordinaria bailarina cubana Mirta Plá, una de las cuatro joyas del ballet."
+      },
+      {
+        "day": 22,
+        "event": "1784",
+        "description": "Se funda oficialmente la villa de San Antonio de los Baños en La Habana."
+      },
+      {
+        "day": 22,
+        "event": "1792",
+        "description": "Se proclama de manera formal el nacimiento de la República Francesa."
+      },
+      {
+        "day": 22,
+        "event": "1868",
+        "description": "Nace el célebre médico e investigador argentino Luis Agote, pionero de la transfusión de sangre."
+      },
+      {
+        "day": 22,
+        "event": "1958",
+        "description": "Nace el aclamado tenor lírico y cantante italiano Andrea Bocelli."
+      },
+      {
+        "day": 22,
+        "event": "1960",
+        "description": "La República de Malí declara su independencia nacional del colonialismo francés."
+      },
+      {
+        "day": 23,
+        "event": "1845",
+        "description": "Se redactan e imprimen por primera vez de forma oficial las reglas del béisbol moderno."
+      },
+      {
+        "day": 23,
+        "event": "1850",
+        "description": "Fallece en su exilio paraguayo de Ibiray el prócer independentista uruguayo José Gervasio Artigas."
+      },
+      {
+        "day": 23,
+        "event": "1959",
+        "description": "Fallece en un accidente aéreo el comandante revolucionario Juan Abrantes, dirigente del Directorio Revolucionario."
+      },
+      {
+        "day": 23,
+        "event": "1973",
+        "description": "Muere en Santiago de Chile el poeta y Premio Nobel de Literatura Pablo Neruda."
+      },
+      {
+        "day": 23,
+        "event": "2002",
+        "description": "Se inaugura oficialmente en La Habana la Universidad de las Ciencias Informáticas (UCI)."
+      },
+      {
+        "day": 24,
+        "event": "1553",
+        "description": "Las fuerzas españolas ejecutan en la horca al líder mapuche Caupolicán."
+      },
+      {
+        "day": 24,
+        "event": "1809",
+        "description": "Nace en La Habana el sabio naturalista, ensayista y reformista cubano Francisco Frías."
+      },
+      {
+        "day": 24,
+        "event": "1870",
+        "description": "Es ejecutado en la horca por las autoridades españolas el joven patriota habanero Luis Ayesterán y Moliner."
+      },
+      {
+        "day": 24,
+        "event": "1931",
+        "description": "Nace Gerardo Abreu (Fontán), destacado combatiente clandestino y mártir de la lucha estudiantil."
+      },
+      {
+        "day": 24,
+        "event": "1932",
+        "description": "Nace en la ciudad de Santa Clara el joven combatiente revolucionario Gerardo Abreu."
+      },
+      {
+        "day": 24,
+        "event": "1946",
+        "description": "Nace en La Habana el compositor, arreglista y pianista de música popular César Pedroso (Pupy)."
+      },
+      {
+        "day": 25,
+        "event": "1513",
+        "description": "El explorador español Vasco Núñez de Balboa divisa por primera vez las aguas del Océano Pacífico."
+      },
+      {
+        "day": 25,
+        "event": "1907",
+        "description": "Fallece en Camagüey la célebre capitana mambisa de sanidad Rosa Castellanos, apodada \"Rosa la Bayamesa\"."
+      },
+      {
+        "day": 25,
+        "event": "1921",
+        "description": "Nace en La Habana el eminente intelectual, poeta e investigador cubano Cintio Vitier."
+      },
+      {
+        "day": 25,
+        "event": "1949",
+        "description": "Nace en Calzada de Calatrava el laureado director de cine español Pedro Almodóvar."
+      },
+      {
+        "day": 25,
+        "event": "1969",
+        "description": "Nace en Gales la actriz cinematográfica y ganadora del Óscar Catherine Zeta-Jones."
+      },
+      {
+        "day": 26,
+        "event": "1796",
+        "description": "Es fundada formalmente la ciudad oriental de Victoria de Las Tunas."
+      },
+      {
+        "day": 26,
+        "event": "1879",
+        "description": "Fallece en su exilio en Barcelona el célebre ensayista, escritor y pensador reformista José Antonio Saco."
+      },
+      {
+        "day": 26,
+        "event": "1948",
+        "description": "Nace la popular cantante y actriz de origen británico Olivia Newton-John."
+      },
+      {
+        "day": 26,
+        "event": "1960",
+        "description": "Fidel Castro pronuncia su histórico discurso fúnebre y de denuncia antiimperialista ante la Asamblea General de la ONU."
+      },
+      {
+        "day": 26,
+        "event": "1967",
+        "description": "Caen combatiendo en la guerrilla de Bolivia el revolucionario cubano Manuel Hernández Osorio (Miguel) y los bolivianos Mario Gutiérrez y Roberto Pereda."
+      },
+      {
+        "day": 26,
+        "event": "1980",
+        "description": "Regresa a Cuba el cosmonauta Arnaldo Tamayo Méndez, tras culminar con éxito la primera misión espacial soviético-cubana."
+      },
+      {
+        "day": 27,
+        "event": "1825",
+        "description": "Se inaugura en Inglaterra el primer tramo de ferrocarril impulsado por locomotora de vapor."
+      },
+      {
+        "day": 27,
+        "event": "1924",
+        "description": "Nace el combatiente clandestino de las milicias revolucionarias cubanas Antonio Darío."
+      },
+      {
+        "day": 27,
+        "event": "1931",
+        "description": "Nace el notable humorista, guionista y escritor radial Alberto Luberta, creador de Alegrías de sobremesa."
+      },
+      {
+        "day": 27,
+        "event": "1951",
+        "description": "Nace la médica, política y presidenta de la República de Chile Michelle Bachelet."
+      },
+      {
+        "day": 27,
+        "event": "1984",
+        "description": "Nace la popular cantautora y estrella de rock canadiense Avril Lavigne."
+      },
+      {
+        "day": 28,
+        "event": "1066",
+        "description": "Desembarca en la costa sur de Inglaterra el duque de Normandía, Guillermo El Conquistador."
+      },
+      {
+        "day": 28,
+        "event": "1895",
+        "description": "Fallece en París el sabio químico y microbiólogo francés Luis Pasteur."
+      },
+      {
+        "day": 28,
+        "event": "1920",
+        "description": "Nace el prestigioso intelectual, historiador y periodista cubano Raúl Cepero Bonilla."
+      },
+      {
+        "day": 28,
+        "event": "1960",
+        "description": "Fidel Castro anuncia ante una multitud frente al Palacio Presidencial el nacimiento de los Comités de Defensa de la Revolución (CDR)."
+      },
+      {
+        "day": 28,
+        "event": "1970",
+        "description": "Fallece de un ataque cardíaco el presidente y líder de la República de Egipto Gamal Abdel Nasser."
+      },
+      {
+        "day": 29,
+        "event": "1547",
+        "description": "Nace en Alcalá de Henares el célebre novelista y dramaturgo español Miguel de Cervantes Saavedra."
+      },
+      {
+        "day": 29,
+        "event": "1872",
+        "description": "Se inaugura de manera oficial el cementerio habanero conocido como Cementerio de Colón."
+      },
+      {
+        "day": 29,
+        "event": "1901",
+        "description": "Nace en Roma el científico y físico italiano Enrico Fermi, Premio Nobel de Física."
+      },
+      {
+        "day": 29,
+        "event": "1906",
+        "description": "Se inicia formalmente la segunda intervención militar estadounidense en el territorio de Cuba."
+      },
+      {
+        "day": 29,
+        "event": "1933",
+        "description": "Es asesinado por disparos policiales de la dictadura de Machado el pionero y dirigente infantil Paquito González."
+      },
+      {
+        "day": 30,
+        "event": "1765",
+        "description": "Nace el prócer independentista y militar de la Revolución mexicana José María Morelos y Pavón."
+      },
+      {
+        "day": 30,
+        "event": "1882",
+        "description": "Nace el físico alemán Hans Geiger, inventor del dispositivo de medición de radiación que lleva su nombre."
+      },
+      {
+        "day": 30,
+        "event": "1922",
+        "description": "Nace en San Miguel del Padrón el célebre poeta, ensayista e \"Hijo de la Tierra\", Jesús Orta Ruiz (El Indio Naborí)."
+      },
+      {
+        "day": 30,
+        "event": "1930",
+        "description": "Cae gravemente herido por la policía machadista el líder estudiantil Rafael Trejo, falleciendo poco después."
+      },
+      {
+        "day": 30,
+        "event": "1939",
+        "description": "Es fundada en Cienfuegos la famosa agrupación de música popular cubana Orquesta Aragón."
+      }
     ]
   },
   "agendaConmemoraciones": {
@@ -37993,6 +39241,158 @@
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
         "international": "Día Internacional de la Solidaridad, Día Internacional de los Afrodescendientes y Día Internacional de la Obstetricia."
       }
+    ],
+    "Septiembre": [
+      {
+        "day": 1,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 2,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 3,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 4,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 5,
+        "national": "Día de la Marina de Guerra Revolucionaria.",
+        "international": "Día Internacional de la Beneficencia."
+      },
+      {
+        "day": 6,
+        "national": "Día del Trabajador Estadístico en Cuba.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 7,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional del Aire Limpio por un Cielo Azul."
+      },
+      {
+        "day": 8,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Alfabetización y Día Internacional del Periodista."
+      },
+      {
+        "day": 9,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 10,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 11,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 12,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 13,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 14,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 15,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Democracia."
+      },
+      {
+        "day": 16,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Preservación de la Capa de Ozono."
+      },
+      {
+        "day": 17,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 18,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 19,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 20,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 21,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de la Paz y Día Mundial del Alzheimer."
+      },
+      {
+        "day": 22,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 23,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Internacional de las Lenguas de Señas."
+      },
+      {
+        "day": 24,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 25,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 26,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 27,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "Día Mundial del Turismo."
+      },
+      {
+        "day": 28,
+        "national": "Aniversario de los Comités de Defensa de la Revolución (CDR).",
+        "international": "Día Mundial contra la Rabia y Día Internacional del Derecho de Acceso Universal a la Información."
+      },
+      {
+        "day": 29,
+        "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
+        "international": "No se registran conmemoraciones internacionales para esta fecha."
+      },
+      {
+        "day": 30,
+        "national": "Día del Pediatra Cubano.",
+        "international": "Día Internacional de la Traducción."
+      }
     ]
   },
   "agendaDayThemes": {
@@ -38218,7 +39618,21 @@
     "Agosto-semana-4-Jueves": "Tarea Vida (Medio Ambiente) – Manejo sostenible de la energía en el planeta.",
     "Agosto-semana-4-Viernes": "Legado de Fidel Castro – Inicio del curso escolar y el legado educativo de Fidel.",
     "Agosto-semana-4-Sábado": "Verano en familia – Día Internacional contra los Ensayos Nucleares.",
-    "Agosto-semana-4-Domingo": "Aniversario de la toma de Las Tunas por Calixto García (1897)."
+    "Agosto-semana-4-Domingo": "Aniversario de la toma de Las Tunas por Calixto García (1897).",
+    "Septiembre-semana-1-Lunes": "Cultura e identidad – Natalicio de Arsenio Rodríguez (1911).",
+    "Septiembre-semana-1-Martes": "Inicio del curso escolar 2026-2027.",
+    "Septiembre-semana-1-Miércoles": "Lucha contra las Drogas – Aniversario de la Primera Declaración de La Habana (1960).",
+    "Septiembre-semana-1-Jueves": "Tarea Vida (Medio Ambiente) – Natalicio de Tranquilino Sandalio de Noda (1808).",
+    "Septiembre-semana-1-Viernes": "Adelanto de las Mujeres – Natalicio de Isabel Santos (1961).",
+    "Septiembre-semana-1-Sábado": "Día de la Marina de Guerra Revolucionaria.",
+    "Septiembre-semana-1-Domingo": "Día del Trabajador Estadístico – Carta de Jamaica de Bolívar (1815).",
+    "Septiembre-semana-2-Lunes": "Tarea Vida (Medio Ambiente) – Día Internacional del Aire Limpio por un Cielo Azul.",
+    "Septiembre-semana-2-Martes": "Legado de Fidel Castro – Día Internacional de la Alfabetización y Día del Periodista.",
+    "Septiembre-semana-2-Miércoles": "Soberanía Alimentaria – Producción local y alimentación saludable.",
+    "Septiembre-semana-2-Jueves": "Adelanto de las Mujeres – La mujer en la música y la cultura.",
+    "Septiembre-semana-2-Viernes": "Lucha contra las Drogas – Prevención en adolescentes y jóvenes.",
+    "Septiembre-semana-2-Sábado": "Historia y Soberanía – Los Cinco Héroes, Víctor Jara, Pedro Albizu Campos.",
+    "Septiembre-semana-2-Domingo": "Cultura y Memoria – Asamblea de Jimaguayú (1895) y creación del ISA (1976)."
   },
   "agendaUsers": [
     {
@@ -40375,232 +41789,14 @@
         "pending_requests": [],
         "password_resets": [
           {
-            "userId": "rafael",
-            "grantedAt": 1783950321328,
-            "validUntil": 1784036721328
-          },
-          {
             "userId": "lissell",
-            "grantedAt": 1783954599153,
-            "validUntil": 1784040999153
-          }
-        ]
-      },
-      {
-        "validated_users": [
-          {
-            "type": "SEMANAL_REQUEST",
-            "userId": "admin",
-            "userData": {
-              "fullName": "Pedro José Reyes Acuña",
-              "ci": "93020746421",
-              "tomo": "172",
-              "folio": "97",
-              "contract1": "421-092501",
-              "contract2": "421-102527"
-            },
-            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
-            "timestamp": "2026-06-01T18:44:20.156Z",
-            "specialties": [
-              "Especialista",
-              "Guionista"
-            ],
-            "contracts": {
-              "Especialista": "421-092501",
-              "Guionista": "421-102527"
-            },
-            "originalPassword": "qmnEZ2UZ",
-            "issueDate": "2026-06-01T18:44:20.156Z",
-            "issuer": "Administrador CMNL",
-            "validUntil": "2027-06-01T18:44:20.156Z",
-            "status": "signed",
-            "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
-            "directorName": "Administrador CMNL",
-            "directorTimestamp": "2026-06-01T18:44:20.156Z"
-          },
-          {
-            "type": "SEMANAL_REQUEST",
-            "userId": "lissell",
-            "userData": {
-              "fullName": "Lissell Fontelo Danta",
-              "ci": "77082119119",
-              "tomo": "153",
-              "folio": "217",
-              "contract1": "119-012501",
-              "contract2": "119-012501"
-            },
-            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
-            "timestamp": "2026-05-30T02:22:15.940Z",
-            "specialties": [
-              "Director",
-              "Asesora"
-            ],
-            "memberEmail": "lfontelo@gmail.com",
-            "contracts": {
-              "Director": "119-012501",
-              "Asesora": "119-012501"
-            },
-            "originalPassword": "QzVRfwPY",
-            "issueDate": "2026-06-01T18:44:34.881Z",
-            "issuer": "Administrador CMNL",
-            "validUntil": "2027-06-01T18:44:34.881Z",
-            "status": "signed",
-            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
-            "adminName": "Pedro José Reyes Acuña",
-            "adminTimestamp": "2026-06-01T18:44:34.881Z"
-          },
-          {
-            "type": "SEMANAL_REQUEST",
-            "userId": "rafael",
-            "userData": {
-              "fullName": "Rafael Traba Bordón",
-              "ci": "68022413805",
-              "tomo": "124",
-              "folio": "295",
-              "contract1": "805-010125",
-              "contract2": "805-010125"
-            },
-            "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
-            "timestamp": "2026-06-01T16:10:03.450Z",
-            "specialties": [
-              "Director",
-              "Locutor"
-            ],
-            "memberEmail": "",
-            "contracts": {
-              "Director": "805-010125",
-              "Locutor": "805-010125"
-            },
-            "originalPassword": "sGxhtGX2",
-            "issueDate": "2026-06-01T18:45:06.571Z",
-            "issuer": "Administrador CMNL",
-            "validUntil": "2027-06-01T18:45:06.571Z",
-            "status": "signed",
-            "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
-            "adminName": "Pedro José Reyes Acuña",
-            "adminTimestamp": "2026-06-01T18:45:06.571Z"
-          },
-          {
-            "validated_users": [
-              {
-                "type": "SEMANAL_REQUEST",
-                "userId": "admin",
-                "userData": {
-                  "fullName": "Pedro José Reyes Acuña",
-                  "ci": "93020746421",
-                  "tomo": "172",
-                  "folio": "97",
-                  "contract1": "421-092501",
-                  "contract2": "421-102527"
-                },
-                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEDEWmNyMyr0re1yQWvj7kerbca8rITvw54RpdSmE2NY1YZqjKThuNoTUUm+mnqf4RfjczaYRnH8MXTs0jIgopqA==",
-                "timestamp": "2026-06-01T18:44:20.156Z",
-                "specialties": [
-                  "Especialista",
-                  "Guionista"
-                ],
-                "contracts": {
-                  "Especialista": "421-092501",
-                  "Guionista": "421-102527"
-                },
-                "originalPassword": "qmnEZ2UZ",
-                "issueDate": "2026-06-01T18:44:20.156Z",
-                "issuer": "Administrador CMNL",
-                "validUntil": "2027-06-01T18:44:20.156Z",
-                "status": "signed",
-                "directorSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
-                "directorName": "Administrador CMNL",
-                "directorTimestamp": "2026-06-01T18:44:20.156Z"
-              },
-              {
-                "type": "SEMANAL_REQUEST",
-                "userId": "lissell",
-                "userData": {
-                  "fullName": "Lissell Fontelo Danta",
-                  "ci": "77082119119",
-                  "tomo": "153",
-                  "folio": "217",
-                  "contract1": "119-012501",
-                  "contract2": "119-012501"
-                },
-                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9S4LyQCteMeCHES8roqKAXdrzXC6V63EtHIlkn+5yiAztWnVVknzTikTWXPTEA7oobbjxTXflrj7vBGxNJjUlA==",
-                "timestamp": "2026-05-30T02:22:15.940Z",
-                "specialties": [
-                  "Director",
-                  "Asesora"
-                ],
-                "memberEmail": "lfontelo@gmail.com",
-                "contracts": {
-                  "Director": "119-012501",
-                  "Asesora": "119-012501"
-                },
-                "originalPassword": "QzVRfwPY",
-                "issueDate": "2026-06-01T18:44:34.881Z",
-                "issuer": "Administrador CMNL",
-                "validUntil": "2027-06-01T18:44:34.881Z",
-                "status": "signed",
-                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011444%ID:DVC-J8BB",
-                "adminName": "Pedro José Reyes Acuña",
-                "adminTimestamp": "2026-06-01T18:44:34.881Z"
-              },
-              {
-                "type": "SEMANAL_REQUEST",
-                "userId": "rafael",
-                "userData": {
-                  "fullName": "Rafael Traba Bordón",
-                  "ci": "68022413805",
-                  "tomo": "124",
-                  "folio": "295",
-                  "contract1": "805-010125",
-                  "contract2": "805-010125"
-                },
-                "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEH9ak/EJ69DgtF/roZl7HB+orGH34nIAJai8o2AuUDTLde1rU6S/UroSFn5QZxT80Qyjk7Cmlax+RwjpK13wFvQ==",
-                "timestamp": "2026-06-01T16:10:03.450Z",
-                "specialties": [
-                  "Director",
-                  "Locutor"
-                ],
-                "memberEmail": "",
-                "contracts": {
-                  "Director": "805-010125",
-                  "Locutor": "805-010125"
-                },
-                "originalPassword": "sGxhtGX2",
-                "issueDate": "2026-06-01T18:45:06.571Z",
-                "issuer": "Administrador CMNL",
-                "validUntil": "2027-06-01T18:45:06.571Z",
-                "status": "signed",
-                "adminSignature": "PEDRO-ESPE172GUIONI97%ACUNA#930207@421092501421102527%REYES&202606011445%ID:DVC-J8BB",
-                "adminName": "Pedro José Reyes Acuña",
-                "adminTimestamp": "2026-06-01T18:45:06.571Z"
-              }
-            ],
-            "pending_requests": [],
-            "password_resets": [
-              {
-                "userId": "rafael",
-                "grantedAt": 1783950321328,
-                "validUntil": 1784036721328
-              },
-              {
-                "userId": "lissell",
-                "grantedAt": 1783954599153,
-                "validUntil": 1784040999153
-              }
-            ]
-          }
-        ],
-        "pending_requests": [],
-        "password_resets": [
-          {
-            "userId": "lissell",
-            "grantedAt": 1783954599153,
-            "validUntil": 1784040999153
+            "grantedAt": 1788609738261,
+            "validUntil": 1788696138261
           },
           {
             "userId": "rafael",
-            "grantedAt": 1785159263647,
-            "validUntil": 1785245663647
+            "grantedAt": 1788609755669,
+            "validUntil": 1788696155669
           }
         ]
       }
@@ -40609,13 +41805,13 @@
     "password_resets": [
       {
         "userId": "lissell",
-        "grantedAt": 1783954599153,
-        "validUntil": 1784040999153
+        "grantedAt": 1788609738261,
+        "validUntil": 1788696138261
       },
       {
         "userId": "rafael",
-        "grantedAt": 1785159263647,
-        "validUntil": 1785245663647
+        "grantedAt": 1788609755669,
+        "validUntil": 1788696155669
       }
     ]
   },
@@ -40646,19 +41842,7 @@
       "mes": "2026-05"
     }
   ],
-  "allConsolidatedPayments": [
-    {
-      "id": "je9culfcw",
-      "userId": "lissell",
-      "month": "2026-06",
-      "amount": 10118.643700000002,
-      "grossAmount": 10892.680000000002,
-      "taxAmount": 774.0363000000002,
-      "reportCount": 102,
-      "dateConsolidated": "2026-07-09T16:16:15.875Z",
-      "calculationMode": "autogestionado"
-    }
-  ],
+  "allConsolidatedPayments": [],
   "userData": {},
   "radialDictionary": [
     {
