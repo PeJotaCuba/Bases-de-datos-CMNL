@@ -285,7 +285,7 @@
           ]
         }
       },
-      "deviceLimitEnabled": true,
+      "deviceLimitEnabled": false,
       "authorizedDevices": [
         {
           "token": "DVC-4Z9H5",
@@ -763,7 +763,14 @@
       "password": "RadioCiudad2426",
       "role": "worker",
       "classification": "Usuario",
-      "specialty": "Especialista / Locutora"
+      "specialty": "Especialista / Locutora / Guionista",
+      "email": "",
+      "contracts": [],
+      "tools": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "viviana",
@@ -904,44 +911,58 @@
   "aboutContent": "",
   "news": [
     {
-      "id": "news-1788796587169-0",
-      "title": "Presentan campaña \"Granma, tierra de Fidel\" en la 34 Feria Internacional del Libro de Bayamo",
-      "author": "Redacción RCM - Ernesto Parra Muñoz",
-      "content": "En el marco de la 34 Feria Internacional del Libro que concluyó este domingo en Bayamo, se presentó la campaña \"Granma, tierra de Fidel\", un proyecto de la Agencia de Comunicaciones Espiral que teje un puente emocional entre el territorio y la figura del líder histórico de la Revolución Cubana. Lianet Suárez Sánchez, directora del proyecto, explicó que la campaña fue concebida como un relato de doble filo: el rigor histórico y la calidez del vínculo personal. El eslogan elegido tiene una doble legitimidad, ya que la provincia debe su nombre al yate Granma, que en 1956 trajo a Fidel Castro y a sus 81 expedicionarios hasta Las Coloradas, un desembarco que se convertiría en el acta de nacimiento de la identidad granmense. \"La frase 'Granma, tierra de Fidel' no es un eslogan frío, es el eco de un sentimiento que el propio Comandante expresó en numerosas ocasiones\", señaló la directora.",
+      "id": "news-1789485429359-0",
+      "title": "Desarrolla Zona de Defensa 330406 acciones de impacto social en San Juan-El Cristo",
+      "author": "Radio Bayamo",
+      "content": "En el consejo popular San Juan-El Cristo, de Bayamo, la Zona de Defensa 330406 desarrolla diversas acciones de impacto social encaminadas a apoyar a la población y avanzar en la recuperación de áreas afectadas. Entre las principales tareas figuran la atención a personas en situación de vulnerabilidad, el apoyo al abasto de agua y la recuperación de las áreas de El Chapuzón, dañadas significativamente tras las inundaciones provocadas por el huracán Melissa. El mayor Ronald Joaquín Cuesta Sánchez, presidente de la Zona de Defensa, informó que también se mantienen labores de recogida de desechos sólidos y recuperación de materia prima, como parte de un trabajo sostenido durante más de cinco meses. Destacó el respaldo de nuevos actores económicos y trabajadores sociales en función de la tarea \"Barrio Revolución\". Otra línea es el rescate de la historia y tradiciones bayamesas mediante conversatorios en el seminternado Carlos Manuel de Céspedes y círculos de interés. Asimismo, se refuerza la vigilancia revolucionaria junto a los vecinos.",
       "category": "General",
-      "date": "Lunes 7 de septiembre de 2026",
-      "excerpt": "En el marco de la 34 Feria Internacional del Libro que concluyó este domingo en Bayamo, se presentó la campaña \"Granma, tierra de Fidel\", un proyecto de la Agencia de Comunicaciones Espiral que teje un puente emocional entre el territorio y la figura del líder histórico de la Revolución Cubana.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "En el consejo popular San Juan-El Cristo, de Bayamo, la Zona de Defensa 330406 desarrolla diversas acciones de impacto social encaminadas a apoyar a la población y avanzar en la recuperación de áreas afectadas."
     },
     {
-      "id": "news-1788796587169-1",
-      "title": "Presentará ONU informe de relatora especial sobre impacto del bloqueo de EE.UU. en Cuba",
-      "author": "Radio Reloj",
-      "content": "Mañana ocho de septiembre, será presentado ante la ONU el informe de la Relatora Especial, Alena Douhan, sobre las repercusiones negativas de las medidas coercitivas de Estados Unidos en el disfrute de los derechos humanos tras su visita oficial a Cuba entre el 11 y 21 de noviembre de 2025. La exposición estará a cargo de la actual Relatora Especial, Zaina Jallad. Durante su estancia, Douhan constató el impacto del bloqueo impuesto por Estados Unidos contra Cuba mediante encuentros bilaterales, visitas a instituciones y diálogos con la sociedad civil, publicó Radio Reloj.",
-      "category": "General",
-      "date": "Lunes 7 de septiembre de 2026",
-      "excerpt": "Mañana ocho de septiembre, será presentado ante la ONU el informe de la Relatora Especial, Alena Douhan, sobre las repercusiones negativas de las medidas coercitivas de Estados Unidos en el disfrute de los derechos humanos tras su visita oficial a Cuba entre el 11 y 21 de noviembre de 2025.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
-    },
-    {
-      "id": "news-1788796587169-2",
-      "title": "Foro Panafricano de la Juventud de Zimbabwe expresa solidaridad con Cuba frente al bloqueo",
+      "id": "news-1789485429360-1",
+      "title": "Continúa CEN actividades con colaboradores para fortalecer elecciones municipales",
       "author": "Prensa Latina",
-      "content": "El Foro Panafricano de la Juventud de Zimbabwe expresó profunda solidaridad, fraternidad y apoyo inquebrantable al pueblo y al Gobierno de Cuba frente a las presiones, restricciones y medidas unilaterales de Estados Unidos. En un pronunciamiento entregado a la embajadora cubana Susellys Pérez Mesa, la organización indicó que como jóvenes comprometidos con el panafricanismo, la solidaridad internacional y los principios de soberanía y autodeterminación, reconocen los nexos históricos entre África y Cuba, publicó Prensa Latina.",
+      "content": "El Consejo Electoral Nacional (CEN) de Cuba continúa hoy las actividades con sus colaboradores para fortalecer la participación y preparación con vistas a las próximas elecciones municipales. La Jornada de Actividades con Colaboradores, prevista del 14 al 18 de septiembre de 2026, incluye visitas a centros estudiantiles, intercambio con profesores, puertas abiertas en los Consejos Electorales, y un encuentro con autoridades electorales de circunscripción, según precisó la institución en sus redes sociales. La iniciativa busca preparar a los colaboradores para el proceso electoral y fortalecer la participación ciudadana.",
       "category": "General",
-      "date": "Lunes 7 de septiembre de 2026",
-      "excerpt": "El Foro Panafricano de la Juventud de Zimbabwe expresó profunda solidaridad, fraternidad y apoyo inquebrantable al pueblo y al Gobierno de Cuba frente a las presiones, restricciones y medidas unilaterales de Estados Unidos.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAyODRDNztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBDNEE2RTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTUwIiByPSI2MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMzUwIiBjeT0iMjAwIiByPSI4MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+PGNpcmNsZSBjeD0iMjUwIiBjeT0iMjAwIiByPSI3MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "El Consejo Electoral Nacional (CEN) de Cuba continúa hoy las actividades con sus colaboradores para fortalecer la participación y preparación con vistas a las próximas elecciones municipales."
     },
     {
-      "id": "news-1788796587169-3",
-      "title": "Reconocen bayameses novedades del Centro Provincial del Cine en Feria del Libro",
-      "author": "Redacción RCM - Leipzig del Carmen",
-      "content": "El Centro Provincial del Cine en Granma ofreció como novedad en la 34 edición de la Feria Internacional del Libro un espacio donde la literatura y la cultura audiovisual se dieron la mano. La iniciativa que despertó mayor interés fue el servicio de copia de películas y materiales audiovisuales en memorias USB, una oferta práctica que permitió a los amantes del cine llevar consigo un pedazo de la memoria fílmica nacional. La carpa instalada frente al Cine Céspedes se convirtió en un hervidero de actividades, y la venta de artículos vinculados al audiovisual cubano también tuvo notable éxito. Esta fusión de formatos evidencia que la cultura cubana se nutre de múltiples expresiones, y el Centro Provincial del Cine se perfila como un referente imprescindible donde la palabra escrita y la imagen en movimiento se entrelazan para contar la historia de un pueblo.",
+      "id": "news-1789485429360-2",
+      "title": "Alerta OMC sobre mayores perturbaciones en la historia del comercio global",
+      "author": "Prensa Latina",
+      "content": "La Organización Mundial del Comercio (OMC) alertó que el comercio global sufre las mayores perturbaciones de su historia. Señaló la entidad que el sistema comercial mundial atraviesa las «mayores perturbaciones» de su historia por los desafíos a las normas comerciales y esto podría tener repercusiones en los niveles de vida en todo el mundo. En su informe anual, la OMC advierte que «volver a una política comercial unilateral tendría grandes costes» y podría reducir el producto interno bruto mundial alrededor del cinco por ciento y las exportaciones 18,6, de aquí a 2050. Publicó Prensa Latina.",
       "category": "General",
-      "date": "Lunes 7 de septiembre de 2026",
-      "excerpt": "El Centro Provincial del Cine en Granma ofreció como novedad en la 34 edición de la Feria Internacional del Libro un espacio donde la literatura y la cultura audiovisual se dieron la mano.",
-      "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI2MDAiIGhlaWdodD0iMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzhCNUUzQztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzNFMUUxNjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz4KICAgICAgPGNpcmNsZSBjeD0iNTAlIiBjeT0iNTAlIiByPSIxMDAiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjQwIiBmaWxsPSJub25lIi8+CiAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iOTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjRweCI+R0VORVJBTDwvdGV4dD4KICAgIDwvc3ZnPgogIA=="
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "La Organización Mundial del Comercio (OMC) alertó que el comercio global sufre las mayores perturbaciones de su historia."
+    },
+    {
+      "id": "news-1789485429360-3",
+      "title": "Estrenará Buenos Días, Bayamo serie testimonial \"Secretos del Maestro\" dedicada a Abel Guerrero Castro",
+      "author": "Redacción RCM - Humberto Zamora Fajardo",
+      "content": "Mañana miércoles 16 de septiembre, al filo de las ocho y media de la mañana, se estrenará en el programa de variedades Buenos Días, Bayamo, la serie testimonial \"Secretos del Maestro\", dedicada al recién nombrado Maestro de Radialistas Abel Guerrero Castro. La propuesta, dividida en cuatro capítulos de unos nueve minutos cada uno, hace un recorrido por parte de la vida del reconocido realizador radial granmense, que además ha sumado reconocimientos como poeta y compositor musical. El estreno no solo constituye un merecido agasajo a Abel Guerrero, sino la concreción del esfuerzo de varios miembros del colectivo de Radio Ciudad Monumento. La distinción Maestro de Radialistas la entrega la Dirección General de la Radio Cubana a quienes desde la palabra viva han marcado el camino para que las nuevas generaciones continúen el legado.",
+      "category": "General",
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "Mañana miércoles 16 de septiembre, al filo de las ocho y media de la mañana, se estrenará en el programa de variedades Buenos Días, Bayamo, la serie testimonial \"Secretos del Maestro\", dedicada al recién nombrado Maestro de Radialistas Abel Guerrero Castro."
+    },
+    {
+      "id": "news-1789485429360-4",
+      "title": "Inicia hoy en Bayamo Quinta Expo Comercial Internacional MultiSerF",
+      "author": "Redacción RCM - Ernesto Parra Muñoz",
+      "content": "Desde hoy y hasta el 18 de septiembre, el Hotel Sierra Maestra, en Bayamo, será sede de la Quinta Expo Comercial Internacional MultiSerF, encuentro que reunirá a emprendedores y empresas para impulsar el desarrollo económico en Cuba. Según una publicación en el perfil de Facebook del Banco Popular de Ahorro (BPA) en Granma, la institución participará en la cita con servicios dirigidos a MIPYMES y actores económicos: créditos, asesoría especializada y herramientas de banca electrónica. En esta Quinta Expo Comercial Internacional MultiSerF se presentarán soluciones financieras, asesorías y espacios de intercambio sobre tendencias del mercado global. Será un espacio propicio para consolidar vínculos con los emprendedores, facilitar el acceso a financiamiento y promover el uso de nuevas tecnologías en la gestión empresarial. Con su participación, el BPA prevé acompañar a los actores económicos del territorio, impulsar la modernización de sus operaciones y contribuir al fortalecimiento del encadenamiento productivo de la provincia de Granma.",
+      "category": "General",
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "Desde hoy y hasta el 18 de septiembre, el Hotel Sierra Maestra, en Bayamo, será sede de la Quinta Expo Comercial Internacional MultiSerF, encuentro que reunirá a emprendedores y empresas para impulsar el desarrollo económico en Cuba."
+    },
+    {
+      "id": "news-1789485429360-5",
+      "title": "Anuncian cambio de hora en Cuba para el primero de noviembre",
+      "author": "Redacción RCM - Ernesto Parra Muñoz",
+      "content": "El domingo primero de noviembre, Cuba dará inicio al horario de invierno con el retraso de una hora en sus relojes. A la una de la madrugada, hora local, los relojes deberán atrasarse una hora, por lo que volverán a marcar las doce de la noche. Con este ajuste, amanecerá más temprano en las mañanas y también oscurecerá más temprano por la noche. Se recomienda a la población actualizar sus relojes y dispositivos para evitar confusiones. Cierra la nota de Ernesto Parra Muñoz.",
+      "category": "General",
+      "date": "Martes 15 de septiembre de 2026",
+      "excerpt": "El domingo primero de noviembre, Cuba dará inicio al horario de invierno con el retraso de una hora en sus relojes."
     }
   ],
   "fichas": [
@@ -40655,7 +40676,7 @@
           ]
         }
       },
-      "deviceLimitEnabled": true,
+      "deviceLimitEnabled": false,
       "authorizedDevices": [
         {
           "token": "DVC-4Z9H5",
@@ -41133,7 +41154,14 @@
       "password": "RadioCiudad2426",
       "role": "worker",
       "classification": "Usuario",
-      "specialty": "Especialista / Locutora"
+      "specialty": "Especialista / Locutora / Guionista",
+      "email": "",
+      "contracts": [],
+      "tools": [],
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "deviceLimitEnabled": false,
+      "authorizedDevices": []
     },
     {
       "id": "viviana",
@@ -42125,10 +42153,16 @@
     {
       "id": "geidys",
       "name": "Geidys Maylen Martínez Chávez",
-      "specialty": "Especialista / Locutora",
+      "specialty": "Especialista / Locutora / Guionista",
       "level": "",
       "info": "",
-      "photoUrl": "https://picsum.photos/seed/geidys/400/400"
+      "email": "",
+      "mobile": "55967572",
+      "photoUrl": "https://picsum.photos/seed/geidys/400/400",
+      "habitualProgramsByRole": {},
+      "habitualProgramsDays": {},
+      "contracts": [],
+      "authorizedDevices": []
     },
     {
       "id": "viviana",
