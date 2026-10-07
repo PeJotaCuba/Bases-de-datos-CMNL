@@ -866,7 +866,7 @@
       "tools": [],
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
-      "deviceLimitEnabled": true,
+      "deviceLimitEnabled": false,
       "authorizedDevices": [
         {
           "token": "DVC-VX23",
@@ -903,6 +903,12 @@
           "name": "CMNL Cover",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-FKXW",
+          "name": "lAP",
+          "type": "PC",
+          "addedAt": "3/8/2026"
         }
       ]
     }
@@ -41958,7 +41964,7 @@
       "tools": [],
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
-      "deviceLimitEnabled": true,
+      "deviceLimitEnabled": false,
       "authorizedDevices": [
         {
           "token": "DVC-VX23",
@@ -41995,6 +42001,12 @@
           "name": "CMNL Cover",
           "type": "PC",
           "addedAt": "30/7/2026"
+        },
+        {
+          "token": "DVC-FKXW",
+          "name": "lAP",
+          "type": "PC",
+          "addedAt": "3/8/2026"
         }
       ]
     }
@@ -42150,16 +42162,15 @@
       "name": "Administrador App",
       "specialty": "Soporte, Redacción y Criptografía",
       "level": "Administración Global",
-      "photoUrl": "",
-      "email": "pejotar21@gmail.com",
       "info": "Cuenta técnica permanente del sistema. Ofrece control completo de programaciones y validación criptográfica de identidades.",
-      "habitualPrograms": [],
+      "email": "pejotar21@gmail.com",
       "mobile": "54413935",
+      "photoUrl": "",
       "habitualProgramsByRole": {},
       "habitualProgramsDays": {},
       "contracts": [],
       "designatedUserId": "pedro",
-      "deviceLimitEnabled": true,
+      "deviceLimitEnabled": false,
       "authorizedDevices": [
         {
           "token": "DVC-VX23",
