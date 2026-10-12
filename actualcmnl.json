@@ -26589,6 +26589,36 @@
           "theme": "El Alzamiento en La Demajagua: el inicio de la Revolución cubana.",
           "ideas": "En el aniversario del Alzamiento en La Demajagua, un historiador narra el momento en que Carlos Manuel de Céspedes liberó a sus esclavos y proclamó la independencia de Cuba, dando inicio a la Guerra de los Diez Años. Se destaca la importancia de Bayamo en la gesta. La sección infantil aprende sobre los mambises. \"De la Ciencia y la Técnica\" aborda las comunicaciones en la manigua. \"Este mundo nuestro\" recuerda otras gestas independentistas. Música de marchas mambisas.\n",
           "order": 1
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "El encuentro de dos mundos y la resistencia originaria: una mirada desde la cultura cubana.",
+          "ideas": "En el marco de la Jornada de la Cultura Cubana, el programa reflexiona sobre el 12 de octubre de 1492, la llegada de Colón a América y el posterior proceso de mestizaje que dio origen a la cubanía. Un historiador y un investigador de las culturas originarias analizan la resistencia indígena y el legado taíno en la identidad nacional. La sección infantil conoce las palabras de origen indígena que usamos a diario. \"De la Ciencia y la Técnica\" aborda la arqueología cubana. \"Este mundo nuestro\" muestra cómo otros países de la región conmemoran esta fecha. Música de raíz folclórica. Pregunta: ¿Qué elemento de nuestra cultura consideras más valioso?\n",
+          "order": 1
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "El azúcar y el banco: dos pilares de la economía cubana.",
+          "ideas": "En el Día del Trabajador Azucarero y del Bancario, el programa rinde homenaje a estos sectores. Un historiador recuerda la nacionalización de los centrales azucareros por Fidel en 1960 y la importancia del banco en la economía. Un trabajador azucarero y una bancaria comparten sus experiencias. La sección infantil conoce el proceso de producción del azúcar. \"De la Ciencia y la Técnica\" aborda la agroindustria. \"Este mundo nuestro\" muestra la importancia del azúcar en el mundo. Música de la zafra. Pregunta: ¿Qué significa el azúcar para Cuba?\n",
+          "order": 1
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "Mujeres rurales: guardianas de la tierra y la soberanía alimentaria.",
+          "ideas": "En el Día Internacional de las Mujeres Rurales, el programa rinde homenaje a las campesinas cubanas. Una productora de una cooperativa de Granma y una especialista en género analizan el papel de la mujer en el campo: su trabajo en la siembra, la cosecha y la comercialización, y los desafíos que aún enfrentan. Se conecta con la Tarea Vida y la soberanía alimentaria. La sección infantil conoce la vida en el campo. \"De la Ciencia y la Técnica\" aborda las tecnologías agrícolas. Música de punto cubano. Pregunta: ¿Conoces a alguna mujer campesina destacada?\n",
+          "order": 1
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "\"La historia me absolverá\": el alegato que cambió la historia de Cuba.",
+          "ideas": "Un historiador recuerda el 16 de octubre de 1953, cuando Fidel Castro pronunció su alegato de autodefensa en el juicio por el asalto al Moncada. Se analiza el contenido del discurso y su vigencia. Se reproduce un fragmento de la voz de Fidel. La sección infantil conoce la figura de Fidel como abogado. \"De la Ciencia y la Técnica\" aborda el sistema judicial de la época. \"Este mundo nuestro\" recuerda otros discursos históricos. Música de la Generación del Centenario. Pregunta: ¿Qué enseñanza de \"La historia me absolverá\" aplicas hoy?\n",
+          "order": 1
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "El derecho a la alimentación: un compromiso de la Revolución.",
+          "ideas": "En el Día Mundial de la Alimentación, un especialista en nutrición y un productor local analizan la importancia de garantizar una alimentación sana y suficiente para todos. Se aborda el papel de la mujer en la producción de alimentos y la soberanía alimentaria. La sección infantil aprende sobre una dieta balanceada. \"De la Ciencia y la Técnica\" habla de la agricultura urbana. \"Este mundo nuestro\" muestra el hambre en el mundo. Música de punto cubano. Pregunta: ¿Qué haces para alimentarte mejor?\n",
+          "order": 1
+        },
+        "Octubre-semana-3-Sábado": {
+          "theme": "Bayamo, cuna de la cubanía: la Fiesta de la Cubanía y la identidad nacional.",
+          "ideas": "El programa se suma al inicio de la XXXII Fiesta de la Cubanía en Bayamo. Un historiador narra el significado de esta celebración y su vínculo con la ciudad, cuna del Himno Nacional. Un organizador detalla el programa de actividades: la Ceremonia de las Banderas, conciertos, ferias y el evento teórico Crisol de la Nacionalidad Cubana. La sección infantil habla de las tradiciones bayamesas. \"Este mundo nuestro\" muestra otras fiestas de identidad en el mundo. Música de la ciudad. Pregunta: ¿Qué es lo que más te enorgullece de ser cubano?\n",
+          "order": 1
         }
       }
     },
@@ -27385,6 +27415,31 @@
         "Octubre-semana-2-Viernes": {
           "theme": "La mujer en el hogar y su desarrollo profesional.",
           "ideas": "\"Y algo más\" conversa con una socióloga, quien analiza cómo la mujer cubana ha logrado desarrollarse profesionalmente sin abandonar su rol familiar, y los desafíos que aún enfrenta. \"Sin fórmulas mágicas\" propone una cena familiar. \"Lo bello también se lleva por fuera\" sugiere organizar el tiempo para el autocuidado.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "El sincretismo en la cocina cubana: sabores que nacen del mestizaje.",
+          "ideas": "\"Sin fórmulas mágicas\" invita a una cocinera tradicional, quien enseña a preparar platos que ejemplifican el mestizaje culinario cubano: el ajiaco, el congrí, los buñuelos. \"Y algo más\" conversa con un antropólogo sobre cómo la comida refleja el encuentro de culturas. \"Lo bello también se lleva por fuera\" muestra cómo decorar la mesa con motivos que celebran la diversidad cultural. Testimonio de una familia que ha rescatado recetas de sus antepasados. Música de fondo con sones y toques.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "El ahorro familiar: cómo administrar el dinero en tiempos difíciles.",
+          "ideas": "\"Y algo más\" recibe a una economista, quien ofrece consejos prácticos para que las familias administren mejor sus ingresos: elaborar un presupuesto, priorizar gastos, ahorrar en productos de primera necesidad. \"Sin fórmulas mágicas\" propone recetas económicas. \"Prospecto radial\" habla de la importancia de la educación financiera. Testimonio de una familia que ha logrado equilibrar sus finanzas. Tono práctico y orientador.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "El huerto familiar: una alternativa para la economía doméstica.",
+          "ideas": "\"Y algo más\" invita a un especialista en agricultura urbana, quien enseña a sembrar hortalizas y especias en macetas o canteros. \"Sin fórmulas mágicas\" propone recetas con productos del huerto. \"Lo bello también se lleva por fuera\" muestra cómo decorar el espacio de cultivo. Testimonio de una familia que ha logrado autoabastecerse parcialmente. Tono práctico.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "La importancia de la justicia en la educación de los hijos.",
+          "ideas": "\"Y algo más\" conversa con una psicóloga, quien ofrece pautas para enseñar a los niños el valor de la justicia, la honestidad y la equidad en la vida cotidiana. \"Sin fórmulas mágicas\" propone una merienda para conversar sobre lo justo y lo injusto. \"Lo bello también se lleva por fuera\" sugiere crear un mural familiar con los valores que los identifican.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "Recetas nutritivas y económicas con productos de temporada.",
+          "ideas": "\"Sin fórmulas mágicas\" invita a una cocinera, quien enseña a preparar platos saludables con productos locales. \"Prospecto radial\" explica los beneficios de una alimentación variada. \"Y algo más\" conversa con una familia que ha mejorado su dieta sin gastar más. \"Lo bello también se lleva por fuera\" sugiere presentar los platos de forma atractiva.\n",
           "order": 2
         }
       }
@@ -28219,6 +28274,31 @@
           "theme": "Aniversario de la caída del Che en Bolivia.",
           "ideas": "Reportaje sobre el acto de recordación del Che en Bayamo. Segunda nota: homenaje a la ANIR. Tercera nota: actividades del fin de semana. Cierre con deportes y pronóstico.\n",
           "order": 3
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "Jornada por la Cultura Cubana.",
+          "ideas": "Reportaje sobre el inicio de la Jornada por el Día de la Cultura Cubana en Bayamo, con actividades en el sistema educacional, exposiciones y conciertos. Entrevista a un promotor cultural sobre el significado de la fecha. Segunda nota: homenaje a los artistas y escritores que han enriquecido el patrimonio cultural de la ciudad. Tercera nota: agenda de actividades para los próximos días. Cierre con el pronóstico del tiempo.\n",
+          "order": 3
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "Homenaje a trabajadores azucareros y bancarios.",
+          "ideas": "Reportaje sobre el acto de reconocimiento a trabajadores del sector azucarero en el central de la provincia. Segunda nota: la labor del Banco Popular de Ahorro en el municipio. Tercera nota: recordación del natalicio de Merceditas Valdés. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "Homenaje a las mujeres rurales y situación del campo en Granma.",
+          "ideas": "Reportaje sobre el acto de reconocimiento a mujeres productoras en la provincia. Segunda nota: balance de la campaña agrícola y el papel de las cooperativas. Tercera nota: inicio del VII Coloquio de Culturas Originarias. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "Aniversario de \"La historia me absolverá\" y situación de la vivienda en Bayamo.",
+          "ideas": "Reportaje sobre el acto de recordación del alegato de Fidel en el museo provincial. Segunda nota: situación de la vivienda en el municipio y programas de construcción. Tercera nota: actividades por la Jornada de la Cultura Cubana. Cierre con deportes y pronóstico.\n",
+          "order": 3
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "Día Mundial de la Alimentación y situación de la producción en Bayamo.",
+          "ideas": "Reportaje sobre las actividades por el Día Mundial de la Alimentación en escuelas y comunidades. Segunda nota: balance de la producción de alimentos en el municipio. Tercera nota: avance de la Jornada de la Cultura Cubana. Cierre con deportes y pronóstico.\n",
+          "order": 3
         }
       }
     },
@@ -29011,6 +29091,31 @@
           "theme": "El teatro como herramienta contra la violencia.",
           "ideas": "Viernes de artes escénicas. Un director teatral y un actor analizan obras que abordan la violencia y la prevención. Se describen fragmentos. \"En taquilla\" promociona una función comunitaria.\n",
           "order": 4
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "La memoria fílmica del 12 de octubre: documentales sobre el encuentro de culturas.",
+          "ideas": "Lunes de audiovisuales. Un crítico de cine analiza documentales cubanos y latinoamericanos que han abordado el 12 de octubre desde una perspectiva crítica, visibilizando la resistencia de los pueblos originarios y el proceso de transculturación. Se describen fragmentos sonoros de estas producciones. \"En taquilla\" promociona un ciclo de cine sobre culturas originarias en la Casa de la Cultura. \"Juego de espejos\" reflexiona sobre el poder del audiovisual para construir memoria histórica.\n",
+          "order": 4
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "La memoria de los centrales azucareros en las artes plásticas.",
+          "ideas": "Martes de artes plásticas. Un crítico analiza cómo los artistas cubanos han retratado el mundo de la zafra, los centrales y los trabajadores del azúcar. Se describen obras emblemáticas que capturan el sudor y la dignidad del trabajo azucarero. \"En taquilla\" promociona una exposición fotográfica sobre los centrales. \"Juego de espejos\" reflexiona sobre el arte como documento social.\n",
+          "order": 4
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "La mujer campesina en la literatura cubana: voces de la tierra.",
+          "ideas": "Miércoles de literatura. Un crítico literario y una escritora local analizan cómo la narrativa cubana ha retratado a la mujer rural, desde los cuentos de Onelio Jorge Cardoso hasta autoras contemporáneas. Se leen fragmentos seleccionados. \"Página suelta\" convoca a microrrelatos sobre la vida en el campo.\n",
+          "order": 4
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "La música de concierto para ballet: cuando la orquesta cuenta una historia.",
+          "ideas": "Jueves de música. Un musicólogo y un coreógrafo analizan la relación entre la música de concierto y el ballet, desde las partituras clásicas de Tchaikovsky hasta las composiciones de músicos cubanos para el Ballet Nacional de Cuba. Se reproducen fragmentos de obras emblemáticas. \"En taquilla\" promociona un concierto de la Orquesta Sinfónica de Granma. Invitado: un compositor local.\n",
+          "order": 4
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "El teatro cubano contemporáneo: nuevas puestas en escena.",
+          "ideas": "Viernes de artes escénicas. Un crítico teatral y un director local analizan las tendencias del teatro cubano actual: las nuevas dramaturgias, los montajes comunitarios y los temas que abordan. Se describen fragmentos sonoros de puestas recientes. \"En taquilla\" promociona una obra en el Teatro Principal.\n",
+          "order": 4
         }
       }
     },
@@ -29802,6 +29907,31 @@
         "Octubre-semana-2-Viernes": {
           "theme": "Prevención de la violencia en las relaciones de pareja jóvenes.",
           "ideas": "La conductora conversa con una psicóloga sobre las señales de violencia en el noviazgo. \"Curiosidades\" presenta datos. Segmento interactivo.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "Derecho a vivir con educación y sin acoso.",
+          "ideas": "La conductora conversa con una psicóloga y una estudiante de secundaria sobre el acoso escolar y el ciberacoso. Explican qué es, cómo identificarlo y qué hacer para prevenirlo, destacando que la educación es un derecho y que todos merecen un entorno libre de violencia. Se ofrecen teléfonos de ayuda y se anima a denunciar sin miedo. \"Curiosidades\" presenta datos sobre el acoso en el mundo. Segmento interactivo con mensajes de oyentes que comparten sus experiencias. Música con letras de empoderamiento. Tono reflexivo y solidario.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "El desapego: cuando soltar también es parte de crecer.",
+          "ideas": "La conductora conversa con un psicólogo sobre el desapego emocional. Explican que no se trata de indiferencia, sino de la capacidad de desprenderse de aquello que nos hace daño o que ya no nos pertenece, para poder avanzar. Abordan el desapego en las relaciones de pareja, la familia y las amistades. \"Curiosidades\" explica el concepto de \"ghosting\" y sus efectos. Segmento interactivo con experiencias. Música de trova introspectiva. Tono reflexivo y sanador.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "ITS: señales de alarma, tipos y cómo reaccionar.",
+          "ideas": "La conductora conversa con un médico especialista en ITS. Explican cuáles son las señales de alarma (secreciones, llagas, dolor al orinar, verrugas), los tipos más comunes (sífilis, gonorrea, herpes, VPH) y la importancia de acudir al médico sin vergüenza. Se destaca el uso del condón y las pruebas periódicas. \"Curiosidades\" presenta datos sobre el aumento de ITS en jóvenes. Segmento interactivo con preguntas anónimas. Tono claro y preventivo.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "El arte de conversar: cómo tener una conversación profunda en la era digital.",
+          "ideas": "La conductora conversa con un comunicador social sobre la importancia de las conversaciones cara a cara en un mundo dominado por las pantallas. Ofrecen consejos para escuchar activamente y expresar ideas con claridad. \"Curiosidades\" presenta datos sobre la soledad juvenil. Segmento interactivo.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "La importancia de la amistad en la juventud.",
+          "ideas": "La conductora conversa con jóvenes sobre el valor de la amistad. Comparten anécdotas y reflexionan sobre cómo elegir amigos que sumen. Un psicólogo comenta los beneficios de las relaciones sanas. \"Curiosidades\" presenta datos sobre la amistad. Segmento interactivo.\n",
           "order": 5
         }
       }
@@ -30600,6 +30730,31 @@
           "theme": "La música que escuchan nuestros niños.",
           "ideas": "Juana conversa con una musicóloga y una maestra sobre los gustos musicales de los niños cubanos, el predominio del reguetón y el reparto, y la importancia de acercarlos a la música tradicional y a las canciones infantiles. \"Historias cotidianas\" narra cómo una familia logró diversificar la lista de reproducción de sus hijos. \"De todo un poco\" recomienda canciones infantiles cubanas. Tono orientador.\n",
           "order": 6
+        },
+        "Octubre-semana-3-Lunes": {
+          "theme": "La menopausia y el deseo sexual: cómo mantener una vida íntima plena.",
+          "ideas": "Lunes es de sexualidad. Juana presenta el caso de una vecina que siente que su deseo sexual ha disminuido con la menopausia. \"El que sabe, sabe\" entrevista a una sexóloga, quien explica los cambios hormonales, los posibles tratamientos y la importancia de la comunicación en la pareja. Desmiente mitos sobre la sexualidad en esta etapa. \"Historias cotidianas\" recoge un testimonio anónimo. \"De todo un poco\" informa sobre las consultas de climaterio. Tono empático y empoderador.\n",
+          "order": 6
+        },
+        "Octubre-semana-3-Martes": {
+          "theme": "El marco legal que regula el comercio electrónico en Cuba.",
+          "ideas": "Martes es jurídico. Juana entrevista a un abogado especializado en derecho comercial y a un experto en comercio electrónico, quienes explican las normas que regulan las transacciones digitales en Cuba: la Ley de Comercio Electrónico, los derechos de los consumidores en línea, la protección de datos personales y los mecanismos de reclamación. \"Entérate, vecino\" informa sobre las plataformas autorizadas y las garantías que ofrecen. \"Versiones encontradas\" debate sobre los retos y oportunidades del comercio digital en el país. Se responden preguntas de los oyentes. Tono claro y orientador.\n",
+          "order": 6
+        },
+        "Octubre-semana-3-Miércoles": {
+          "theme": "Los barrios en Bayamo: la ruralidad en la ciudad.",
+          "ideas": "Miércoles es variado. Juana entrevista a un sociólogo y a un líder comunitario, quienes analizan cómo la ruralidad se manifiesta en los barrios de Bayamo: patios con cultivos, crianza de animales, tradiciones campesinas que persisten en la ciudad. \"Historias cotidianas\" narra la vida de una familia que mantiene un huerto en pleno centro urbano. \"Entérate, vecino\" informa sobre los programas de agricultura urbana. \"¿Y qué tú crees?\" recoge opiniones sobre la convivencia entre lo rural y lo urbano. Tono costumbrista y reflexivo.\n",
+          "order": 6
+        },
+        "Octubre-semana-3-Jueves": {
+          "theme": "La formación de valores en la escuela y la familia.",
+          "ideas": "Jueves local. Juana entrevista a una maestra y a una psicóloga. Analizan cómo la escuela y la familia pueden trabajar juntas para formar valores como la honestidad, la solidaridad y el respeto. \"Entérate, vecino\" informa sobre los programas de educación en valores.\n",
+          "order": 6
+        },
+        "Octubre-semana-3-Viernes": {
+          "theme": "La música que escuchan nuestros niños.",
+          "ideas": "Viernes variado. Juana conversa con una musicóloga y una maestra sobre los gustos musicales de los niños cubanos, el predominio del reguetón y la importancia de acercarlos a la música tradicional y a las canciones infantiles. \"Historias cotidianas\" narra cómo una familia logró diversificar la lista de reproducción de sus hijos. Tono orientador.\n",
+          "order": 6
         }
       }
     },
@@ -30816,6 +30971,11 @@
           "theme": "Alzamiento en La Demajagua y previsiones para la Fiesta de la Cubanía.",
           "ideas": "Cobertura del acto por el Alzamiento en La Demajagua. Segunda nota: avance de los preparativos para la Fiesta de la Cubanía. Tercera nota: previsiones para la semana. Cierre con cartelera y pronóstico.\n",
           "order": 3
+        },
+        "Octubre-semana-3-Sábado": {
+          "theme": "Inicio de la Fiesta de la Cubanía y previsiones para la semana.",
+          "ideas": "Cobertura de la Ceremonia de las Banderas y las primeras actividades de la Fiesta de la Cubanía. Segunda nota: avance de la Jornada de la Cultura Cubana. Tercera nota: previsiones para la semana entrante. Cierre con cartelera y pronóstico.\n",
+          "order": 3
         }
       }
     },
@@ -30985,6 +31145,11 @@
           "theme": "La importancia de la amistad en la adolescencia.",
           "ideas": "La psicóloga conversa sobre cómo elegir buenos amigos y mantener relaciones sanas.\n",
           "order": 4
+        },
+        "Octubre-semana-3-Sábado": {
+          "theme": "La amistad en la adolescencia: elegir bien y cuidar los vínculos.",
+          "ideas": "La psicóloga conversa sobre cómo elegir buenos amigos, cómo manejar los conflictos y cómo cuidar las amistades que suman.\n",
+          "order": 4
         }
       }
     },
@@ -31153,6 +31318,11 @@
         "Octubre-semana-2-Sábado": {
           "theme": "El son y la cubanía.",
           "ideas": "\"Sergito Montuno\" dedica el programa a la relación entre el son y la identidad cubana. Se recorre la historia del género, su evolución y su presencia en las fiestas populares. \"Academia del tumbao\" analiza su estructura. \"Son para bailadores\" cierra con un clásico.\n",
+          "order": 5
+        },
+        "Octubre-semana-3-Sábado": {
+          "theme": "El son cubano y sus representantes en la Fiesta de la Cubanía.",
+          "ideas": "\"Sergito Montuno\" dedica el programa a los exponentes del son que participan en la XXXII Fiesta de la Cubanía en Bayamo. \"¿De dónde son?\" presenta a las agrupaciones soneras que se presentan en la fiesta. \"Historias y soneros\" narra anécdotas de los músicos invitados. \"Academia del tumbao\" invita a un musicólogo a analizar el son que se baila en Bayamo. \"Conexión sonera\" presenta una colaboración entre soneros locales y visitantes. \"Son para bailadores\" cierra con un tema solicitado por un oyente. Rigor investigativo.\n",
           "order": 5
         }
       }
@@ -31346,6 +31516,11 @@
           "theme": "El cuidado de los animales en familia. Adopta una mascota responsablemente. Los abuelos recuerdan los animales de su infancia.",
           "ideas": "El locutor abre preguntando: ¿Qué animal tienes en casa? Luego, propone la actividad de cuidar juntos a una mascota. En el segmento de la tercera edad, un abuelo recuerda los animales de su niñez.\n",
           "order": 1
+        },
+        "Octubre-semana-3-Domingo": {
+          "theme": "La cocina cubana como patrimonio familiar. Prepara un plato tradicional con los abuelos. Los abuelos recuerdan las recetas de su infancia.",
+          "ideas": "El locutor abre preguntando: ¿Cuál es el plato que más te recuerda a tu familia? Luego, propone la actividad de cocinar juntos un plato tradicional cubano. En el segmento de la tercera edad, un abuelo comparte la receta de un plato que aprendió de su madre. Música de fondo con sones.\n",
+          "order": 1
         }
       }
     },
@@ -31510,6 +31685,11 @@
         "Octubre-semana-2-Domingo": {
           "theme": "Canciones y cuentos sobre los animales.",
           "ideas": "La actriz-personaje narra un cuento sobre un perrito perdido. Se escuchan canciones infantiles sobre animales. Actividad: dibujar su animal favorito.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Domingo": {
+          "theme": "Canciones y cuentos sobre la cocina y los alimentos.",
+          "ideas": "La actriz-personaje narra un cuento sobre un niño que aprende a cocinar con su abuela. Se escuchan canciones infantiles sobre la comida. Actividad: dibujar su plato favorito.\n",
           "order": 2
         }
       }
@@ -31677,6 +31857,11 @@
           "order": 3
         },
         "Octubre-semana-2-Domingo": {
+          "theme": "Los censos hechos en Bayamo durante la colonia y la neocolonia.",
+          "ideas": "Un investigador del Museo Provincial analiza los censos históricos realizados en Bayamo, sus características y utilidad para conocer la vida de la ciudad.\n",
+          "order": 3
+        },
+        "Octubre-semana-3-Domingo": {
           "theme": "Los censos hechos en Bayamo durante la colonia y la neocolonia.",
           "ideas": "Un investigador del Museo Provincial analiza los censos históricos realizados en Bayamo, sus características y utilidad para conocer la vida de la ciudad.\n",
           "order": 3
@@ -31849,6 +32034,11 @@
           "theme": "Música para celebrar la cubanía.",
           "ideas": "El conductor presenta una selección de canciones que exaltan la identidad cubana.\n",
           "order": 4
+        },
+        "Octubre-semana-3-Domingo": {
+          "theme": "Música para celebrar la cubanía.",
+          "ideas": "El conductor presenta una selección de canciones que exaltan la identidad cubana.\n",
+          "order": 4
         }
       }
     },
@@ -32018,6 +32208,11 @@
           "theme": "La enseñanza artística en Granma.",
           "ideas": "La conductora presenta un recorrido por las instituciones de enseñanza artística en la provincia. Entrevista a un profesor y a un estudiante. \"Legado bayamés\" recuerda a un formador de artistas.",
           "order": 5
+        },
+        "Octubre-semana-3-Domingo": {
+          "theme": "Trigésima Segunda Edición de la Fiesta de la Cubanía en Bayamo.",
+          "ideas": "La conductora presenta un recorrido por la historia y las actividades de la XXXII Fiesta de la Cubanía, que se celebra del 17 al 20 de octubre en Bayamo. Se destacan la Ceremonia de las Banderas, el desfile inaugural, las peñas, conciertos y el evento teórico Crisol de la Nacionalidad Cubana. Entrevista a organizadores y participantes. \"Agenda cultural\" informa sobre las actividades del día. \"Legado bayamés\" recuerda a los fundadores de la fiesta. Tono de orgullo y celebración por la cuna de la nacionalidad.",
+          "order": 5
         }
       }
     },
@@ -32112,6 +32307,11 @@
         "Octubre-semana-2-Sábado": {
           "theme": "Arte popular y resiliencia en las comunidades.",
           "ideas": "El programa recorre los barrios de Bayamo para conocer cómo el arte popular —la música, el teatro comunitario, la artesanía— se convierte en herramienta de resiliencia y transformación social. Se entrevista a la Guerrilla de Teatreros de Granma, que celebra 34 años llevando arte a comunidades rurales, y a vecinos que participan en talleres de creación.\n",
+          "order": 2
+        },
+        "Octubre-semana-3-Sábado": {
+          "theme": "Arte popular y resiliencia en las comunidades.",
+          "ideas": "El programa recorre los barrios de Bayamo para conocer cómo el arte popular se convierte en herramienta de resiliencia y transformación social. Se entrevista a la Guerrilla de Teatreros de Granma y a vecinos que participan en talleres de creación. Se destaca el papel del arte comunitario en la Fiesta de la Cubanía.\n",
           "order": 2
         }
       }
@@ -39300,157 +39500,157 @@
       {
         "day": 1,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Internacional de las Personas de Edad, Día Internacional de la Música y Día Internacional del Café."
+        "international": "Día Internacional del Café, Día Internacional de las Personas de Edad y Día Internacional de la Música."
       },
       {
         "day": 2,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Internacional de la No Violencia."
+        "international": "Día Internacional de la No Violencia y Día Mundial de la Sonrisa."
       },
       {
         "day": 3,
         "national": "Día del Trabajador Agropecuario y Forestal.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Paciente Ostomizado y Día Interamericano del Agua."
       },
       {
         "day": 4,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de los Animales y Día Europeo de la Depresión."
       },
       {
         "day": 5,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Mundial de las y los Docentes y Día Mundial del Hábitat."
+        "international": "Día Mundial de las y los Docentes, Día Mundial del Hábitat y Día Internacional de la Educación Vial."
       },
       {
         "day": 6,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional de la Geodiversidad y Día Mundial de la Parálisis Cerebral."
       },
       {
         "day": 7,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Algodón, Jornada Mundial por el Trabajo Decente y Día Internacional de la Neuralgia Trigeminal."
       },
       {
         "day": 8,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de la Visión, Día Internacional de la Dislexia y Día Internacional del Pulpo."
       },
       {
         "day": 9,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Correo, Día Mundial del Huevo y Día Mundial de los Jardines Botánicos."
       },
       {
         "day": 10,
         "national": "Inicio de las Guerras de Independencia (Grito de Yara).",
-        "international": "Día Mundial de la Salud Mental."
+        "international": "Día Mundial de la Salud Mental, Día Mundial contra la Pena de Muerte y Día Mundial de las Aves Migratorias."
       },
       {
         "day": 11,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional de la Niña, Día Mundial de la Carretera y Día Internacional contra el Fracking."
       },
       {
         "day": 12,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día de la Resistencia Indígena, Día del Respeto a la Diversidad Cultural, Día Mundial de la Artritis."
       },
       {
         "day": 13,
         "national": "Día del Trabajador Bancario y Día del Trabajador Azucarero.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional para la Reducción de los Desastres, Día Mundial de la Trombosis y Día Internacional de Ada Lovelace."
       },
       {
         "day": 14,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de la Donación de Órganos, Tejidos y Trasplantes, Día Internacional de los Residuos Electrónicos y Día Mundial de la Normalización."
       },
       {
         "day": 15,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional de las Mujeres Rurales, Día Mundial del Lavado de Manos y Día Mundial del Bastón Blanco."
       },
       {
         "day": 16,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Mundial de la Alimentación."
+        "international": "Día Mundial de la Alimentación, Día Mundial del Pan y Día Mundial de la Reanimación Cardiopulmonar."
       },
       {
         "day": 17,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Internacional para la Erradicación de la Pobreza."
+        "international": "Día Internacional para la Erradicación de la Pobreza, Día Mundial contra el Dolor y Día Internacional del Patrimonio Cultural Inmaterial."
       },
       {
         "day": 18,
         "national": "Día de la Cocina Cubana y Día del Combatiente de la Lucha Contra Bandidos.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de Protección de la Naturaleza, Día Mundial de la Menopausia y Día Europeo contra la Trata de Seres Humanos."
       },
       {
         "day": 19,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional de la Lucha contra el Cáncer de Mama y Día Internacional de las Catedrales."
       },
       {
         "day": 20,
         "national": "Día de la Cultura Nacional Cubana.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de la Estadística, Día Mundial de la Osteoporosis y Día Internacional del Chef."
       },
       {
         "day": 21,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Ahorro de Energía, Día Mundial de la Ingeniería Clínica y Día Internacional de la Reconstrucción Mamaria."
       },
       {
         "day": 22,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Internacional de la Tartamudez, Día Internacional de la Oscilación y Día Internacional del Síndrome de Phelan-McDermid."
       },
       {
         "day": 23,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de Acción para la Supervivencia Infantil, Día Internacional del Leopardo de las Nieves y Día Internacional del Síndrome de Kabuki."
       },
       {
         "day": 24,
         "national": "Día del Trabajador Geólogo-Minero.",
-        "international": "Día de las Naciones Unidas y Día Mundial de Información sobre el Desarrollo."
+        "international": "Día de las Naciones Unidas, Día Mundial contra la Polio y Día Internacional contra el Cambio Climático."
       },
       {
         "day": 25,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de la Ópera, Día Mundial de Karate y Día Internacional del Artista."
       },
       {
         "day": 26,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial de la Suegra y Día de la Conciencia para la Comunidad Intersexual."
       },
       {
         "day": 27,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "Día Mundial del Patrimonio Audiovisual."
+        "international": "Día Mundial del Patrimonio Audiovisual, Día Mundial de la Terapia Ocupacional y Día Internacional de la Corrección."
       },
       {
         "day": 28,
         "national": "Conmemoración de la desaparición física de Camilo Cienfuegos.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Judo y Día Internacional de la Animación."
       },
       {
         "day": 29,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Ictus, Día Internacional de los Cuidados y el Apoyo y Día Mundial de la Psoriasis."
       },
       {
         "day": 30,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Día Mundial del Fisicoculturismo, Día Mundial del Lémur y La Noche del Diablo."
       },
       {
         "day": 31,
         "national": "No se reportan días de conmemoración nacional oficial de carácter civil en las fuentes para esta fecha específica.",
-        "international": "No se registran conmemoraciones internacionales para esta fecha."
+        "international": "Halloween, Día Mundial de las Ciudades y Día Mundial del Ahorro."
       }
     ],
     "Enero": [
@@ -41095,7 +41295,14 @@
     "Octubre-semana-2-Jueves": "Legado de Fidel Castro – Rescate de Sanguily (1871) y captura del Che en Bolivia (1967).",
     "Octubre-semana-2-Viernes": "Adelanto de las Mujeres – Asesinato del Che Guevara en Bolivia (1967).",
     "Octubre-semana-2-Sábado": "Historia y Soberanía – Alzamiento en La Demajagua (1868).",
-    "Octubre-semana-2-Domingo": "Tarea Vida (Medio Ambiente) – Natalicio de César Portillo de la Luz (1922) y conexión a Internet en Cuba (1996)."
+    "Octubre-semana-2-Domingo": "Tarea Vida (Medio Ambiente) – Natalicio de César Portillo de la Luz (1922) y conexión a Internet en Cuba (1996).",
+    "Octubre-semana-3-Lunes": "Cultura e Identidad – Día de la Hispanidad y Jornada de la Cultura Cubana.",
+    "Octubre-semana-3-Martes": "Soberanía Alimentaria – Día del Trabajador Azucarero y del Trabajador Bancario.",
+    "Octubre-semana-3-Miércoles": "Tarea Vida (Medio Ambiente) – Día Internacional de las Mujeres Rurales.",
+    "Octubre-semana-3-Jueves": "Legado de Fidel Castro – Aniversario del alegato \"La historia me absolverá\" (1953).",
+    "Octubre-semana-3-Viernes": "Adelanto de las Mujeres – Día Mundial de la Alimentación.",
+    "Octubre-semana-3-Sábado": "Historia y Soberanía – Inicio de la Fiesta de la Cubanía (Bayamo, 17 al 20 de octubre).",
+    "Octubre-semana-3-Domingo": "Cultura y Memoria – Día de la Cocina Cubana y Día del Combatiente de la Lucha Contra Bandidos."
   },
   "agendaUsers": [
     {
